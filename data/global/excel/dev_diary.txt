@@ -1,0 +1,10 @@
+TODOS:
+
+Go through Assassin skill tree again and remove PD2 refs
+Check up on the order of synergy calcs
+Buff Charged Bolt
+Add Cold Enchant to sorc instead of Cold armor (check and add to desc)
+
+Ideas:
+Ice wall for sorc
+Consider involving Meteor as synergy for Blaze 
