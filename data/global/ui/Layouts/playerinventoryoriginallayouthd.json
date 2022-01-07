@@ -8,13 +8,13 @@
         {
             "type": "ClickCatcherWidget", "name": "click_catcher",
             "fields": {
-                "rect": "$PanelClickCatcherRect"
+                "rect": { "x": 0, "y": 0, "width": 1162, "height": 1737 },
             },
         },
         {
             "type": "ImageWidget", "name": "background",
             "fields": {
-                "filename": "PANEL\\Inventory\\Classic_Background"
+                "filename": "PANEL\\Inventory\\Background_Expanded2",
             },
         },
         {
@@ -24,18 +24,18 @@
                 "filename": "$RightHingeSprite"
             },
         },
-        {
-            "type": "TextBoxWidget", "name": "title",
-            "fields": {
-                "rect": "$InGamePanelTitleRect",
-                "style": "$StyleTitleBlock",
-                "text": "@strpanel4",
-            },
-        },
+      //  {
+        //    "type": "TextBoxWidget", "name": "title",
+        //    "fields": {
+        //        "rect": "$InGamePanelTitleRect",
+        //        "style": "$StyleTitleBlock",
+         //       "text": "@strpanel4",
+         //   },
+      //  },
         {
             "type": "TextBoxWidget", "name": "gold_amount",
             "fields": {
-                "rect": { "x": 397, "y": 1510, "width": 249, "height": 48 },
+                "rect": "$PlayerInventoryPanelGoldAmountRect",
                 "style": "$StyleGoldAmount",
             },
             "children": [
@@ -51,9 +51,9 @@
         {
             "type": "ButtonWidget", "name": "gold_button",
             "fields": {
-                "rect": { "x": 339, "y": 1511 },
+                "rect": "$PlayerInventoryPanelGoldButtonRect",
                 "filename": "PANEL\\GoldButton",
-                "hoveredFrame": 3,
+                "hoveredFrame": 0,
                 "tooltipString": "@strGoldDrop",
                 "onClickMessage": "PlayerInventoryPanelMessage:DropGold",
             },
@@ -61,19 +61,18 @@
         {
             "type": "ButtonWidget", "name": "close",
             "fields": {
-                "rect": { "x": 1075, "y": 9 },
+                "rect": { "x": 1080, "y": 1 },
                 "filename": "PANEL\\closebtn_4x",
                 "hoveredFrame": 3,
                 "tooltipString": "@strClose",
-                "sound": "cursor_close_window_hd",
                 "onClickMessage": "PlayerInventoryPanelMessage:Close",
             },
         },
         {
             "type": "InventoryGridWidget", "name": "grid",
             "fields": {
-                "rect": { "x": 93, "y": 897 },
-                "cellCount": { "x": 10, "y": 6 },
+                "rect": { "x": 93, "y": 819 },
+                "cellCount": { "x": 10, "y": 8 },
                 "cellSize": "$ItemCellSize",
                 "gemSocketFilename": "PANEL\\gemsocket",
             },
@@ -81,7 +80,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_head",
             "fields": {
-                "rect": { "x": 482, "y": 185, "width": 196, "height": 196 },
+                "rect": { "x": 482, "y": 105, "width": 196, "height": 196 },
                 "cellSize": "$ItemCellSize",
                 "location": "head",
                 "gemSocketFilename": "PANEL\\gemsocket",
@@ -91,7 +90,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_neck",
             "fields": {
-                "rect": { "x": 718, "y": 353, "width": 98, "height": 98 },
+                "rect": { "x": 718, "y": 273, "width": 98, "height": 98 },
                 "cellSize": "$ItemCellSize",
                 "location": "neck",
                 "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Amulet",
@@ -100,7 +99,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_torso",
             "fields": {
-                "rect": { "x": 482, "y": 428, "width": 196, "height": 294 },
+                "rect": { "x": 482, "y": 348, "width": 196, "height": 294 },
                 "cellSize": "$ItemCellSize",
                 "location": "torso",
                 "gemSocketFilename": "PANEL\\gemsocket",
@@ -110,7 +109,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_right_arm",
             "fields": {
-                "rect": { "x": 108, "y": 232, "width": 196, "height": 392 },
+                "rect": { "x": 109, "y": 152, "width": 196, "height": 392 },
                 "cellSize": "$ItemCellSize",
                 "location": "right_arm",
                 "gemSocketFilename": "PANEL\\gemsocket",
@@ -120,7 +119,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_left_arm",
             "fields": {
-                "rect": { "x": 860, "y": 232, "width": 196, "height": 392 },
+                "rect": { "x": 861, "y": 152, "width": 196, "height": 392 },
                 "cellSize": "$ItemCellSize",
                 "location": "left_arm",
                 "gemSocketFilename": "PANEL\\gemsocket",
@@ -130,7 +129,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_right_hand",
             "fields": {
-                "rect": { "x": 344, "y": 770, "width": 98, "height": 98 },
+                "rect": { "x": 344, "y": 690, "width": 98, "height": 98 },
                 "cellSize": "$ItemCellSize",
                 "location": "right_hand",
                 "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Ring",
@@ -139,7 +138,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_left_hand",
             "fields": {
-                "rect": { "x": 718, "y": 770, "width": 98, "height": 98 },
+                "rect": { "x": 718, "y": 689, "width": 98, "height": 98 },
                 "cellSize": "$ItemCellSize",
                 "location": "left_hand",
                 "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Ring",
@@ -148,7 +147,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_belt",
             "fields": {
-                "rect": { "x": 483, "y": 769, "width": 196, "height": 98 },
+                "rect": { "x": 483, "y": 689, "width": 196, "height": 98 },
                 "cellSize": "$ItemCellSize",
                 "location": "belt",
                 "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Belt",
@@ -157,7 +156,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_feet",
             "fields": {
-                "rect": { "x": 859, "y": 672, "width": 196, "height": 196 },
+                "rect": { "x": 860, "y": 588, "width": 196, "height": 196 },
                 "cellSize": "$ItemCellSize",
                 "location": "feet",
                 "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Boots",
@@ -166,7 +165,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_gloves",
             "fields": {
-                "rect": { "x": 107, "y": 672, "width": 196, "height": 196 },
+                "rect": { "x": 107, "y": 588, "width": 196, "height": 196 },
                 "cellSize": "$ItemCellSize",
                 "location": "gloves",
                 "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Glove",

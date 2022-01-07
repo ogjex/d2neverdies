@@ -12,7 +12,7 @@
         {
             "type": "ImageWidget", "name": "background",
             "fields": {
-                "filename": "Controller/Panel/InventoryPanel/V2/InventoryBG",
+                "filename": "Controller/Panel/InventoryPanel/V2/InventoryBG_Edit",
             },
         },
         {
@@ -79,32 +79,11 @@
                 "style": "$StyleWeaponSwapTabs",
             },
         },
-        // json rect {x, y} code copied from  global\ui\Layouts\playerinventoryoriginallayouthd.json
         {
             "type": "TextBoxWidget", "name": "gold_amount",
-            "fields": {
-                "rect": { "x": 397, "y": 1490, "width": 249, "height": 48 },
-                "style": "$StyleGoldAmount",
-            },
-            "children": [
-                {
-                    "type": "FocusableWidget", "name": "gold_amount_tooltip",
-                    "fields": {
-                        "fitToParent": true,
-                        "tooltipStyle": "$TooltipStyle",
-                    },
-                }
-            ]
         },
         {
             "type": "ButtonWidget", "name": "gold_button",
-            "fields": {
-                "rect": { "x": 339, "y": 1491 },
-                "filename": "PANEL\\GoldButton",
-                "hoveredFrame": 3,
-                "tooltipString": "@strGoldDrop",
-                "onClickMessage": "PlayerInventoryPanelMessage:DropGold",
-            },
         },
         {
             "type": "InventoryGridWidget", "name": "grid",

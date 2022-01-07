@@ -8,7 +8,7 @@
         {
             "type": "ClickCatcherWidget", "name": "click_catcher",
             "fields": {
-                "rect": { "width": 320, "height": 432 }
+                "rect": { "width": 1320, "height": 2432 }
             },
         },
         {
@@ -53,8 +53,8 @@
         {
             "type": "InventoryGridWidget", "name": "grid",
             "fields": {
-                "rect": { "x": 19, "y": 225 },
-                "cellCount": { "x": 10, "y": 6 },
+                "rect": { "x": 19, "y": 255 },
+                "cellCount": { "x": 10, "y": 8 },
                 "cellSize": "$ItemCellSize",
                 "gemSocketFilename": "PANEL\\gemsocket",
             },
@@ -158,7 +158,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_feet",
             "fields": {
-                "rect": { "x": 252, "y": 161, "width": 54, "height": 52 },
+                "rect": { "x": 252, "y": 182, "width": 54, "height": 52 },
                 "cellSize": "$ItemCellSize",
                 "location": "feet",
                 "backgroundFilename": "PANEL\\inv_boots",
@@ -169,7 +169,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_gloves",
             "fields": {
-                "rect": { "x": 21, "y": 160, "width": 54, "height": 53 },
+                "rect": { "x": 21, "y": 181, "width": 54, "height": 53 },
                 "cellSize": "$ItemCellSize",
                 "location": "gloves",
                 "backgroundFilename": "PANEL\\inv_helm_glove",

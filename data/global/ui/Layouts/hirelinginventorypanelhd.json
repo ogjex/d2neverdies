@@ -20,7 +20,7 @@
         {
             "type": "ClickCatcherWidget",
             "fields": {
-                "rect": "$PanelClickCatcherRect"
+                "rect": { "x": -180, "y": -200, "width": 1362, "height": 1727 }
             }
         },
         {
@@ -33,7 +33,7 @@
         {
             "type": "TextBoxWidget", "name": "Title",
             "fields": {
-                "rect": "$InGamePanelTitleRect",
+                "rect": { "x": 481, "y": -69, "width": 196, "height": 196 },
                 "style": "$StyleTitleBlock",
                 "text": "@MiniPanelHireinv",
             },
@@ -42,7 +42,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_head",
             "fields": {
-                "rect": { "x": 481, "y": 177, "width": 196, "height": 196 },
+                "rect": { "x": 481, "y": 113, "width": 196, "height": 196 },
                 "cellSize": "$ItemCellSize",
                 "location": "head",
                 "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_HeadArmor",
@@ -52,7 +52,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_torso",
             "fields": {
-                "rect": { "x": 481, "y": 415, "width": 196, "height": 294 },
+                "rect": { "x": 483, "y": 348, "width": 196, "height": 294 },
                 "cellSize": "$ItemCellSize",
                 "location": "torso",
                 "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_ChestArmor",
@@ -60,21 +60,9 @@
             }
         },
         {
-            "type": "InventorySlotWidget", "name": "slot_belt",
-            "fields": {
-                "rect": { "x": 481, "y": 735, "width": 196, "height": 98 },
-                "cellSize": "$ItemCellSize",
-                "location": "belt",
-                "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Belt",
-                "isHireable": true,
-            }
-        },
-        
-        // orig y:  336
-        {
             "type": "InventorySlotWidget", "name": "slot_right_arm",
             "fields": {
-                "rect": { "x": 108, "y": 183, "width": 196, "height": 392 },
+                "rect": { "x": 110, "y": 156, "width": 196, "height": 392 },
                 "cellSize": "$ItemCellSize",
                 "location": "right_arm",
                 "gemSocketFilename": "PANEL\\gemsocket",
@@ -83,20 +71,9 @@
             }
         },
         {
-            "type": "InventorySlotWidget", "name": "slot_gloves",
-            "fields": {
-                "rect": { "x": 138, "y": 607, "width": 196, "height": 196 },
-                "cellSize": "$ItemCellSize",
-                "location": "gloves",
-                "gemSocketFilename": "PANEL\\gemsocket",
-                "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Glove",
-                "isHireable": true,
-            }
-        },
-        {
             "type": "InventorySlotWidget", "name": "slot_left_arm",
             "fields": {
-                "rect": { "x": 861, "y": 183, "width": 196, "height": 392 },
+                "rect": { "x": 863, "y": 156, "width": 196, "height": 392 },
                 "cellSize": "$ItemCellSize",
                 "location": "left_arm",
                 "gemSocketFilename": "PANEL\\gemsocket",
@@ -105,23 +82,67 @@
             }
         },
         {
+            "type": "InventorySlotWidget", "name": "slot_belt",
+            "fields": {
+                "rect": { "x": 483, "y": 688, "width": 196, "height": 98 },
+                "cellSize": "$ItemCellSize",
+                "location": "belt",
+                "gemSocketFilename": "PANEL\\gemsocket",
+                "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Belt",
+                "isHireable": true,
+            }
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_right_hand",
+            "fields": {
+                "rect": { "x": 720, "y": 691, "width": 98, "height": 98 },
+                "cellSize": "$ItemCellSize",
+                "location": "right_hand",
+                "gemSocketFilename": "PANEL\\gemsocket",
+                "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Ring",
+                "isHireable": false,
+            }
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_gloves",
+            "fields": {
+                "rect": { "x": 108, "y": 591, "width": 196, "height": 196 },
+                "cellSize": "$ItemCellSize",
+                "location": "gloves",
+                "gemSocketFilename": "PANEL\\gemsocket",
+                "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Glove",
+                "isHireable": false,
+            }
+        },
+        {
             "type": "InventorySlotWidget", "name": "slot_feet",
             "fields": {
-                "rect": { "x": 760, "y": 607, "width": 196, "height": 196 },
+                "rect": { "x": 861, "y": 591, "width": 196, "height": 196 },
                 "cellSize": "$ItemCellSize",
                 "location": "feet",
                 "gemSocketFilename": "PANEL\\gemsocket",
                 "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Boots",
-                "isHireable": true,
+                "isHireable": false,
+            }
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_neck",
+            "fields": {
+                "rect": { "x": 720, "y": 271, "width": 98, "height": 98 },
+                "cellSize": "$ItemCellSize",
+                "location": "neck",
+                "gemSocketFilename": "PANEL\\gemsocket",
+                "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_Amulet",
+                "isHireable": false,
             }
         },
         {
             "type": "TextBoxWidget", "name": "CharacterName",
             "fields": {
-                "rect": { "x": 123, "y": 786, "width": 500, "height": 50 },
+                "rect": { "x": 121, "y": 849, "width": 500, "height": 50 },
                 "style": {
                     "fontColor":"$FontColorWhite",
-                    "pointSize": "$MediumFontSize",
+                    "pointSize": "$LargeFontSize",
                     "dropShadow": "$DefaultDropShadow",
                     "alignment": { "h": "left", "v": "bottom" }
                 },
@@ -130,7 +151,7 @@
         {
             "type": "TextBoxWidget", "name": "HPTitle",
             "fields": {
-                "rect": { "x": 106, "y": 955, "width": 251, "height": 59 },
+                "rect": { "x": 104, "y": 1020, "width": 251, "height": 59 },
                 "text": "@strchrlif",
                 "style": {
                     "fontColor":"$FontColorWhite",
@@ -143,7 +164,7 @@
         {
             "type": "TextBoxWidget", "name": "HPStat",
             "fields": {
-                "rect": { "x": 363, "y": 955, "width": 187, "height": 59 },
+                "rect": { "x": 361, "y": 1020, "width": 187, "height": 59 },
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "pointSize": "$SmallFontSize",
@@ -155,11 +176,11 @@
         {
             "type": "TextBoxWidget", "name": "HireTypeText",
             "fields": {
-                "rect": { "x": 128, "y": 872, "width": 100, "height": 30 },
+                "rect": { "x": 126, "y": 937, "width": 100, "height": 30 },
                 "text": "@strchrlvl",
                 "style": {
                     "fontColor": "$FontColorWhite",
-                    "pointSize": "$MediumFontSize",
+                    "pointSize": "$XMediumFontSize",
                     "dropShadow": "$DefaultDropShadow",
                     "alignment": { "h": "left" }
                 },
@@ -169,7 +190,7 @@
         {
             "type": "ExpBarWidget", "name": "XpProgress",
             "fields": {
-                "rect": { "x": 141, "y": 848, "width": 888, "height": 10 } ,
+                "rect": { "x": 139, "y": 913, "width": 888, "height": 10 } ,
                 "filename": "PANEL\\Hireling\\Hireling_ExpBar",
                 "frame": 0,
                 "isHireling": true,
@@ -215,7 +236,7 @@
             "type": "TextBoxWidget", "name": "StrengthTitle",
             "fields":
             {
-                "rect": { "x": 106, "y": 1037, "width": 251, "height": 59 },
+                "rect": { "x": 104, "y": 1102, "width": 251, "height": 59 },
                 "text": "@strchrstr",
                 "style": {
                     "fontColor":"$FontColorWhite",
@@ -228,7 +249,7 @@
         {
             "type": "TextBoxWidget", "name": "StrengthStat",
             "fields": {
-                "rect": { "x": 363, "y": 1037, "width": 187, "height": 59 },
+                "rect": { "x": 361, "y": 1102, "width": 187, "height": 59 },
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "pointSize": "$SmallFontSize",
@@ -239,7 +260,7 @@
         {
             "type": "TextBoxWidget", "name": "DexTitle",
             "fields": {
-                "rect": { "x": 106, "y": 1121, "width": 251, "height": 59 },
+                "rect": { "x": 104, "y": 1186, "width": 251, "height": 59 },
                 "text": "@strchrdex",
                 "style": {
                     "fontColor":"$FontColorWhite",
@@ -252,7 +273,7 @@
         {
             "type": "TextBoxWidget", "name": "DexStat",
             "fields": {
-                "rect": { "x": 363, "y": 1121, "width": 187, "height": 59 },
+                "rect": { "x": 361, "y": 1186, "width": 187, "height": 59 },
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "pointSize": "$SmallFontSize",
@@ -263,7 +284,7 @@
         {
             "type": "TextBoxWidget", "name": "DamageTitle",
             "fields": {
-                "rect": { "x": 106, "y": 1204, "width": 251, "height": 59 },
+                "rect": { "x": 104, "y": 1269, "width": 251, "height": 59 },
                 "text": "@strchrskm",
                 "style": {
                     "fontColor":"$FontColorWhite",
@@ -276,7 +297,7 @@
         {
             "type": "TextBoxWidget", "name": "DamageStat",
             "fields": {
-                "rect": { "x": 363, "y": 1204, "width": 187, "height": 59 },
+                "rect": { "x": 361, "y": 1269, "width": 187, "height": 59 },
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "pointSize": "$SmallFontSize",
@@ -287,7 +308,7 @@
         {
             "type": "TextBoxWidget", "name": "ArmorClassTitle",
             "fields": {
-                "rect": { "x": 106, "y": 1288, "width": 251, "height": 59 },
+                "rect": { "x": 104, "y": 1353, "width": 251, "height": 59 },
                 "text": "@strchrdef",
                 "style": {
                     "fontColor":"$FontColorWhite",
@@ -300,7 +321,7 @@
         {
             "type": "TextBoxWidget", "name": "ArmorClass",
             "fields": {
-                "rect": { "x": 363, "y": 1288, "width": 187, "height": 59 },
+                "rect": { "x": 361, "y": 1353, "width": 187, "height": 59 },
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "pointSize": "$SmallFontSize",
@@ -312,10 +333,10 @@
         {
             "type": "TextBoxWidget", "name": "FireResistanceTitle",
             "fields": {
-                "rect": { "x": 610, "y": 1038, "width": 325, "height": 59 },
+                "rect": { "x": 608, "y": 1103, "width": 325, "height": 59 },
                 "text": "@strchrfir",
                 "style": {
-                    "fontColor":"$FontColorRed",
+                    "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
                     "pointSize": "$SmallFontSize",
                     "alignment": { "h": "center", "v": "center" },
@@ -325,7 +346,7 @@
         {
             "type": "TextBoxWidget", "name": "FireText",
             "fields": {
-                "rect": { "x": 940, "y": 1038, "width": 113, "height": 59 },
+                "rect": { "x": 938, "y": 1103, "width": 113, "height": 59 },
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "pointSize": "$SmallFontSize",
@@ -336,10 +357,10 @@
         {
             "type": "TextBoxWidget", "name": "ColdResistanceTitle",
             "fields": {
-                "rect": { "x": 610, "y": 1119, "width": 325, "height": 59 },
+                "rect": { "x": 608, "y": 1184, "width": 325, "height": 59 },
                 "text": "@strchrcol",
                 "style": {
-                    "fontColor":"$FontColorBlue",
+                    "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
                     "pointSize": "$SmallFontSize",
                     "alignment": { "h": "center", "v": "center" },
@@ -349,7 +370,7 @@
         {
             "type": "TextBoxWidget", "name": "ColdText",
             "fields": {
-                "rect": { "x": 940, "y": 1119, "width": 113, "height": 59 },
+                "rect": { "x": 938, "y": 1184, "width": 113, "height": 59 },
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "pointSize": "$SmallFontSize",
@@ -360,10 +381,10 @@
         {
             "type": "TextBoxWidget", "name": "LightningResistanceTitle",
             "fields": {
-                "rect": { "x": 610, "y": 1204, "width": 325, "height": 59 },
+                "rect": { "x": 608, "y": 1269, "width": 325, "height": 59 },
                 "text": "@strchrlit",
                 "style": {
-                    "fontColor":"$FontColorYellow",
+                    "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
                     "pointSize": "$SmallFontSize",
                     "alignment": { "h": "center", "v": "center" },
@@ -373,7 +394,7 @@
         {
             "type": "TextBoxWidget", "name": "LightningText",
             "fields": {
-                "rect": { "x": 940, "y": 1204, "width": 113, "height": 59 },
+                "rect": { "x": 938, "y": 1269, "width": 113, "height": 59 },
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "pointSize": "$SmallFontSize",
@@ -384,10 +405,10 @@
         {
             "type": "TextBoxWidget", "name": "PoisonResistanceTitle",
             "fields": {
-                "rect": { "x": 610, "y": 1286, "width": 325, "height": 59 },
+                "rect": { "x": 608, "y": 1351, "width": 325, "height": 59 },
                 "text": "@strchrpos",
                 "style": {
-                    "fontColor":"$FontColorGreen",
+                    "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
                     "pointSize": "$SmallFontSize",
                     "alignment": { "h": "center", "v": "center" },
@@ -397,7 +418,7 @@
         {
             "type": "TextBoxWidget", "name": "PoisonText",
             "fields": {
-                "rect": { "x": 940, "y": 1286, "width": 113, "height": 59 },
+                "rect": { "x": 938, "y": 1351, "width": 113, "height": 59 },
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "pointSize": "$SmallFontSize",
@@ -430,22 +451,22 @@
         {
             "type": "HirelingSkillIconWidget", "name": "Skill0",
             "fields": {
-                "rect": { "x": 675, "y": 942, "scale": 0.60 },
-                "skillIconFilenames": "$SkillIconFilenames"
+                "rect": { "x": 673, "y": 1007, "scale": 0.60 },
+                "skillIconFilename": "Spells/Hireables/HrSkillIcon"
             }
         },
         {
             "type": "HirelingSkillIconWidget", "name": "Skill1",
             "fields": {
-                "rect": { "x": 782, "y": 942, "scale": 0.60 },
-                "skillIconFilenames": "$SkillIconFilenames"
+                "rect": { "x": 780, "y": 1007, "scale": 0.60 },
+                "skillIconFilename": "Spells/Hireables/HrSkillIcon"
             }
         },
         {
             "type": "HirelingSkillIconWidget", "name": "Skill2",
             "fields": {
-                "rect": { "x": 889, "y": 942, "scale": 0.60 },
-                "skillIconFilenames": "$SkillIconFilenames"
+                "rect": { "x": 887, "y": 1007, "scale": 0.60 },
+                "skillIconFilename": "Spells/Hireables/HrSkillIcon"
             }
         },
     ]
