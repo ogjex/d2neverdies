@@ -736,5 +736,15 @@
   { "ses": { "asset": "quest/ses" } },
   { "seh": { "asset": "quest/seh" } },
   { "set": { "asset": "quest/set" } },
-  { "sed": { "asset": "quest/sed" } }
+  { "sed": { "asset": "quest/sed" } },
+  { "esc": { "asset": "gem/essence_compound" } },
+  { "esr": { "asset": "gem/essence_rare" } },
+  { "esu": { "asset": "gem/essence_unique" } },
+  { "esn": { "asset": "gem/essence_normal" } },
+  { "esx": { "asset": "gem/essence_exceptional" } },
+  { "esl": { "asset": "gem/essence_elite" } },
+  { "lzg": { "asset": "gem/larzuk_gimlet" } },
+  { "oco": { "asset": "gem/orb_combination" } },
+  { "oex": { "asset": "gem/orb_extraction" } },
+  { "glx": { "asset": "gem/glyph_xiansai" } }
 ]
