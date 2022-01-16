@@ -894,9 +894,9 @@ Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	1			1
 Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	1			100	16	361	14		2	"shld,hiq"	skz						useitem				corruption			16	16	extra-cold			10	10																																																																										0
 Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	1			100	16	361	15		2	"shld,hiq"	skz						useitem				corruption			16	16	extra-pois			10	10																																																																										0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							"kit,uni"	100		100																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							"bld,uni"	100		100																										hp2																																																										0
-hp3 -> test item 3	1			100					1	hp3							"gth,uni"	100		100																										hp3																																																										0
+hp1 -> test item 1	1			100					1	hp1							"oco"	100		100																										hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							"jfg"	100		100																										hp2																																																										0
+hp3 -> test item 3	1			100					1	hp3							"lzg"	100		100																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							"xlb,uni"	100		100																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							"dgr,uni"	100		100																										hp5																																																										0
 mp1 -> test item 6	1			100					1	mp1							"fhl,uni"	100		100																										mp1																																																										0

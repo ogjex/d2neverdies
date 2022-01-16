@@ -172,217 +172,217 @@ RUNE DOWNGRADE	0																																																																
 1 Cham Rune + 1 Key -> Jah Rune	0			100					2	r32	key						useitem																													r31																													key																													0
 1 Zod  Rune + 1 Key -> Cham Rune	0			100					2	r33	key						useitem																													r32																													key																													0
 GEMS	0																																																																																																							0
-Chipped Amethyst Unstack	0			0	18	70	1		1	8ca							gcv																																																																																							0
-Chipped Amethyst Stack	0			0					1	gcv							8ca																																																																																							0
-Chipped Diamond Unstack	0			0	18	70	1		1	8cd							gcw																																																																																							0
-Chipped Diamond Stack	0			0					1	gcw							8cd																																																																																							0
-Chipped Emerald Unstack	0			0	18	70	1		1	8ce							gcg																																																																																							0
-Chipped Emerald Stack	0			0					1	gcg							8ce																																																																																							0
-Chipped Ruby Unstack	0			0	18	70	1		1	8cr							gcr																																																																																							0
-Chipped Ruby Stack	0			0					1	gcr							8cr																																																																																							0
-Chipped Saphire Unstack	0			0	18	70	1		1	8cp							gcb																																																																																							0
-Chipped Saphire Stack	0			0					1	gcb							8cp																																																																																							0
-Chipped Skull Unstack	0			0	18	70	1		1	8ck							skc																																																																																							0
-Chipped Skull Stack	0			0					1	skc							8ck																																																																																							0
-Chipped Topaz Unstack	0			0	18	70	1		1	8ct							gcy																																																																																							0
-Chipped Topaz Stack	0			0					1	gcy							8ct																																																																																							0
-Flawed Amethyst Unstack	0			0	18	70	1		1	8fa							gfv																																																																																							0
-Flawed Amethyst Stack	0			0					1	gfv							8fa																																																																																							0
-Flawed Diamond Unstack	0			0	18	70	1		1	8fd							gfw																																																																																							0
-Flawed Diamond Stack	0			0					1	gfw							8fd																																																																																							0
-Flawed Emerald Unstack	0			0	18	70	1		1	8fe							gfg																																																																																							0
-Flawed Emerald Stack	0			0					1	gfg							8fe																																																																																							0
-Flawed Ruby Unstack	0			0	18	70	1		1	8fr							gfr																																																																																							0
-Flawed Ruby Stack	0			0					1	gfr							8fr																																																																																							0
-Flawed Saphire Unstack	0			0	18	70	1		1	8fs							gfb																																																																																							0
-Flawed Saphire Stack	0			0					1	gfb							8fs																																																																																							0
-Flawed Skull Unstack	0			0	18	70	1		1	8fk							skf																																																																																							0
-Flawed Skull Stack	0			0					1	skf							8fk																																																																																							0
-Flawed Topaz Unstack	0			0	18	70	1		1	8ft							gfy																																																																																							0
-Flawed Topaz Stack	0			0					1	gfy							8ft																																																																																							0
-Amethyst Unstack	0			0	18	70	1		1	8na							gsv																																																																																							0
-Amethyst Stack	0			0					1	gsv							8na																																																																																							0
-Diamond Unstack	0			0	18	70	1		1	8nd							gsw																																																																																							0
-Diamond Stack	0			0					1	gsw							8nd																																																																																							0
-Emerald Unstack	0			0	18	70	1		1	8ne							gsg																																																																																							0
-Emerald Stack	0			0					1	gsg							8ne																																																																																							0
-Ruby Unstack	0			0	18	70	1		1	8nr							gsr																																																																																							0
-Ruby Stack	0			0					1	gsr							8nr																																																																																							0
-Saphire Unstack	0			0	18	70	1		1	8ns							gsb																																																																																							0
-Saphire Stack	0			0					1	gsb							8ns																																																																																							0
-Skull Unstack	0			0	18	70	1		1	8nk							sku																																																																																							0
-Skull Stack	0			0					1	sku							8nk																																																																																							0
-Topaz Unstack	0			0	18	70	1		1	8nt							gsy																																																																																							0
-Topaz Stack	0			0					1	gsy							8nt																																																																																							0
-Flawless Amethyst Unstack	0			0	18	70	1		1	8la							gzv																																																																																							0
-Flawless Amethyst Stack	0			0					1	gzv							8la																																																																																							0
-Flawless Diamond Unstack	0			0	18	70	1		1	8ld							glw																																																																																							0
-Flawless Diamond Stack	0			0					1	glw							8ld																																																																																							0
-Flawless Emerald Unstack	0			0	18	70	1		1	8le							glg																																																																																							0
-Flawless Emerald Stack	0			0					1	glg							8le																																																																																							0
-Flawless Ruby Unstack	0			0	18	70	1		1	8lr							glr																																																																																							0
-Flawless Ruby Stack	0			0					1	glr							8lr																																																																																							0
-Flawless Saphire Unstack	0			0	18	70	1		1	8as							glb																																																																																							0
-Flawless Saphire Stack	0			0					1	glb							8as																																																																																							0
-Flawless Skull Unstack	0			0	18	70	1		1	8lk							skl																																																																																							0
-Flawless Skull Stack	0			0					1	skl							8lk																																																																																							0
-Flawless Topaz Unstack	0			0	18	70	1		1	8lt							gly																																																																																							0
-Flawless Topaz Stack	0			0					1	gly							8lt																																																																																							0
-Perfect Amethyst Unstack	0			0	18	70	1		1	8pa							gpv																																																																																							0
-Perfect Amethyst Stack	0			0					1	gpv							8pa																																																																																							0
-Perfect Diamond Unstack	0			0	18	70	1		1	8pd							gpw																																																																																							0
-Perfect Diamond Stack	0			0					1	gpw							8pd																																																																																							0
-Perfect Emerald Unstack	0			0	18	70	1		1	8pe							gpg																																																																																							0
-Perfect Emerald Stack	0			0					1	gpg							8pe																																																																																							0
-Perfect Ruby Unstack	0			0	18	70	1		1	8pr							gpr																																																																																							0
-Perfect Ruby Stack	0			0					1	gpr							8pr																																																																																							0
-Perfect Sapphire Unstack	0			0	18	70	1		1	8ps							gpb																																																																																							0
-Perfect Sapphire Stack	0			0					1	gpb							8ps																																																																																							0
-Perfect Skull Unstack	0			0	18	70	1		1	8pk							skz																																																																																							0
-Perfect Skull Stack	0			0					1	skz							8pk																																																																																							0
-Perfect Topaz Unstack	0			0	18	70	1		1	8pt							gpy																																																																																							0
-Perfect Topaz Stack	0			0					1	gpy							8pt																																																																																							0
+Chipped Amethyst Unstack	1			0	18	70	1		1	8ca							gcv																																																																																							0
+Chipped Amethyst Stack	1			0					1	gcv							8ca																																																																																							0
+Chipped Diamond Unstack	1			0	18	70	1		1	8cd							gcw																																																																																							0
+Chipped Diamond Stack	1			0					1	gcw							8cd																																																																																							0
+Chipped Emerald Unstack	1			0	18	70	1		1	8ce							gcg																																																																																							0
+Chipped Emerald Stack	1			0					1	gcg							8ce																																																																																							0
+Chipped Ruby Unstack	1			0	18	70	1		1	8cr							gcr																																																																																							0
+Chipped Ruby Stack	1			0					1	gcr							8cr																																																																																							0
+Chipped Saphire Unstack	1			0	18	70	1		1	8cp							gcb																																																																																							0
+Chipped Saphire Stack	1			0					1	gcb							8cp																																																																																							0
+Chipped Skull Unstack	1			0	18	70	1		1	8ck							skc																																																																																							0
+Chipped Skull Stack	1			0					1	skc							8ck																																																																																							0
+Chipped Topaz Unstack	1			0	18	70	1		1	8ct							gcy																																																																																							0
+Chipped Topaz Stack	1			0					1	gcy							8ct																																																																																							0
+Flawed Amethyst Unstack	1			0	18	70	1		1	8fa							gfv																																																																																							0
+Flawed Amethyst Stack	1			0					1	gfv							8fa																																																																																							0
+Flawed Diamond Unstack	1			0	18	70	1		1	8fd							gfw																																																																																							0
+Flawed Diamond Stack	1			0					1	gfw							8fd																																																																																							0
+Flawed Emerald Unstack	1			0	18	70	1		1	8fe							gfg																																																																																							0
+Flawed Emerald Stack	1			0					1	gfg							8fe																																																																																							0
+Flawed Ruby Unstack	1			0	18	70	1		1	8fr							gfr																																																																																							0
+Flawed Ruby Stack	1			0					1	gfr							8fr																																																																																							0
+Flawed Saphire Unstack	1			0	18	70	1		1	8fs							gfb																																																																																							0
+Flawed Saphire Stack	1			0					1	gfb							8fs																																																																																							0
+Flawed Skull Unstack	1			0	18	70	1		1	8fk							skf																																																																																							0
+Flawed Skull Stack	1			0					1	skf							8fk																																																																																							0
+Flawed Topaz Unstack	1			0	18	70	1		1	8ft							gfy																																																																																							0
+Flawed Topaz Stack	1			0					1	gfy							8ft																																																																																							0
+Amethyst Unstack	1			0	18	70	1		1	8na							gsv																																																																																							0
+Amethyst Stack	1			0					1	gsv							8na																																																																																							0
+Diamond Unstack	1			0	18	70	1		1	8nd							gsw																																																																																							0
+Diamond Stack	1			0					1	gsw							8nd																																																																																							0
+Emerald Unstack	1			0	18	70	1		1	8ne							gsg																																																																																							0
+Emerald Stack	1			0					1	gsg							8ne																																																																																							0
+Ruby Unstack	1			0	18	70	1		1	8nr							gsr																																																																																							0
+Ruby Stack	1			0					1	gsr							8nr																																																																																							0
+Saphire Unstack	1			0	18	70	1		1	8ns							gsb																																																																																							0
+Saphire Stack	1			0					1	gsb							8ns																																																																																							0
+Skull Unstack	1			0	18	70	1		1	8nk							sku																																																																																							0
+Skull Stack	1			0					1	sku							8nk																																																																																							0
+Topaz Unstack	1			0	18	70	1		1	8nt							gsy																																																																																							0
+Topaz Stack	1			0					1	gsy							8nt																																																																																							0
+Flawless Amethyst Unstack	1			0	18	70	1		1	8la							gzv																																																																																							0
+Flawless Amethyst Stack	1			0					1	gzv							8la																																																																																							0
+Flawless Diamond Unstack	1			0	18	70	1		1	8ld							glw																																																																																							0
+Flawless Diamond Stack	1			0					1	glw							8ld																																																																																							0
+Flawless Emerald Unstack	1			0	18	70	1		1	8le							glg																																																																																							0
+Flawless Emerald Stack	1			0					1	glg							8le																																																																																							0
+Flawless Ruby Unstack	1			0	18	70	1		1	8lr							glr																																																																																							0
+Flawless Ruby Stack	1			0					1	glr							8lr																																																																																							0
+Flawless Saphire Unstack	1			0	18	70	1		1	8as							glb																																																																																							0
+Flawless Saphire Stack	1			0					1	glb							8as																																																																																							0
+Flawless Skull Unstack	1			0	18	70	1		1	8lk							skl																																																																																							0
+Flawless Skull Stack	1			0					1	skl							8lk																																																																																							0
+Flawless Topaz Unstack	1			0	18	70	1		1	8lt							gly																																																																																							0
+Flawless Topaz Stack	1			0					1	gly							8lt																																																																																							0
+Perfect Amethyst Unstack	1			0	18	70	1		1	8pa							gpv																																																																																							0
+Perfect Amethyst Stack	1			0					1	gpv							8pa																																																																																							0
+Perfect Diamond Unstack	1			0	18	70	1		1	8pd							gpw																																																																																							0
+Perfect Diamond Stack	1			0					1	gpw							8pd																																																																																							0
+Perfect Emerald Unstack	1			0	18	70	1		1	8pe							gpg																																																																																							0
+Perfect Emerald Stack	1			0					1	gpg							8pe																																																																																							0
+Perfect Ruby Unstack	1			0	18	70	1		1	8pr							gpr																																																																																							0
+Perfect Ruby Stack	1			0					1	gpr							8pr																																																																																							0
+Perfect Sapphire Unstack	1			0	18	70	1		1	8ps							gpb																																																																																							0
+Perfect Sapphire Stack	1			0					1	gpb							8ps																																																																																							0
+Perfect Skull Unstack	1			0	18	70	1		1	8pk							skz																																																																																							0
+Perfect Skull Stack	1			0					1	skz							8pk																																																																																							0
+Perfect Topaz Unstack	1			0	18	70	1		1	8pt							gpy																																																																																							0
+Perfect Topaz Stack	1			0					1	gpy							8pt																																																																																							0
 RUNES	0																																																																																																							0
-El Rune Unstack	0			100	18	70	1		1	s01							r01																																																																																							0
-El Rune Stack	0			100					1	r01							s01																																																																																							0
-Eld Rune Unstack	0			100	18	70	1		1	s02							r02																																																																																							0
-Eld Rune Stack	0			100					1	r02							s02																																																																																							0
-Tir Rune Unstack	0			100	18	70	1		1	s03							r03																																																																																							0
-Tir Rune Stack	0			100					1	r03							s03																																																																																							0
-Nef Rune Unstack	0			100	18	70	1		1	s04							r04																																																																																							0
-Nef Rune Stack	0			100					1	r04							s04																																																																																							0
-Eth Rune Unstack	0			100	18	70	1		1	s05							r05																																																																																							0
-Eth Rune Stack	0			100					1	r05							s05																																																																																							0
-Ith Rune Unstack	0			100	18	70	1		1	s06							r06																																																																																							0
-Ith Rune Stack	0			100					1	r06							s06																																																																																							0
-Tal Rune Unstack	0			100	18	70	1		1	s07							r07																																																																																							0
-Tal Rune Stack	0			100					1	r07							s07																																																																																							0
-Ral Rune Unstack	0			100	18	70	1		1	s08							r08																																																																																							0
-Ral Rune Stack	0			100					1	r08							s08																																																																																							0
-Ort Rune Unstack	0			100	18	70	1		1	s09							r09																																																																																							0
-Ort Rune Stack	0			100					1	r09							s09																																																																																							0
-Thul Rune Unstack	0			100	18	70	1		1	s10							r10																																																																																							0
-Thul Rune Stack	0			100					1	r10							s10																																																																																							0
-Amn Rune Unstack	0			100	18	70	1		1	s11							r11																																																																																							0
-Amn Rune Stack	0			100					1	r11							s11																																																																																							0
-Sol Rune Unstack	0			100	18	70	1		1	s12							r12																																																																																							0
-Sol Rune Stack	0			100					1	r12							s12																																																																																							0
-Shael Rune Unstack	0			100	18	70	1		1	s13							r13																																																																																							0
-Shael Rune Stack	0			100					1	r13							s13																																																																																							0
-Dol Rune Unstack	0			100	18	70	1		1	s14							r14																																																																																							0
-Dol Rune Stack	0			100					1	r14							s14																																																																																							0
-Hel Rune Unstack	0			100	18	70	1		1	s15							r15																																																																																							0
-Hel Rune Stack	0			100					1	r15							s15																																																																																							0
-Io Rune Unstack	0			100	18	70	1		1	s16							r16																																																																																							0
-Io Rune Stack	0			100					1	r16							s16																																																																																							0
-Lum Rune Unstack	0			100	18	70	1		1	s17							r17																																																																																							0
-Lum Rune Stack	0			100					1	r17							s17																																																																																							0
-Ko Rune Unstack	0			100	18	70	1		1	s18							r18																																																																																							0
-Ko Rune Stack	0			100					1	r18							s18																																																																																							0
-Fal Rune Unstack	0			100	18	70	1		1	s19							r19																																																																																							0
-Fal Rune Stack	0			100					1	r19							s19																																																																																							0
-Lem Rune Unstack	0			100	18	70	1		1	s20							r20																																																																																							0
-Lem Rune Stack	0			100					1	r20							s20																																																																																							0
-Pul Rune Unstack	0			100	18	70	1		1	s21							r21																																																																																							0
-Pul Rune Stack	0			100					1	r21							s21																																																																																							0
-Um Rune Unstack	0			100	18	70	1		1	s22							r22																																																																																							0
-Um Rune Stack	0			100					1	r22							s22																																																																																							0
-Mal Rune Unstack	0			100	18	70	1		1	s23							r23																																																																																							0
-Mal Rune Stack	0			100					1	r23							s23																																																																																							0
-Ist Rune Unstack	0			100	18	70	1		1	s24							r24																																																																																							0
-Ist Rune Stack	0			100					1	r24							s24																																																																																							0
-Gul Rune Unstack	0			100	18	70	1		1	s25							r25																																																																																							0
-Gul Rune Stack	0			100					1	r25							s25																																																																																							0
-Vex Rune Unstack	0			100	18	70	1		1	s26							r26																																																																																							0
-Vex Rune Stack	0			100					1	r26							s26																																																																																							0
-Ohm Rune Unstack	0			100	18	70	1		1	s27							r27																																																																																							0
-Ohm Rune Stack	0			100					1	r27							s27																																																																																							0
-Lo Rune Unstack	0			100	18	70	1		1	s28							r28																																																																																							0
-Lo Rune Stack	0			100					1	r28							s28																																																																																							0
-Sur Rune Unstack	0			100	18	70	1		1	s29							r29																																																																																							0
-Sur Rune Stack	0			100					1	r29							s29																																																																																							0
-Ber Rune Unstack	0			100	18	70	1		1	s30							r30																																																																																							0
-Ber Rune Stack	0			100					1	r30							s30																																																																																							0
-Jah Rune Unstack	0			100	18	70	1		1	s31							r31																																																																																							0
-Jah Rune Stack	0			100					1	r31							s31																																																																																							0
-Cham Rune Unstack	0			100	18	70	1		1	s32							r32																																																																																							0
-Cham Rune Stack	0			100					1	r32							s32																																																																																							0
-Zod Rune Unstack	0			100	18	70	1		1	s33							r33																																																																																							0
-Zod Rune Stack	0			100					1	r33							s33																																																																																							0
+El Rune Unstack	1			100	18	70	1		1	s01							r01																																																																																							0
+El Rune Stack	1			100					1	r01							s01																																																																																							0
+Eld Rune Unstack	1			100	18	70	1		1	s02							r02																																																																																							0
+Eld Rune Stack	1			100					1	r02							s02																																																																																							0
+Tir Rune Unstack	1			100	18	70	1		1	s03							r03																																																																																							0
+Tir Rune Stack	1			100					1	r03							s03																																																																																							0
+Nef Rune Unstack	1			100	18	70	1		1	s04							r04																																																																																							0
+Nef Rune Stack	1			100					1	r04							s04																																																																																							0
+Eth Rune Unstack	1			100	18	70	1		1	s05							r05																																																																																							0
+Eth Rune Stack	1			100					1	r05							s05																																																																																							0
+Ith Rune Unstack	1			100	18	70	1		1	s06							r06																																																																																							0
+Ith Rune Stack	1			100					1	r06							s06																																																																																							0
+Tal Rune Unstack	1			100	18	70	1		1	s07							r07																																																																																							0
+Tal Rune Stack	1			100					1	r07							s07																																																																																							0
+Ral Rune Unstack	1			100	18	70	1		1	s08							r08																																																																																							0
+Ral Rune Stack	1			100					1	r08							s08																																																																																							0
+Ort Rune Unstack	1			100	18	70	1		1	s09							r09																																																																																							0
+Ort Rune Stack	1			100					1	r09							s09																																																																																							0
+Thul Rune Unstack	1			100	18	70	1		1	s10							r10																																																																																							0
+Thul Rune Stack	1			100					1	r10							s10																																																																																							0
+Amn Rune Unstack	1			100	18	70	1		1	s11							r11																																																																																							0
+Amn Rune Stack	1			100					1	r11							s11																																																																																							0
+Sol Rune Unstack	1			100	18	70	1		1	s12							r12																																																																																							0
+Sol Rune Stack	1			100					1	r12							s12																																																																																							0
+Shael Rune Unstack	1			100	18	70	1		1	s13							r13																																																																																							0
+Shael Rune Stack	1			100					1	r13							s13																																																																																							0
+Dol Rune Unstack	1			100	18	70	1		1	s14							r14																																																																																							0
+Dol Rune Stack	1			100					1	r14							s14																																																																																							0
+Hel Rune Unstack	1			100	18	70	1		1	s15							r15																																																																																							0
+Hel Rune Stack	1			100					1	r15							s15																																																																																							0
+Io Rune Unstack	1			100	18	70	1		1	s16							r16																																																																																							0
+Io Rune Stack	1			100					1	r16							s16																																																																																							0
+Lum Rune Unstack	1			100	18	70	1		1	s17							r17																																																																																							0
+Lum Rune Stack	1			100					1	r17							s17																																																																																							0
+Ko Rune Unstack	1			100	18	70	1		1	s18							r18																																																																																							0
+Ko Rune Stack	1			100					1	r18							s18																																																																																							0
+Fal Rune Unstack	1			100	18	70	1		1	s19							r19																																																																																							0
+Fal Rune Stack	1			100					1	r19							s19																																																																																							0
+Lem Rune Unstack	1			100	18	70	1		1	s20							r20																																																																																							0
+Lem Rune Stack	1			100					1	r20							s20																																																																																							0
+Pul Rune Unstack	1			100	18	70	1		1	s21							r21																																																																																							0
+Pul Rune Stack	1			100					1	r21							s21																																																																																							0
+Um Rune Unstack	1			100	18	70	1		1	s22							r22																																																																																							0
+Um Rune Stack	1			100					1	r22							s22																																																																																							0
+Mal Rune Unstack	1			100	18	70	1		1	s23							r23																																																																																							0
+Mal Rune Stack	1			100					1	r23							s23																																																																																							0
+Ist Rune Unstack	1			100	18	70	1		1	s24							r24																																																																																							0
+Ist Rune Stack	1			100					1	r24							s24																																																																																							0
+Gul Rune Unstack	1			100	18	70	1		1	s25							r25																																																																																							0
+Gul Rune Stack	1			100					1	r25							s25																																																																																							0
+Vex Rune Unstack	1			100	18	70	1		1	s26							r26																																																																																							0
+Vex Rune Stack	1			100					1	r26							s26																																																																																							0
+Ohm Rune Unstack	1			100	18	70	1		1	s27							r27																																																																																							0
+Ohm Rune Stack	1			100					1	r27							s27																																																																																							0
+Lo Rune Unstack	1			100	18	70	1		1	s28							r28																																																																																							0
+Lo Rune Stack	1			100					1	r28							s28																																																																																							0
+Sur Rune Unstack	1			100	18	70	1		1	s29							r29																																																																																							0
+Sur Rune Stack	1			100					1	r29							s29																																																																																							0
+Ber Rune Unstack	1			100	18	70	1		1	s30							r30																																																																																							0
+Ber Rune Stack	1			100					1	r30							s30																																																																																							0
+Jah Rune Unstack	1			100	18	70	1		1	s31							r31																																																																																							0
+Jah Rune Stack	1			100					1	r31							s31																																																																																							0
+Cham Rune Unstack	1			100	18	70	1		1	s32							r32																																																																																							0
+Cham Rune Stack	1			100					1	r32							s32																																																																																							0
+Zod Rune Unstack	1			100	18	70	1		1	s33							r33																																																																																							0
+Zod Rune Stack	1			100					1	r33							s33																																																																																							0
 ESSENCES	0																																																																																																							0
-Twisted Essence of Suffering Unstack	0			100	18	70	1		1	ses							tes																																																																																							0
-Twisted Essence of Suffering Stack	0			100					1	tes							ses																																																																																							0
-Charged Essence of Hatred Unstack	0			100	18	70	1		1	seh							ceh																																																																																							0
-Charged Essence of Hatred Stack	0			100					1	ceh							seh																																																																																							0
-Burning Essence of Terror Unstack	0			100	18	70	1		1	set							bet																																																																																							0
-Burning Essence of Terror Stack	0			100					1	bet							set																																																																																							0
-Festering Essence of Destruction Unstack	0			100	18	70	1		1	sed							fed																																																																																							0
-Festering Essence of Destruction Stack	0			100					1	fed							sed																																																																																							0
-Token of Absolution Unstack	0			100	18	70	1		1	soa							toa																																																																																							0
-Token of Absolution Stack	0			100					1	toa							soa																																																																																							0
+Twisted Essence of Suffering Unstack	1			100	18	70	1		1	ses							tes																																																																																							0
+Twisted Essence of Suffering Stack	1			100					1	tes							ses																																																																																							0
+Charged Essence of Hatred Unstack	1			100	18	70	1		1	seh							ceh																																																																																							0
+Charged Essence of Hatred Stack	1			100					1	ceh							seh																																																																																							0
+Burning Essence of Terror Unstack	1			100	18	70	1		1	set							bet																																																																																							0
+Burning Essence of Terror Stack	1			100					1	bet							set																																																																																							0
+Festering Essence of Destruction Unstack	1			100	18	70	1		1	sed							fed																																																																																							0
+Festering Essence of Destruction Stack	1			100					1	fed							sed																																																																																							0
+Token of Absolution Unstack	1			100	18	70	1		1	soa							toa																																																																																							0
+Token of Absolution Stack	1			100					1	toa							soa																																																																																							0
 UBERS	0																																																																																																							0
-Key of Terror Unstack	0			100	18	70	1		1	p1s							pk1																																																																																							0
-Key of Terror Stack	0			100					1	pk1							p1s																																																																																							0
-Key of Hatred Unstack	0			100	18	70	1		1	p2s							pk2																																																																																							0
-Key of Hatred Stack	0			100					1	pk2							p2s																																																																																							0
-Key of Destruction Unstack	0			100	18	70	1		1	p3s							pk3																																																																																							0
-Key of Destruction Stack	0			100					1	pk3							p3s																																																																																							0
-Diablo's Horn Unstack	0			100	18	70	1		1	shn							dhn																																																																																							0
-Diablo's Horn Stack	0			100					1	dhn							shn																																																																																							0
-Baal's Eye Unstack	0			100	18	70	1		1	sey							bey																																																																																							0
-Baal's Eye Stack	0			100					1	bey							sey																																																																																							0
-Mephisto's Brain Unstack	0			100	18	70	1		1	brs							mbr																																																																																							0
-Mephisto's Brain Stack	0			100					1	mbr							brs																																																																																							0
+Key of Terror Unstack	1			100	18	70	1		1	p1s							pk1																																																																																							0
+Key of Terror Stack	1			100					1	pk1							p1s																																																																																							0
+Key of Hatred Unstack	1			100	18	70	1		1	p2s							pk2																																																																																							0
+Key of Hatred Stack	1			100					1	pk2							p2s																																																																																							0
+Key of Destruction Unstack	1			100	18	70	1		1	p3s							pk3																																																																																							0
+Key of Destruction Stack	1			100					1	pk3							p3s																																																																																							0
+Diablo's Horn Unstack	1			100	18	70	1		1	shn							dhn																																																																																							0
+Diablo's Horn Stack	1			100					1	dhn							shn																																																																																							0
+Baal's Eye Unstack	1			100	18	70	1		1	sey							bey																																																																																							0
+Baal's Eye Stack	1			100					1	bey							sey																																																																																							0
+Mephisto's Brain Unstack	1			100	18	70	1		1	brs							mbr																																																																																							0
+Mephisto's Brain Stack	1			100					1	mbr							brs																																																																																							0
 QUANTITY MASTER	0																																																																																																							0
-Stack of 2 (Any) -> Stack-1 + Target Output	0			0	18	70	2		1	misc							"usetype,qty=1"																													"usetype,qty=1"																																																										0
-Stack of 3 (Any) -> Stack-1 + Target Output	0			0	18	70	3		1	misc							"usetype,qty=2"																													"usetype,qty=1"																																																										0
-Stack of 4 (Any) -> Stack-1 + Target Output	0			0	18	70	4		1	misc							"usetype,qty=3"																													"usetype,qty=1"																																																										0
-Stack of 5 (Any) -> Stack-1 + Target Output	0			0	18	70	5		1	misc							"usetype,qty=4"																													"usetype,qty=1"																																																										0
-Stack of 6 (Any) -> Stack-1 + Target Output	0			0	18	70	6		1	misc							"usetype,qty=5"																													"usetype,qty=1"																																																										0
-Stack of 7 (Any) -> Stack-1 + Target Output	0			0	18	70	7		1	misc							"usetype,qty=6"																													"usetype,qty=1"																																																										0
-Stack of 8 (Any) -> Stack-1 + Target Output	0			0	18	70	8		1	misc							"usetype,qty=7"																													"usetype,qty=1"																																																										0
-Stack of 9 (Any) -> Stack-1 + Target Output	0			0	18	70	9		1	misc							"usetype,qty=8"																													"usetype,qty=1"																																																										0
-Stack of 10 (Any) -> Stack-1 + Target Output	0			0	18	70	10		1	misc							"usetype,qty=9"																													"usetype,qty=1"																																																										0
-Stack of 11 (Any) -> Stack-1 + Target Output	0			0	18	70	11		1	misc							"usetype,qty=10"																													"usetype,qty=1"																																																										0
-Stack of 12 (Any) -> Stack-1 + Target Output	0			0	18	70	12		1	misc							"usetype,qty=11"																													"usetype,qty=1"																																																										0
-Stack of 13 (Any) -> Stack-1 + Target Output	0			0	18	70	13		1	misc							"usetype,qty=12"																													"usetype,qty=1"																																																										0
-Stack of 14 (Any) -> Stack-1 + Target Output	0			0	18	70	14		1	misc							"usetype,qty=13"																													"usetype,qty=1"																																																										0
-Stack of 15 (Any) -> Stack-1 + Target Output	0			0	18	70	15		1	misc							"usetype,qty=14"																													"usetype,qty=1"																																																										0
-Stack of 16 (Any) -> Stack-1 + Target Output	0			0	18	70	16		1	misc							"usetype,qty=15"																													"usetype,qty=1"																																																										0
-Stack of 17 (Any) -> Stack-1 + Target Output	0			0	18	70	17		1	misc							"usetype,qty=16"																													"usetype,qty=1"																																																										0
-Stack of 18 (Any) -> Stack-1 + Target Output	0			0	18	70	18		1	misc							"usetype,qty=17"																													"usetype,qty=1"																																																										0
-Stack of 19 (Any) -> Stack-1 + Target Output	0			0	18	70	19		1	misc							"usetype,qty=18"																													"usetype,qty=1"																																																										0
-Stack of 20 (Any) -> Stack-1 + Target Output	0			0	18	70	20		1	misc							"usetype,qty=19"																													"usetype,qty=1"																																																										0
-Stack of 21 (Any) -> Stack-1 + Target Output	0			0	18	70	21		1	misc							"usetype,qty=20"																													"usetype,qty=1"																																																										0
-Stack of 22 (Any) -> Stack-1 + Target Output	0			0	18	70	22		1	misc							"usetype,qty=21"																													"usetype,qty=1"																																																										0
-Stack of 23 (Any) -> Stack-1 + Target Output	0			0	18	70	23		1	misc							"usetype,qty=22"																													"usetype,qty=1"																																																										0
-Stack of 24 (Any) -> Stack-1 + Target Output	0			0	18	70	24		1	misc							"usetype,qty=23"																													"usetype,qty=1"																																																										0
-Stack of 25 (Any) -> Stack-1 + Target Output	0			0	18	70	25		1	misc							"usetype,qty=24"																													"usetype,qty=1"																																																										0
-Stack of 26 (Any) -> Stack-1 + Target Output	0			0	18	70	26		1	misc							"usetype,qty=25"																													"usetype,qty=1"																																																										0
-Stack of 27 (Any) -> Stack-1 + Target Output	0			0	18	70	27		1	misc							"usetype,qty=26"																													"usetype,qty=1"																																																										0
-Stack of 28 (Any) -> Stack-1 + Target Output	0			0	18	70	28		1	misc							"usetype,qty=27"																													"usetype,qty=1"																																																										0
-Stack of 29 (Any) -> Stack-1 + Target Output	0			0	18	70	29		1	misc							"usetype,qty=28"																													"usetype,qty=1"																																																										0
-Stack of 30 (Any) -> Stack-1 + Target Output	0			0	18	70	30		1	misc							"usetype,qty=29"																													"usetype,qty=1"																																																										0
-Stack of 31 (Any) -> Stack-1 + Target Output	0			0	18	70	31			misc							"usetype,qty=30"																													"usetype,qty=1"																																																										0
-Stack of 32 (Any) -> Stack-1 + Target Output	0			0	18	70	32			misc							"usetype,qty=31"																													"usetype,qty=1"																																																										0
-Stack of 33 (Any) -> Stack-1 + Target Output	0			0	18	70	33			misc							"usetype,qty=32"																													"usetype,qty=1"																																																										0
-Stack of 34 (Any) -> Stack-1 + Target Output	0			0	18	70	34			misc							"usetype,qty=33"																													"usetype,qty=1"																																																										0
-Stack of 35 (Any) -> Stack-1 + Target Output	0			0	18	70	35			misc							"usetype,qty=34"																													"usetype,qty=1"																																																										0
-Stack of 36 (Any) -> Stack-1 + Target Output	0			0	18	70	36			misc							"usetype,qty=35"																													"usetype,qty=1"																																																										0
-Stack of 37 (Any) -> Stack-1 + Target Output	0			0	18	70	37			misc							"usetype,qty=36"																													"usetype,qty=1"																																																										0
-Stack of 38 (Any) -> Stack-1 + Target Output	0			0	18	70	38			misc							"usetype,qty=37"																													"usetype,qty=1"																																																										0
-Stack of 39 (Any) -> Stack-1 + Target Output	0			0	18	70	39			misc							"usetype,qty=38"																													"usetype,qty=1"																																																										0
-Stack of 40 (Any) -> Stack-1 + Target Output	0			0	18	70	40			misc							"usetype,qty=39"																													"usetype,qty=1"																																																										0
-Stack of 41 (Any) -> Stack-1 + Target Output	0			0	18	70	41			misc							"usetype,qty=40"																													"usetype,qty=1"																																																										0
-Stack of 42 (Any) -> Stack-1 + Target Output	0			0	18	70	42			misc							"usetype,qty=41"																													"usetype,qty=1"																																																										0
-Stack of 43 (Any) -> Stack-1 + Target Output	0			0	18	70	43			misc							"usetype,qty=42"																													"usetype,qty=1"																																																										0
-Stack of 44 (Any) -> Stack-1 + Target Output	0			0	18	70	44			misc							"usetype,qty=43"																													"usetype,qty=1"																																																										0
-Stack of 45 (Any) -> Stack-1 + Target Output	0			0	18	70	45			misc							"usetype,qty=44"																													"usetype,qty=1"																																																										0
-Stack of 46 (Any) -> Stack-1 + Target Output	0			0	18	70	46			misc							"usetype,qty=45"																													"usetype,qty=1"																																																										0
-Stack of 47 (Any) -> Stack-1 + Target Output	0			0	18	70	47			misc							"usetype,qty=46"																													"usetype,qty=1"																																																										0
-Stack of 48 (Any) -> Stack-1 + Target Output	0			0	18	70	48			misc							"usetype,qty=47"																													"usetype,qty=1"																																																										0
-Stack of 49 (Any) -> Stack-1 + Target Output	0			0	18	70	49			misc							"usetype,qty=48"																													"usetype,qty=1"																																																										0
-Stack of 50 (Any) -> Stack-1 + Target Output	0			0	18	70	50			misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
+Stack of 2 (Any) -> Stack-1 + Target Output	1			0	18	70	2		1	misc							"usetype,qty=1"																													"usetype,qty=1"																																																										0
+Stack of 3 (Any) -> Stack-1 + Target Output	1			0	18	70	3		1	misc							"usetype,qty=2"																													"usetype,qty=1"																																																										0
+Stack of 4 (Any) -> Stack-1 + Target Output	1			0	18	70	4		1	misc							"usetype,qty=3"																													"usetype,qty=1"																																																										0
+Stack of 5 (Any) -> Stack-1 + Target Output	1			0	18	70	5		1	misc							"usetype,qty=4"																													"usetype,qty=1"																																																										0
+Stack of 6 (Any) -> Stack-1 + Target Output	1			0	18	70	6		1	misc							"usetype,qty=5"																													"usetype,qty=1"																																																										0
+Stack of 7 (Any) -> Stack-1 + Target Output	1			0	18	70	7		1	misc							"usetype,qty=6"																													"usetype,qty=1"																																																										0
+Stack of 8 (Any) -> Stack-1 + Target Output	1			0	18	70	8		1	misc							"usetype,qty=7"																													"usetype,qty=1"																																																										0
+Stack of 9 (Any) -> Stack-1 + Target Output	1			0	18	70	9		1	misc							"usetype,qty=8"																													"usetype,qty=1"																																																										0
+Stack of 10 (Any) -> Stack-1 + Target Output	1			0	18	70	10		1	misc							"usetype,qty=9"																													"usetype,qty=1"																																																										0
+Stack of 11 (Any) -> Stack-1 + Target Output	1			0	18	70	11		1	misc							"usetype,qty=10"																													"usetype,qty=1"																																																										0
+Stack of 12 (Any) -> Stack-1 + Target Output	1			0	18	70	12		1	misc							"usetype,qty=11"																													"usetype,qty=1"																																																										0
+Stack of 13 (Any) -> Stack-1 + Target Output	1			0	18	70	13		1	misc							"usetype,qty=12"																													"usetype,qty=1"																																																										0
+Stack of 14 (Any) -> Stack-1 + Target Output	1			0	18	70	14		1	misc							"usetype,qty=13"																													"usetype,qty=1"																																																										0
+Stack of 15 (Any) -> Stack-1 + Target Output	1			0	18	70	15		1	misc							"usetype,qty=14"																													"usetype,qty=1"																																																										0
+Stack of 16 (Any) -> Stack-1 + Target Output	1			0	18	70	16		1	misc							"usetype,qty=15"																													"usetype,qty=1"																																																										0
+Stack of 17 (Any) -> Stack-1 + Target Output	1			0	18	70	17		1	misc							"usetype,qty=16"																													"usetype,qty=1"																																																										0
+Stack of 18 (Any) -> Stack-1 + Target Output	1			0	18	70	18		1	misc							"usetype,qty=17"																													"usetype,qty=1"																																																										0
+Stack of 19 (Any) -> Stack-1 + Target Output	1			0	18	70	19		1	misc							"usetype,qty=18"																													"usetype,qty=1"																																																										0
+Stack of 20 (Any) -> Stack-1 + Target Output	1			0	18	70	20		1	misc							"usetype,qty=19"																													"usetype,qty=1"																																																										0
+Stack of 21 (Any) -> Stack-1 + Target Output	1			0	18	70	21		1	misc							"usetype,qty=20"																													"usetype,qty=1"																																																										0
+Stack of 22 (Any) -> Stack-1 + Target Output	1			0	18	70	22		1	misc							"usetype,qty=21"																													"usetype,qty=1"																																																										0
+Stack of 23 (Any) -> Stack-1 + Target Output	1			0	18	70	23		1	misc							"usetype,qty=22"																													"usetype,qty=1"																																																										0
+Stack of 24 (Any) -> Stack-1 + Target Output	1			0	18	70	24		1	misc							"usetype,qty=23"																													"usetype,qty=1"																																																										0
+Stack of 25 (Any) -> Stack-1 + Target Output	1			0	18	70	25		1	misc							"usetype,qty=24"																													"usetype,qty=1"																																																										0
+Stack of 26 (Any) -> Stack-1 + Target Output	1			0	18	70	26		1	misc							"usetype,qty=25"																													"usetype,qty=1"																																																										0
+Stack of 27 (Any) -> Stack-1 + Target Output	1			0	18	70	27		1	misc							"usetype,qty=26"																													"usetype,qty=1"																																																										0
+Stack of 28 (Any) -> Stack-1 + Target Output	1			0	18	70	28		1	misc							"usetype,qty=27"																													"usetype,qty=1"																																																										0
+Stack of 29 (Any) -> Stack-1 + Target Output	1			0	18	70	29		1	misc							"usetype,qty=28"																													"usetype,qty=1"																																																										0
+Stack of 30 (Any) -> Stack-1 + Target Output	1			0	18	70	30		1	misc							"usetype,qty=29"																													"usetype,qty=1"																																																										0
+Stack of 31 (Any) -> Stack-1 + Target Output	1			0	18	70	31			misc							"usetype,qty=30"																													"usetype,qty=1"																																																										0
+Stack of 32 (Any) -> Stack-1 + Target Output	1			0	18	70	32			misc							"usetype,qty=31"																													"usetype,qty=1"																																																										0
+Stack of 33 (Any) -> Stack-1 + Target Output	1			0	18	70	33			misc							"usetype,qty=32"																													"usetype,qty=1"																																																										0
+Stack of 34 (Any) -> Stack-1 + Target Output	1			0	18	70	34			misc							"usetype,qty=33"																													"usetype,qty=1"																																																										0
+Stack of 35 (Any) -> Stack-1 + Target Output	1			0	18	70	35			misc							"usetype,qty=34"																													"usetype,qty=1"																																																										0
+Stack of 36 (Any) -> Stack-1 + Target Output	1			0	18	70	36			misc							"usetype,qty=35"																													"usetype,qty=1"																																																										0
+Stack of 37 (Any) -> Stack-1 + Target Output	1			0	18	70	37			misc							"usetype,qty=36"																													"usetype,qty=1"																																																										0
+Stack of 38 (Any) -> Stack-1 + Target Output	1			0	18	70	38			misc							"usetype,qty=37"																													"usetype,qty=1"																																																										0
+Stack of 39 (Any) -> Stack-1 + Target Output	1			0	18	70	39			misc							"usetype,qty=38"																													"usetype,qty=1"																																																										0
+Stack of 40 (Any) -> Stack-1 + Target Output	1			0	18	70	40			misc							"usetype,qty=39"																													"usetype,qty=1"																																																										0
+Stack of 41 (Any) -> Stack-1 + Target Output	1			0	18	70	41			misc							"usetype,qty=40"																													"usetype,qty=1"																																																										0
+Stack of 42 (Any) -> Stack-1 + Target Output	1			0	18	70	42			misc							"usetype,qty=41"																													"usetype,qty=1"																																																										0
+Stack of 43 (Any) -> Stack-1 + Target Output	1			0	18	70	43			misc							"usetype,qty=42"																													"usetype,qty=1"																																																										0
+Stack of 44 (Any) -> Stack-1 + Target Output	1			0	18	70	44			misc							"usetype,qty=43"																													"usetype,qty=1"																																																										0
+Stack of 45 (Any) -> Stack-1 + Target Output	1			0	18	70	45			misc							"usetype,qty=44"																													"usetype,qty=1"																																																										0
+Stack of 46 (Any) -> Stack-1 + Target Output	1			0	18	70	46			misc							"usetype,qty=45"																													"usetype,qty=1"																																																										0
+Stack of 47 (Any) -> Stack-1 + Target Output	1			0	18	70	47			misc							"usetype,qty=46"																													"usetype,qty=1"																																																										0
+Stack of 48 (Any) -> Stack-1 + Target Output	1			0	18	70	48			misc							"usetype,qty=47"																													"usetype,qty=1"																																																										0
+Stack of 49 (Any) -> Stack-1 + Target Output	1			0	18	70	49			misc							"usetype,qty=48"																													"usetype,qty=1"																																																										0
+Stack of 50 (Any) -> Stack-1 + Target Output	1			0	18	70	50			misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
 CRAFTING	0																																																																																																							0
 FOMENTERS (HITPOWER)	0																																																																																																							0
 1 Magic Helm + 1 Jewel + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm	1			100					4	"helm,mag,noe"	jew	"r06,qty=1"	"gpb,qty=1"				"usetype,crf"		50	50	slow			5	10	balance1			10	20	att			100	200																																																																					0
@@ -894,8 +894,8 @@ Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	1			1
 Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	1			100	16	361	14		2	"shld,hiq"	skz						useitem				corruption			16	16	extra-cold			10	10																																																																										0
 Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	1			100	16	361	15		2	"shld,hiq"	skz						useitem				corruption			16	16	extra-pois			10	10																																																																										0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							"kit,uni"	100		100																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							"bld,uni"	100		100																										hp2																																																										0
+hp1 -> test item 1	1			100					1	hp1							"oco"	100		100																										hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							"jfg"	100		100																										hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							"gth,uni"	100		100																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							"xlb,uni"	100		100																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							"dgr,uni"	100		100																										hp5																																																										0
