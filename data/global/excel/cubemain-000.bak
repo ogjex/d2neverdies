@@ -385,7 +385,7 @@ Stack of 49 (Any) -> Stack-1 + Target Output	1			0	18	70	49			misc							"usetyp
 Stack of 50 (Any) -> Stack-1 + Target Output	1			0	18	70	50			misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
 CRAFTING	0																																																																																																							0
 FOMENTERS (HITPOWER)	0																																																																																																							0
-1 Magic Helm + 1 Jewel + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm	1			100					4	"helm,mag,noe"	jew	"r06,qty=1"	"gpb,qty=1"				"usetype,crf"		50	50	slow			5	10	balance1			10	20	att			100	200																																																																					0
+1 Magic Helm + 1 Jewel + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm	1			100					4	"helm,mag,noe"	jew	"r06,qty=1"	"8pa,qty=1"				"usetype,crf"		50	50	slow			5	10	balance1			10	20	att			100	200																																																																					0
 1 Magic Helm + 1 Jewel + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm	1			100					4	"helm,mag,eth"	jew	"r06,qty=1"	"gpb,qty=1"				"usetype,crf"		50	50	slow			5	10	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
 1 Magic Boots + 1 Jewel + 1 Ral Rune + Perfect Sapphire -> Hitpower Boots	1			100					4	"boot,mag,noe"	jew	"r08,qty=1"	"gpb,qty=1"				"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			10	10	move1			10	10																																																																					0
 1 Magic Boots + 1 Jewel + 1 Ral Rune + Perfect Sapphire -> Hitpower Boots	1			100					4	"boot,mag,eth"	jew	"r08,qty=1"	"gpb,qty=1"				"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			10	10	move1			10	10	ethereal	100		1	1																																																																0
@@ -896,13 +896,13 @@ Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	1			1
 ITEM TESTING	0																																																																																																							0
 hp1 -> test item 1	1			100					1	hp1							"oco"	100		100																										hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							"jfg"	100		100																										hp2																																																										0
-hp3 -> test item 3	1			100					1	hp3							"gth,uni"	100		100																										hp3																																																										0
-hp4 -> test item 4	1			100					1	hp4							"xlb,uni"	100		100																										hp4																																																										0
-hp5-> test item 5	1			100					1	hp5							"dgr,uni"	100		100																										hp5																																																										0
-mp1 -> test item 6	1			100					1	mp1							"fhl,uni"	100		100																										mp1																																																										0
-mp2 -> test item 7	1			100					1	mp2							"tbt,uni"	100		100																										mp2																																																										0
-mp3 -> test item 8	1			100					1	mp3							"kit,set"	100		100																										mp3																																																										0
-mp4 -> test item 9	1			100					1	mp4							"vgl,set"	100		100																										mp4																																																										0
+hp3 -> test item 3	1			100					1	hp3							"lzg"	100		100																										hp3																																																										0
+hp4 -> test item 4	1			100					1	hp4							"esc"	100		100																										hp4																																																										0
+hp5-> test item 5	1			100					1	hp5							"esx"	100		100																										hp5																																																										0
+mp1 -> test item 6	1			100					1	mp1							"esl"	100		100																										mp1																																																										0
+mp2 -> test item 7	1			100					1	mp2							"esr"	100		100																										mp2																																																										0
+mp3 -> test item 8	1			100					1	mp3							"esu"	100		100																										mp3																																																										0
+mp4 -> test item 9	1			100					1	mp4							"esn"	100		100																										mp4																																																										0
 mp5 -> test item 10	1			100					1	mp5							"tors,set"	100		100																										mp5																																																										0
 id scroll -> test item	1			100					1	isc							"ztb,uni"	100		100																										isc																																																										0
 tp scroll -> crf-wep	1			100					1	tsc							"weap,crf"	100		100																										tsc																																																										0
