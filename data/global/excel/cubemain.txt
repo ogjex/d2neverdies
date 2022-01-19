@@ -320,18 +320,18 @@ Festering Essence of Destruction Unstack	1			100	18	70	1		1	sed							fed							
 Festering Essence of Destruction Stack	1			100					1	fed							sed																																																																																							0
 Token of Absolution Unstack	1			100	18	70	1		1	soa							toa																																																																																							0
 Token of Absolution Stack	1			100					1	toa							soa																																																																																							0
-Compound Essence Unstack																																																																																																								0
-Compound Essence Stack																																																																																																								0
-Rare Essence Unstack																																																																																																								0
-Rare Essence Stack																																																																																																								0
-Unique Essence Unstack																																																																																																								0
-Unique Essence Stack																																																																																																								0
-Normal Essence Unstack																																																																																																								0
-Normal Essence Stack																																																																																																								0
-Exceptional Essence Unstack																																																																																																								0
-Exceptional Essence Stack																																																																																																								0
-Elite Essence Unstack																																																																																																								0
-Elite Essence Stack																																																																																																								0
+Compound Essence Unstack	0			100	18	70	1		1								esc																																																																																							0
+Compound Essence Stack	0			100						esc																																																																																														0
+Rare Essence Unstack	0			100	18	70	1		1								esr																																																																																							0
+Rare Essence Stack	0			100						esr																																																																																														0
+Unique Essence Unstack	0			100	18	70	1		1								esu																																																																																							0
+Unique Essence Stack	0			100						esu																																																																																														0
+Normal Essence Unstack	0			100	18	70	1		1								esn																																																																																							0
+Normal Essence Stack	0			100						esn																																																																																														0
+Exceptional Essence Unstack	0			100	18	70	1		1								esx																																																																																							0
+Exceptional Essence Stack	0			100						esx																																																																																														0
+Elite Essence Unstack	0			100	18	70	1		1								esl																																																																																							0
+Elite Essence Stack	0			100						esl																																																																																														0
 UBERS ITEMS STACKING	0																																																																																																							0
 Key of Terror Unstack	1			100	18	70	1		1	p1s							pk1																																																																																							0
 Key of Terror Stack	1			100					1	pk1							p1s																																																																																							0
@@ -395,16 +395,19 @@ Stack of 47 (Any) -> Stack-1 + Target Output	1			0	18	70	47			misc							"usetyp
 Stack of 48 (Any) -> Stack-1 + Target Output	1			0	18	70	48			misc							"usetype,qty=47"																													"usetype,qty=1"																																																										0
 Stack of 49 (Any) -> Stack-1 + Target Output	1			0	18	70	49			misc							"usetype,qty=48"																													"usetype,qty=1"																																																										0
 Stack of 50 (Any) -> Stack-1 + Target Output	1			0	18	70	50			misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
-EXTRACTION RECIPES																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
+EXTRACTION RECIPES	0																																																																																																							0
+Extract normal essence	1								2	"any,uni,bas"	"oex,qty=1"						"esn,qty=1"	50	50																																																																																					0
+Extract exceptional essence	1								2	"any,uni,exc"	"oex,qty=1"						"esx,qty=1"	50	50																																																																																					0
+Extract elite essence	1								2	"any,uni,eli"	"oex,qty=1"						"esl,qty=1"	50	50																																																																																					0
+Extract compound essence	1								2	"any,set"	"oex,qty=1"						"esc,qty=1"	50	50																																																																																					0
+Extract rare essence	1								2	"any,rar"	"oex,qty=1"						"esr,qty=1"	50	50																																																																																					0
+Extract unique essence	0																																																																																																							0
+BUILD RECIPES	0																																																																																																							0
+Build normal set weapon	1								4	"weap,mag,bas"	"esc,qty=10"	"ooc,qty=1"	"gpg,qty=1"				"usetype,set"	50	50																																																																																					0
+Build normal set armor	1								4	"armo,mag,bas"	"esc,qty=10"	"ooc,qty=1"	"gpg,qty=1"				"usetype,set"	50	50																																																																																					0
+REROLL UNIQUES	0																																																																																																							0
+REROLL SETS	0																																																																																																							0
+REROLL RARES	0																																																																																																							0
 CRAFTING RECIPES	0																																																																																																							0
 FOMENTERS (HITPOWER)	0										"jfg,qty=1"																																																																																													0
 1 Magic Helm + 1 Jewel + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm	1			100					4	"helm,mag,noe"	jew	"r06,qty=1"	"gpv,qty=1"				"usetype,crf"		50	50	slow			5	10	balance1			10	20	att			100	200																																																																					0
@@ -924,14 +927,14 @@ Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	1			1
 Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	1			100	16	361	14		2	"shld,hiq"	skz						useitem				corruption			16	16	extra-cold			10	10																																																																										0
 Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	1			100	16	361	15		2	"shld,hiq"	skz						useitem				corruption			16	16	extra-pois			10	10																																																																										0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							"oco"	100		100																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							"jfg"	100		100																										hp2																																																										0
-hp3 -> test item 3	1			100					1	hp3							"lzg"	100		100																										hp3																																																										0
+hp1 -> test item 1	1			100					1	hp1							"oex"	100		100																										hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							"oco"	100		100																										hp2																																																										0
+hp3 -> test item 3	1			100					1	hp3							"jfg"	100		100																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							"esc"	100		100																										hp4																																																										0
-hp5-> test item 5	1			100					1	hp5							"esx"	100		100																										hp5																																																										0
-mp1 -> test item 6	1			100					1	mp1							"esl"	100		100																										mp1																																																										0
-mp2 -> test item 7	1			100					1	mp2							"esr"	100		100																										mp2																																																										0
-mp3 -> test item 8	1			100					1	mp3							"esu"	100		100																										mp3																																																										0
+hp5-> test item 5	1			100					1	hp5							"esn"	100		100																										hp5																																																										0
+mp1 -> test item 6	1			100					1	mp1							"esx"	100		100																										mp1																																																										0
+mp2 -> test item 7	1			100					1	mp2							"esl"	100		100																										mp2																																																										0
+mp3 -> test item 8	1			100					1	mp3							"esr"	100		100																										mp3																																																										0
 mp4 -> test item 9	1			100					1	mp4							"esn"	100		100																										mp4																																																										0
 mp5 -> test item 10	1			100					1	mp5							"tors,set"	100		100																										mp5																																																										0
 id scroll -> test item	1			100					1	isc							"ztb,uni"	100		100																										isc																																																										0
