@@ -401,7 +401,6 @@ Extract exceptional essence	1								2	"any,uni,exc"	"oex,qty=1"						"esx,qty=1
 Extract elite essence	1								2	"any,uni,eli"	"oex,qty=1"						"esl,qty=1"	50	100																											"esu,qty=1"																																																										0
 Extract compound essence	1								2	"any,set"	"oex,qty=1"						"esc,qty=1"	50	100																																																																																					0
 Extract rare essence	1								2	"any,rar"	"oex,qty=1"						"esr,qty=1"	50	100																																																																																					0
-Extract unique essence	0																																																																																																							0
 BUILD RECIPES	0																																																																																																							0
 Build normal set weapon	1								13	"weap,mag,bas"	"esc,qty=10"	"ooc,qty=1"	"gpg,qty=1"				"usetype,set"	50	100																																																																																					0
 Build normal set armor	1								13	"armo,mag,bas"	"esc,qty=10"	"ooc,qty=1"	"gpg,qty=1"				"usetype,set"	50	100																																																																																					0
@@ -511,6 +510,10 @@ CORNUCOPIAS (PLENTIFUL)	0																																																							
 1 Magic Ring + 1 Jewel + 1 Lum Rune + Perfect Topaz -> Plentiful Ring	1			100					4	"ring,mag"	jew	"r09,qty=1"	"gpy,qty=1"				"usetype,crf"		50	50	mag%			10	15	gold%			30	60	vit			5	10																																																																					0
 1 Magic Weapon + 1 Jewel + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon	1			100					4	"weap,mag,noe"	jew	"r01,qty=1"	"gpy,qty=1"				"usetype,crf"		50	50	mag%			20	30	gold%			30	60	dmg%			55	80																																																																					0
 1 Magic Weapon + 1 Jewel + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon	1			100					4	"weap,mag,eth"	jew	"r01,qty=1"	"gpy,qty=1"				"usetype,crf"		50	50	mag%			20	30	gold%			30	60	dmg%			55	80	ethereal	100		1	1																																																																0
+LARZUK'S GIMLET	0																																																																																																							0
+Gimlet + 1H weapon	1			100					2	weap	"lzg,qty=1"						usetype		50	50	sock	100		1	1	sock	75		1	1																																																																										0
+Gimlet + 2H weapon	1			100					2	weap	"lzg,qty=1"						usetype		50	50	sock	100		1	1	sock	75		1	1	sock	25		1	1	sock	25		1	1																																																																0
+Gimlet + Torso	1			100					2	tors	"lzg,qty=1"						usetype		50	50	sock	100		1	1	sock	75		1	1	sock	25		1	1																																																																					0
 JEWEL FRAGMENTS	0																																																																																																							0
 1 Magic Hammer + 1 Jewel	1			100					2	"whm,mag"	jew						"useitem,jfg,qty=2"		50	50																																																																																				0
 1 Rare Warhammer + 1 Jewel	0			100						"whm,rar"	jew						"useitem,jfg,qty=2"		50	50																																																																																				0
