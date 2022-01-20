@@ -26010,7 +26010,7 @@
     "zhCN": "莫伊"
   },
   {
-    "id": 23001,
+    "id": 30001,
     "Key": "ood",
     "enUS": "Orb of Divination",
     "zhTW": "",
@@ -26027,7 +26027,7 @@
     "zhCN": ""
   },
   {
-    "id": 23002,
+    "id": 30002,
     "Key": "oex",
     "enUS": "Orb of Extraction",
     "zhTW": "",
@@ -26044,7 +26044,7 @@
     "zhCN": ""
   },
   {
-    "id": 23003,
+    "id": 30003,
     "Key": "oco",
     "enUS": "Orb of Combination",
     "zhTW": "",
@@ -26061,7 +26061,7 @@
     "zhCN": ""
   },
   {
-    "id": 23004,
+    "id": 30004,
     "Key": "esc",
     "enUS": "Compound Essence",
     "zhTW": "",
@@ -26078,7 +26078,7 @@
     "zhCN": ""
   },
   {
-    "id": 23005,
+    "id": 30005,
     "Key": "esr",
     "enUS": "Rare Essence",
     "zhTW": "",
@@ -26095,7 +26095,7 @@
     "zhCN": ""
   },
   {
-    "id": 23006,
+    "id": 30006,
     "Key": "esu",
     "enUS": "Unique Essence",
     "zhTW": "",
@@ -26163,7 +26163,7 @@
     "zhCN": ""
   },
   {
-    "id": 23010,
+    "id": 30010,
     "Key": "lzg",
     "enUS": "Larzuk's Gimlet",
     "zhTW": "",
@@ -26180,7 +26180,7 @@
     "zhCN": ""
   },
   {
-    "id": 23011,
+    "id": 30011,
     "Key": "glx",
     "enUS": "Glyph of Xiansai",
     "zhTW": "",
@@ -26197,7 +26197,7 @@
     "zhCN": ""
   },
   {
-    "id": 23012,
+    "id": 30012,
     "Key": "cgg",
     "enUS": "Charsi's Great Gavel",
     "zhTW": "",
@@ -26214,7 +26214,7 @@
     "zhCN": ""
   },
   {
-    "id": 23013,
+    "id": 30013,
     "Key": "jfg",
     "enUS": "Jewel fragment",
     "zhTW": "",

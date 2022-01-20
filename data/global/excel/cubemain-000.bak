@@ -396,15 +396,15 @@ Stack of 48 (Any) -> Stack-1 + Target Output	1			0	18	70	48			misc							"usetyp
 Stack of 49 (Any) -> Stack-1 + Target Output	1			0	18	70	49			misc							"usetype,qty=48"																													"usetype,qty=1"																																																										0
 Stack of 50 (Any) -> Stack-1 + Target Output	1			0	18	70	50			misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
 EXTRACTION RECIPES	0																																																																																																							0
-Extract normal essence	1								2	"any,uni,bas"	"oex,qty=1"						"esn,qty=1"	50	50																																																																																					0
-Extract exceptional essence	1								2	"any,uni,exc"	"oex,qty=1"						"esx,qty=1"	50	50																																																																																					0
-Extract elite essence	1								2	"any,uni,eli"	"oex,qty=1"						"esl,qty=1"	50	50																																																																																					0
-Extract compound essence	1								2	"any,set"	"oex,qty=1"						"esc,qty=1"	50	50																																																																																					0
-Extract rare essence	1								2	"any,rar"	"oex,qty=1"						"esr,qty=1"	50	50																																																																																					0
+Extract normal essence	1								2	"any,uni,bas"	"oex,qty=1"						"esn,qty=1"	50	100																											"esu,qty=1"																																																										0
+Extract exceptional essence	1								2	"any,uni,exc"	"oex,qty=1"						"esx,qty=1"	50	100																											"esu,qty=1"																																																										0
+Extract elite essence	1								2	"any,uni,eli"	"oex,qty=1"						"esl,qty=1"	50	100																											"esu,qty=1"																																																										0
+Extract compound essence	1								2	"any,set"	"oex,qty=1"						"esc,qty=1"	50	100																																																																																					0
+Extract rare essence	1								2	"any,rar"	"oex,qty=1"						"esr,qty=1"	50	100																																																																																					0
 Extract unique essence	0																																																																																																							0
 BUILD RECIPES	0																																																																																																							0
-Build normal set weapon	1								4	"weap,mag,bas"	"esc,qty=10"	"ooc,qty=1"	"gpg,qty=1"				"usetype,set"	50	50																																																																																					0
-Build normal set armor	1								4	"armo,mag,bas"	"esc,qty=10"	"ooc,qty=1"	"gpg,qty=1"				"usetype,set"	50	50																																																																																					0
+Build normal set weapon	1								13	"weap,mag,bas"	"esc,qty=10"	"ooc,qty=1"	"gpg,qty=1"				"usetype,set"	50	100																																																																																					0
+Build normal set armor	1								13	"armo,mag,bas"	"esc,qty=10"	"ooc,qty=1"	"gpg,qty=1"				"usetype,set"	50	100																																																																																					0
 REROLL UNIQUES	0																																																																																																							0
 REROLL SETS	0																																																																																																							0
 REROLL RARES	0																																																																																																							0
