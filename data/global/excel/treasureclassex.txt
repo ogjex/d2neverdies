@@ -36,7 +36,7 @@ Runes 9			1						s17	3	s18	2	Runes 8	150																		0
 Runes 10			1						s19	3	s20	2	Runes 9	200																		0
 Runes 11			1						s21	3	s22	2	Runes 10	250																		0
 Runes 12			1						s23	3	s24	2	Runes 11	300																		0
-Runes 13			1						s25	3	s26	2	Runes 12	350																		0
+Runes 13			1						s25	3	s26	2	Runes 12	350	lzg	3																0
 Runes 14			1						s27	3	s28	2	Runes 13	480																		0
 Runes 15			1						s29	3	s30	2	Runes 14	650																		0
 Runes 16			1						s31	3	s32	2	Runes 15	900																		0
