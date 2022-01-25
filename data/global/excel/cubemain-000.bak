@@ -779,22 +779,22 @@ Shield + Glyph -> Corrupted Shield With Useful Stat	0			100	16	361	18		2	"shld,s
 Shield + Glyph -> Corrupted Shield With Useful Stat	0			100	16	361	19		2	"shld,sock"	glx						useitem				corruption			21	21	curse-res			10	10																																																																										0
 Shield + Glyph -> Corrupted Shield With Useful Stat	0			100	16	361	20		2	"shld,sock"	glx						useitem				corruption			21	21	allskills			1	1																																																																										0
 BOOTS - NORMAL BOOT CATCHER																																																																																																								0
-Normal Boots + Glyph -> Corrupted Boots	0			100	16	361	20		2	"boot,nor"	glx						useitem				corruption			21	21																																																																															0
-Superior Boots + Glyph -> Corrupted Boots	0			100	16	361	20		2	"boot,hiq"	glx						useitem				corruption			21	21																																																																															0
-Low quality Boots + Glyph -> Corrupted Boots	0			100	16	361	20		2	"boot,low"	glx						useitem				corruption			21	21																																																																															0
+Normal Boots + Glyph -> Corrupted Boots	1			100	16	361	20		2	"boot,nor"	glx						useitem				corruption			21	21																																																																															0
+Superior Boots + Glyph -> Corrupted Boots	1			100	16	361	20		2	"boot,hiq"	glx						useitem				corruption			21	21																																																																															0
+Low quality Boots + Glyph -> Corrupted Boots	1			100	16	361	20		2	"boot,low"	glx						useitem				corruption			21	21																																																																															0
 BOOTS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Boots Corruption Tracker	0			100	16	361	0		2	"boot"	glx						useitem				corruption			1	20																																																																															0
-Boots + Glyph -> Random Rare	0			100	16	361	5		2	"boot"	glx						"usetype,rar"		100	100	corruption			21	21																																																																															0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	6		2	"boot"	glx						useitem				corruption			21	21	dex			15	20																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	8		2	"boot"	glx						useitem				corruption			21	21	mag%			10	20																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	10		2	"boot"	glx						useitem				corruption			21	21	balance2			5	8																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	12		2	"boot"	glx						useitem				corruption			21	21	block2			5	10																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	14		2	"boot"	glx						useitem				corruption			21	21	res-fire-max			2	3																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	16		2	"boot"	glx						useitem				corruption			21	21	res-cold-max			2	3																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	17		2	"boot"	glx						useitem				corruption			21	21	res-ltng-max			2	3																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	18		2	"boot"	glx						useitem				corruption			21	21	nofreeze			1	1																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	19		2	"boot"	glx						useitem				corruption			21	21	move1			10	15																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	20		2	"boot"	glx						useitem				corruption			21	21	res-all			4	8																																																																										0
+Boots Corruption Tracker	1			100	16	361	0		2	"boot"	glx						useitem				corruption			1	20																																																																															0
+Boots + Glyph -> Random Rare	1			100	16	361	5		2	"boot"	glx						"usetype,rar"		100	100	corruption			21	21																																																																															0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	6		2	"boot"	glx						useitem				corruption			21	21	dex			15	20																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	8		2	"boot"	glx						useitem				corruption			21	21	mag%			10	20																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	10		2	"boot"	glx						useitem				corruption			21	21	balance2			5	8																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	12		2	"boot"	glx						useitem				corruption			21	21	block2			5	10																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	14		2	"boot"	glx						useitem				corruption			21	21	res-fire-max			2	3																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	16		2	"boot"	glx						useitem				corruption			21	21	res-cold-max			2	3																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	17		2	"boot"	glx						useitem				corruption			21	21	res-ltng-max			2	3																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	18		2	"boot"	glx						useitem				corruption			21	21	nofreeze			1	1																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	19		2	"boot"	glx						useitem				corruption			21	21	move1			10	15																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	20		2	"boot"	glx						useitem				corruption			21	21	res-all			4	8																																																																										0
 BOOTS - MAGIC AND UP CASTER RECIPE																																																																																																								0
 Boots Corruption Tracker	0			100	16	361	0		2	"boot"	glx						useitem				corruption			1	20																																																																															0
 Boots + Glyph -> Random Rare	0			100	16	361	5		2	"boot"	glx						"usetype,rar"		100	100	corruption			21	21																																																																															0
@@ -808,14 +808,118 @@ Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	17		2	"boot"	gl
 Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	18		2	"boot"	glx						useitem				corruption			21	21	nofreeze			1	1																																																																										0
 Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	19		2	"boot"	glx						useitem				corruption			21	21	move1			10	15																																																																										0
 Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	20		2	"boot"	glx						useitem				corruption			21	21	res-all			4	8																																																																										0
-GLOVES	0																																																																																																							0
-Unique Gloves Corruption Tracker	0			100	16	361	0		2	"glov,uni"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Gloves + pSkull  -> Random Rare	0			100	16	361	5		2	"glov,uni"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	6		2	"glov,uni"	glx						useitem				corruption			11	11	swing1			10	10																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	7		2	"glov,uni"	glx						useitem				corruption			11	11	res-cold			10	20																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	8		2	"glov,uni"	glx						useitem				corruption			11	11	res-all			5	10																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	9		2	"glov,uni"	glx						useitem				corruption			11	11	lifesteal			5	10																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	10		2	"glov,uni"	glx						useitem				corruption			11	11	res-pois			10	20																																																																										0
+GLOVES - NORMAL GLOVE CATCHER	0																																																																																																							0
+Normal Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		2	"glov,nor"	glx						useitem				corruption			21	21																																																																															0
+Superior Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		2	"glov,hiq"	glx						useitem				corruption			21	21																																																																															0
+Low quality Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		2	"glov,low"	glx						useitem				corruption			21	21																																																																															0
+GLOVES - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
+Gloves Corruption Tracker	1			100	16	361	0		2	"glov"	glx						useitem				corruption			1	20																																																																															0
+Gloves + Glyph -> Random Rare	1			100	16	361	5		2	"glov"	glx						"usetype,rar"		100	100	corruption			21	21																																																																															0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	6		2	"glov"	glx						useitem				corruption			21	21	swing1			10	10																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	8		2	"glov"	glx						useitem				corruption			21	21	deadly			6	12																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	10		2	"glov"	glx						useitem				corruption			21	21	lifesteal			2	4																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	12		2	"glov"	glx						useitem				corruption			21	21	reduce-ac			15	20																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	14		2	"glov"	glx						useitem				corruption			21	21	heal-kill			3	5																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	16		2	"glov"	glx						useitem				corruption			21	21	ar			100	150																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	17		2	"glov"	glx						useitem				corruption			21	21	dmg%			30	40																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	18		2	"glov"	glx						useitem				corruption			21	21	str			3	6	dex			3	6	vit			3	6	enr			3	6																																																											0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	19		2	"glov"	glx						useitem				corruption			21	21	dex			10	15																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	20		2	"glov"	glx						useitem				corruption			21	21	str			10	15																																																																										0
+GLOVES - MAGIC AND UP CASTER RECIPE																																																																																																								0
+Gloves Corruption Tracker	0			100	16	361	0		2	"glov"	glx						useitem				corruption			1	20																																																																															0
+Gloves + Glyph -> Random Rare	0			100	16	361	5		2	"glov"	glx						"usetype,rar"		100	100	corruption			21	21																																																																															0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	0			100	16	361	6		2	"glov"	glx						useitem				corruption			21	21	cast1			5	10																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	0			100	16	361	8		2	"glov"	glx						useitem				corruption			21	21	manakill			3	5																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	0			100	16	361	10		2	"glov"	glx						useitem				corruption			21	21	mag%			10	20																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	0			100	16	361	12		2	"glov"	glx						useitem				corruption			21	21	block			5	10																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	0			100	16	361	14		2	"glov"	glx						useitem				corruption			21	21	block2			10	20																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	0			100	16	361	16		2	"glov"	glx						useitem				corruption			21	21	regen-mana			25	30																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	0			100	16	361	17		2	"glov"	glx						useitem				corruption			21	21	res-all			4	8																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	0			100	16	361	18		2	"glov"	glx						useitem				corruption			21	21	str			3	6	dex			3	6	vit			3	6	enr			3	6																																																											0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	0			100	16	361	19		2	"glov"	glx						useitem				corruption			21	21	vit			10	15																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	0			100	16	361	20		2	"glov"	glx						useitem				corruption			21	21	str			10	15																																																																										0
+BELTS - NORMAL CATCHER	0																																																																																																							0
+Normal Belt + Glyph -> Corrupted Belt	1			100	16	361	20		2	"belt,nor"	glx						useitem				corruption			21	21																																																																															0
+Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		2	"belt,hiq"	glx						useitem				corruption			21	21																																																																															0
+Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		2	"belt,low"	glx						useitem				corruption			21	21																																																																															0
+BELTS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
+Belt Corruption Tracker	1			100	16	361	0		2	"belt"	glx						useitem				corruption			1	20																																																																															0
+Belt + Glyph -> Random Rare	1			100	16	361	5		2	"belt"	glx						"usetype,rar"		100	100	corruption			21	21																																																																															0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	6		2	"belt"	glx						useitem				corruption			21	21	pierce			10	15																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	8		2	"belt"	glx						useitem				corruption			21	21	swing1			10	10																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	10		2	"belt"	glx						useitem				corruption			21	21	res-fire			5	8	res-cold			5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	12		2	"belt"	glx						useitem				corruption			21	21	res-cold			5	8	res-ltng			5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	14		2	"belt"	glx						useitem				corruption			21	21	res-ltng			5	8	res-fire			5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	16		2	"belt"	glx						useitem				corruption			21	21	balance2			8	14																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	17		2	"belt"	glx						useitem				corruption			21	21	str			3	6	dex			3	6	vit			3	6	enr			3	6																																																											0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	18		2	"belt"	glx						useitem				corruption			21	21	move1			8	12																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	19		2	"belt"	glx						useitem				corruption			21	21	res-all			4	4																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	20		2	"belt"	glx						useitem				corruption			21	21	red-dmg%			2	4																																																																										0
+BELTS - MAGIC AND UP CASTER RECIPE																																																																																																								0
+Belt Corruption Tracker	0			100	16	361	0		2	"belt"	glx						useitem				corruption			1	20																																																																															0
+Belt + Glyph -> Random Rare	0			100	16	361	5		2	"belt"	glx						"usetype,rar"		100	100	corruption			21	21																																																																															0
+Belt + Glyph -> Corrupted Belt With Useful Stat	0			100	16	361	6		2	"belt"	glx						useitem				corruption			21	21	cast1			10	10																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	0			100	16	361	8		2	"belt"	glx						useitem				corruption			21	21	regen-mana			20	30																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	0			100	16	361	10		2	"belt"	glx						useitem				corruption			21	21	res-fire			5	8	res-cold			5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	0			100	16	361	12		2	"belt"	glx						useitem				corruption			21	21	res-cold			5	8	res-ltng			5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	0			100	16	361	14		2	"belt"	glx						useitem				corruption			21	21	res-ltng			5	8	res-fire			5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	0			100	16	361	16		2	"belt"	glx						useitem				corruption			21	21	balance2			8	14																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	0			100	16	361	17		2	"belt"	glx						useitem				corruption			21	21	str			3	6	dex			3	6	vit			3	6	enr			3	6																																																											0
+Belt + Glyph -> Corrupted Belt With Useful Stat	0			100	16	361	18		2	"belt"	glx						useitem				corruption			21	21	move1			8	12																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	0			100	16	361	19		2	"belt"	glx						useitem				corruption			21	21	res-all			5	5																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	0			100	16	361	20		2	"belt"	glx						useitem				corruption			21	21	red-dmg%			2	4																																																																										0
+RINGS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
+Ring Corruption Tracker	0																																																																																																							0
+Ring + Glyph -> Random Rare	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+RINGS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
+Ring Corruption Tracker	0																																																																																																							0
+Ring + Glyph -> Random Rare	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+Ring + Glyph -> Corrupted Ring With Useful Stat	0																																																																																																							0
+AMULETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
+Amulet Corruption Tracker	0																																																																																																							0
+Amulet + Glyph -> Random Rare	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+AMULETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
+Amulet Corruption Tracker	0																																																																																																							0
+Amulet + Glyph -> Random Rare	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	0																																																																																																							0
 AMULETS	0																																																																																																							0
 Unique Amulet Corruption Tracker	0			100	16	361	0		2	"amul,uni"	glx						useitem				corruption			1	10																					glx																																																										0
 Unique Amulet + pSkull  -> Random Rare	0			100	16	361	5		2	"amul,uni"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
@@ -832,337 +936,6 @@ Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	1
 Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	8		2	"ring,uni"	glx						useitem				corruption			11	11	hp			15	15																																																																										0
 Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	9		2	"ring,uni"	glx						useitem				corruption			11	11	red-dmg%			5	6																																																																										0
 Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	10		2	"ring,uni"	glx						useitem				corruption			11	11	mag%			10	10																																																																										0
-BELTS	0																																																																																																							0
-Unique Belt Corruption Tracker	0			100	16	361	0		2	"belt,uni"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Belt + pSkull  -> Random Rare	0			100	16	361	5		2	"belt,uni"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	6		2	"belt,uni"	glx						useitem				corruption			11	11	pierce			8	8																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	7		2	"belt,uni"	glx						useitem				corruption			11	11	res-ltng-max			2	2																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	8		2	"belt,uni"	glx						useitem				corruption			11	11	res-cold-max			2	2																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	9		2	"belt,uni"	glx						useitem				corruption			11	11	res-pois-max			2	2																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	10		2	"belt,uni"	glx						useitem				corruption			11	11	res-fire-max			2	2																																																																										0
-UNIQUE - SOCKETS	0																																																																																																							0
-WEAPONS	0																																																																																																							0
-Unique Weapon Corruption Tracker	0			100	16	361	0		2	"weap,uni"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Weapon + pSkull  -> Random Rare	0			100	16	361	10		2	"weap,uni"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	11		2	"weap,uni"	glx						useitem				corruption			16	16	dmg%			35	50																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	12		2	"weap,uni"	glx						useitem				corruption			16	16	deadly			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	13		2	"weap,uni"	glx						useitem				corruption			16	16	dmg/lvl			8	8																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	14		2	"weap,uni"	glx						useitem				corruption			16	16	crush			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	15		2	"weap,uni"	glx						useitem				corruption			16	16	swing1			10	15																																																																										0
-TORSO	0																																																																																																							0
-Unique Armor Corruption Tracker	0			100	16	361	0		2	"tors,uni"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Armor + pSkull  -> Random Rare	0			100	16	361	10		2	"tors,uni"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	11		2	"tors,uni"	glx						useitem				corruption			16	16	swing1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	12		2	"tors,uni"	glx						useitem				corruption			16	16	ac%			15	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	13		2	"tors,uni"	glx						useitem				corruption			16	16	att%			10	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	14		2	"tors,uni"	glx						useitem				corruption			16	16	cast1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	15		2	"tors,uni"	glx						useitem				corruption			16	16	hp%			2	2																																																																										0
-HELMS	0																																																																																																							0
-Unique Helm Corruption Tracker	0			100	16	361	0		2	"helm,uni"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Helm + pSkull  -> Random Rare	0			100	16	361	10		2	"helm,uni"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	11		2	"helm,uni"	glx						useitem				corruption			16	16	str			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	12		2	"helm,uni"	glx						useitem				corruption			16	16	enr			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	13		2	"helm,uni"	glx						useitem				corruption			16	16	lifesteal			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	14		2	"helm,uni"	glx						useitem				corruption			16	16	hp			10	15																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	15		2	"helm,uni"	glx						useitem				corruption			16	16	ac%			20	25																																																																										0
-SHIELDS	0																																																																																																							0
-Unique Shield Corruption Tracker	0			100	16	361	0		2	"shld,uni"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Shield + pSkull  -> Random Rare	0			100	16	361	10		2	"shld,uni"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	11		2	"shld,uni"	glx						useitem				corruption			16	16	block1			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	12		2	"shld,uni"	glx						useitem				corruption			16	16	extra-fire			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	13		2	"shld,uni"	glx						useitem				corruption			16	16	extra-ltng			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	14		2	"shld,uni"	glx						useitem				corruption			16	16	extra-cold			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	15		2	"shld,uni"	glx						useitem				corruption			16	16	extra-pois			10	10																																																																										0
-SET NO SOCKETS	0																																																																																																							0
-WEAPONS	0																																																																																																							0
-Unique Weapon Corruption Tracker	0			100	16	361	0		2	"weap,set,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Sockets	0			100	16	361	5		2	"weap,set,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Weapon + pSkull  -> Random Rare	0			100	16	361	10		2	"weap,set,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	11		2	"weap,set,nos"	glx						useitem				corruption			16	16	dmg%			35	50																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	12		2	"weap,set,nos"	glx						useitem				corruption			16	16	deadly			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	13		2	"weap,set,nos"	glx						useitem				corruption			16	16	dmg/lvl			8	8																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	14		2	"weap,set,nos"	glx						useitem				corruption			16	16	crush			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	15		2	"weap,set,nos"	glx						useitem				corruption			16	16	swing1			10	15																																																																										0
-TORSO	0																																																																																																							0
-Unique Armor Corruption Tracker	0			100	16	361	0		2	"tors,set,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Armor + pSkull -> Corrupted Unique Armor With Sockets	0			100	16	361	5		2	"tors,set,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Armor + pSkull  -> Random Rare	0			100	16	361	10		2	"tors,set,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	11		2	"tors,set,nos"	glx						useitem				corruption			16	16	swing1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	12		2	"tors,set,nos"	glx						useitem				corruption			16	16	ac%			15	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	13		2	"tors,set,nos"	glx						useitem				corruption			16	16	att%			10	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	14		2	"tors,set,nos"	glx						useitem				corruption			16	16	cast1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	15		2	"tors,set,nos"	glx						useitem				corruption			16	16	hp%			2	2																																																																										0
-HELMS	0																																																																																																							0
-Unique Helm Corruption Tracker	0			100	16	361	0		2	"helm,set,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Sockets	0			100	16	361	5		2	"helm,set,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Helm + pSkull  -> Random Rare	0			100	16	361	10		2	"helm,set,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	11		2	"helm,set,nos"	glx						useitem				corruption			16	16	str			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	12		2	"helm,set,nos"	glx						useitem				corruption			16	16	enr			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	13		2	"helm,set,nos"	glx						useitem				corruption			16	16	lifesteal			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	14		2	"helm,set,nos"	glx						useitem				corruption			16	16	hp			10	15																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	15		2	"helm,set,nos"	glx						useitem				corruption			16	16	ac%			20	25																																																																										0
-SHIELDS (OLD)	0																																																																																																							0
-Unique Shield Corruption Tracker	0			100	16	361	0		2	"shld,set,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Sockets	0			100	16	361	5		2	"shld,set,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Shield + pSkull  -> Random Rare	0			100	16	361	10		2	"shld,set,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	11		2	"shld,set,nos"	glx						useitem				corruption			16	16	block1			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	12		2	"shld,set,nos"	glx						useitem				corruption			16	16	extra-fire			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	13		2	"shld,set,nos"	glx						useitem				corruption			16	16	extra-ltng			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	14		2	"shld,set,nos"	glx						useitem				corruption			16	16	extra-cold			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	15		2	"shld,set,nos"	glx						useitem				corruption			16	16	extra-pois			10	10																																																																										0
-BOOTS	0																																																																																																							0
-Unique Boots Corruption Tracker	0			100	16	361	0		2	"boot,set"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Boots + pSkull  -> Random Rare	0			100	16	361	5		2	"boot,set"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Boots + pSkull  -> Corrupted Unique Boots With Random Useful Stat	0			100	16	361	6		2	"boot,set"	glx						useitem				corruption			11	11	res-fire			10	20																																																																										0
-Unique Boots + pSkull  -> Corrupted Unique Boots With Random Useful Stat	0			100	16	361	7		2	"boot,set"	glx						useitem				corruption			11	11	res-all			5	10																																																																										0
-Unique Boots + pSkull  -> Corrupted Unique Boots With Random Useful Stat	0			100	16	361	8		2	"boot,set"	glx						useitem				corruption			11	11	dex			5	10																																																																										0
-Unique Boots + pSkull  -> Corrupted Unique Boots With Random Useful Stat	0			100	16	361	9		2	"boot,set"	glx						useitem				corruption			11	11	res-ltng			10	20																																																																										0
-Unique Boots + pSkull  -> Corrupted Unique Boots With Random Useful Stat	0			100	16	361	10		2	"boot,set"	glx						useitem				corruption			11	11	move1			10	10																																																																										0
-GLOVES	0																																																																																																							0
-Unique Gloves Corruption Tracker	0			100	16	361	0		2	"glov,set"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Gloves + pSkull  -> Random Rare	0			100	16	361	5		2	"glov,set"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	6		2	"glov,set"	glx						useitem				corruption			11	11	swing1			10	10																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	7		2	"glov,set"	glx						useitem				corruption			11	11	res-cold			10	20																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	8		2	"glov,set"	glx						useitem				corruption			11	11	res-all			5	10																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	9		2	"glov,set"	glx						useitem				corruption			11	11	lifesteal			5	10																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	10		2	"glov,set"	glx						useitem				corruption			11	11	res-pois			10	20																																																																										0
-AMULETS	0																																																																																																							0
-Unique Amulet Corruption Tracker	0			100	16	361	0		2	"amul,set"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Amulet + pSkull  -> Random Rare	0			100	16	361	5		2	"amul,set"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Amulet + pSkull  -> Corrupted Unique Amulet With Random Useful Stat	0			100	16	361	6		2	"amul,set"	glx						useitem				corruption			11	11	res-all			5	5																																																																										0
-Unique Amulet + pSkull  -> Corrupted Unique Amulet With Random Useful Stat	0			100	16	361	7		2	"amul,set"	glx						useitem				corruption			11	11	allskills			1	1																																																																										0
-Unique Amulet + pSkull  -> Corrupted Unique Amulet With Random Useful Stat	0			100	16	361	8		2	"amul,set"	glx						useitem				corruption			11	11	regen-mana			15	15																																																																										0
-Unique Amulet + pSkull  -> Corrupted Unique Amulet With Random Useful Stat	0			100	16	361	9		2	"amul,set"	glx						useitem				corruption			11	11	mag%			10	10																																																																										0
-Unique Amulet + pSkull  -> Corrupted Unique Amulet With Random Useful Stat	0			100	16	361	10		2	"amul,set"	glx						useitem				corruption			11	11	hp			12	18																																																																										0
-RINGS	0																																																																																																							0
-Unique Ring Corruption Tracker	0			100	16	361	0		2	"ring,set"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Ring + pSkull  -> Random Rare	0			100	16	361	5		2	"ring,set"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	6		2	"ring,set"	glx						useitem				corruption			11	11	cast1			10	10																																																																										0
-Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	7		2	"ring,set"	glx						useitem				corruption			11	11	move1			10	10																																																																										0
-Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	8		2	"ring,set"	glx						useitem				corruption			11	11	hp			15	15																																																																										0
-Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	9		2	"ring,set"	glx						useitem				corruption			11	11	red-dmg%			5	6																																																																										0
-Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	10		2	"ring,set"	glx						useitem				corruption			11	11	mag%			10	10																																																																										0
-BELTS	0																																																																																																							0
-Unique Belt Corruption Tracker	0			100	16	361	0		2	"belt,set"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Belt + pSkull  -> Random Rare	0			100	16	361	5		2	"belt,set"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	6		2	"belt,set"	glx						useitem				corruption			11	11	pierce			8	8																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	7		2	"belt,set"	glx						useitem				corruption			11	11	res-ltng-max			2	2																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	8		2	"belt,set"	glx						useitem				corruption			11	11	res-cold-max			2	2																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	9		2	"belt,set"	glx						useitem				corruption			11	11	res-pois-max			2	2																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	10		2	"belt,set"	glx						useitem				corruption			11	11	res-fire-max			2	2																																																																										0
-SET SOCKETS	0																																																																																																							0
-WEAPONS	0																																																																																																							0
-Unique Weapon Corruption Tracker	0			100	16	361	0		2	"weap,set"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Weapon + pSkull  -> Random Rare	0			100	16	361	10		2	"weap,set"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	11		2	"weap,set"	glx						useitem				corruption			16	16	dmg%			35	50																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	12		2	"weap,set"	glx						useitem				corruption			16	16	deadly			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	13		2	"weap,set"	glx						useitem				corruption			16	16	dmg/lvl			8	8																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	14		2	"weap,set"	glx						useitem				corruption			16	16	crush			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	15		2	"weap,set"	glx						useitem				corruption			16	16	swing1			10	15																																																																										0
-TORSO	0																																																																																																							0
-Unique Armor Corruption Tracker	0			100	16	361	0		2	"tors,set"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Armor + pSkull  -> Random Rare	0			100	16	361	10		2	"tors,set"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	11		2	"tors,set"	glx						useitem				corruption			16	16	swing1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	12		2	"tors,set"	glx						useitem				corruption			16	16	ac%			15	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	13		2	"tors,set"	glx						useitem				corruption			16	16	att%			10	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	14		2	"tors,set"	glx						useitem				corruption			16	16	cast1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	15		2	"tors,set"	glx						useitem				corruption			16	16	hp%			2	2																																																																										0
-HELMS	0																																																																																																							0
-Unique Helm Corruption Tracker	0			100	16	361	0		2	"helm,set"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Helm + pSkull  -> Random Rare	0			100	16	361	10		2	"helm,set"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	11		2	"helm,set"	glx						useitem				corruption			16	16	str			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	12		2	"helm,set"	glx						useitem				corruption			16	16	enr			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	13		2	"helm,set"	glx						useitem				corruption			16	16	lifesteal			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	14		2	"helm,set"	glx						useitem				corruption			16	16	hp			10	15																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	15		2	"helm,set"	glx						useitem				corruption			16	16	ac%			20	25																																																																										0
-SHIELDS	0																																																																																																							0
-Unique Shield Corruption Tracker	0			100	16	361	0		2	"shld,set"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Shield + pSkull  -> Random Rare	0			100	16	361	10		2	"shld,set"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	11		2	"shld,set"	glx						useitem				corruption			16	16	block1			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	12		2	"shld,set"	glx						useitem				corruption			16	16	extra-fire			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	13		2	"shld,set"	glx						useitem				corruption			16	16	extra-ltng			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	14		2	"shld,set"	glx						useitem				corruption			16	16	extra-cold			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	15		2	"shld,set"	glx						useitem				corruption			16	16	extra-pois			10	10																																																																										0
-CRAFT NO SOCKETS	0																																																																																																							0
-WEAPONS	0																																																																																																							0
-Unique Weapon Corruption Tracker	0			100	16	361	0		2	"weap,crf,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Sockets	0			100	16	361	5		2	"weap,crf,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Weapon + pSkull  -> Random Rare	0			100	16	361	10		2	"weap,crf,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	11		2	"weap,crf,nos"	glx						useitem				corruption			16	16	dmg%			35	50																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	12		2	"weap,crf,nos"	glx						useitem				corruption			16	16	deadly			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	13		2	"weap,crf,nos"	glx						useitem				corruption			16	16	dmg/lvl			8	8																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	14		2	"weap,crf,nos"	glx						useitem				corruption			16	16	crush			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	15		2	"weap,crf,nos"	glx						useitem				corruption			16	16	swing1			10	15																																																																										0
-TORSO	0																																																																																																							0
-Unique Armor Corruption Tracker	0			100	16	361	0		2	"tors,crf,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Armor + pSkull -> Corrupted Unique Armor With Sockets	0			100	16	361	5		2	"tors,crf,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Armor + pSkull  -> Random Rare	0			100	16	361	10		2	"tors,crf,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	11		2	"tors,crf,nos"	glx						useitem				corruption			16	16	swing1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	12		2	"tors,crf,nos"	glx						useitem				corruption			16	16	ac%			15	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	13		2	"tors,crf,nos"	glx						useitem				corruption			16	16	att%			10	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	14		2	"tors,crf,nos"	glx						useitem				corruption			16	16	cast1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	15		2	"tors,crf,nos"	glx						useitem				corruption			16	16	hp%			2	2																																																																										0
-HELMS	0																																																																																																							0
-Unique Helm Corruption Tracker	0			100	16	361	0		2	"helm,crf,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Sockets	0			100	16	361	5		2	"helm,crf,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Helm + pSkull  -> Random Rare	0			100	16	361	10		2	"helm,crf,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	11		2	"helm,crf,nos"	glx						useitem				corruption			16	16	str			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	12		2	"helm,crf,nos"	glx						useitem				corruption			16	16	enr			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	13		2	"helm,crf,nos"	glx						useitem				corruption			16	16	lifesteal			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	14		2	"helm,crf,nos"	glx						useitem				corruption			16	16	hp			10	15																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	15		2	"helm,crf,nos"	glx						useitem				corruption			16	16	ac%			20	25																																																																										0
-SHIELDS	0																																																																																																							0
-Unique Shield Corruption Tracker	0			100	16	361	0		2	"shld,crf,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Sockets	0			100	16	361	5		2	"shld,crf,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Shield + pSkull  -> Random Rare	0			100	16	361	10		2	"shld,crf,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	11		2	"shld,crf,nos"	glx						useitem				corruption			16	16	block1			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	12		2	"shld,crf,nos"	glx						useitem				corruption			16	16	extra-fire			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	13		2	"shld,crf,nos"	glx						useitem				corruption			16	16	extra-ltng			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	14		2	"shld,crf,nos"	glx						useitem				corruption			16	16	extra-cold			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	15		2	"shld,crf,nos"	glx						useitem				corruption			16	16	extra-pois			10	10																																																																										0
-BOOTS	0																																																																																																							0
-Unique Boots Corruption Tracker	0			100	16	361	0		2	"boot,crf"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Boots + pSkull  -> Random Rare	0			100	16	361	5		2	"boot,crf"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Boots + pSkull  -> Corrupted Unique Boots With Random Useful Stat	0			100	16	361	6		2	"boot,crf"	glx						useitem				corruption			11	11	res-fire			10	20																																																																										0
-Unique Boots + pSkull  -> Corrupted Unique Boots With Random Useful Stat	0			100	16	361	7		2	"boot,crf"	glx						useitem				corruption			11	11	res-all			5	10																																																																										0
-Unique Boots + pSkull  -> Corrupted Unique Boots With Random Useful Stat	0			100	16	361	8		2	"boot,crf"	glx						useitem				corruption			11	11	dex			5	10																																																																										0
-Unique Boots + pSkull  -> Corrupted Unique Boots With Random Useful Stat	0			100	16	361	9		2	"boot,crf"	glx						useitem				corruption			11	11	res-ltng			10	20																																																																										0
-Unique Boots + pSkull  -> Corrupted Unique Boots With Random Useful Stat	0			100	16	361	10		2	"boot,crf"	glx						useitem				corruption			11	11	move1			10	10																																																																										0
-GLOVES	0																																																																																																							0
-Unique Gloves Corruption Tracker	0			100	16	361	0		2	"glov,crf"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Gloves + pSkull  -> Random Rare	0			100	16	361	5		2	"glov,crf"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	6		2	"glov,crf"	glx						useitem				corruption			11	11	swing1			10	10																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	7		2	"glov,crf"	glx						useitem				corruption			11	11	res-cold			10	20																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	8		2	"glov,crf"	glx						useitem				corruption			11	11	res-all			5	10																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	9		2	"glov,crf"	glx						useitem				corruption			11	11	lifesteal			5	10																																																																										0
-Unique Gloves + pSkull  -> Corrupted Unique Gloves With Random Useful Stat	0			100	16	361	10		2	"glov,crf"	glx						useitem				corruption			11	11	res-pois			10	20																																																																										0
-AMULETS	0																																																																																																							0
-Unique Amulet Corruption Tracker	0			100	16	361	0		2	"amul,crf"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Amulet + pSkull  -> Random Rare	0			100	16	361	5		2	"amul,crf"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Amulet + pSkull  -> Corrupted Unique Amulet With Random Useful Stat	0			100	16	361	6		2	"amul,crf"	glx						useitem				corruption			11	11	res-all			5	5																																																																										0
-Unique Amulet + pSkull  -> Corrupted Unique Amulet With Random Useful Stat	0			100	16	361	7		2	"amul,crf"	glx						useitem				corruption			11	11	allskills			1	1																																																																										0
-Unique Amulet + pSkull  -> Corrupted Unique Amulet With Random Useful Stat	0			100	16	361	8		2	"amul,crf"	glx						useitem				corruption			11	11	regen-mana			15	15																																																																										0
-Unique Amulet + pSkull  -> Corrupted Unique Amulet With Random Useful Stat	0			100	16	361	9		2	"amul,crf"	glx						useitem				corruption			11	11	mag%			10	10																																																																										0
-Unique Amulet + pSkull  -> Corrupted Unique Amulet With Random Useful Stat	0			100	16	361	10		2	"amul,crf"	glx						useitem				corruption			11	11	hp			12	18																																																																										0
-RINGS	0																																																																																																							0
-Unique Ring Corruption Tracker	0			100	16	361	0		2	"ring,crf"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Ring + pSkull  -> Random Rare	0			100	16	361	5		2	"ring,crf"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	6		2	"ring,crf"	glx						useitem				corruption			11	11	cast1			10	10																																																																										0
-Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	7		2	"ring,crf"	glx						useitem				corruption			11	11	move1			10	10																																																																										0
-Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	8		2	"ring,crf"	glx						useitem				corruption			11	11	hp			15	15																																																																										0
-Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	9		2	"ring,crf"	glx						useitem				corruption			11	11	red-dmg%			5	6																																																																										0
-Unique Ring + pSkull  -> Corrupted Unique Ring With Random Useful Stat	0			100	16	361	10		2	"ring,crf"	glx						useitem				corruption			11	11	mag%			10	10																																																																										0
-BELTS	0																																																																																																							0
-Unique Belt Corruption Tracker	0			100	16	361	0		2	"belt,crf"	glx						useitem				corruption			1	10																					glx																																																										0
-Unique Belt + pSkull  -> Random Rare	0			100	16	361	5		2	"belt,crf"	glx						"usetype,rar"		100	100	corruption			11	11																																																																															0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	6		2	"belt,crf"	glx						useitem				corruption			11	11	pierce			8	8																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	7		2	"belt,crf"	glx						useitem				corruption			11	11	res-ltng-max			2	2																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	8		2	"belt,crf"	glx						useitem				corruption			11	11	res-cold-max			2	2																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	9		2	"belt,crf"	glx						useitem				corruption			11	11	res-pois-max			2	2																																																																										0
-Unique Belt + pSkull  -> Corrupted Unique Belt With Random Useful Stat	0			100	16	361	10		2	"belt,crf"	glx						useitem				corruption			11	11	res-fire-max			2	2																																																																										0
-CRAFT - SOCKETS	0																																																																																																							0
-WEAPONS	0																																																																																																							0
-Unique Weapon Corruption Tracker	0			100	16	361	0		2	"weap,crf"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Weapon + pSkull  -> Random Rare	0			100	16	361	10		2	"weap,crf"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	11		2	"weap,crf"	glx						useitem				corruption			16	16	dmg%			35	50																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	12		2	"weap,crf"	glx						useitem				corruption			16	16	deadly			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	13		2	"weap,crf"	glx						useitem				corruption			16	16	dmg/lvl			8	8																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	14		2	"weap,crf"	glx						useitem				corruption			16	16	crush			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	15		2	"weap,crf"	glx						useitem				corruption			16	16	swing1			10	15																																																																										0
-TORSO	0																																																																																																							0
-Unique Armor Corruption Tracker	0			100	16	361	0		2	"tors,crf"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Armor + pSkull  -> Random Rare	0			100	16	361	10		2	"tors,crf"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	11		2	"tors,crf"	glx						useitem				corruption			16	16	swing1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	12		2	"tors,crf"	glx						useitem				corruption			16	16	ac%			15	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	13		2	"tors,crf"	glx						useitem				corruption			16	16	att%			10	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	14		2	"tors,crf"	glx						useitem				corruption			16	16	cast1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	15		2	"tors,crf"	glx						useitem				corruption			16	16	hp%			2	2																																																																										0
-HELMS	0																																																																																																							0
-Unique Helm Corruption Tracker	0			100	16	361	0		2	"helm,crf"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Helm + pSkull  -> Random Rare	0			100	16	361	10		2	"helm,crf"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	11		2	"helm,crf"	glx						useitem				corruption			16	16	str			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	12		2	"helm,crf"	glx						useitem				corruption			16	16	enr			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	13		2	"helm,crf"	glx						useitem				corruption			16	16	lifesteal			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	14		2	"helm,crf"	glx						useitem				corruption			16	16	hp			10	15																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	15		2	"helm,crf"	glx						useitem				corruption			16	16	ac%			20	25																																																																										0
-SHIELDS	0																																																																																																							0
-Unique Shield Corruption Tracker	0			100	16	361	0		2	"shld,crf"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Shield + pSkull  -> Random Rare	0			100	16	361	10		2	"shld,crf"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	11		2	"shld,crf"	glx						useitem				corruption			16	16	block1			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	12		2	"shld,crf"	glx						useitem				corruption			16	16	extra-fire			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	13		2	"shld,crf"	glx						useitem				corruption			16	16	extra-ltng			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	14		2	"shld,crf"	glx						useitem				corruption			16	16	extra-cold			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	15		2	"shld,crf"	glx						useitem				corruption			16	16	extra-pois			10	10																																																																										0
-SUPERIOR NO SOCKETS	0																																																																																																							0
-WEAPONS	0																																																																																																							0
-Unique Weapon Corruption Tracker	0			100	16	361	0		2	"weap,hiq,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Sockets	0			100	16	361	5		2	"weap,hiq,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Weapon + pSkull  -> Random Rare	0			100	16	361	10		2	"weap,hiq,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	11		2	"weap,hiq,nos"	glx						useitem				corruption			16	16	dmg%			35	50																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	12		2	"weap,hiq,nos"	glx						useitem				corruption			16	16	deadly			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	13		2	"weap,hiq,nos"	glx						useitem				corruption			16	16	dmg/lvl			8	8																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	14		2	"weap,hiq,nos"	glx						useitem				corruption			16	16	crush			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	15		2	"weap,hiq,nos"	glx						useitem				corruption			16	16	swing1			10	15																																																																										0
-TORSO	0																																																																																																							0
-Unique Armor Corruption Tracker	0			100	16	361	0		2	"tors,hiq,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Armor + pSkull -> Corrupted Unique Armor With Sockets	0			100	16	361	5		2	"tors,hiq,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Armor + pSkull  -> Random Rare	0			100	16	361	10		2	"tors,hiq,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	11		2	"tors,hiq,nos"	glx						useitem				corruption			16	16	swing1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	12		2	"tors,hiq,nos"	glx						useitem				corruption			16	16	ac%			15	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	13		2	"tors,hiq,nos"	glx						useitem				corruption			16	16	att%			10	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	14		2	"tors,hiq,nos"	glx						useitem				corruption			16	16	cast1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	15		2	"tors,hiq,nos"	glx						useitem				corruption			16	16	hp%			2	2																																																																										0
-HELMS	0																																																																																																							0
-Unique Helm Corruption Tracker	0			100	16	361	0		2	"helm,hiq,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Sockets	0			100	16	361	5		2	"helm,hiq,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Helm + pSkull  -> Random Rare	0			100	16	361	10		2	"helm,hiq,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	11		2	"helm,hiq,nos"	glx						useitem				corruption			16	16	str			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	12		2	"helm,hiq,nos"	glx						useitem				corruption			16	16	enr			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	13		2	"helm,hiq,nos"	glx						useitem				corruption			16	16	lifesteal			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	14		2	"helm,hiq,nos"	glx						useitem				corruption			16	16	hp			10	15																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	15		2	"helm,hiq,nos"	glx						useitem				corruption			16	16	ac%			20	25																																																																										0
-SHIELDS	0																																																																																																							0
-Unique Shield Corruption Tracker	0			100	16	361	0		2	"shld,hiq,nos"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Sockets	0			100	16	361	5		2	"shld,hiq,nos"	glx						useitem				sock			1	6	corruption			16	16																																																																										0
-Unique Shield + pSkull  -> Random Rare	0			100	16	361	10		2	"shld,hiq,nos"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	11		2	"shld,hiq,nos"	glx						useitem				corruption			16	16	block1			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	12		2	"shld,hiq,nos"	glx						useitem				corruption			16	16	extra-fire			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	13		2	"shld,hiq,nos"	glx						useitem				corruption			16	16	extra-ltng			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	14		2	"shld,hiq,nos"	glx						useitem				corruption			16	16	extra-cold			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	15		2	"shld,hiq,nos"	glx						useitem				corruption			16	16	extra-pois			10	10																																																																										0
-SUPERIOR SOCKETS	0																																																																																																							0
-WEAPONS	0																																																																																																							0
-Superior Weapon Corruption Tracker	0			100	16	361	0		2	"weap,hiq"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Weapon + pSkull  -> Random Rare	0			100	16	361	10		2	"weap,hiq"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	11		2	"weap,hiq"	glx						useitem				corruption			16	16	dmg%			35	50																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	12		2	"weap,hiq"	glx						useitem				corruption			16	16	deadly			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	13		2	"weap,hiq"	glx						useitem				corruption			16	16	dmg/lvl			8	8																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	14		2	"weap,hiq"	glx						useitem				corruption			16	16	crush			10	10																																																																										0
-Unique Weapon + pSkull  -> Corrupted Unique Weapon With Useful Stat	0			100	16	361	15		2	"weap,hiq"	glx						useitem				corruption			16	16	swing1			10	15																																																																										0
-TORSO	0																																																																																																							0
-Unique Armor Corruption Tracker	0			100	16	361	0		2	"tors,hiq"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Armor + pSkull  -> Random Rare	0			100	16	361	10		2	"tors,hiq"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	11		2	"tors,hiq"	glx						useitem				corruption			16	16	swing1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	12		2	"tors,hiq"	glx						useitem				corruption			16	16	ac%			15	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	13		2	"tors,hiq"	glx						useitem				corruption			16	16	att%			10	20																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	14		2	"tors,hiq"	glx						useitem				corruption			16	16	cast1			10	10																																																																										0
-Unique Armor + pSkull  -> Corrupted Unique Armor With Random Useful Stat	0			100	16	361	15		2	"tors,hiq"	glx						useitem				corruption			16	16	hp%			2	2																																																																										0
-HELMS	0																																																																																																							0
-Unique Helm Corruption Tracker	0			100	16	361	0		2	"helm,hiq"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Helm + pSkull  -> Random Rare	0			100	16	361	10		2	"helm,hiq"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	11		2	"helm,hiq"	glx						useitem				corruption			16	16	str			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	12		2	"helm,hiq"	glx						useitem				corruption			16	16	enr			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	13		2	"helm,hiq"	glx						useitem				corruption			16	16	lifesteal			5	10																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	14		2	"helm,hiq"	glx						useitem				corruption			16	16	hp			10	15																																																																										0
-Unique Helm + pSkull  -> Corrupted Unique Helm With Random Useful Stat	0			100	16	361	15		2	"helm,hiq"	glx						useitem				corruption			16	16	ac%			20	25																																																																										0
-SHIELDS	0																																																																																																							0
-Unique Shield Corruption Tracker	0			100	16	361	0		2	"shld,hiq"	glx						useitem				corruption			1	15																					glx																																																										0
-Unique Shield + pSkull  -> Random Rare	0			100	16	361	10		2	"shld,hiq"	glx						"usetype,rar"		100	100	corruption			16	16																																																																															0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	11		2	"shld,hiq"	glx						useitem				corruption			16	16	block1			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	12		2	"shld,hiq"	glx						useitem				corruption			16	16	extra-fire			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	13		2	"shld,hiq"	glx						useitem				corruption			16	16	extra-ltng			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	14		2	"shld,hiq"	glx						useitem				corruption			16	16	extra-cold			10	10																																																																										0
-Unique Shield + pSkull  -> Corrupted Unique Shield With Random Useful Stat	0			100	16	361	15		2	"shld,hiq"	glx						useitem				corruption			16	16	extra-pois			10	10																																																																										0
 ITEM TESTING	0																																																																																																							0
 hp1 -> test item 1	1			100					1	hp1							"oex"	100		100																										hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							"oco"	100		100																										hp2																																																										0
