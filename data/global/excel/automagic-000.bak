@@ -39,7 +39,7 @@ Splashing	100	1	1	1		1				1	306	splash	proc_SplashDamage	100	1										armo	wea
 Base Staff	100	1	1	1		1				1	307	cast2		10	10	res-all		10	10	red-dmg		3	6		armo	weap											0	0
 Exceptional Staff	100	1	1	1		1				1	308	cast2		30	30	res-all		15	15	red-dmg		12	16		armo	weap											0	0
 Elite Staff	100	1	1	1		1				1	309	cast2		50	50	res-all		20	20	red-dmg		24	30		armo	weap											0	0
-Sharp Knife	100	1	1	1		1				1	310	deadly		20	20	splash	proc_SplashDamage	100	1						armo	weap											0	0
+Sharp Knife	100	1	1	1		1				1	310	deadly		20	20										armo	weap											0	0
 Crushing Crossbow	100	1	1	1		1				1	311	crushing		10	10	dmg%		50	50						armo	weap											0	0
 Shinobi Throwing Knife	100	1	1	1		1				1	312	deadly		20	20	swing2		20	20	pierce		20	20		armo	weap											0	0
 Light Base Armor	100	1	1	1		1				1	313	move2		15	15	red-dmg		2	2						armo	weap											0	0
