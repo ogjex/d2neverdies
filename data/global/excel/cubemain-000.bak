@@ -537,11 +537,11 @@ WEAPONS - SUPERIOR 	0																																																											
 Corruption Tracker	1			100	16	361	0		2	"weap,hiq,nos"	glx						useitem				corruption			1	20																					glx																																																										0
 Weapon + Glyph  -> Random Rare	1			100	16	361	5		2	"weap,hiq,nos"	glx						"usetype,rar"		100	100	corruption			21	21	corruption			21	21																																																																										0
 Weapon + Glyph  -> Corrupted Unique Weapon With Sockets	1			100	16	361	20		2	"weap,hiq,nos"	glx						useitem				sock			1	6	corruption			21	21																																																																										0
-WEAPONS - SUPERIOR AND NORMAL SOCKETED CATCHER																																																																																																								0
-	1			100	16	361	21		3	"weap,hiq,sock"	glx	gpr					useitem				corruption			21	21																																																																															0
-	1			100	16	361	21		3	"weap,nor,sock"	glx	gpr					useitem				corruption			21	21																																																																															0
-	1			100	16	361	21		3	"weap,hiq,sock"	glx	gpb					useitem				corruption			21	21																																																																															0
-	1			100	16	361	21		3	"weap,nor,sock"	glx	gpb					useitem				corruption			21	21																																																																															0
+WEAPONS - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
+Weapon + Glyph + PRuby -> Corrupted Weapon	1			100	16	361	21		3	"weap,hiq,sock"	glx	gpr					useitem				corruption			21	21																																																																															0
+Weapon + Glyph + PSapph -> Corrupted Weapon	1			100	16	361	21		3	"weap,nor,sock"	glx	gpr					useitem				corruption			21	21																																																																															0
+Weapon + Glyph + PRuby -> Corrupted Weapon	1			100	16	361	21		3	"weap,hiq,sock"	glx	gpb					useitem				corruption			21	21																																																																															0
+Weapon + Glyph + PSapph -> Corrupted Weapon	1			100	16	361	21		3	"weap,nor,sock"	glx	gpb					useitem				corruption			21	21																																																																															0
 WEAPONS - NO SOCKETS - MAGIC AND UP - COMBAT RECIPE	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"weap,nos"	glx	gpr					useitem				corruption			1	20																					glx																													gpr																													0
 Weapon + Glyph  -> Corrupted Unique Weapon With Sockets	1			100	16	361	5		3	"weap,nos"	glx	gpr					useitem				sock			1	6	corruption			21	21																																																																										0
@@ -604,6 +604,11 @@ TORSO - SUPERIOR																																																																
 Corruption Tracker	1			100	16	361	0		2	"tors,hiq,nos"	glx						useitem				corruption			1	20																					glx																																																										0
 Armor + Glyph  -> Random Rare	1			100	16	361	5		2	"tors,hiq,nos"	glx						"usetype,rar"		100	100	corruption			21	21	corruption			21	21																																																																										0
 Armor + Glyph  -> Corrupted Armor With Sockets	1			100	16	361	20		2	"tors,hiq,nos"	glx						useitem				sock			1	6	corruption			21	21																																																																										0
+TORSO - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
+Armor + Glyph + PRuby -> Corrupted Armor	1			100	16	361	21		3	"tors,hiq,sock"	glx	gpr					useitem				corruption			21	21																																																																															0
+Armor + Glyph + PRuby -> Corrupted Armor	1			100	16	361	21		3	"tors,nor,sock"	glx	gpr					useitem				corruption			21	21																																																																															0
+Armor + Glyph + PSapph -> Corrupted Armor	1			100	16	361	21		3	"tors,hiq,sock"	glx	gpb					useitem				corruption			21	21																																																																															0
+Armor + Glyph + PSapph -> Corrupted Armor	1			100	16	361	21		3	"tors,nor,sock"	glx	gpb					useitem				corruption			21	21																																																																															0
 TORSO - NO SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
 Armor Corruption Tracker	1			100	16	361	0		3	"tors,nos"	glx	gpr					useitem				corruption			1	20																					glx																													gpr																													0
 Armor + Glyph -> Corrupted Armor With Sockets	1			100	16	361	5		3	"tors,nos"	glx	gpr					useitem				sock			1	6	corruption			21	21																																																																										0
@@ -666,6 +671,11 @@ HELM - SUPERIOR	0																																																															
 Corruption Tracker	1			100	16	361	0		2	"helm,hiq,nos"	glx						useitem				corruption			1	20																																																																															0
 Helmet + Glyph  -> Random Rare	1			100	16	361	5		2	"helm,hiq,nos"	glx						"usetype,rar"		100	100	corruption			21	21	corruption			21	21																																																																										0
 Helmet + Glyph  -> Corrupted Helmet With Sockets	1			100	16	361	20		2	"helm,hiq,nos"	glx						useitem				sock			1	6	corruption			21	21																																																																										0
+HELMS - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
+Helmet + Glyph + PRuby -> Corrupted Helmet	1			100	16	361	21		3	"helm,hiq,sock"	glx	gpr					useitem				corruption			21	21																																																																															0
+Helmet + Glyph + PRuby -> Corrupted Helmet	1			100	16	361	21		3	"helm,nor,sock"	glx	gpr					useitem				corruption			21	21																																																																															0
+Helmet + Glyph + PSapph -> Corrupted Helmet	1			100	16	361	21		3	"helm,hiq,sock"	glx	gpb					useitem				corruption			21	21																																																																															0
+Helmet + Glyph + PSapph -> Corrupted Helmet	1			100	16	361	21		3	"helm,nor,sock"	glx	gpb					useitem				corruption			21	21																																																																															0
 HELM - NO SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
 Helmet Corruption Tracker	1			100	16	361	0		3	"helm,nos"	glx	gpr					useitem				corruption			1	20																					glx																													gpr																													0
 Helmet + Glyph -> Corrupted Helmet With Sockets	1			100	16	361	5		3	"helm,nos"	glx	gpr					useitem				sock			1	6	corruption			21	21																																																																										0
@@ -728,6 +738,11 @@ SHIELD - SUPERIOR	0																																																													
 Corruption Tracker	1			100	16	361	0		2	"shld,hiq,nos"	glx						useitem				corruption			1	20																					glx																																																										0
 Shield + Glyph  -> Random Rare	1			100	16	361	5		2	"shld,hiq,nos"	glx						"usetype,rar"		100	100	corruption			21	21	corruption			21	21																																																																										0
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		2	"shld,hiq,nos"	glx						useitem				sock			1	6	corruption			21	21																																																																										0
+SHIELDS - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
+Shield + Glyph + PRuby -> Corrupted Shield	1			100	16	361	21		3	"shld,hiq,sock"	glx	gpr					useitem				corruption			21	21																																																																															0
+Shield + Glyph + PRuby -> Corrupted Shield	1			100	16	361	21		3	"shld,nor,sock"	glx	gpr					useitem				corruption			21	21																																																																															0
+Shield + Glyph + PSapph -> Corrupted Shield	1			100	16	361	21		3	"shld,hiq,sock"	glx	gpb					useitem				corruption			21	21																																																																															0
+Shield + Glyph + PSapph -> Corrupted Shield	1			100	16	361	21		3	"shld,nor,sock"	glx	gpb					useitem				corruption			21	21																																																																															0
 SHIELD - NO SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
 Shield Corruption Tracker	1			100	16	361	0		3	"shld,nos"	glx	gpr					useitem				corruption			1	20																					glx																													gpr																													0
 Shield + Glyph -> Corrupted Shield With Sockets	1			100	16	361	5		3	"shld,nos"	glx	gpr					useitem				sock			1	6	corruption			21	21																																																																										0
