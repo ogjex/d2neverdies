@@ -51,3 +51,9 @@ Caster Elite Armor	100	1	1	1		1				1	318	cast2		5	5	red-mag		6	7						armo	weap	
 Heavy Base Armor	100	1	1	1		1				1	319	red-dmg%		2	2	red-dmg		4	5						armo	weap											0	0
 Heavy Exceptional Armor	100	1	1	1		1				1	320	red-dmg%		4	4	red-dmg		9	10						armo	weap											0	0
 Heavy Elite Armor	100	1	1	1		1				1	321	red-dmg%		6	6	red-dmg		13	15						armo	weap											0	0
+Bone Shield	100	1	1	1		1				1	322	red-mag		4	6	red-dmg		4	5	regen-mana		10	10		armo	weap											0	0
+Grim Shield	100	1	1	1		1				1	323	red-mag		10	15	red-dmg		9	10	regen-mana		30	30		armo	weap											0	0
+Troll Nest	100	1	1	1		1				1	324	red-mag		15	20	red-dmg		13	15	regen-mana		50	50		armo	weap											0	0
+Spiked Shield	100	1	1	1		1				1	325	thorns		10	20	block2		5	5						armo	weap											0	0
+Barbed Shield	100	1	1	1		1				1	326	thorns		50	100	block2		10	10						armo	weap											0	0
+Blade Barrier	100	1	1	1		1				1	327	thorns		100	200	block2		15	15						armo	weap											0	0
