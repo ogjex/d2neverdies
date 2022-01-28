@@ -942,7 +942,7 @@ Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	"amul"	
 ITEM TESTING	0																																																																																																							0
 hp1 -> test item 1	1			100					1	hp1							gpr	100		100																										hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							gpb	100		100																										hp2																																																										0
-hp3 -> test item 3	1			100					1	hp3							"jfg"	100		100																										hp3																																																										0
+hp3 -> test item 3	1			100					1	hp3							"bac,uni"	100		100																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							"esc"	100		100																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							"esn"	100		100																										hp5																																																										0
 mp1 -> test item 6	1			100					1	mp1							"esx"	100		100																										mp1																																																										0
