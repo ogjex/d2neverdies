@@ -106,19 +106,19 @@ Bloodfist	103	0	1		1		12	9	vgl	Heavy Gloves		5	5000	oran	oran						dmg-max		5	10
 Chance Guards	104	0	1		1		20	15	mgl	Bracers		5	5000	lred	lred						gold%		200	200	mag%		25	40	att		25	25	ac		15	15	light		2	2	ac%		20	30	mana-kill		1	2																						0
 Magefist	105	0	1		1		31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20	20	regen-mana		15	25	fireskill		1	1	dmg-fire		6	36	ac		10	10	ac%		20	30																										0
 Frostburn	106	0	1		1		39	29	hgl	Gauntlets		5	5000	dred	dred						ac		20	40	dmg-fire		14	28	mana%		40	40	dmg-cold	50	6	22	ac%		10	20	pierce-cold		5	10	pierce-fire		5	10	dmg%		5	5																		0
-Hotspur	107	0	1		1		7	5	lbt	Leather Boots		5	5000	cred	cred						res-fire-max		5	10	hp		15	15	dmg-fire		3	6	ac		6	6	res-fire		45	45	ac%		10	20																										0
+Hotspur	107	0	1		1		7	5	lbt	Leather Boots		5	5000	cred	cred						res-fire-max		10	10	hp		15	15	dmg-fire		3	6	ac		6	6	res-fire		45	45	ac%		10	20																										0
 Gorefoot	108	0	1		1		12	9	vbt	Heavy Boots		5	5000	dblu	dblu						bloody		3	5	move2		20	20	manasteal		2	4	openwounds		18	18	ac		20	30	ac%		20	30	skill	132	2	2																						0
 Treads of Cthon	109	0	1		1		20	15	mbt	Chain Boots		5	5000	lgrn	lgrn						move2		30	30	ac-miss		50	50	stamdrain		50	50	hp		10	30	ac		12	12	ac%		30	40	pierce		10	20																						0
-Goblin Toe	110	0	1		1		30	22	tbt	Light Plate Boots		5	5000	dgry	dgry						crush		15	25	red-dmg		3	5	red-mag		3	5	ac		15	15	move2		20	20	ac%		50	60	dmg%		15	30																						0
-Tearhaunch	111	0	1		1		39	29	hbt	Plate Boots		5	5000	dgrn	dgrn						ac		35	35	str		5	5	dex		5	5	move2		20	20	res-all		10	10	ac%		60	80	skill	115	1	1	skilltab	11	1	2																		0
-Lenyms Cord	112	0	1		1		10	7	lbl	Sash		5	5000	cgrn	cgrn						mana		15	15	regen-mana		20	30	res-all		5	5	light		1	1	cast2		10	10																														0
+Goblin Toe	110	0	1		1		30	22	tbt	Light Plate Boots		5	5000	dgry	dgry						crush		15	25	red-dmg		3	5	red-mag		3	5	ac		15	15	move2		20	20	ac%		50	60	dmg%		20	30																						0
+Tearhaunch	111	0	1		1		39	29	hbt	Plate Boots		5	5000	dgrn	dgrn						ac		35	35	str		5	5	dex		5	5	move2		20	20	res-all		10	10	ac%		60	80	skill	115	2	2	skilltab	11	1	2																		0
+Lenyms Cord	112	0	1		1		10	7	lbl	Sash		5	5000	cgrn	cgrn						mana		15	15	regen-mana		30	30	res-all		5	5	light		1	1	cast2		10	10																														0
 Snakecord	113	0	1		1		16	12	vbl	Light Belt		5	5000	blac	blac						extra-pois		3	5	res-pois		25	25	ac		10	10	ac%		20	30	regen		5	15	res-pois-len		50	50																										0
 Nightsmoke	114	0	1		1		27	20	mbl	Belt		5	5000	lyel	lyel						res-all		10	10	dmg-to-mana		50	50	mana		20	20	red-dmg		2	2	ac		15	15	ac%		30	50																										0
-Goldwrap	115	0	1		1		36	27	tbl	Heavy Belt		5	5000	lblu	lblu						mag%		20	40	light		2	2	ac		25	25	swing2		20	20	ac%		40	60	gold%		50	80																										0
-Bladebuckle	116	0	1		1		39	29	hbl	Girdle		5	5000	dyel	dyel						thorns		420	480	ac		30	30	red-dmg		4	7	str		5	5	dex		10	10	ac%		80	100	balance2		20	30																						0
-Nokozan Relic	117	0	1		20		14	10	amu	Amulet		5	5000	lgld							fire-min		3	6	fire-max		7	12	res-fire-max		10	10	res-fire		25	50	light		3	3	balance2		20	30																										0
+Goldwrap	115	0	1		1		36	27	tbl	Heavy Belt		5	5000	lblu	lblu						mag%		30	40	light		2	2	ac		25	25	swing2		20	20	ac%		40	60	gold%		50	80																										0
+Bladebuckle	116	0	1		1		39	29	hbl	Girdle		5	5000	dyel	dyel						thorns		420	480	ac		30	30	red-dmg		5	15	str		5	5	dex		10	10	ac%		80	100	balance2		30	30																						0
+Nokozan Relic	117	0	1		20		14	10	amu	Amulet		5	5000	lgld							fire-min		3	6	fire-max		7	12	res-fire-max		10	10	res-fire		40	50	light		3	3	balance2		20	30	pierce-fire		5	10																						0
 The Eye of Etlich	118	0	1		5		20	15	amu	Amulet		5	5000	dgld							ac-miss		10	40	light		1	5	allskills		1	1	lifesteal		3	7	cold-min		4	6	cold-max		12	20	cold-len		50	250																						0
-The Mahim-Oak Curio	119	0	1		10		34	25	amu	Amulet		5	5000	lpur							all-stats		5	10	ac		5	10	att%		30	50	res-all		5	10	ac%		5	10	cast2		5	10																										0
+The Mahim-Oak Curio	119	0	1		10		34	25	amu	Amulet		5	5000	lpur							all-stats		5	10	ac		5	10	att%		40	50	res-all		5	10	ac%		5	10	cast2		10	10																										0
 Nagelring	120	0	1		15		10	7	rin	Ring		5	5000	dpur							red-mag		3	3	thorns		3	3	att		50	75	mag%		15	40	mana-kill		1	1																														0
 Manald Heal	121	0	1		15		20	15	rin	Ring		5	5000	oran							manasteal		4	7	regen		5	8	hp		20	20	regen-mana		20	20																																		0
 The Stone of Jordan	122	0	1		1		39	29	rin	Ring		5	5000	whit							mana		20	40	mana%		15	20	dmg-ltng		1	120	allskills		1	1																																	1	0
