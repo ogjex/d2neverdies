@@ -4,7 +4,7 @@
 
     // In-game panel rects.
     "LeftPanelRect": { "x": 0, "y": -856, "width": 1162, "height": 1507, "scale": 1.16 },
-    "RightPanelRect":  { "x": -1346, "y": -856, "width": 1162, "height": 1507, "scale": 1.16 },
+    "RightPanelRect":  { "x": -1206, "y": -856, "width": 1162, "height": 1507, "scale": 1.16 },
 
     //ModStart ExpandedStorageMod
     //
