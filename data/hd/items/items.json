@@ -748,5 +748,18 @@
   { "oex": { "asset": "gem/orb_extraction" } },
   { "ood": { "asset": "gem/orb_divination" } },
   { "jfg": { "asset": "gem/jewel_fragment" } },
-  { "glx": { "asset": "gem/glyph_xiansai" } }
+  { "glx": { "asset": "gem/glyph_xiansai" } },
+  { "8sc": { "asset": "gem/essence_compound_stack" } },
+  { "8sr": { "asset": "gem/essence_rare_stack" } },
+  { "8su": { "asset": "gem/essence_unique_stack" } },
+  { "8sn": { "asset": "gem/essence_normal_stack" } },
+  { "8sx": { "asset": "gem/essence_exceptional_stack" } },
+  { "8sl": { "asset": "gem/essence_elite_stack" } },
+  { "8zg": { "asset": "gem/larzuk_gimlet_stack" } },
+  { "8co": { "asset": "gem/orb_combination_stack" } },
+  { "8ex": { "asset": "gem/orb_extraction_stack" } },
+  { "8od": { "asset": "gem/orb_divination_stack" } },
+  { "8fg": { "asset": "gem/jewel_fragment_stack" } },
+  { "8gx": { "asset": "gem/glyph_xiansai_stack" } }
+
 ]
