@@ -1,12 +1,12 @@
 Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	*ItemProbSum	*ItemProbTotal	*TreasureClassDropChance	*eol
 Gold			1						gld	1																						0
-Jewelry A			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
-Jewelry B			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
-Jewelry C			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
-Chipped Gem			1						gcv	3	gcy	3	gcb	3	gcg	3	gcr	3	gcw	3	skc	3										0
-Flawed Gem			1						gfv	3	gfy	3	gfb	3	gfg	3	gfr	3	gfw	3	skf	3										0
-Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	3										0
-Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	3										0
+Jewelry A			1						rin	8	amu	4	jew	2	c80	3																0
+Jewelry B			1						rin	8	amu	4	jew	2	c80	3																0
+Jewelry C			1						rin	8	amu	4	jew	2	c80	3																0
+Chipped Gem			1						8ca	3	8cd	3	8ce	3	8cr	3	8cp	3	8ct	3	8ck	3										0
+Flawed Gem			1						8fa	3	8fd	3	8fe	3	8fr	3	8fs	3	8ft	3	8fk	3										0
+Normal Gem			1						8na	3	8nd	3	8ne	3	8nr	3	8ns	3	8nt	3	8nk	3										0
+Flawless Gem			1						8la	3	8ld	3	8le	3	8lr	3	8as	3	8lt	3	8lk	3										0
 Perfect Gem			1						8pa	3	8pd	3	8pe	3	8pr	3	8ps	3	8pt	3	8pk	3										0
 Ammo			1						aqv	1	cqv	1																				0
 Misc 0			1						key	3	tsc	3	isc	3	opl	2	gpl	2														0
@@ -41,26 +41,25 @@ Runes 14			1						s27	3	s28	2	Runes 13	480																		0
 Runes 15			1						s29	3	s30	2	Runes 14	650																		0
 Runes 16			1						s31	3	s32	2	Runes 15	900																		0
 Runes 17			1						s33	1	Runes 16	1300																				0
-Essence 1			1						ses	4	seh	4	set	4	sed	4																0
-Essence 2			1						8sc	6	8sr	6	8su	6	8sn	6	8sx	6	8sl	6												0
-Token			1						soa	1																						0
-Orbs			1						8co	3	8ex	3	8od	3																		0
-Crafting			1						8zg	3	8gx	3	8fg	3																		0
+Essence 1			1					32	ses	4	seh	4	set	4	sed	4																0
+Essence 2			1					36	8sc	6	8sr	6	8su	6	8sn	6	8sx	6	8sl	6												0
+Token			1					2	soa	1																						0
+Crafting			1					12	8zg	4	8co	4																				0
 Act 1 Junk			1						Potion 1	8	Misc 0	4	Ammo	4																		0
-Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																0
-Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																0
-Act 4 Junk			1						Act 3 Junk	2	Potion 4	8	Misc 1	4	Ammo	4																0
-Act 5 Junk			1						Act 4 Junk	2	Potion 5	8	Misc 2	4	Ammo	4																0
-Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4	Crafting	2														0
+Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4	Crafting	2														0
+Act 4 Junk			1						Act 3 Junk	2	Potion 4	8	Misc 1	4	Ammo	4	Crafting	2														0
+Act 5 Junk			1						Act 4 Junk	2	Potion 5	8	Misc 2	4	Ammo	4	Crafting	2														0
+Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4	Crafting	2														0
+Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4	Crafting	2														0
+Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4	Crafting	2														0
+Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4	Crafting	2														0
+Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4	Crafting	2														0
+Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4	Crafting	2														0
+Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4	Crafting	2														0
+Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4	Crafting	2														0
+Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4	Crafting	2	Essence 2	1												0
+Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4	Crafting	2	Token	1												0
 Act 1 Equip A	1	0	1						weap3	7	armo3	7																				0
 Act 1 Equip B	1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
 Act 1 Equip C	1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
@@ -213,22 +212,22 @@ Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	45	8gx	22																		0
-Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	48	8gx	24																		0
-Act 2 Good	5	12	1						Jewelry B	80	Chipped Gem	48	Flawed Gem	16	Runes 1	12	Runes 2	12	8gx	6												0
-Act 3 Good	5	18	1						Jewelry C	80	Chipped Gem	32	Flawed Gem	32	Runes 3	12	Runes 4	12	8gx	6												0
-Act 4 Good	5	26	1						Jewelry C	200	Chipped Gem	56	Flawed Gem	112	Normal Gem	168	Flawless Gem	16	Runes 5	56	Runes 6	28	8gx	14								0
-Act 5 Good	5	32	1						Jewelry C	200	Chipped Gem	24	Flawed Gem	32	Normal Gem	24	Flawless Gem	16	Runes 7	40	8gx	20										0
-Act 1 (N) Good	5	38	1						Jewelry C	240	Chipped Gem	24	Flawed Gem	32	Normal Gem	28	Flawless Gem	56	Runes 8	56	8gx	28										0
-Act 2 (N) Good	5	42	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 9	56	8gx	28										0
-Act 3 (N) Good	5	46	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 10	56	8gx	28										0
-Act 4 (N) Good	5	51	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 11	56	8gx	28										0
-Act 5 (N) Good	5	57	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 12	56	8gx	28										0
-Act 1 (H) Good	5	66	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 13	56	8gx	28										0
-Act 2 (H) Good	5	72	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 14	56	8gx	28										0
-Act 3 (H) Good	5	78	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 15	56	8gx	28										0
-Act 4 (H) Good	5	82	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 16	56	8gx	28										0
-Act 5 (H) Good	5	85	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 17	56	8gx	28										0
+Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	45	8gx	11																		0
+Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	48	8gx	12																		0
+Act 2 Good	5	12	1						Jewelry B	80	Chipped Gem	48	Flawed Gem	16	Runes 1	12	Runes 2	12	8gx	3												0
+Act 3 Good	5	18	1						Jewelry C	80	Chipped Gem	32	Flawed Gem	32	Runes 3	12	Runes 4	12	8gx	3												0
+Act 4 Good	5	26	1						Jewelry C	200	Chipped Gem	56	Flawed Gem	112	Normal Gem	168	Flawless Gem	16	Runes 5	56	Runes 6	28	8gx	7								0
+Act 5 Good	5	32	1						Jewelry C	200	Chipped Gem	24	Flawed Gem	32	Normal Gem	24	Flawless Gem	16	Runes 7	40	8gx	10										0
+Act 1 (N) Good	5	38	1						Jewelry C	240	Chipped Gem	24	Flawed Gem	32	Normal Gem	28	Flawless Gem	56	Runes 8	56	8gx	14										0
+Act 2 (N) Good	5	42	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 9	56	8gx	14										0
+Act 3 (N) Good	5	46	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 10	56	8gx	14										0
+Act 4 (N) Good	5	51	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 11	56	8gx	14										0
+Act 5 (N) Good	5	57	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 12	56	8gx	14										0
+Act 1 (H) Good	5	66	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 13	56	8gx	14										0
+Act 2 (H) Good	5	72	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 14	56	8gx	14										0
+Act 3 (H) Good	5	78	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 15	56	8gx	14										0
+Act 4 (H) Good	5	82	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 16	56	8gx	14										0
+Act 5 (H) Good	5	85	1						Jewelry C	240	Chipped Gem	64	Flawed Gem	40	Normal Gem	56	Flawless Gem	112	Runes 17	56	8gx	14										0
 Act 1 Chest A	6	0	4					173	gld	15	Act 1 Junk	15	Act 1 Equip A	10	Act 1 Good	2																0
 Act 1 Chest B	6	5	4					173	gld	15	Act 1 Junk	15	Act 1 Equip B	10	Act 1 Good	2																0
 Act 1 Chest C	6	9	4					173	gld	15	Act 1 Junk	12	Act 2 Junk	3	Act 1 Equip C	15	Act 1 Good	2														0
@@ -842,19 +841,12 @@ Durielq (H)			5					0	tsc	1	Durielq (H) - Base	2																				0
 ROP			1	1024				0	Diablo	1																						0
 ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																				0
 ROP (H)			1	1024				0	Annihilus	1																						0
-Countess Rune			4					10	Runes 4	15																						0
-Countess Rune (N)			4					10	Runes 8	15																						0
-Countess Rune (H)			4					10	Runes 12	15																						0
-Countess Item			5					1	"gld,mul=1280"	11	Act 1 Equip C	19	Act 2 Junk	15	Act 2 Good	3																0
-Countess Item (N)			5					1	"gld,mul=1536"	11	Act 1 (N) Equip C	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
-Countess Item (H)			5					1	"gld,mul=2048"	11	Act 1 (H) Equip C	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	p1s	1														0
-Countess			-2	883	883	883	1024	0	Countess Item	1	Countess Rune	1																				0
-Countess (N)			-2	883	883	983	1024	0	Countess Item (N)	1	Countess Rune (N)	1																				0
-Countess (H)			-2	883	883	983	1024	0	Countess Item (H)	1	Countess Rune (H)	1																				0
+Countess			-3	883	883	883	1024	0	Runes 6	3																						0
+Countess (N)			-3	883	883	983	1024	0	Runes 11	3																						0
+Countess (H)			-3	883	883	983	1024	0	Runes 15	2	p1s	1																				0
 Uber Andariel			1	1024				0	shn	1																						0
 Uber Duriel			1	1024				0	sey	1																						0
 Uber Izual			1	1024				0	sms	1																						0
 Pandemonium Key A			1	1024				0	p1s	1																						0
 Pandemonium Key B			1	1024				0	p2s	1																						0
 Pandemonium Key C			1	1024				0	p3s	1																						0
-																																0
