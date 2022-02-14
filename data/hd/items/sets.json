@@ -1,13 +1,13 @@
 [
   { "civerbs_ward": {
+  "normal": "shield/large_shield",
+  "uber": "shield/large_shield",
+  "ultra": "shield/large_shield"
+} },
+  { "civerbs_icon": {
   "normal": "ring/ring",
   "uber": "ring/ring",
   "ultra": "ring/ring"
-} },
-  { "civerbs_icon": {
-  "normal": "amulet/amulet",
-  "uber": "amulet/amulet",
-  "ultra": "amulet/amulet"
 } },
   { "civerbs_cudgel": {
   "normal": "scepter/grand_scepter",
