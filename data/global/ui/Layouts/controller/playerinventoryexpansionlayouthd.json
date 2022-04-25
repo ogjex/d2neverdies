@@ -12,7 +12,7 @@
         {
             "type": "ImageWidget", "name": "background",
             "fields": {
-                "filename": "Controller/Panel/InventoryPanel/V2/InventoryBG_Edit",
+                "filename": "Controller/Panel/InventoryPanel/V2/InventoryBG_D2ND_Edit",
             },
         },
         {

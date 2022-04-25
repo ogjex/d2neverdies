@@ -9,13 +9,13 @@
         {
             "type": "ClickCatcherWidget", "name": "click_catcher",
             "fields": {
-                "rect": { "x": 0, "y": 0, "width": 1744, "height": 1737 },
+                "rect": "$PanelClickCatcherRect"
             },
         },
         {
             "type": "ImageWidget", "name": "background",
             "fields": {
-                "filename": "PANEL\\Horadric_Cube\\HoradricCube_BG2",
+                "filename": "PANEL\\Horadric_Cube\\HoradricCube_BG"
             },
         },
         {
@@ -28,15 +28,15 @@
         {
             "type": "TextBoxWidget", "name": "title",
             "fields": {
-                "rect": { "x": 855, "y": 110 },
+                "rect": "$InGamePanelTitleRect",
                 "style": "$StyleTitleBlock",
-                "text": "@box"
+                "text": "@box",
             },
         },
         {
             "type": "ButtonWidget", "name": "convert",
             "fields": {
-                "rect": "$HoradricCubePanelConvert",
+                "rect": { "x": 520, "y": 969 },
                 "filename": "PANEL\\Horadric_Cube\\TransmuteButton",
                 "tooltipString": "@strUiMenu2",
                 "hoveredFrame": 2,
@@ -46,18 +46,19 @@
         {
             "type": "ButtonWidget", "name": "close",
             "fields": {
-                "rect": { "x": 1650, "y": 3 },
+                "rect": { "x": 1075, "y": 9 },
                 "filename": "PANEL\\closebtn_4x",
                 "hoveredFrame": 3,
                 "tooltipString": "@strClose",
+                "sound": "cursor_close_window_hd",
                 "onClickMessage": "HoradricCubePanelMessage:Close",
             },
         },
         {
             "type": "InventoryGridWidget", "name": "grid",
             "fields": {
-                "rect": { "x": 80, "y": 193, "scale": 1.0 },
-                "cellCount": { "x": 16, "y": 13 },
+                "rect": { "x": 340, "y": 439 },
+                "cellCount": { "x": 5, "y": 5 },
                 "cellSize": "$ItemCellSize",
                 "gemSocketFilename": "PANEL\\gemsocket",
             },
@@ -65,7 +66,7 @@
         {
             "type": "AnimatedImageWidget", "name": "flourish",
             "fields": {
-                "rect": { "x": 180, "y": 401, "scale":2 },
+                "rect": { "x": 180, "y": 204, "scale":2 },
                 "filename": "PANEL\\Horadric_Cube\\Flourish",
                 "blendMode": "black",
                 "fps": 14,

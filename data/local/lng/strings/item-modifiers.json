@@ -4761,7 +4761,7 @@
   },
   {
     "id": 21224,
-    "Key": "ModStre8t",
+    "Key": "ModStr3i_cold",
     "enUS": " to Cold Skills",
     "zhTW": "冰寒技能",
     "deDE": " zu Kältefertigkeiten",
@@ -4778,7 +4778,7 @@
   },
   {
     "id": 21225,
-    "Key": "ModStre8u",
+    "Key": "ModStr3i_light",
     "enUS": " to Lightning Skills",
     "zhTW": "閃電技能",
     "deDE": " zu Blitzfertigkeiten",
@@ -4795,7 +4795,7 @@
   },
   {
     "id": 21226,
-    "Key": "ModStre8v",
+    "Key": "ModStr3i_fire",
     "enUS": " to Fire Skills",
     "zhTW": "火焰技能",
     "deDE": " zu Feuerfertigkeiten",
@@ -5387,6 +5387,40 @@
     "ptBR": " de dano elemental",
     "ruRU": " урона от стихий",
     "zhCN": "元素伤害"
+  },
+  {
+    "id": 21261,
+    "Key": "ModStr3i_mag",
+    "enUS": " to Cold Skills",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 21262,
+    "Key": "ModStr3i_pois",
+    "enUS": " to Poison Skills",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
   },
   {
     "id": 21782,

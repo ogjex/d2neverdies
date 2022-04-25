@@ -1,0 +1,9 @@
+{
+    // Base (parent) profile.
+    "basedOn": "SD",
+
+    "CharacterStatsBackground": "PANEL\\invcharAsian",
+    "CharacterStatsStatTopY": -6,
+    "CharacterStatsStatTopAltY": -8,
+    "CharacterStatsStatHeight": 14,
+}

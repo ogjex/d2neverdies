@@ -44,7 +44,7 @@
                     "type": "ImageWidget", "name": "Background",
                     "fields": {
                         "rect": { "x": -325, "y": -90 },
-                        "filename": "Controller/Panel/MainPanelBG_Edit",
+                        "filename": "Controller/Panel/MainPanelBG_D2ND_Edit",
                     },
                 },
                 {

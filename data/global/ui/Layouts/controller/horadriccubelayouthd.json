@@ -16,14 +16,14 @@
         {
             "type": "ImageWidget", "name": "background",
             "fields": {
-                "rect": { "x": -300, "y": 100 },
-                "filename": "Controller/Panel/HoradricCube/V2/HoradricCubeBG_Edit",
+                "rect": { "x": -206, "y": 310 },
+                "filename": "Controller/Panel/HoradricCube/V2/HoradricCubeBG_D2ND_Center_Edit",
             },
         },
         {
             "type": "ButtonWidget", "name": "convert",
             "fields": {
-                "rect": { "x": 450, "y": 1510 },
+                "rect": { "x": 540, "y": 1272 },
                 "filename": "PANEL\\Horadric_Cube\\TransmuteButton",
                 "hoveredFrame": 2,
                 "focusIndicatorFilename": "Controller/HoverImages/Transmute_Hover",
@@ -37,8 +37,8 @@
         {
             "type": "InventoryGridWidget", "name": "grid",
             "fields": {
-                "rect": { "x": -270, "y": 120 },
-                "cellCount": { "x": 16, "y": 13 },
+                "rect": { "x": 354, "y": 730 },
+                "cellCount": { "x": 5, "y": 5 },
                 "gemSocketFilename": "PANEL/gemsocket",
                 "navigation": {
                     "right": { "panelBoundary": true },

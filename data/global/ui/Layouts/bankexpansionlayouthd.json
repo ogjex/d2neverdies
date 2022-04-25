@@ -8,7 +8,7 @@
         {
             "type": "ImageWidget", "name": "background",
             "fields": {
-                "filename": "PANEL\\Stash\\StashPanel_BG2",
+                "filename": "PANEL\\Stash\\StashPanel_BG",
             },
         },
         {
@@ -16,12 +16,21 @@
         },
         {
             "type": "TextBoxWidget", "name": "title",
+            "fields": {
+                "rect": { "x": 878, "y": 30 },
+            },
         },
         {
             "type": "TextBoxWidget", "name": "gold_amount",
+            "fields": {
+                "rect": { "x": 1480, "y": 1478 },
+            },
         },
         {
             "type": "ButtonWidget", "name": "gold_withdraw",
+            "fields": {
+                "rect": { "x": 1430, "y": 1455 },
+            },
         },
         {
             "type": "ButtonWidget", "name": "close",
@@ -29,16 +38,16 @@
         {
             "type": "InventoryGridWidget", "name": "grid",
             "fields": {
-                "rect": { "x": 91, "y": 235 },
+                "rect": { "x": 91, "y": 180 },
                 "cellCount": { "x": 16, "y": 13 },
             },
         },
         {
             "type": "TabBarWidget", "name": "BankTabs",
             "fields": {
-                "rect": { "x": 82, "y": 160 },
+                "rect": { "x": 82, "y": 82 },
                 "tabCount": 8,
-                "filename": "PANEL\\stash\\Stash_Tabs_Blank",
+                "filename": "PANEL\\stash\\Stash_Tabs",
                 "inactiveFrames": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
                 "activeFrames": [ 1, 1, 1, 1, 1, 1, 1, 1 ],
                 "disabledFrames": [0, 0, 0, 0, 0, 0, 0, 0 ],

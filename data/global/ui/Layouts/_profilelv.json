@@ -4,27 +4,7 @@
 
     // In-game panel rects.
     "LeftPanelRect": { "x": 0, "y": -856, "width": 1162, "height": 1507, "scale": 1.16 },
-    "RightPanelRect":  { "x": -1206, "y": -856, "width": 1162, "height": 1507, "scale": 1.16 },
-
-    //ModStart ExpandedStorageMod
-    //
-    //modcomment: Panels scale like in vanilla.
-    //
-    //modcomment: Though some things to move to make it fit different resolutions...
-    //
-	"BankPanelRect": { "x": 0, "y": 0, "width": 1750, "height": 1799, "scale": 1.16 },
-	"BankPanelGoldAmountRect": { "x": 1135, "y": 1596, "width": 249, "height": 48 },
-	"BankPanelGoldWithdrawRect": { "x": 1080, "y": 1593 },
-	
-	"PlayerInventoryPanelRect": { "x": -1346, "y": 0, "width": 1162, "height": 1737, "scale": 1.16 },
-	"PlayerInventoryPanelGoldAmountRect": { "x": 819, "y": 1614, "width": 249, "height": 48 },
-	"PlayerInventoryPanelGoldButtonRect": { "x": 750, "y": 1613 },
-
-	"HoradricCubePanelRect": { "x": 0, "y": 0, "width": 1744, "height": 1737, "scale": 1.16 },
-	"HoradricCubePanelConvert": { "x": 810, "y": 1508 },
-
-    //ModEnd ExpandedStorageMod
-
+    "RightPanelRect":  { "x": -1346, "y": -856, "width": 1162, "height": 1507, "scale": 1.16 },
     "ScrollSpeechWidth": 1050,
     "ScrollSpeechBorderWidth": 1150,
     "ScrollSpeechOffset": -525, // This is negative and half of the width; Used as the horizontal offset.
@@ -132,6 +112,7 @@
 
     // Account Linking
     "AccountLinkingTileRect": { "x": -875, "y": 561, "width": 1750, "height": 1100 },
+    "AccountLinkingActiveUserRect": { "x": 50 , "y": 10, "width": 1650, "height": 160 },
     "AccountLinkingDescriptionRect": { "x": 50 , "y": 180, "width": 1650, "height": 160 },
     "AccountLinkingUserCodeRect": { "x": 50 , "y": 390, "width": 1650, "height": 215 },
     "AccountLinkingUrlRect": { "x": 50 , "y": 625, "width": 1650, "height": 110 },

@@ -6,11 +6,13 @@
         "inactiveWeaponSwapFontColor": "$TabsInactiveTextColor",
     },
     "children": [
-
+        {
+            "type": "ClickCatcherWidget", "name": "click_catcher",
+        },
         {
             "type": "ImageWidget", "name": "background",
             "fields": {
-                "filename": "PANEL\\Inventory\\Background_Expanded2"
+                "filename": "PANEL\\Inventory\\Background"
             },
         },
         {
@@ -21,17 +23,21 @@
         },
         {
             "type": "TextBoxWidget", "name": "gold_amount",
-        },
-        {
-            "type": "TextBoxWidget", "name": "gold_amount",
             "children": [
-                {
-                    "type": "FocusableWidget", "name": "gold_amount_tooltip"
+                {	"rect": { "x": 65, "y": 1455, "width": 249, "height": 48 },
+                    "type": "FocusableWidget", "name": "gold_amount_tooltip",
                 }
             ]
         },
         {
             "type": "ButtonWidget", "name": "gold_button",
+			"fields": {
+				"rect": { "x": 8, "y": 1453 },
+                "filename": "PANEL\\GoldButton",
+                "hoveredFrame": 3,
+                "tooltipString": "@strGoldDrop",
+                "onClickMessage": "PlayerInventoryPanelMessage:DropGold",
+            },
         },
         {
             "type": "ButtonWidget", "name": "close",
@@ -72,21 +78,21 @@
         {
             "type": "ImageWidget", "name": "background_right_arm_selected",
             "fields": {
-                "rect": { "x": 99, "y": 100 },
+                "rect": { "x": 99, "y": 65 },
                 "filename": "PANEL\\Inventory\\Tab",
             },
         },
         {
             "type": "ImageWidget", "name": "background_left_arm_selected",
             "fields": {
-                "rect": { "x": 850, "y": 100 },
+                "rect": { "x": 850, "y": 65 },
                 "filename": "PANEL\\Inventory\\Tab",
             },
         },
         {
             "type": "ImageWidget", "name": "background_right_arm",
             "fields": {
-                "rect": { "x": 99, "y": 100 },
+                "rect": { "x": 99, "y": 65 },
                 "filename": "PANEL\\Inventory\\Tab",
                 "frame": 1,
             },
@@ -94,7 +100,7 @@
         {
             "type": "ImageWidget", "name": "background_left_arm",
             "fields": {
-                "rect": { "x": 850, "y": 100 },
+                "rect": { "x": 850, "y": 65 },
                 "filename": "PANEL\\Inventory\\Tab",
                 "frame": 1,
             },
@@ -103,7 +109,7 @@
         {
             "type": "TabBarWidget", "name": "Tabs",
             "fields": {
-                "rect": { "x": 99, "y": 179 },
+                "rect": { "x": 99, "y": 0 },
                 "tabCount": 2,
                 "inactiveFrames": [ 1, 1 ],
                 "activeFrames": [ 0, 0 ],
@@ -121,7 +127,7 @@
         {
             "type": "TextBoxWidget", "name": "text_i_left",
             "fields": {
-                "rect": { "x": 99, "y": 100, "width": 107, "height": 48 },
+                "rect": { "x": 99, "y": 65, "width": 107, "height": 48 },
                 "text": "I",
                 "style": "$StyleWeaponSwapTabs",
             },
@@ -129,7 +135,7 @@
         {
             "type": "TextBoxWidget", "name": "text_ii_left",
             "fields": {
-                "rect": { "x": 205, "y": 100, "width": 107, "height": 48 },
+                "rect": { "x": 205, "y": 65, "width": 107, "height": 48 },
                 "text": "II",
                 "style": "$StyleWeaponSwapTabs",
             },
@@ -137,7 +143,7 @@
         {
             "type": "TextBoxWidget", "name": "text_i_right",
             "fields": {
-                "rect": { "x": 850, "y": 100, "width": 107, "height": 48 },
+                "rect": { "x": 850, "y": 65, "width": 107, "height": 48 },
                 "text": "I",
                 "style": "$StyleWeaponSwapTabs",
             },
@@ -145,7 +151,7 @@
         {
             "type": "TextBoxWidget", "name": "text_ii_right",
             "fields": {
-                "rect": { "x": 956, "y": 100, "width": 107, "height": 48 },
+                "rect": { "x": 956, "y": 65, "width": 107, "height": 48 },
                 "text": "II",
                 "style": "$StyleWeaponSwapTabs",
             },
@@ -153,13 +159,13 @@
         {
             "type": "FocusableWidget", "name": "weaponswap_right_arm",
             "fields": {
-                "rect": { "x": 99, "y": 100, "width": 215, "height": 48 },
+                "rect": { "x": 99, "y": 65, "width": 215, "height": 48 },
             },
         },
         {
             "type": "FocusableWidget", "name": "weaponswap_left_arm",
             "fields": {
-                "rect": { "x": 850, "y": 100, "width": 215, "height": 48 },
+                "rect": { "x": 850, "y": 65, "width": 215, "height": 48 },
             },
         },
     ]

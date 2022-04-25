@@ -1,0 +1,8 @@
+{
+    // Base (parent) profile.
+    "basedOn": "HD",
+
+    "XMediumFontSize": 30,
+    "MediumFontSize": 28,
+    "SmallFontSize": 26,
+}

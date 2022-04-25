@@ -24,7 +24,7 @@
             "type": "AnimatedImageWidget", "name": "background2",
             "fields": {
                 "rect": { "x": 1840, "y": -110 },
-                "filename": "Controller/Panel/CharacterSheet/V2/CharacterSheet_BG_Character2",
+                "filename": "Controller/Panel/CharacterSheet/V2/CharacterSheet_BG_D2ND_Character2",
                  "fps": 12
                 
             },
