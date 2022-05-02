@@ -15863,7 +15863,7 @@
   {
     "id": 4939,
     "Key": "skillld141",
-    "enUS": "passive - increases your stamina",
+    "enUS": "passive - increases your stamina and max life",
     "zhTW": "被動 - 提高你的精力",
     "deDE": "Passiv - Erhöht Eure Ausdauer.",
     "esES": "Pasiva: Aumenta tu aguante.",
@@ -35718,8 +35718,8 @@
   },
   {
     "id": 28000,
-    "Key": "StrFirePierce",
-    "enUS": "Fire Pierce: %+d%%",
+    "Key": "StrFasterHitRec",
+    "enUS": "%+d%% Faster Hit Recovery",
     "zhTW": "",
     "deDE": "",
     "esES": "",
