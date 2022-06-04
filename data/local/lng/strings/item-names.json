@@ -27405,7 +27405,7 @@
   },
   {
   	"id": 27217,
-	"Key": "azv",
+	"Key": "cc1",
 	"enUS": "Amazon's Valor",
 	"zhTW": "",
     "deDE": "",
@@ -27422,7 +27422,7 @@
   },
   {
   	"id": 27218,
-	"Key": "asv",
+	"Key": "cc2",
 	"enUS": "Assassin's Valor",
 	"zhTW": "",
     "deDE": "",
@@ -27439,7 +27439,7 @@
   },
   {
   	"id": 27219,
-	"Key": "bbv",
+	"Key": "cc3",
 	"enUS": "Barbarian's Valor",
 	"zhTW": "",
     "deDE": "",
@@ -27456,7 +27456,7 @@
   },
   {
   	"id": 27220,
-	"Key": "drv",
+	"Key": "cc4",
 	"enUS": "Druid's Valor",
 	"zhTW": "",
     "deDE": "",
@@ -27473,7 +27473,7 @@
   },
   {
   	"id": 27221,
-	"Key": "ncv",
+	"Key": "cc5",
 	"enUS": "Necromancer's Valor",
 	"zhTW": "",
     "deDE": "",
@@ -27490,7 +27490,7 @@
   },
   {
   	"id": 27222,
-	"Key": "plv",
+	"Key": "cc6",
 	"enUS": "Paladin's Valor",
 	"zhTW": "",
     "deDE": "",
@@ -27507,7 +27507,7 @@
   },
   {
   	"id": 27223,
-	"Key": "scv",
+	"Key": "cc7",
 	"enUS": "Sorceress's Valor",
 	"zhTW": "",
     "deDE": "",
