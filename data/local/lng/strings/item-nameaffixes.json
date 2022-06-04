@@ -2,7 +2,7 @@
   {
     "id": 1723,
     "Key": "Low Quality",
-    "enUS": "ÿc6|",
+    "enUS": "Low Quality",
     "zhTW": "劣等的",
     "deDE": "[ms]schlechter[fs]schlechte[ns]schlechtes[pl]schlechte",
     "esES": "de baja calidad",
@@ -19,7 +19,7 @@
   {
     "id": 1724,
     "Key": "Damaged",
-    "enUS": "ÿc6|",
+    "enUS": "Damaged",
     "zhTW": "損壞的",
     "deDE": "[ms]beschädigter[fs]beschädigte[ns]beschädigtes[pl]beschädigte",
     "esES": "[fs]dañada[ms]dañado[fp]dañadas[mp]dañados",
@@ -36,7 +36,7 @@
   {
     "id": 1725,
     "Key": "Cracked",
-    "enUS": "ÿc6|",
+    "enUS": "Cracked",
     "zhTW": "破舊的",
     "deDE": "[ms]rissiger[fs]rissige[ns]rissiges[pl]rissige",
     "esES": "[fs]agrietada[ms]agrietado[fp]agrietadas[mp]agrietados",
@@ -53,7 +53,7 @@
   {
     "id": 1727,
     "Key": "Hiquality",
-    "enUS": "Sup",
+    "enUS": "Superior",
     "zhTW": "特等的",
     "deDE": "[fs]gute[ms]guter[ns]gutes[pl]gute",
     "esES": "[fs]superior[ms]superior[fp]superiores[mp]superiores",
@@ -2002,7 +2002,7 @@
     "esMX": "de penetración",
     "jaJP": "貫通の",
     "ptBR": "da Furação",
-    "ruRU": "пронзания",
+    "ruRU": "пробивания",
     "zhCN": "刺穿之"
   },
   {
@@ -3451,6 +3451,91 @@
     "zhCN": "疾行之"
   },
   {
+    "id": 2215,
+    "Key": "gld",
+    "enUS": "Gold",
+    "zhTW": "金幣",
+    "deDE": "Gold",
+    "esES": "de oro",
+    "frFR": "or",
+    "itIT": "oro",
+    "koKR": "금화",
+    "plPL": "szt. złota",
+    "esMX": "Oro",
+    "jaJP": "ゴールド",
+    "ptBR": "Ouro",
+    "ruRU": "золотых",
+    "zhCN": "金币"
+  },
+  {
+    "id": 2248,
+    "Key": "gsb",
+    "enUS": "Sapphire",
+    "zhTW": "藍寶石",
+    "deDE": "Saphir",
+    "esES": "Zafiro",
+    "frFR": "Saphir",
+    "itIT": "Zaffiro",
+    "koKR": "사파이어",
+    "plPL": "Szafir",
+    "esMX": "[ms]Zafiro",
+    "jaJP": "サファイア",
+    "ptBR": "Safira",
+    "ruRU": "[ms]Сапфир",
+    "zhCN": "蓝宝石"
+  },
+  {
+    "id": 2254,
+    "Key": "gsg",
+    "enUS": "Emerald",
+    "zhTW": "綠寶石",
+    "deDE": "Smaragd",
+    "esES": "Esmeralda",
+    "frFR": "Émeraude",
+    "itIT": "Smeraldo",
+    "koKR": "에메랄드",
+    "plPL": "Szmaragd",
+    "esMX": "[fs]Esmeralda",
+    "jaJP": "エメラルド",
+    "ptBR": "Esmeralda",
+    "ruRU": "[ms]Изумруд",
+    "zhCN": "绿宝石"
+  },
+  {
+    "id": 2258,
+    "Key": "gsr",
+    "enUS": "Ruby",
+    "zhTW": "紅寶石",
+    "deDE": "Rubin",
+    "esES": "Rubí",
+    "frFR": "Rubis",
+    "itIT": "Rubino",
+    "koKR": "루비",
+    "plPL": "Rubin",
+    "esMX": "[ms]Rubí",
+    "jaJP": "ルビー",
+    "ptBR": "Rubi",
+    "ruRU": "[ms]Рубин",
+    "zhCN": "红宝石"
+  },
+  {
+    "id": 2263,
+    "Key": "gsw",
+    "enUS": "Diamond",
+    "zhTW": "鑽石",
+    "deDE": "Diamant",
+    "esES": "Diamante",
+    "frFR": "Diamant",
+    "itIT": "Diamante",
+    "koKR": "다이아몬드",
+    "plPL": "Diament",
+    "esMX": "[ms]Diamante",
+    "jaJP": "ダイアモンド",
+    "ptBR": "Diamante",
+    "ruRU": "[ms]Алмаз",
+    "zhCN": "钻石"
+  },
+  {
     "id": 2282,
     "Key": "Beast",
     "enUS": "Beast",
@@ -3634,7 +3719,7 @@
     "esMX": "[ms]sombrío[fs]sombría[mp]sombríos[fp]sombrías",
     "jaJP": "闇の",
     "ptBR": "[ms]Sombrio[mp]Sombrios[fs]Sombria[fp]Sombrias",
-    "ruRU": "[ms]тенистый[fs]тенистая[ns]тенистое[pl]тенистые",
+    "ruRU": "[ms]теневой[fs]теневая[ns]теневое[pl]теневые",
     "zhCN": "暗影"
   },
   {
@@ -3815,7 +3900,7 @@
     "deDE": "Abscheu -",
     "esES": "[fs]de reticencia[ms]de reticencia[fp]de reticencia[mp]de reticencia",
     "frFR": "de répugnance",
-    "itIT": "Abominevole",
+    "itIT": "dell'Avversione",
     "koKR": "지긋지긋한",
     "plPL": "[fs]Niechętna[ms]Niechętny[nl]Niechętne",
     "esMX": "[ms]despreciado[fs]despreciada[mp]despreciados[fp]despreciadas",
@@ -4739,7 +4824,7 @@
     "esMX": "[ms]Dardo",
     "jaJP": "滑翔",
     "ptBR": "[ms]Dardo",
-    "ruRU": "[ms]дротик",
+    "ruRU": "[ms]кинжал",
     "zhCN": "飞镖"
   },
   {
@@ -4807,7 +4892,7 @@
     "esMX": "[ms]Vuelo",
     "jaJP": "飛翔",
     "ptBR": "[ms]Voo",
-    "ruRU": "[ms]лёт",
+    "ruRU": "[ms]полет",
     "zhCN": "飞箭"
   },
   {
@@ -5300,7 +5385,7 @@
     "esMX": "[ms]insólito[fs]insólita[mp]insólitos[fp]insólitas",
     "jaJP": "不可思議な",
     "ptBR": "[ms]Bizarro[mp]Bizarros[fs]Bizarra[fp]Bizarras",
-    "ruRU": "[ms]непонятный[fs]непонятная[ns]непонятное[pl]непонятные",
+    "ruRU": "[ms]потусторонний[fs]потусторонняя[ns]потустороннее[pl]потусторонние",
     "zhCN": "诡异"
   },
   {
@@ -5385,7 +5470,7 @@
     "esMX": "[ms]sombrío[fs]sombría[mp]sombríos[fp]sombrías",
     "jaJP": "シャドウ",
     "ptBR": "[ms]Sombrio[mp]Sombrios[fs]Sombria[fp]Sombrias",
-    "ruRU": "[ms]тенистый[fs]тенистая[ns]тенистое[pl]тенистые",
+    "ruRU": "[ms]теневой[fs]теневая[ns]теневое[pl]теневые",
     "zhCN": "暗影"
   },
   {
@@ -5736,7 +5821,7 @@
     "deDE": "Stink -",
     "esES": "de la putrefacción",
     "frFR": "[ms]faisandé[fs]faisandée[mp]faisandés[fp]faisandées",
-    "itIT": "della Putrefazione",
+    "itIT": "del Marciume",
     "koKR": "부패의",
     "plPL": "[fs]Zgniła[ms]Zgniły[nl]Zgniłe",
     "esMX": "[ms]podrido[fs]podrida[mp]podridos[fp]podridas",
@@ -6276,7 +6361,7 @@
     "id": 2759,
     "Key": "grin",
     "enUS": "Grin",
-    "zhTW": "獰笑",
+    "zhTW": "獰笑者",
     "deDE": "[ms]Grinser",
     "esES": "[fs]Mueca",
     "frFR": "[ms]Rictus",
@@ -7130,7 +7215,7 @@
     "deDE": "[fs]Pustel",
     "esES": "[fs]Epidemia",
     "frFR": "[fs]La vérole",
-    "itIT": "Morbo",
+    "itIT": "Peste",
     "koKR": "천연두",
     "plPL": "[fs]Ospa",
     "esMX": "[fs]Viruela",
@@ -7194,7 +7279,7 @@
     "id": 2813,
     "Key": "SlimeUM",
     "enUS": "Slime",
-    "zhTW": "黏液",
+    "zhTW": "黏毒",
     "deDE": "[ms]Schleim",
     "esES": "[fs]Babosa",
     "frFR": "[fs]Gelée",
@@ -7415,7 +7500,7 @@
     "id": 2826,
     "Key": "the Axe",
     "enUS": "the Axe",
-    "zhTW": "「銳斧」",
+    "zhTW": "「銳斧使徒」",
     "deDE": "die Axt",
     "esES": "\"el Hacha\"",
     "frFR": "La Hache",
@@ -7521,7 +7606,7 @@
     "deDE": "der Jäger",
     "esES": "\"el Cazador\"",
     "frFR": "Le Chasseur",
-    "itIT": "il Segugio",
+    "itIT": "l'Instancabile",
     "koKR": "사냥꾼",
     "plPL": "Łowca",
     "esMX": "el Cazador",
@@ -7534,7 +7619,7 @@
     "id": 2833,
     "Key": "the Slayer",
     "enUS": "the Slayer",
-    "zhTW": "「屠殺者」",
+    "zhTW": "「屠殺使徒」",
     "deDE": "der Schlitzer",
     "esES": "\"el Exterminador\"",
     "frFR": "Le Boucher",
@@ -7759,7 +7844,7 @@
     "deDE": "der Besudelte",
     "esES": "\"el Mancillado\"",
     "frFR": "Le Corrompu",
-    "itIT": "l'Ammorbante",
+    "itIT": "l'Infettante",
     "koKR": "오염된 자",
     "plPL": "Pomiot",
     "esMX": "el Corrompido",
@@ -7793,7 +7878,7 @@
     "deDE": "der Hungrige",
     "esES": "\"el Hambriento\"",
     "frFR": "L’Affamé",
-    "itIT": "l'Ingurgitante",
+    "itIT": "l'Insaziabile",
     "koKR": "굶주린 자",
     "plPL": "Żarłok",
     "esMX": "el Hambriento",
@@ -7831,7 +7916,7 @@
     "koKR": "용사",
     "plPL": "Czempion –",
     "esMX": "[ms]campeador[fs]campeadora[mp]campeadores[fp]campeadoras",
-    "jaJP": "キング",
+    "jaJP": "凶悪なる",
     "ptBR": "[ms]Campeão[mp]Campeões[fs]Campeã[fp]Campeãs",
     "ruRU": "элита",
     "zhCN": "[勇士]"
@@ -7933,7 +8018,7 @@
     "koKR": "광신자",
     "plPL": "Fanatyk –",
     "esMX": "[ms]fanático[fs]fanática[mp]fanáticos[fp]fanáticas",
-    "jaJP": "マッド",
+    "jaJP": "狂乱の",
     "ptBR": "[ms]Fanático[mp]Fanáticos[fs]Fanática[fp]Fanáticas",
     "ruRU": "фанатик",
     "zhCN": "[癫狂者]"
@@ -7944,13 +8029,13 @@
     "enUS": "Berserker",
     "zhTW": "狂暴",
     "deDE": "[ms]tobsüchtiger[fs]tobsüchtige[ns]tobsüchtiges[pl]tobsüchtige",
-    "esES": "[fs]de berserker[ms]de berserker[fp]de berserker[mp]de berserker",
+    "esES": "[fs]berserker[ms]berserker[fp]berserker[mp]berserker",
     "frFR": "[ms]berserker[fs]berserker[mp]berserkers[fp]berserkers",
     "itIT": "Berserker",
     "koKR": "광전사",
     "plPL": "Berserker –",
     "esMX": "[ms]vesánico[fs]vesánica[mp]vesánicos[fp]vesánicas",
-    "jaJP": "バーサーク",
+    "jaJP": "荒れ狂う",
     "ptBR": "[fs]Berserker[ms]Berserker[fp]Berserker[mp]Berserker",
     "ruRU": "берсерк",
     "zhCN": "[狂战士]"
@@ -8581,7 +8666,7 @@
     "esMX": "ojo de águila",
     "jaJP": "鷲の目もつ",
     "ptBR": "[fs]Olho Aquilino[ms]Olho Aquilino[fp]Olho Aquilino[mp]Olho Aquilino",
-    "ruRU": "[ms]снайперский[fs]снайперская[ns]снайперское[pl]снайперские",
+    "ruRU": "[ms]зоркий[fs]зоркая[ns]зоркое[pl]зоркие",
     "zhCN": "鹰目"
   },
   {
@@ -9643,7 +9728,7 @@
     "Key": "Chilling",
     "enUS": "Chilling",
     "zhTW": "寒冰",
-    "deDE": "[ms]]frostiger[fs]]frostige[ns]]frostiges[pl]frostige",
+    "deDE": "[ms]frostiger[fs]frostige[ns]frostiges[pl]frostige",
     "esES": "[fs]refrescante[ms]refrescante[fp]refrescantes[mp]refrescantes",
     "frFR": "[ms]glaçant[fs]glaçante[mp]glaçants[fp]glaçantes",
     "itIT": "[ms]Gelido[fs]Gelida[mp]Gelidi[fp]Gelide",
@@ -10027,7 +10112,7 @@
     "jaJP": "機工師が携えし",
     "ptBR": "[fs]Mecânica[ms]Mecânico[fp]Mecânicas[mp]Mecânicos",
     "ruRU": "[ms]кустарный[fs]кустарная[ns]кустарное[pl]кустарные",
-    "zhCN": "技师的"
+    "zhCN": "技工的"
   },
   {
     "id": 20810,
@@ -11054,7 +11139,7 @@
     "Key": "Pernicious",
     "enUS": "Pernicious",
     "zhTW": "致命",
-    "deDE": "[ms]]bösartiger[fs]]bösartige[ns]]bösartiges[pl]bösartige",
+    "deDE": "[ms]bösartiger[fs]bösartige[ns]bösartiges[pl]bösartige",
     "esES": "[fs]perniciosa[ms]pernicioso[fp]perniciosas[mp]perniciosos",
     "frFR": "[ms]sournois[mp]sournois[fs]sournoise[fp]sournoises",
     "itIT": "[ms]Pernicioso[fs]Perniciosa[mp]Perniciosi[fp]Perniciose",
@@ -11369,7 +11454,7 @@
     "esMX": "[ms]nuboso[fs]nubosa[mp]nubosos[fp]nubosas",
     "jaJP": "曇った",
     "ptBR": "[ms]Nublado[mp]Nublados[fs]Nublada[fp]Nubladas",
-    "ruRU": "[ms]мутный[fs]мутная[ns]мутное[pl]мутные",
+    "ruRU": "[ms]облачный[fs]облачная[ns]облачное[pl]облачные",
     "zhCN": "迷云"
   },
   {
@@ -11495,7 +11580,7 @@
     "id": 20896,
     "Key": "Impecable",
     "enUS": "Impeccable",
-    "zhTW": "無暇",
+    "zhTW": "無瑕",
     "deDE": "[ms]unfehlbarer[fs]unfehlbare[ns]unfehlbares[pl]unfehlbare",
     "esES": "[fs]impecable[ms]impecable[fp]impecables[mp]impecables",
     "frFR": "[ms]immaculé[mp]immaculés[fs]immaculée[fp]immaculées",
@@ -11760,7 +11845,7 @@
     "esMX": "[ms]grosero[fs]grosera[mp]groseros[fp]groseras",
     "jaJP": "野蛮なる",
     "ptBR": "[ms]Rude[mp]Rudes[fs]Rude[fp]Rudes",
-    "ruRU": "[ms]топорный[fs]топорная[ns]топорное[pl]топорные",
+    "ruRU": "[ms]примитивный[fs]примитивная[ns]примитивное[pl]примитивные",
     "zhCN": "粗鲁"
   },
   {
@@ -12297,7 +12382,7 @@
     "zhTW": "碎冰甲之",
     "deDE": "der Zitterrüstung",
     "esES": "de Armadura gélida",
-    "frFR": "d’armure de la crainte",
+    "frFR": "d’armure du frisson",
     "itIT": "della Corazza dei Brividi",
     "koKR": "오한 갑옷의",
     "plPL": "Lodowatej Zbroi",
@@ -12882,7 +12967,7 @@
     "esMX": "de la lamprea",
     "jaJP": "ランプリィの",
     "ptBR": "da Lampreia",
-    "ruRU": "со знаком жужелицы",
+    "ruRU": "со знаком миноги",
     "zhCN": "血鳗之"
   },
   {
@@ -14259,7 +14344,7 @@
     "esMX": "de despacho",
     "jaJP": "処刑の",
     "ptBR": "do Despacho",
-    "ruRU": "отправки",
+    "ruRU": "депеши",
     "zhCN": "急发之"
   },
   {
@@ -16971,7 +17056,7 @@
     "enUS": "Berserker",
     "zhTW": "狂暴",
     "deDE": "[ms]tobsüchtiger[fs]tobsüchtige[ns]tobsüchtiges[pl]tobsüchtige",
-    "esES": "[fs]de berserker[ms]de berserker[fp]de berserker[mp]de berserker",
+    "esES": "[fs]berserker[ms]berserker[fp]berserker[mp]berserker",
     "frFR": "[ms]berserker[fs]berserker[mp]berserkers[fp]berserkers",
     "itIT": "Berserker",
     "koKR": "광전사",
@@ -16983,9 +17068,9 @@
     "zhCN": "狂战士"
   },
   {
-    "id": 27257,
+    "id": 40006,
     "Key": "of Defending",
-    "enUS": "",
+    "enUS": "of Defending",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17000,9 +17085,9 @@
     "zhCN": ""
   },
   {
-    "id": 27258,
+    "id": 40007,
     "Key": "of Defending",
-    "enUS": "",
+    "enUS": "of Defending",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17017,9 +17102,9 @@
     "zhCN": ""
   },
   {
-    "id": 27259,
+    "id": 40008,
     "Key": "of Protecting",
-    "enUS": "",
+    "enUS": "of Protectin",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17034,9 +17119,9 @@
     "zhCN": ""
   },
   {
-    "id": 27260,
+    "id": 40009,
     "Key": "of Guardianship",
-    "enUS": "",
+    "enUS": "of Guardianship",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17051,9 +17136,9 @@
     "zhCN": ""
   },
   {
-    "id": 27261,
+    "id": 40010,
     "Key": "of Savagery",
-    "enUS": "",
+    "enUS": "of Savagery",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17068,9 +17153,9 @@
     "zhCN": ""
   },
   {
-    "id": 27262,
+    "id": 40011,
     "Key": "of Devestation",
-    "enUS": "",
+    "enUS": "of Devestation",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17085,9 +17170,9 @@
     "zhCN": ""
   },
   {
-    "id": 27263,
+    "id": 40012,
     "Key": "of Havoc",
-    "enUS": "",
+    "enUS": "of Havoc",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17102,9 +17187,9 @@
     "zhCN": ""
   },
   {
-    "id": 27264,
+    "id": 40013,
     "Key": "of Destruction",
-    "enUS": "",
+    "enUS": "of Destruction",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17119,9 +17204,9 @@
     "zhCN": ""
   },
   {
-    "id": 27265,
+    "id": 40014,
     "Key": "of Desolation",
-    "enUS": "",
+    "enUS": "of Desolation",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17136,9 +17221,9 @@
     "zhCN": ""
   },
   {
-    "id": 27266,
+    "id": 40015,
     "Key": "of Bleeding",
-    "enUS": "",
+    "enUS": "of Bleeding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17153,9 +17238,9 @@
     "zhCN": ""
   },
   {
-    "id": 27267,
+    "id": 40016,
     "Key": "of Siphoning",
-    "enUS": "",
+    "enUS": "of Siphoning",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17170,9 +17255,9 @@
     "zhCN": ""
   },
   {
-    "id": 27268,
+    "id": 40017,
     "Key": "of Glory",
-    "enUS": "",
+    "enUS": "of Glory",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17187,9 +17272,9 @@
     "zhCN": ""
   },
   {
-    "id": 27269,
+    "id": 40018,
     "Key": "of Sanguinary",
-    "enUS": "",
+    "enUS": "of Sanguinary",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17204,9 +17289,9 @@
     "zhCN": ""
   },
   {
-    "id": 27270,
+    "id": 40019,
     "Key": "of Hematic",
-    "enUS": "",
+    "enUS": "of Hematic",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17221,9 +17306,9 @@
     "zhCN": ""
   },
   {
-    "id": 27271,
+    "id": 40020,
     "Key": "of Chipping",
-    "enUS": "",
+    "enUS": "of Chipping",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17238,9 +17323,9 @@
     "zhCN": ""
   },
   {
-    "id": 27272,
+    "id": 40021,
     "Key": "of Crumbling",
-    "enUS": "",
+    "enUS": "of Crumbling",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17255,9 +17340,9 @@
     "zhCN": ""
   },
   {
-    "id": 27273,
+    "id": 40022,
     "Key": "of Breaking",
-    "enUS": "",
+    "enUS": "of Breaking",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17272,9 +17357,9 @@
     "zhCN": ""
   },
   {
-    "id": 27274,
+    "id": 40023,
     "Key": "of Crushing",
-    "enUS": "",
+    "enUS": "of Crushing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17289,9 +17374,9 @@
     "zhCN": ""
   },
   {
-    "id": 27275,
+    "id": 40024,
     "Key": "of Pulverizing",
-    "enUS": "",
+    "enUS": "of Pulverizing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17306,9 +17391,9 @@
     "zhCN": ""
   },
   {
-    "id": 27276,
+    "id": 40025,
     "Key": "of the Apprentice",
-    "enUS": "",
+    "enUS": "of the Apprentice",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17323,9 +17408,9 @@
     "zhCN": ""
   },
   {
-    "id": 27277,
+    "id": 40026,
     "Key": "of the Apprentice",
-    "enUS": "",
+    "enUS": "of the Apprentice",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17340,9 +17425,9 @@
     "zhCN": ""
   },
   {
-    "id": 27278,
+    "id": 40027,
     "Key": "of the Magus",
-    "enUS": "",
+    "enUS": "of the Magus",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17357,9 +17442,9 @@
     "zhCN": ""
   },
   {
-    "id": 27279,
+    "id": 40028,
     "Key": "of the Squid",
-    "enUS": "",
+    "enUS": "of the Squid",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17374,9 +17459,9 @@
     "zhCN": ""
   },
   {
-    "id": 27280,
+    "id": 40029,
     "Key": "of the Whale",
-    "enUS": "",
+    "enUS": "of the Whale",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17391,9 +17476,9 @@
     "zhCN": ""
   },
   {
-    "id": 27281,
+    "id": 40030,
     "Key": "of the Kraken",
-    "enUS": "",
+    "enUS": "of the Kraken",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17408,9 +17493,9 @@
     "zhCN": ""
   },
   {
-    "id": 27282,
+    "id": 40031,
     "Key": "of Clarity",
-    "enUS": "",
+    "enUS": "of Clarity",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17425,9 +17510,9 @@
     "zhCN": ""
   },
   {
-    "id": 27283,
+    "id": 40032,
     "Key": "of Divinity",
-    "enUS": "",
+    "enUS": "of Divinity",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17442,9 +17527,9 @@
     "zhCN": ""
   },
   {
-    "id": 27284,
+    "id": 40033,
     "Key": "of the Dawn",
-    "enUS": "",
+    "enUS": "of the Dawn",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17459,9 +17544,9 @@
     "zhCN": ""
   },
   {
-    "id": 27285,
+    "id": 40034,
     "Key": "of Pacing",
-    "enUS": "",
+    "enUS": "of Pacing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17476,9 +17561,9 @@
     "zhCN": ""
   },
   {
-    "id": 27286,
+    "id": 40035,
     "Key": "of Haste",
-    "enUS": "",
+    "enUS": "of Haste",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17493,9 +17578,9 @@
     "zhCN": ""
   },
   {
-    "id": 27287,
+    "id": 40036,
     "Key": "of Evisceration",
-    "enUS": "",
+    "enUS": "of Evisceration",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17510,9 +17595,9 @@
     "zhCN": ""
   },
   {
-    "id": 27288,
+    "id": 40037,
     "Key": "of Carnage",
-    "enUS": "",
+    "enUS": "of Carnage",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17527,9 +17612,9 @@
     "zhCN": ""
   },
   {
-    "id": 27289,
+    "id": 40038,
     "Key": "of the Bear",
-    "enUS": "",
+    "enUS": "of the Bear",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17544,9 +17629,9 @@
     "zhCN": ""
   },
   {
-    "id": 27290,
+    "id": 40039,
     "Key": "of the Lamprey",
-    "enUS": "",
+    "enUS": "of the Lamprey",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17561,9 +17646,9 @@
     "zhCN": ""
   },
   {
-    "id": 27291,
+    "id": 40040,
     "Key": "of the Vampire",
-    "enUS": "",
+    "enUS": "of the Vampire",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17578,9 +17663,9 @@
     "zhCN": ""
   },
   {
-    "id": 27292,
+    "id": 40041,
     "Key": "Blood Letting",
-    "enUS": "",
+    "enUS": "Blood Letting",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17595,9 +17680,9 @@
     "zhCN": ""
   },
   {
-    "id": 27293,
+    "id": 40042,
     "Key": "Murderous",
-    "enUS": "",
+    "enUS": "Murderous",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17612,9 +17697,9 @@
     "zhCN": ""
   },
   {
-    "id": 27294,
+    "id": 40043,
     "Key": "Blood Sucking",
-    "enUS": "",
+    "enUS": "Blood Sucking",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17629,9 +17714,9 @@
     "zhCN": ""
   },
   {
-    "id": 27295,
+    "id": 40044,
     "Key": "Channeling",
-    "enUS": "",
+    "enUS": "Channeling",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17646,9 +17731,9 @@
     "zhCN": ""
   },
   {
-    "id": 27296,
+    "id": 40045,
     "Key": "Cold",
-    "enUS": "",
+    "enUS": "Cold",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17663,9 +17748,9 @@
     "zhCN": ""
   },
   {
-    "id": 27297,
+    "id": 40046,
     "Key": "Cinder",
-    "enUS": "",
+    "enUS": "Cinder",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17680,9 +17765,9 @@
     "zhCN": ""
   },
   {
-    "id": 27298,
+    "id": 40047,
     "Key": "Morbid",
-    "enUS": "",
+    "enUS": "Morbid",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17697,9 +17782,9 @@
     "zhCN": ""
   },
   {
-    "id": 27299,
+    "id": 40048,
     "Key": "Sparkling",
-    "enUS": "",
+    "enUS": "Sparkling",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17714,9 +17799,9 @@
     "zhCN": ""
   },
   {
-    "id": 27300,
+    "id": 40049,
     "Key": "Discharging",
-    "enUS": "",
+    "enUS": "Discharging",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17731,9 +17816,9 @@
     "zhCN": ""
   },
   {
-    "id": 27301,
+    "id": 40050,
     "Key": "Frigid",
-    "enUS": "",
+    "enUS": "Frigid",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17748,9 +17833,9 @@
     "zhCN": ""
   },
   {
-    "id": 27302,
+    "id": 40051,
     "Key": "Wildfire",
-    "enUS": "",
+    "enUS": "Wildfire",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17765,9 +17850,9 @@
     "zhCN": ""
   },
   {
-    "id": 27303,
+    "id": 40052,
     "Key": "Malicious",
-    "enUS": "",
+    "enUS": "Malicious",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17782,9 +17867,9 @@
     "zhCN": ""
   },
   {
-    "id": 27304,
+    "id": 40053,
     "Key": "Effervescent",
-    "enUS": "",
+    "enUS": "Effervescent",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17799,9 +17884,9 @@
     "zhCN": ""
   },
   {
-    "id": 27305,
+    "id": 40054,
     "Key": "Conduit",
-    "enUS": "",
+    "enUS": "Conduit",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17816,9 +17901,9 @@
     "zhCN": ""
   },
   {
-    "id": 27306,
+    "id": 40055,
     "Key": "Numbing",
-    "enUS": "",
+    "enUS": "Numbing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17833,9 +17918,9 @@
     "zhCN": ""
   },
   {
-    "id": 27307,
+    "id": 40056,
     "Key": "Inferno",
-    "enUS": "",
+    "enUS": "Inferno",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17850,9 +17935,9 @@
     "zhCN": ""
   },
   {
-    "id": 27308,
+    "id": 40057,
     "Key": "Infectious",
-    "enUS": "",
+    "enUS": "Infectious",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17867,9 +17952,9 @@
     "zhCN": ""
   },
   {
-    "id": 27309,
+    "id": 40058,
     "Key": "Scintillating",
-    "enUS": "",
+    "enUS": "Scintillating",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17884,9 +17969,9 @@
     "zhCN": ""
   },
   {
-    "id": 27310,
+    "id": 40059,
     "Key": "Visceral",
-    "enUS": "",
+    "enUS": "Visceral",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17901,9 +17986,9 @@
     "zhCN": ""
   },
   {
-    "id": 27311,
+    "id": 40060,
     "Key": "Divine",
-    "enUS": "",
+    "enUS": "Divine",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17918,9 +18003,9 @@
     "zhCN": ""
   },
   {
-    "id": 27312,
+    "id": 40061,
     "Key": "Celestial",
-    "enUS": "",
+    "enUS": "Celestial",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17935,9 +18020,9 @@
     "zhCN": ""
   },
   {
-    "id": 27313,
+    "id": 40062,
     "Key": "Grandmaster's",
-    "enUS": "",
+    "enUS": "Grandmaster's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17952,9 +18037,9 @@
     "zhCN": ""
   },
   {
-    "id": 27314,
+    "id": 40063,
     "Key": "Supporting",
-    "enUS": "",
+    "enUS": "Supporting",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17969,9 +18054,9 @@
     "zhCN": ""
   },
   {
-    "id": 27315,
+    "id": 40064,
     "Key": "Reinforcing",
-    "enUS": "",
+    "enUS": "Reinforcing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -17986,9 +18071,9 @@
     "zhCN": ""
   },
   {
-    "id": 27316,
+    "id": 40065,
     "Key": "Empowering",
-    "enUS": "",
+    "enUS": "Empowering",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18003,9 +18088,9 @@
     "zhCN": ""
   },
   {
-    "id": 27317,
+    "id": 40066,
     "Key": "Bolstering",
-    "enUS": "",
+    "enUS": "Bolstering",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18020,9 +18105,9 @@
     "zhCN": ""
   },
   {
-    "id": 27318,
+    "id": 40067,
     "Key": "Fortifying",
-    "enUS": "",
+    "enUS": "Fortifying",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18037,9 +18122,9 @@
     "zhCN": ""
   },
   {
-    "id": 27319,
+    "id": 40068,
     "Key": "Embattled",
-    "enUS": "",
+    "enUS": "Embattled",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18054,9 +18139,9 @@
     "zhCN": ""
   },
   {
-    "id": 27320,
+    "id": 40069,
     "Key": "Rampaging",
-    "enUS": "",
+    "enUS": "Rampaging",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18071,9 +18156,9 @@
     "zhCN": ""
   },
   {
-    "id": 27321,
+    "id": 40070,
     "Key": "Lancer's",
-    "enUS": "",
+    "enUS": "Lancer's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18088,9 +18173,9 @@
     "zhCN": ""
   },
   {
-    "id": 27322,
+    "id": 40071,
     "Key": "Archer's",
-    "enUS": "",
+    "enUS": "Archer's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18105,9 +18190,9 @@
     "zhCN": ""
   },
   {
-    "id": 27323,
+    "id": 40072,
     "Key": "Artificer's",
-    "enUS": "",
+    "enUS": "Artificer's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18122,9 +18207,9 @@
     "zhCN": ""
   },
   {
-    "id": 27324,
+    "id": 40073,
     "Key": "Artificer's",
-    "enUS": "",
+    "enUS": "Artificer's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18139,9 +18224,9 @@
     "zhCN": ""
   },
   {
-    "id": 27325,
+    "id": 40074,
     "Key": "Lancer's",
-    "enUS": "",
+    "enUS": "Lancer's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18156,9 +18241,9 @@
     "zhCN": ""
   },
   {
-    "id": 27326,
+    "id": 40075,
     "Key": "Maiden's",
-    "enUS": "",
+    "enUS": "Maiden's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18173,9 +18258,9 @@
     "zhCN": ""
   },
   {
-    "id": 27327,
+    "id": 40076,
     "Key": "Monk's",
-    "enUS": "",
+    "enUS": "Monk's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18190,9 +18275,9 @@
     "zhCN": ""
   },
   {
-    "id": 27328,
+    "id": 40077,
     "Key": "Summoner's",
-    "enUS": "",
+    "enUS": "Summoner's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18207,9 +18292,9 @@
     "zhCN": ""
   },
   {
-    "id": 27329,
+    "id": 40078,
     "Key": "Angel's",
-    "enUS": "",
+    "enUS": "Angel's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18224,9 +18309,9 @@
     "zhCN": ""
   },
   {
-    "id": 27330,
+    "id": 40079,
     "Key": "Slayer's",
-    "enUS": "",
+    "enUS": "Slayer's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18241,9 +18326,9 @@
     "zhCN": ""
   },
   {
-    "id": 27331,
+    "id": 40080,
     "Key": "Shaman's",
-    "enUS": "",
+    "enUS": "Shaman's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18258,9 +18343,9 @@
     "zhCN": ""
   },
   {
-    "id": 27332,
+    "id": 40081,
     "Key": "Magekiller's",
-    "enUS": "",
+    "enUS": "Magekiller's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18275,9 +18360,9 @@
     "zhCN": ""
   },
   {
-    "id": 27333,
+    "id": 40082,
     "Key": "Cerulean",
-    "enUS": "",
+    "enUS": "Cerulean",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18292,9 +18377,9 @@
     "zhCN": ""
   },
   {
-    "id": 27334,
+    "id": 40083,
     "Key": "Lancer's",
-    "enUS": "",
+    "enUS": "Lancer's",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18309,9 +18394,9 @@
     "zhCN": ""
   },
   {
-    "id": 27335,
+    "id": 40084,
     "Key": "Strange",
-    "enUS": "",
+    "enUS": "Strange",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18326,9 +18411,9 @@
     "zhCN": ""
   },
   {
-    "id": 27336,
+    "id": 40085,
     "Key": "Unearthly",
-    "enUS": "",
+    "enUS": "Unearthly",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18343,9 +18428,9 @@
     "zhCN": ""
   },
   {
-    "id": 27337,
+    "id": 40086,
     "Key": "Plague",
-    "enUS": "",
+    "enUS": "Plague",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18360,9 +18445,9 @@
     "zhCN": ""
   },
   {
-    "id": 27338,
+    "id": 40087,
     "Key": "Savage",
-    "enUS": "",
+    "enUS": "Savage",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18377,9 +18462,9 @@
     "zhCN": ""
   },
   {
-    "id": 27339,
+    "id": 40088,
     "Key": "Cardinal",
-    "enUS": "",
+    "enUS": "Cardinal",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18394,9 +18479,9 @@
     "zhCN": ""
   },
   {
-    "id": 27340,
+    "id": 40089,
     "Key": "Penetrating",
-    "enUS": "",
+    "enUS": "Penetrating",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18411,9 +18496,9 @@
     "zhCN": ""
   },
   {
-    "id": 27341,
+    "id": 40090,
     "Key": "Puncturing",
-    "enUS": "",
+    "enUS": "Puncturing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18428,9 +18513,9 @@
     "zhCN": ""
   },
   {
-    "id": 27342,
+    "id": 40091,
     "Key": "Piercing",
-    "enUS": "",
+    "enUS": "Piercing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18445,9 +18530,9 @@
     "zhCN": ""
   },
   {
-    "id": 27343,
+    "id": 40092,
     "Key": "Impaling",
-    "enUS": "",
+    "enUS": "Impaling",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18462,9 +18547,9 @@
     "zhCN": ""
   },
   {
-    "id": 27344,
+    "id": 40093,
     "Key": "Devout",
-    "enUS": "",
+    "enUS": "Devout",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18479,9 +18564,9 @@
     "zhCN": ""
   },
   {
-    "id": 27345,
+    "id": 40094,
     "Key": "Consecrated",
-    "enUS": "",
+    "enUS": "Consecrated",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -18496,9 +18581,417 @@
     "zhCN": ""
   },
   {
-    "id": 27346,
+    "id": 40095,
     "Key": "Pure",
-    "enUS": "",
+    "enUS": "Pure",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40096,
+    "Key": "of Fire",
+    "enUS": "of Fire",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40097,
+    "Key": "of Burning",
+    "enUS": "of Burning",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40098,
+    "Key": "of Incineration",
+    "enUS": "of Incineration",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40099,
+    "Key": "of Lightning",
+    "enUS": "of Lightning",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40100,
+    "Key": "of Thunder",
+    "enUS": "of Thunder",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40101,
+    "Key": "of Storms",
+    "enUS": "of Storms",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40102,
+    "Key": "of the Icicle",
+    "enUS": "of the Icicle",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40103,
+    "Key": "of the Glacier",
+    "enUS": "of the Glacier",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40104,
+    "Key": "of Winter",
+    "enUS": "of Winter",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40105,
+    "Key": "of Venom",
+    "enUS": "of Venom",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40106,
+    "Key": "of Pestilence",
+    "enUS": "of Pestilence",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40107,
+    "Key": "of Antrhrax",
+    "enUS": "of Antrhrax",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40108,
+    "Key": "Smoldering",
+    "enUS": "Smoldering",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40109,
+    "Key": "Smoking",
+    "enUS": "Smoking",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40110,
+    "Key": "Flaming",
+    "enUS": "Flaming",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40111,
+    "Key": "Static",
+    "enUS": "Static",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40112,
+    "Key": "Glowing",
+    "enUS": "Glowing",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40113,
+    "Key": "Arcing",
+    "enUS": "Arcing",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40114,
+    "Key": "Shivering",
+    "enUS": "Shivering",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40115,
+    "Key": "Boreal",
+    "enUS": "Boreal",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40116,
+    "Key": "Hibernal",
+    "enUS": "Hibernal",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40117,
+    "Key": "Envenomed",
+    "enUS": "Envenomed",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40118,
+    "Key": "Toxic",
+    "enUS": "Toxic",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 40119,
+    "Key": "Pestilent",
+    "enUS": "Pestilent",
     "zhTW": "",
     "deDE": "",
     "esES": "",
