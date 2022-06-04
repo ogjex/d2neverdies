@@ -765,5 +765,11 @@
   { "cco": { "asset": "charm/charm_core" } },
   { "8co": { "asset": "charm/charm_core_stacked" } },
   { "cdm": { "asset": "hammer/horadric_malus" } },
-  { "8vl": { "asset": "potion/full_rejuv_potion" } }
+  { "8vl": { "asset": "potion/full_rejuv_potion" } },
+  { "mnb": { "asset": "charm/charm_small" } },
+  { "lgb": { "asset": "charm/charm_medium" } },
+  { "gdb": { "asset": "charm/charm_large" } },
+  { "bnc": { "asset": "valor/barbarians_valor" } },
+  { "anc": { "asset": "valor/amazons_valor" } },
+  { "wnc": { "asset": "valor/paladins_valor" } },
 ]
