@@ -1561,7 +1561,7 @@
     "jaJP": "フランベルジュ",
     "ptBR": "[fs]Flambérgia",
     "ruRU": "[ms]фламберг",
-    "zhCN": "焰刃剑"
+    "zhCN": "蛇形剑"
   },
   {
     "id": 2014,
@@ -1730,7 +1730,7 @@
     "esMX": "[fs]Jabalina",
     "jaJP": "ジャベリン",
     "ptBR": "[ms]Dardo",
-    "ruRU": "[ms]ассегай",
+    "ruRU": "[ms]дротик",
     "zhCN": "标枪"
   },
   {
@@ -2525,7 +2525,7 @@
     "frFR": "[mp]Manchons lourds",
     "itIT": "[mp]Bracciali Pesanti",
     "koKR": "헤비 브레이서",
-    "plPL": "[nl]Ciężkie Karwasze",
+    "plPL": "[ms]Ciężkie Karwasze",
     "esMX": "[mp]Brazales pesados",
     "jaJP": "ヘビーブレイサー",
     "ptBR": "[fp]Braçadeiras Pesadas",
@@ -3363,7 +3363,7 @@
     "jaJP": "パルチザン",
     "ptBR": "[fs]Partesana",
     "ruRU": "[ms]протазан",
-    "zhCN": "双刃矛戟"
+    "zhCN": "游侠戟"
   },
   {
     "id": 2122,
@@ -3583,7 +3583,7 @@
     "esMX": "[fs]Jabalina de guerra",
     "jaJP": "ウォー・ジャベリン",
     "ptBR": "[ms]Dardo Bélico",
-    "ruRU": "[ms]воинский ассегай",
+    "ruRU": "[ns]воинское копьецо",
     "zhCN": "战争标枪"
   },
   {
@@ -3600,7 +3600,7 @@
     "esMX": "[fs]Hacha doble arrojadiza",
     "jaJP": "ハルバット",
     "ptBR": "[ms]Machado Lançável",
-    "ruRU": "[ms]метательный топор",
+    "ruRU": "[ms]метательная бита",
     "zhCN": "飞蝠斧"
   },
   {
@@ -3617,7 +3617,7 @@
     "esMX": "[ms]Dardo de guerra",
     "jaJP": "ウォー・ダーツ",
     "ptBR": "[fs]Seta Bélica",
-    "ruRU": "[ms]воинский кинжал",
+    "ruRU": "[ms]воинский дротик",
     "zhCN": "战镖"
   },
   {
@@ -3651,7 +3651,7 @@
     "esMX": "[ms]Dardo de batalla",
     "jaJP": "バトル・ダーツ",
     "ptBR": "[fs]Seta de Batalha",
-    "ruRU": "[ms]боевой кинжал",
+    "ruRU": "[ms]боевой дротик",
     "zhCN": "战斗镖"
   },
   {
@@ -3760,7 +3760,7 @@
     "id": 2146,
     "Key": "9cm",
     "enUS": "Dacian Falx",
-    "zhTW": "達西安長刀",
+    "zhTW": "達西安鐮刀",
     "deDE": "[fs]dakische Sichel",
     "esES": "[fs]Falx dacia",
     "frFR": "[fs]Faux de Dacian",
@@ -4077,7 +4077,7 @@
     "jaJP": "ホーリー・セプター",
     "ptBR": "[ms]Aspersor de Água Benta",
     "ruRU": "[ms]источник святой воды",
-    "zhCN": "圣水礼杖"
+    "zhCN": "圣水喷杖"
   },
   {
     "id": 2165,
@@ -4247,7 +4247,7 @@
     "jaJP": "ビアデッド・アックス",
     "ptBR": "[ms]Machado Farpado",
     "ruRU": "[ms]скеггокс",
-    "zhCN": "钩斧"
+    "zhCN": "芒刺斧"
   },
   {
     "id": 2175,
@@ -4371,7 +4371,7 @@
   {
     "id": 2182,
     "Key": "gpl",
-    "enUS": "Strangling Gas Potion",
+    "enUS": "ÿc2Strang Pot",
     "zhTW": "刺鼻毒氣藥水",
     "deDE": "Erstickungsgaselixier",
     "esES": "[fs]Poción de gas sofocante",
@@ -4388,11 +4388,11 @@
   {
     "id": 2183,
     "Key": "opl",
-    "enUS": "Fulminating Potion",
+    "enUS": "ÿc8Fulm Pot",
     "zhTW": "烈性藥水",
     "deDE": "Knallelixier",
     "esES": "[fs]Poción fulminante",
-    "frFR": "[fs]Potion fulminante",
+    "frFR": "[fs]Pot fulminante",
     "itIT": "Pozione Fulminante",
     "koKR": "기폭 물약",
     "plPL": "Wybuchowa mikstura",
@@ -4405,7 +4405,7 @@
   {
     "id": 2184,
     "Key": "gpm",
-    "enUS": "Choking Gas Potion",
+    "enUS": "ÿc2Choking Pot",
     "zhTW": "窒息毒氣藥水",
     "deDE": "Würgegaselixier",
     "esES": "[fs]Poción de gas estrangulante",
@@ -4422,11 +4422,11 @@
   {
     "id": 2185,
     "Key": "opm",
-    "enUS": "Exploding Potion",
+    "enUS": "ÿc8Expl Pot",
     "zhTW": "爆炸藥水",
     "deDE": "Explosivelixier",
     "esES": "[fs]Poción explosiva",
-    "frFR": "[fs]Potion explosive",
+    "frFR": "[fs]Pot explosive",
     "itIT": "Pozione Esplosiva",
     "koKR": "폭발 물약",
     "plPL": "Eksplodująca mikstura",
@@ -4439,7 +4439,7 @@
   {
     "id": 2186,
     "Key": "gps",
-    "enUS": "Rancid Gas Potion",
+    "enUS": "ÿc2Rancid Pot",
     "zhTW": "腐臭毒氣藥水",
     "deDE": "Stinkgaselixier",
     "esES": "[fs]Poción de gas rancio",
@@ -4456,7 +4456,7 @@
   {
     "id": 2187,
     "Key": "ops",
-    "enUS": "Oil Potion",
+    "enUS": "ÿc8Oil Pot",
     "zhTW": "火油藥水",
     "deDE": "Ölelixier",
     "esES": "[fs]Poción de aceite",
@@ -4643,7 +4643,7 @@
   {
     "id": 2199,
     "Key": "tbk",
-    "enUS": "Tome of Town Portal",
+    "enUS": "ÿc3TP Tome",
     "zhTW": "城鎮傳送之書",
     "deDE": "Foliant des Stadtportals",
     "esES": "Tomo del portal de la ciudad",
@@ -4660,7 +4660,7 @@
   {
     "id": 2200,
     "Key": "tsc",
-    "enUS": "Scroll of Town Portal",
+    "enUS": "ÿc3TP",
     "zhTW": "城鎮傳送卷軸",
     "deDE": "Schriftrolle des Stadtportals",
     "esES": "Pergamino del portal de la ciudad",
@@ -4677,7 +4677,7 @@
   {
     "id": 2201,
     "Key": "ibk",
-    "enUS": "Tome of Identify",
+    "enUS": "ÿc1ID Tome",
     "zhTW": "鑑定之書",
     "deDE": "Foliant der Identifikation",
     "esES": "Tomo de identificación",
@@ -4694,7 +4694,7 @@
   {
     "id": 2202,
     "Key": "isc",
-    "enUS": "Scroll of Identify",
+    "enUS": "ÿc1ID",
     "zhTW": "鑑定卷軸",
     "deDE": "Schriftrolle der Identifikation",
     "esES": "Pergamino de identificación",
@@ -4711,11 +4711,11 @@
   {
     "id": 2207,
     "Key": "vps",
-    "enUS": "Stamina Potion",
+    "enUS": "ÿc0S Pot",
     "zhTW": "精力藥水",
     "deDE": "Ausdauerelixier",
     "esES": "Poción de aguante",
-    "frFR": "Potion d’endurance",
+    "frFR": "Pot d’endurance",
     "itIT": "Pozione del Vigore",
     "koKR": "지구력 물약",
     "plPL": "Mikstura wytrzymałości",
@@ -4728,7 +4728,7 @@
   {
     "id": 2208,
     "Key": "yps",
-    "enUS": "Antidote Potion",
+    "enUS": "ÿc2A Pot",
     "zhTW": "解毒藥水",
     "deDE": "Gegengiftelixier",
     "esES": "Poción antídoto",
@@ -4745,11 +4745,11 @@
   {
     "id": 2209,
     "Key": "rvs",
-    "enUS": "Rejuvenation Potion",
+    "enUS": "ÿc;33%",
     "zhTW": "活力藥水",
     "deDE": "Regenerationstrank",
     "esES": "Poción rejuvenecedora",
-    "frFR": "Potion de rajeunissement",
+    "frFR": "Pot de rajeunissement",
     "itIT": "Pozione di Rinvigorimento",
     "koKR": "활력 물약",
     "plPL": "Mikstura wzmocnienia",
@@ -4762,11 +4762,11 @@
   {
     "id": 2210,
     "Key": "rvl",
-    "enUS": "Full Rejuvenation Potion",
+    "enUS": "ÿc;100%",
     "zhTW": "全效活力藥水",
     "deDE": "starker Regenerationstrank",
     "esES": "Poción rejuvenecedora total",
-    "frFR": "Potion de rajeunissement total",
+    "frFR": "Pot de rajeunissement total",
     "itIT": "Pozione di Rinvigorimento Superiore",
     "koKR": "대량의 활력 물약",
     "plPL": "Mikstura pełnego wzmocnienia",
@@ -4779,11 +4779,11 @@
   {
     "id": 2211,
     "Key": "wms",
-    "enUS": "Thawing Potion",
+    "enUS": "ÿc4T Pot",
     "zhTW": "融冰藥水",
     "deDE": "Auftauelixier",
     "esES": "Poción descongelante",
-    "frFR": "Potion de dégel",
+    "frFR": "Pot de dégel",
     "itIT": "Pozione del Disgelo",
     "koKR": "해동 물약",
     "plPL": "Mikstura odtajania",
@@ -4843,6 +4843,23 @@
     "ptBR": "[ms]Anel",
     "ruRU": "[ns]кольцо",
     "zhCN": "戒指"
+  },
+  {
+    "id": 2215,
+    "Key": "gld",
+    "enUS": "ÿc4Gÿc4",
+    "zhTW": "金幣",
+    "deDE": "Gold",
+    "esES": "de oro",
+    "frFR": "or",
+    "itIT": "oro",
+    "koKR": "금화",
+    "plPL": "szt. złota",
+    "esMX": "Oro",
+    "jaJP": "ゴールド",
+    "ptBR": "Ouro",
+    "ruRU": "золотых",
+    "zhCN": "金币"
   },
   {
     "id": 2216,
@@ -4932,7 +4949,7 @@
   {
     "id": 2221,
     "Key": "Key",
-    "enUS": "Key",
+    "enUS": "ÿc7Key",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -4949,7 +4966,7 @@
   {
     "id": 2222,
     "Key": "key",
-    "enUS": "Key",
+    "enUS": "ÿc7Key",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -5119,7 +5136,7 @@
   {
     "id": 2236,
     "Key": "gcv",
-    "enUS": "Chipped Amethyst",
+    "enUS": "ÿc;Chipped Amethyst",
     "zhTW": "碎裂紫寶石",
     "deDE": "lädierter Amethyst",
     "esES": "Amatista fragmentada",
@@ -5136,7 +5153,7 @@
   {
     "id": 2237,
     "Key": "gfv",
-    "enUS": "Flawed Amethyst",
+    "enUS": "ÿc;Flawed Amethyst",
     "zhTW": "瑕疵紫寶石",
     "deDE": "fehlerhafter Amethyst",
     "esES": "Amatista estropeada",
@@ -5153,7 +5170,7 @@
   {
     "id": 2238,
     "Key": "gsv",
-    "enUS": "Amethyst",
+    "enUS": "ÿc;Amethyst",
     "zhTW": "紫寶石",
     "deDE": "Amethyst",
     "esES": "Amatista",
@@ -5170,7 +5187,7 @@
   {
     "id": 2239,
     "Key": "gzv",
-    "enUS": "Flawless Amethyst",
+    "enUS": "ÿc;Flawless Amethystÿc4",
     "zhTW": "無瑕紫寶石",
     "deDE": "makelloser Amethyst",
     "esES": "Amatista sin defectos",
@@ -5187,7 +5204,7 @@
   {
     "id": 2240,
     "Key": "gpv",
-    "enUS": "Perfect Amethyst",
+    "enUS": "ÿc;P Amethyst",
     "zhTW": "完美紫寶石",
     "deDE": "perfekter Amethyst",
     "esES": "Amatista perfecta",
@@ -5204,7 +5221,7 @@
   {
     "id": 2241,
     "Key": "gcy",
-    "enUS": "Chipped Topaz",
+    "enUS": "ÿc9Chipped Topaz",
     "zhTW": "碎裂黃寶石",
     "deDE": "lädierter Topas",
     "esES": "Topacio fragmentado",
@@ -5221,7 +5238,7 @@
   {
     "id": 2242,
     "Key": "gfy",
-    "enUS": "Flawed Topaz",
+    "enUS": "ÿc9Flawed Topaz",
     "zhTW": "瑕疵黃寶石",
     "deDE": "fehlerhafter Topas",
     "esES": "Topacio estropeado",
@@ -5238,7 +5255,7 @@
   {
     "id": 2243,
     "Key": "gsy",
-    "enUS": "Topaz",
+    "enUS": "ÿc9Topaz",
     "zhTW": "黃寶石",
     "deDE": "Topas",
     "esES": "Topacio",
@@ -5255,7 +5272,7 @@
   {
     "id": 2244,
     "Key": "gly",
-    "enUS": "Flawless Topaz",
+    "enUS": "ÿc9Flawless Topaz",
     "zhTW": "無瑕黃寶石",
     "deDE": "makelloser Topas",
     "esES": "Topacio sin defectos",
@@ -5272,7 +5289,7 @@
   {
     "id": 2245,
     "Key": "gpy",
-    "enUS": "Perfect Topaz",
+    "enUS": "ÿc9P Topaz",
     "zhTW": "完美黃寶石",
     "deDE": "perfekter Topas",
     "esES": "Topacio perfecto",
@@ -5289,7 +5306,7 @@
   {
     "id": 2246,
     "Key": "gcb",
-    "enUS": "Chipped Sapphire",
+    "enUS": "ÿc3Chipped Sapphire",
     "zhTW": "碎裂藍寶石",
     "deDE": "lädierter Saphir",
     "esES": "Zafiro fragmentado",
@@ -5306,7 +5323,7 @@
   {
     "id": 2247,
     "Key": "gfb",
-    "enUS": "Flawed Sapphire",
+    "enUS": "ÿc3Flawed Sapphire",
     "zhTW": "瑕疵藍寶石",
     "deDE": "fehlerhafter Saphir",
     "esES": "Zafiro estropeado",
@@ -5321,10 +5338,27 @@
     "zhCN": "有瑕疵的蓝宝石"
   },
   {
+    "id": 2248,
+    "Key": "gsb",
+    "enUS": "ÿc3Sapphire",
+    "zhTW": "藍寶石",
+    "deDE": "Saphir",
+    "esES": "Zafiro",
+    "frFR": "Saphir",
+    "itIT": "Zaffiro",
+    "koKR": "사파이어",
+    "plPL": "Szafir",
+    "esMX": "[ms]Zafiro",
+    "jaJP": "サファイア",
+    "ptBR": "Safira",
+    "ruRU": "[ms]Сапфир",
+    "zhCN": "蓝宝石"
+  },
+  {
     "id": 2249,
     "Key": "glb",
-    "enUS": "Flawless Sapphire",
-    "zhTW": "無瑕藍寶石",
+    "enUS": "ÿc3Flawless Sapphire",
+    "zhTW": "無暇藍寶石",
     "deDE": "makelloser Saphir",
     "esES": "Zafiro sin defectos",
     "frFR": "Saphir sans défaut",
@@ -5340,7 +5374,7 @@
   {
     "id": 2250,
     "Key": "gpb",
-    "enUS": "Perfect Sapphire",
+    "enUS": "ÿc3P Sapphire",
     "zhTW": "完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
@@ -5357,7 +5391,7 @@
   {
     "id": 2251,
     "Key": "gcg",
-    "enUS": "Chipped Emerald",
+    "enUS": "ÿc2Chipped Emerald",
     "zhTW": "碎裂綠寶石",
     "deDE": "lädierter Smaragd",
     "esES": "Esmeralda fragmentada",
@@ -5374,7 +5408,7 @@
   {
     "id": 2252,
     "Key": "gfg",
-    "enUS": "Flawed Emerald",
+    "enUS": "ÿc2Flawed Emerald",
     "zhTW": "瑕疵綠寶石",
     "deDE": "fehlerhafter Smaragd",
     "esES": "Esmeralda estropeada",
@@ -5390,8 +5424,25 @@
   },
   {
     "id": 2253,
+    "Key": "gsg",
+    "enUS": "ÿc2Emerald",
+    "zhTW": "無瑕綠寶石",
+    "deDE": "makelloser Smaragd",
+    "esES": "Esmeralda sin defectos",
+    "frFR": "Émeraude sans défaut",
+    "itIT": "Smeraldo Integro",
+    "koKR": "상급 에메랄드",
+    "plPL": "Szmaragd bez skazy",
+    "esMX": "Esmeralda impecable",
+    "jaJP": "上質なエメラルド",
+    "ptBR": "Esmeralda Impecável",
+    "ruRU": "Безупречный изумруд",
+    "zhCN": "无瑕的绿宝石"
+  },
+  {
+    "id": 2254,
     "Key": "glg",
-    "enUS": "Flawless Emerald",
+    "enUS": "ÿc2Flawless Emerald",
     "zhTW": "無瑕綠寶石",
     "deDE": "makelloser Smaragd",
     "esES": "Esmeralda sin defectos",
@@ -5408,7 +5459,7 @@
   {
     "id": 2255,
     "Key": "gpg",
-    "enUS": "Perfect Emerald",
+    "enUS": "ÿc2P Emerald",
     "zhTW": "完美綠寶石",
     "deDE": "perfekter Smaragd",
     "esES": "Esmeralda perfecta",
@@ -5425,7 +5476,7 @@
   {
     "id": 2256,
     "Key": "gcr",
-    "enUS": "Chipped Ruby",
+    "enUS": "ÿc1Chipped Ruby",
     "zhTW": "碎裂紅寶石",
     "deDE": "lädierter Rubin",
     "esES": "Rubí fragmentado",
@@ -5442,7 +5493,7 @@
   {
     "id": 2257,
     "Key": "gfr",
-    "enUS": "Flawed Ruby",
+    "enUS": "ÿc1Flawed Ruby",
     "zhTW": "瑕疵紅寶石",
     "deDE": "fehlerhafter Rubin",
     "esES": "Rubí estropeado",
@@ -5457,9 +5508,26 @@
     "zhCN": "有瑕疵的红宝石"
   },
   {
+    "id": 2258,
+    "Key": "gsr",
+    "enUS": "ÿc1Ruby",
+    "zhTW": "紅寶石",
+    "deDE": "Rubin",
+    "esES": "Rubí",
+    "frFR": "Rubis",
+    "itIT": "Rubino",
+    "koKR": "루비",
+    "plPL": "Rubin",
+    "esMX": "[ms]Rubí",
+    "jaJP": "ルビー",
+    "ptBR": "Rubi",
+    "ruRU": "[ms]Рубин",
+    "zhCN": "红宝石"
+  },
+  {
     "id": 2259,
     "Key": "glr",
-    "enUS": "Flawless Ruby",
+    "enUS": "ÿc1Flawless Ruby",
     "zhTW": "無瑕紅寶石",
     "deDE": "makelloser Rubin",
     "esES": "Rubí sin defectos",
@@ -5476,7 +5544,7 @@
   {
     "id": 2260,
     "Key": "gpr",
-    "enUS": "Perfect Ruby",
+    "enUS": "ÿc1P Ruby",
     "zhTW": "完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
@@ -5493,7 +5561,7 @@
   {
     "id": 2261,
     "Key": "gcw",
-    "enUS": "Chipped Diamond",
+    "enUS": "ÿc7Chipped Diamond",
     "zhTW": "碎裂鑽石",
     "deDE": "lädierter Diamant",
     "esES": "Diamante fragmentado",
@@ -5510,7 +5578,7 @@
   {
     "id": 2262,
     "Key": "gfw",
-    "enUS": "Flawed Diamond",
+    "enUS": "ÿc7Flawed Diamond",
     "zhTW": "瑕疵鑽石",
     "deDE": "fehlerhafter Diamant",
     "esES": "Diamante estropeado",
@@ -5525,10 +5593,27 @@
     "zhCN": "有瑕疵的钻石"
   },
   {
+    "id": 2263,
+    "Key": "gsw",
+    "enUS": "ÿc7Diamond",
+    "zhTW": "鑽石",
+    "deDE": "Diamant",
+    "esES": "Diamante",
+    "frFR": "Diamant",
+    "itIT": "Diamante",
+    "koKR": "다이아몬드",
+    "plPL": "Diament",
+    "esMX": "[ms]Diamante",
+    "jaJP": "ダイアモンド",
+    "ptBR": "Diamante",
+    "ruRU": "[ms]Алмаз",
+    "zhCN": "钻石"
+  },
+  {
     "id": 2264,
     "Key": "glw",
-    "enUS": "Flawless Diamond",
-    "zhTW": "無瑕鑽石",
+    "enUS": "ÿc7Flawless Diamond",
+    "zhTW": "無暇鑽石",
     "deDE": "makelloser Diamant",
     "esES": "Diamante sin defectos",
     "frFR": "Diamant sans défaut",
@@ -5544,7 +5629,7 @@
   {
     "id": 2265,
     "Key": "gpw",
-    "enUS": "Perfect Diamond",
+    "enUS": "ÿc7P Diamond",
     "zhTW": "完美鑽石",
     "deDE": "perfekter Diamant",
     "esES": "Diamante perfecto",
@@ -5561,11 +5646,11 @@
   {
     "id": 2266,
     "Key": "hp1",
-    "enUS": "Minor Healing Potion",
+    "enUS": "ÿc1HP1",
     "zhTW": "弱效生命藥水",
     "deDE": "schwacher Heiltrank",
     "esES": "Poción de salud menor",
-    "frFR": "Potion de vie mineure",
+    "frFR": "Pot de vie mineure",
     "itIT": "Pozione Guaritrice Minore",
     "koKR": "미량의 치유 물약",
     "plPL": "Mniejsza mikstura leczenia",
@@ -5578,11 +5663,11 @@
   {
     "id": 2267,
     "Key": "hp2",
-    "enUS": "Light Healing Potion",
+    "enUS": "ÿc1HP2",
     "zhTW": "輕效生命藥水",
     "deDE": "leichter Heiltrank",
     "esES": "Poción de salud ligera",
-    "frFR": "Potion de vie moyenne",
+    "frFR": "Pot de vie moyenne",
     "itIT": "Pozione Guaritrice Leggera",
     "koKR": "소량의 치유 물약",
     "plPL": "Lekka mikstura leczenia",
@@ -5595,11 +5680,11 @@
   {
     "id": 2268,
     "Key": "hp3",
-    "enUS": "Healing Potion",
+    "enUS": "ÿc1HP3",
     "zhTW": "生命藥水",
     "deDE": "Heiltrank",
     "esES": "Poción de salud",
-    "frFR": "Potion de vie",
+    "frFR": "Pot de vie",
     "itIT": "Pozione Guaritrice",
     "koKR": "치유 물약",
     "plPL": "Mikstura leczenia",
@@ -5612,11 +5697,11 @@
   {
     "id": 2269,
     "Key": "hp4",
-    "enUS": "Greater Healing Potion",
+    "enUS": "ÿc1HP4",
     "zhTW": "強效生命藥水",
     "deDE": "guter Heiltrank",
     "esES": "Poción de salud superior",
-    "frFR": "Potion de vie supérieure",
+    "frFR": "Pot de vie supérieure",
     "itIT": "Pozione Guaritrice Maggiore",
     "koKR": "대량의 치유 물약",
     "plPL": "Większa mikstura leczenia",
@@ -5629,7 +5714,7 @@
   {
     "id": 2270,
     "Key": "hp5",
-    "enUS": "Super Healing Potion",
+    "enUS": "ÿc1HP5",
     "zhTW": "特效生命藥水",
     "deDE": "starker Heiltrank",
     "esES": "Superpoción de salud",
@@ -5646,11 +5731,11 @@
   {
     "id": 2271,
     "Key": "mp1",
-    "enUS": "Minor Mana Potion",
+    "enUS": "ÿc3MP1",
     "zhTW": "弱效法力藥水",
     "deDE": "schwacher Manatrank",
     "esES": "Poción de maná menor",
-    "frFR": "Potion de mana mineure",
+    "frFR": "Pot de mana mineure",
     "itIT": "Pozione del Mana Minore",
     "koKR": "미량의 마나 물약",
     "plPL": "Mniejsza mikstura many",
@@ -5663,11 +5748,11 @@
   {
     "id": 2272,
     "Key": "mp2",
-    "enUS": "Light Mana Potion",
+    "enUS": "ÿc3MP2",
     "zhTW": "輕效法力藥水",
     "deDE": "leichter Manatrank",
     "esES": "Poción de maná ligera",
-    "frFR": "Potion de mana moyenne",
+    "frFR": "Pot de mana moyenne",
     "itIT": "Pozione del Mana Leggera",
     "koKR": "소량의 마나 물약",
     "plPL": "Lekka mikstura many",
@@ -5680,11 +5765,11 @@
   {
     "id": 2273,
     "Key": "mp3",
-    "enUS": "Mana Potion",
+    "enUS": "ÿc3MP3",
     "zhTW": "法力藥水",
     "deDE": "Manatrank",
     "esES": "Poción de maná",
-    "frFR": "Potion de mana",
+    "frFR": "Pot de mana",
     "itIT": "Pozione del Mana",
     "koKR": "마나 물약",
     "plPL": "Mikstura many",
@@ -5697,11 +5782,11 @@
   {
     "id": 2274,
     "Key": "mp4",
-    "enUS": "Greater Mana Potion",
+    "enUS": "ÿc3MP4",
     "zhTW": "強效法力藥水",
     "deDE": "guter Manatrank",
     "esES": "Poción de maná superior",
-    "frFR": "Potion de mana supérieure",
+    "frFR": "Pot de mana supérieure",
     "itIT": "Pozione del Mana Maggiore",
     "koKR": "대량의 마나 물약",
     "plPL": "Większa mikstura many",
@@ -5714,7 +5799,7 @@
   {
     "id": 2275,
     "Key": "mp5",
-    "enUS": "Super Mana Potion",
+    "enUS": "ÿc3MP5",
     "zhTW": "特效法力藥水",
     "deDE": "starker Manatrank",
     "esES": "Superpoción de maná",
@@ -5731,7 +5816,7 @@
   {
     "id": 2277,
     "Key": "skc",
-    "enUS": "Chipped Skull",
+    "enUS": "ÿc0Chipped Skull",
     "zhTW": "碎裂骷髏石",
     "deDE": "lädierter Schädel",
     "esES": "Cráneo fragmentado",
@@ -5748,7 +5833,7 @@
   {
     "id": 2278,
     "Key": "skf",
-    "enUS": "Flawed Skull",
+    "enUS": "ÿc0Flawed Skull",
     "zhTW": "瑕疵骷髏石",
     "deDE": "fehlerhafter Schädel",
     "esES": "Cráneo estropeado",
@@ -5765,7 +5850,7 @@
   {
     "id": 2279,
     "Key": "sku",
-    "enUS": "Skull",
+    "enUS": "ÿc0Skull",
     "zhTW": "骷髏石",
     "deDE": "Schädel",
     "esES": "Cráneo",
@@ -5782,8 +5867,8 @@
   {
     "id": 2280,
     "Key": "skl",
-    "enUS": "Flawless Skull",
-    "zhTW": "無瑕骷髏石",
+    "enUS": "ÿc0Flawless Skull",
+    "zhTW": "無暇骷髏石",
     "deDE": "makelloser Schädel",
     "esES": "Cráneo sin defectos",
     "frFR": "Crâne sans défaut",
@@ -5799,7 +5884,7 @@
   {
     "id": 2281,
     "Key": "skz",
-    "enUS": "Perfect Skull",
+    "enUS": "ÿc0P Skull",
     "zhTW": "完美骷髏石",
     "deDE": "perfekter Schädel",
     "esES": "Cráneo perfecto",
@@ -9769,7 +9854,7 @@
     "koKR": "라자루스의 첨탑",
     "plPL": "Iglica Lazarusa",
     "esMX": "Pináculo de Lázaro",
-    "jaJP": "ラザルスの長杖",
+    "jaJP": "ラザラスの長杖",
     "ptBR": "Ápice de Lázaro",
     "ruRU": "Шпиль Лазаря",
     "zhCN": "拉扎鲁斯的螺旋杖"
@@ -10214,7 +10299,7 @@
     "jaJP": "トゥイッチスロウ",
     "ptBR": "Contorção",
     "ruRU": "Приступ боли",
-    "zhCN": "抽动的挣扎"
+    "zhCN": "抽搐阵痛"
   },
   {
     "id": 2657,
@@ -11021,7 +11106,7 @@
     "enUS": "Jug",
     "zhTW": "罐子",
     "deDE": "Krug",
-    "esES": "Jarrón",
+    "esES": "Jarra",
     "frFR": "Pichet",
     "itIT": "Brocca",
     "koKR": "항아리",
@@ -12271,7 +12356,7 @@
     "jaJP": "バーサーカー・アックス",
     "ptBR": "[ms]Machado do Berserker",
     "ruRU": "Секира берсерка",
-    "zhCN": "狂战斧"
+    "zhCN": "狂战士战斧"
   },
   {
     "id": 11012,
@@ -12900,7 +12985,7 @@
     "jaJP": "エッティン・アックス",
     "ptBR": "[ms]Machado de Ettin",
     "ruRU": "[ms]эттинский топор",
-    "zhCN": "双头斧"
+    "zhCN": "双头巨人斧"
   },
   {
     "id": 20204,
@@ -12968,7 +13053,7 @@
     "jaJP": "ディキャピテイター",
     "ptBR": "[ms]Decapitador",
     "ruRU": "[ms]главорез",
-    "zhCN": "斩首斧"
+    "zhCN": "刽子手之斧"
   },
   {
     "id": 20209,
@@ -13052,7 +13137,7 @@
     "esMX": "[fs]Vara de liche",
     "jaJP": "リッチ・ワンド",
     "ptBR": "[fs]Varinha do Lich",
-    "ruRU": "[ms]жезл лича",
+    "ruRU": "[ms]некромантский жезл",
     "zhCN": "尸妖魔杖"
   },
   {
@@ -13086,7 +13171,7 @@
     "esMX": "[fs]Macana",
     "jaJP": "トランシャン",
     "ptBR": "[ms]Porrete",
-    "ruRU": "[fs]укрепленная дубинка",
+    "ruRU": "[ms]буздыган",
     "zhCN": "戒律棒"
   },
   {
@@ -13206,7 +13291,7 @@
     "jaJP": "スコージ",
     "ptBR": "[ms]Flagelo",
     "ruRU": "[fs]плеть",
-    "zhCN": "鞭锤"
+    "zhCN": "天罚之锤"
   },
   {
     "id": 20223,
@@ -13257,7 +13342,7 @@
     "jaJP": "サンダー・モール",
     "ptBR": "[ms]Malho Trovejante",
     "ruRU": "[fs]громовая кувалда",
-    "zhCN": "雷锤"
+    "zhCN": "雷霆之锤"
   },
   {
     "id": 20226,
@@ -13478,7 +13563,7 @@
     "jaJP": "コロッサス・ソード",
     "ptBR": "[fs]Espada Colossal",
     "ruRU": "[ms]массивный меч",
-    "zhCN": "巨神剑"
+    "zhCN": "巨神之剑"
   },
   {
     "id": 20239,
@@ -13495,7 +13580,7 @@
     "jaJP": "コロッサス・ブレイド",
     "ptBR": "[fs]Lâmina Colossal",
     "ruRU": "[ms]массивный клинок",
-    "zhCN": "巨神刃"
+    "zhCN": "巨神之刃"
   },
   {
     "id": 20240,
@@ -13522,7 +13607,7 @@
     "deDE": "[fs]Mithrilspitze",
     "esES": "[fs]Puya de mithril",
     "frFR": "[ms]Poinçon de Mithril",
-    "itIT": "[ms]Punteruolo di Mithril",
+    "itIT": "[fs]Punteruolo di Mithril",
     "koKR": "미스릴 포인트",
     "plPL": "[ms]Mithrilowy Szpikulec",
     "esMX": "[fs]Punta de mithril",
@@ -13647,7 +13732,7 @@
     "esMX": "[fs]Jabalina de hiperión",
     "jaJP": "ハイペリオン・ジャベリン",
     "ptBR": "[ms]Dardo Hipérion",
-    "ruRU": "[ms]гиперионский ассегай",
+    "ruRU": "[ms]гиперионский дротик",
     "zhCN": "亥伯龙标枪"
   },
   {
@@ -13767,7 +13852,7 @@
     "jaJP": "マンキャッチャー",
     "ptBR": "[fs]Apanhadora",
     "ruRU": "[ms]ухват",
-    "zhCN": "捕人叉"
+    "zhCN": "捕人枪"
   },
   {
     "id": 20256,
@@ -13817,7 +13902,7 @@
     "esMX": "[fs]Hacha de ogro",
     "jaJP": "オーガ・アックス",
     "ptBR": "[ms]Machado Ogro",
-    "ruRU": "[ms]топор людоеда",
+    "ruRU": "[ms]устрашающий топор",
     "zhCN": "食人魔斧"
   },
   {
@@ -13835,7 +13920,7 @@
     "jaJP": "コロッサス・ヴォウジェ",
     "ptBR": "[fs]Voulge Colossal",
     "ruRU": "[ms]массивный вуж",
-    "zhCN": "巨神戟"
+    "zhCN": "巨型斧戟"
   },
   {
     "id": 20260,
@@ -13920,7 +14005,7 @@
     "jaJP": "ウォーキング・スティック",
     "ptBR": "[fs]Bengala",
     "ruRU": "[fs]трость",
-    "zhCN": "手杖"
+    "zhCN": "拐杖"
   },
   {
     "id": 20265,
@@ -14175,7 +14260,7 @@
     "jaJP": "コロッサス・クロスボウ",
     "ptBR": "[fs]Besta Colossal",
     "ruRU": "[ms]массивный арбалет",
-    "zhCN": "巨神弩"
+    "zhCN": "神臂弩"
   },
   {
     "id": 20280,
@@ -14311,7 +14396,7 @@
     "jaJP": "スラッシャー",
     "ptBR": "Retalhadores",
     "ruRU": "[pl]рубила",
-    "zhCN": "切割刀"
+    "zhCN": "Slashers"
   },
   {
     "id": 20288,
@@ -14328,7 +14413,7 @@
     "jaJP": "スプレー",
     "ptBR": "Bisel",
     "ruRU": "[fs]кромка",
-    "zhCN": "锥头刀"
+    "zhCN": "Splay"
   },
   {
     "id": 20289,
@@ -14396,7 +14481,7 @@
     "jaJP": "スタッグ・ボウ",
     "ptBR": "[ms]Arco Cervídeo",
     "ruRU": "[ms]рогатый лук",
-    "zhCN": "猎鹿弓"
+    "zhCN": "猎鹿之弓"
   },
   {
     "id": 20293,
@@ -14463,7 +14548,7 @@
     "esMX": "[fs]Jabalina de la doncella",
     "jaJP": "メイデン・ジャベリン",
     "ptBR": "[ms]Dardo da Dama",
-    "ruRU": "[ms]девичий ассегай",
+    "ruRU": "[ms]девичий дротик",
     "zhCN": "处子标枪"
   },
   {
@@ -14633,7 +14718,7 @@
     "esMX": "[fs]Jabalina ceremonial",
     "jaJP": "セレモニアル・ジャベリン",
     "ptBR": "[ms]Dardo Cerimonial",
-    "ruRU": "[ms]ритуальный ассегай",
+    "ruRU": "[ms]ритуальный дротик",
     "zhCN": "仪式标枪"
   },
   {
@@ -14803,7 +14888,7 @@
     "esMX": "[fs]Jabalina de la matriarca",
     "jaJP": "メイトリアーカル・ジャベリン",
     "ptBR": "[ms]Dardo Matriarcal",
-    "ruRU": "[ms]матриарший ассегай",
+    "ruRU": "[ms]матриарший дротик",
     "zhCN": "女族长标枪"
   },
   {
@@ -14991,7 +15076,7 @@
     "jaJP": "タージ",
     "ptBR": "[fs]Targa",
     "ruRU": "[ms]тарджет",
-    "zhCN": "小盾"
+    "zhCN": "臂盾"
   },
   {
     "id": 20328,
@@ -15092,7 +15177,7 @@
     "esMX": "[fs]Cabeza de zombi",
     "jaJP": "ゾンビ・ヘッド",
     "ptBR": "[fs]Cabeça Zumbi",
-    "ruRU": "[fs]голова зомби",
+    "ruRU": "[fs]зомбякова голова",
     "zhCN": "僵尸头骨"
   },
   {
@@ -15109,7 +15194,7 @@
     "esMX": "[fs]Cabeza de desenredador",
     "jaJP": "アンラヴェラー・ヘッド",
     "ptBR": "[fs]Cabeça de Desfiador",
-    "ruRU": "[fs]голова развоплотителя",
+    "ruRU": "[fs]разматывателева голова",
     "zhCN": "剖尸者头骨"
   },
   {
@@ -15126,7 +15211,7 @@
     "esMX": "[fs]Cabeza de gárgola",
     "jaJP": "ガーゴイル・ヘッド",
     "ptBR": "[fs]Cabeça de Gárgula",
-    "ruRU": "[fs]голова горгульи",
+    "ruRU": "[fs]горгулья голова",
     "zhCN": "石像鬼头骨"
   },
   {
@@ -15143,7 +15228,7 @@
     "esMX": "[fs]Cabeza de demonio",
     "jaJP": "デーモン・ヘッド",
     "ptBR": "[fs]Cabeça de Demônio",
-    "ruRU": "[fs]голова демона",
+    "ruRU": "[fs]демонская голова",
     "zhCN": "恶魔头骨"
   },
   {
@@ -15245,7 +15330,7 @@
     "esMX": "[ms]Cráneo de hidra",
     "jaJP": "ヒュドラスカル",
     "ptBR": "[ms]Crânio de Hidra",
-    "ruRU": "[ms]череп гидры",
+    "ruRU": "[ms]гидровый череп",
     "zhCN": "多头蛇颅"
   },
   {
@@ -15331,7 +15416,7 @@
     "jaJP": "デーモンヘッド",
     "ptBR": "[fs]Cabeça Demoníaca",
     "ruRU": "[fs]демонская голова",
-    "zhCN": "恶魔面甲"
+    "zhCN": "恶魔头"
   },
   {
     "id": 20348,
@@ -15365,7 +15450,7 @@
     "jaJP": "ウィルムハイド",
     "ptBR": "[ms]Couro de Serpe",
     "ruRU": "[fs]змеиная кожа",
-    "zhCN": "龙皮甲"
+    "zhCN": "龙皮"
   },
   {
     "id": 20350,
@@ -16174,7 +16259,7 @@
     "deDE": "Akarantarge",
     "esES": "[fs]Adarga de Akaran",
     "frFR": "[fs]Targe d’Akaran",
-    "itIT": "[fs]Targa di Akarat",
+    "itIT": "[ms]Targa di Akarat",
     "koKR": "아카란 타아지",
     "plPL": "[fs]Akarańska Tarża",
     "esMX": "[fs]Adarga de Akara",
@@ -16191,7 +16276,7 @@
     "deDE": "[fs]Akaranrondache",
     "esES": "[fs]Rodela de Akaran",
     "frFR": "[fs]Rondache d’Akaran",
-    "itIT": "[fs]Rondaccia di Akarat",
+    "itIT": "[ms]Rondaccia di Akarat",
     "koKR": "아카란 론다쉬",
     "plPL": "[fs]Akarańska Rodela",
     "esMX": "[fs]Rodela de Akara",
@@ -16300,7 +16385,7 @@
     "jaJP": "セクストン・トロフィー",
     "ptBR": "[ms]Troféu Sexton",
     "ruRU": "[ms]алтарный трофей",
-    "zhCN": "司事法器"
+    "zhCN": "教堂司事法器"
   },
   {
     "id": 20405,
@@ -19343,7 +19428,7 @@
     "jaJP": "リーパーズ・トール",
     "ptBR": "Tributo do Ceifador",
     "ruRU": "Дань Жнецу",
-    "zhCN": "死神丧钟"
+    "zhCN": "死神的丧钟"
   },
   {
     "id": 21428,
@@ -19394,7 +19479,7 @@
     "jaJP": "アルマ・ネグラ",
     "ptBR": "Alma Negra",
     "ruRU": "Черная душа",
-    "zhCN": "黑魂"
+    "zhCN": "黑暗之魂"
   },
   {
     "id": 21431,
@@ -20479,7 +20564,7 @@
     "koKR": "무형의 날붙이",
     "plPL": "Eteryczne Ostrze",
     "esMX": "Filo etéreo",
-    "jaJP": "イシリアル・エッジ",
+    "jaJP": "エセリアル・エッジ",
     "ptBR": "Gume Etéreo",
     "ruRU": "Призрачная грань",
     "zhCN": "无形之锋"
@@ -20516,7 +20601,7 @@
     "jaJP": "カーネッジ・リーバー",
     "ptBR": "Arauto da Carnificina",
     "ruRU": "Вестник бойни",
-    "zhCN": "屠绝"
+    "zhCN": "Carnage Leaver"
   },
   {
     "id": 21497,
@@ -20533,7 +20618,7 @@
     "jaJP": "ゴースト・リーチ",
     "ptBR": "Lixívia Fantasma",
     "ruRU": "Призрачная щелочь",
-    "zhCN": "鬼凄"
+    "zhCN": "Ghost Leach"
   },
   {
     "id": 21498,
@@ -20567,7 +20652,7 @@
     "jaJP": "サミュエルの守護者",
     "ptBR": "Protetor de Samuel",
     "ruRU": "Смотритель Самуэля",
-    "zhCN": "塞缪尔的照看者"
+    "zhCN": "Samuel's Caretaker"
   },
   {
     "id": 21500,
@@ -20618,7 +20703,7 @@
     "jaJP": "ライデンズ・クラッチ",
     "ptBR": "Muleta de Raiden",
     "ruRU": "Костыль Райдена",
-    "zhCN": "雷登的拐杖"
+    "zhCN": "Raiden's Crutch"
   },
   {
     "id": 21503,
@@ -20754,7 +20839,7 @@
     "jaJP": "グリマーシュレッド",
     "ptBR": "Trituraluzente",
     "ruRU": "Мерцающий кромсатель",
-    "zhCN": "微光裂片"
+    "zhCN": "Glimmershred"
   },
   {
     "id": 21512,
@@ -21179,7 +21264,7 @@
     "jaJP": "モーザーの祝福されし円",
     "ptBR": "Círculo Abençoado de Moser",
     "ruRU": "Священный круг Мозера",
-    "zhCN": "摩西尔的神圣圆环"
+    "zhCN": "莫泽的祝福圆盾"
   },
   {
     "id": 21537,
@@ -22154,7 +22239,7 @@
     "id": 21594,
     "Key": "Metalgird",
     "enUS": "Metalite's Girth",
-    "zhTW": "梅塔萊特的束腰",
+    "zhTW": "梅塔萊特的腰",
     "deDE": "Metalites Gürtel",
     "esES": "Cincha de Metalite",
     "frFR": "Ceinturon de Métalite",
@@ -22420,7 +22505,7 @@
     "jaJP": "ハイロードの怒り",
     "ptBR": "Ira do Grão-lorde",
     "ruRU": "Гнев верховного лорда",
-    "zhCN": "大君之怒"
+    "zhCN": "至高王之怒"
   },
   {
     "id": 21610,
@@ -22675,7 +22760,7 @@
     "jaJP": "グラディエーターズ・ベイン",
     "ptBR": "Ruína do Gladiador",
     "ruRU": "Погибель гладиатора",
-    "zhCN": "角斗士的祸根"
+    "zhCN": "角斗士之祸"
   },
   {
     "id": 21626,
@@ -22760,7 +22845,7 @@
     "jaJP": "モーザーの祝福されし円",
     "ptBR": "Círculo Abençoado de Moser",
     "ruRU": "Священный круг Мозера",
-    "zhCN": "摩西尔的神圣圆环"
+    "zhCN": "莫泽的祝福圆盾"
   },
   {
     "id": 21631,
@@ -22913,7 +22998,7 @@
     "jaJP": "ストームスパイア",
     "ptBR": "Haste Tempestuosa",
     "ruRU": "Шест бури",
-    "zhCN": "风暴穹窿"
+    "zhCN": "暴风螺旋"
   },
   {
     "id": 21640,
@@ -22944,7 +23029,7 @@
     "koKR": "무형의 날붙이",
     "plPL": "Eteryczne Ostrze",
     "esMX": "Filo etéreo",
-    "jaJP": "イシリアル・エッジ",
+    "jaJP": "エセリアル・エッジ",
     "ptBR": "Gume Etéreo",
     "ruRU": "Призрачная грань",
     "zhCN": "无形之锋"
@@ -25150,7 +25235,7 @@
     "deDE": "Axthände",
     "esES": "[fp]Manos de hachuela",
     "frFR": "[mp]Gants tranchants",
-    "itIT": "[fp]Mani d'Accetta",
+    "itIT": "Mani d'Accetta",
     "koKR": "해칫 핸즈",
     "plPL": "[nl]Naręczne Topory",
     "esMX": "[fp]Manos de hachuela",
@@ -26010,24 +26095,7 @@
     "zhCN": "莫伊"
   },
   {
-    "id": 40120,
-    "Key": "Moe",
-    "enUS": "Moe",
-    "zhTW": "莫",
-    "deDE": "Moe",
-    "esES": "Moe",
-    "frFR": "Pim",
-    "itIT": "Moe",
-    "koKR": "모오",
-    "plPL": "Moe",
-    "esMX": "Moe",
-    "jaJP": "モー",
-    "ptBR": "Moe",
-    "ruRU": "Мо",
-    "zhCN": "莫伊"
-  },
-  {
-    "id": 40121,
+    "id": 27140,
     "Key": "ood",
     "enUS": "ÿc8Orb of Divination",
     "zhTW": "",
@@ -26044,7 +26112,7 @@
     "zhCN": ""
   },
   {
-    "id": 40122,
+    "id": 27141,
     "Key": "oex",
     "enUS": "ÿc8Orb of Extraction",
     "zhTW": "",
@@ -26061,7 +26129,7 @@
     "zhCN": ""
   },
   {
-    "id": 40123,
+    "id": 27142,
     "Key": "ooc",
     "enUS": "ÿc8Orb of Combination",
     "zhTW": "",
@@ -26078,7 +26146,7 @@
     "zhCN": ""
   },
   {
-    "id": 40124,
+    "id": 27143,
     "Key": "esc",
     "enUS": "ÿc8Compound Essence",
     "zhTW": "",
@@ -26095,7 +26163,7 @@
     "zhCN": ""
   },
   {
-    "id": 40125,
+    "id": 27144,
     "Key": "esr",
     "enUS": "ÿc8Rare Essence",
     "zhTW": "",
@@ -26112,7 +26180,7 @@
     "zhCN": ""
   },
   {
-    "id": 40126,
+    "id": 27145,
     "Key": "esu",
     "enUS": "ÿc8Unique Essence",
     "zhTW": "",
@@ -26129,7 +26197,7 @@
     "zhCN": ""
   },
   {
-    "id": 40127,
+    "id": 27146,
     "Key": "esn",
     "enUS": "ÿc8Normal Essence",
     "zhTW": "",
@@ -26146,7 +26214,7 @@
     "zhCN": ""
   },
   {
-    "id": 40128,
+    "id": 27147,
     "Key": "esx",
     "enUS": "ÿc8Exceptional Essence",
     "zhTW": "",
@@ -26163,7 +26231,7 @@
     "zhCN": ""
   },
   {
-    "id": 40129,
+    "id": 27148,
     "Key": "esl",
     "enUS": "ÿc8Elite Essence",
     "zhTW": "",
@@ -26180,7 +26248,7 @@
     "zhCN": ""
   },
   {
-    "id": 40130,
+    "id": 27149,
     "Key": "lzg",
     "enUS": "ÿc7Torso > +1-2 Sockets\n2H Wep > +1-4 Sockets\n1H Wep > +1-2 Sockets\nÿc8Larzuk's Gimlet:",
     "zhTW": "",
@@ -26197,7 +26265,7 @@
     "zhCN": ""
   },
   {
-    "id": 40131,
+    "id": 27150,
     "Key": "glx",
     "enUS": "ÿc8Glyph of Xiansai",
     "zhTW": "",
@@ -26214,7 +26282,7 @@
     "zhCN": ""
   },
   {
-    "id": 40132,
+    "id": 27151,
     "Key": "cgg",
     "enUS": "ÿc8Charsi's Great Gavel",
     "zhTW": "",
@@ -26231,7 +26299,7 @@
     "zhCN": ""
   },
   {
-    "id": 40133,
+    "id": 27152,
     "Key": "jfg",
     "enUS": "ÿc8Jewel Fragment",
     "zhTW": "",
@@ -26248,10 +26316,10 @@
     "zhCN": ""
   },
   {
-    "id": 40134,
-    "Key": "8ca",
-    "enUS": "ÿc;Chip Amethyst S",
-    "zhTW": "",
+    "id": 27153,
+	"Key": "8ca",
+	"enUS": "ÿc;Chip Amethyst S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26265,10 +26333,10 @@
     "zhCN": ""
   },
   {
-    "id": 40135,
-    "Key": "8fa",
-    "enUS": "ÿc;Flawed Amethyst S",
-    "zhTW": "",
+  	"id": 27154,
+	"Key": "8fa",
+	"enUS": "ÿc;Flawed Amethyst S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26282,10 +26350,10 @@
     "zhCN": ""
   },
   {
-    "id": 40136,
-    "Key": "8na",
-    "enUS": "ÿc;Amethyst S",
-    "zhTW": "",
+  	"id": 27155,
+	"Key": "8na",
+	"enUS": "ÿc;Amethyst S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26299,10 +26367,10 @@
     "zhCN": ""
   },
   {
-    "id": 40137,
-    "Key": "8la",
-    "enUS": "ÿc;Flaw Amethyst S",
-    "zhTW": "",
+  	"id": 27156,
+	"Key": "8la",
+	"enUS": "ÿc;Flaw Amethyst S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26316,10 +26384,10 @@
     "zhCN": ""
   },
   {
-    "id": 40138,
-    "Key": "8pa",
-    "enUS": "ÿc;P Amethyst S",
-    "zhTW": "",
+  	"id": 27157,
+	"Key": "8pa",
+	"enUS": "ÿc;P Amethyst S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26333,10 +26401,10 @@
     "zhCN": ""
   },
   {
-    "id": 40139,
-    "Key": "8cd",
-    "enUS": "ÿc7Chip Diamond S",
-    "zhTW": "",
+  	"id": 27158,
+	"Key": "8cd",
+	"enUS": "ÿc7Chip Diamond S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26350,10 +26418,10 @@
     "zhCN": ""
   },
   {
-    "id": 40140,
-    "Key": "8fd",
-    "enUS": "ÿc7Flawed Diamond S",
-    "zhTW": "",
+  	"id": 27159,
+	"Key": "8fd",
+	"enUS": "ÿc7Flawed Diamond S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26367,10 +26435,10 @@
     "zhCN": ""
   },
   {
-    "id": 40141,
-    "Key": "8nd",
-    "enUS": "ÿc7Diamond S",
-    "zhTW": "",
+  	"id": 27160,
+	"Key": "8nd",
+	"enUS": "ÿc7Diamond S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26384,10 +26452,10 @@
     "zhCN": ""
   },
   {
-    "id": 40142,
-    "Key": "8fd",
-    "enUS": "ÿc7Flawed Diamond S",
-    "zhTW": "",
+  	"id": 27161,
+	"Key": "8fd",
+	"enUS": "ÿc7Flawed Diamond S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26401,10 +26469,10 @@
     "zhCN": ""
   },
   {
-    "id": 40143,
-    "Key": "8ld",
-    "enUS": "ÿc7Flaw Diamond S",
-    "zhTW": "",
+  	"id": 27162,
+	"Key": "8ld",
+	"enUS": "ÿc7Flaw Diamond S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26418,10 +26486,10 @@
     "zhCN": ""
   },
   {
-    "id": 40144,
-    "Key": "8pd",
-    "enUS": "ÿc7P Diamond S",
-    "zhTW": "",
+  	"id": 27163,
+	"Key": "8pd",
+	"enUS": "ÿc7P Diamond S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26435,10 +26503,10 @@
     "zhCN": ""
   },
   {
-    "id": 40145,
-    "Key": "8ce",
-    "enUS": "ÿc2Chip Emerlad S",
-    "zhTW": "",
+  	"id": 27164,
+	"Key": "8ce",
+	"enUS": "ÿc2Chip Emerlad S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26452,10 +26520,10 @@
     "zhCN": ""
   },
   {
-    "id": 40146,
-    "Key": "8fe",
-    "enUS": "ÿc2Flawed Emerlad S",
-    "zhTW": "",
+  	"id": 27165,
+	"Key": "8fe",
+	"enUS": "ÿc2Flawed Emerlad S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26469,10 +26537,10 @@
     "zhCN": ""
   },
   {
-    "id": 40147,
-    "Key": "8ne",
-    "enUS": "ÿc2Emerlad S",
-    "zhTW": "",
+  	"id": 27166,
+	"Key": "8ne",
+	"enUS": "ÿc2Emerlad S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26486,10 +26554,10 @@
     "zhCN": ""
   },
   {
-    "id": 40148,
-    "Key": "8le",
-    "enUS": "ÿc2Flaw Emerlad S",
-    "zhTW": "",
+  	"id": 27167,
+	"Key": "8le",
+	"enUS": "ÿc2Flaw Emerlad S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26503,10 +26571,10 @@
     "zhCN": ""
   },
   {
-    "id": 40149,
-    "Key": "8pe",
-    "enUS": "ÿc2P Emerlad S",
-    "zhTW": "",
+  	"id": 27168,
+	"Key": "8pe",
+	"enUS": "ÿc2P Emerlad S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26520,10 +26588,10 @@
     "zhCN": ""
   },
   {
-    "id": 40150,
-    "Key": "8cr",
-    "enUS": "ÿc1Chip Ruby S",
-    "zhTW": "",
+  	"id": 27169,
+	"Key": "8cr",
+	"enUS": "ÿc1Chip Ruby S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26537,10 +26605,10 @@
     "zhCN": ""
   },
   {
-    "id": 40151,
-    "Key": "8fr",
-    "enUS": "ÿc1Flawed Ruby S",
-    "zhTW": "",
+  	"id": 27170,
+	"Key": "8fr",
+	"enUS": "ÿc1Flawed Ruby S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26554,10 +26622,10 @@
     "zhCN": ""
   },
   {
-    "id": 40152,
-    "Key": "8nr",
-    "enUS": "ÿc1Ruby S",
-    "zhTW": "",
+  	"id": 27171,
+	"Key": "8nr",
+	"enUS": "ÿc1Ruby S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26571,10 +26639,10 @@
     "zhCN": ""
   },
   {
-    "id": 40153,
-    "Key": "8lr",
-    "enUS": "ÿc1Flaw Ruby S",
-    "zhTW": "",
+  	"id": 27172,
+	"Key": "8lr",
+	"enUS": "ÿc1Flaw Ruby S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26588,10 +26656,10 @@
     "zhCN": ""
   },
   {
-    "id": 40154,
-    "Key": "8pr",
-    "enUS": "ÿc1P Ruby S",
-    "zhTW": "",
+  	"id": 27173,
+	"Key": "8pr",
+	"enUS": "ÿc1P Ruby S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26605,10 +26673,10 @@
     "zhCN": ""
   },
   {
-    "id": 40155,
-    "Key": "8cp",
-    "enUS": "ÿc3Chip Sapphire S",
-    "zhTW": "",
+  	"id": 27174,
+	"Key": "8cp",
+	"enUS": "ÿc3Chip Sapphire S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26622,10 +26690,10 @@
     "zhCN": ""
   },
   {
-    "id": 40156,
-    "Key": "8fs",
-    "enUS": "ÿc3Flawed Sapphire S",
-    "zhTW": "",
+  	"id": 27175,
+	"Key": "8fs",
+	"enUS": "ÿc3Flawed Sapphire S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26639,10 +26707,10 @@
     "zhCN": ""
   },
   {
-    "id": 40157,
-    "Key": "8ns",
-    "enUS": "ÿc3Sapphire S",
-    "zhTW": "",
+  	"id": 27176,
+	"Key": "8ns",
+	"enUS": "ÿc3Sapphire S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26656,10 +26724,10 @@
     "zhCN": ""
   },
   {
-    "id": 40158,
-    "Key": "8as",
-    "enUS": "ÿc3Flaw Sapphire S",
-    "zhTW": "",
+  	"id": 27177,
+	"Key": "8as",
+	"enUS": "ÿc3Flaw Sapphire S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26673,10 +26741,10 @@
     "zhCN": ""
   },
   {
-    "id": 40159,
-    "Key": "8ps",
-    "enUS": "ÿc3P Sapphire S",
-    "zhTW": "",
+  	"id": 27178,
+	"Key": "8ps",
+	"enUS": "ÿc3P Sapphire S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26690,10 +26758,10 @@
     "zhCN": ""
   },
   {
-    "id": 40160,
-    "Key": "8ck",
-    "enUS": "ÿc0Chip Skull S",
-    "zhTW": "",
+  	"id": 27179,
+	"Key": "8ck",
+	"enUS": "ÿc0Chip Skull S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26707,10 +26775,10 @@
     "zhCN": ""
   },
   {
-    "id": 40161,
-    "Key": "8fk",
-    "enUS": "ÿc0Flawed Skull S",
-    "zhTW": "",
+  	"id": 27180,
+	"Key": "8fk",
+	"enUS": "ÿc0Flawed Skull S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26724,10 +26792,10 @@
     "zhCN": ""
   },
   {
-    "id": 40162,
-    "Key": "8nk",
-    "enUS": "ÿc0Skull S",
-    "zhTW": "",
+  	"id": 27181,
+	"Key": "8nk",
+	"enUS": "ÿc0Skull S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26741,10 +26809,10 @@
     "zhCN": ""
   },
   {
-    "id": 40163,
-    "Key": "8lk",
-    "enUS": "ÿc0Flaw Skull S",
-    "zhTW": "",
+  	"id": 27182,
+	"Key": "8lk",
+	"enUS": "ÿc0Flaw Skull S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26758,10 +26826,10 @@
     "zhCN": ""
   },
   {
-    "id": 40164,
-    "Key": "8pk",
-    "enUS": "ÿc0P Skull S",
-    "zhTW": "",
+  	"id": 27183,
+	"Key": "8pk",
+	"enUS": "ÿc0P Skull S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26775,10 +26843,10 @@
     "zhCN": ""
   },
   {
-    "id": 40165,
-    "Key": "8ct",
-    "enUS": "ÿc9Chip Topaz S",
-    "zhTW": "",
+  	"id": 27184,
+	"Key": "8ct",
+	"enUS": "ÿc9Chip Topaz S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26792,10 +26860,10 @@
     "zhCN": ""
   },
   {
-    "id": 40166,
-    "Key": "8ft",
-    "enUS": "ÿc9Flawed Topaz S",
-    "zhTW": "",
+  	"id": 27185,
+	"Key": "8ft",
+	"enUS": "ÿc9Flawed Topaz S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26809,10 +26877,10 @@
     "zhCN": ""
   },
   {
-    "id": 40167,
-    "Key": "8nt",
-    "enUS": "ÿc9Topaz S",
-    "zhTW": "",
+  	"id": 27186,
+	"Key": "8nt",
+	"enUS": "ÿc9Topaz S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26826,10 +26894,10 @@
     "zhCN": ""
   },
   {
-    "id": 40168,
-    "Key": "8lt",
-    "enUS": "ÿc9Flaw Topaz S",
-    "zhTW": "",
+  	"id": 27187,
+	"Key": "8lt",
+	"enUS": "ÿc9Flaw Topaz S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26843,10 +26911,10 @@
     "zhCN": ""
   },
   {
-    "id": 40169,
-    "Key": "8pt",
-    "enUS": "ÿc9P Topaz S",
-    "zhTW": "",
+  	"id": 27188,
+	"Key": "8pt",
+	"enUS": "ÿc9P Topaz S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26860,10 +26928,10 @@
     "zhCN": ""
   },
   {
-    "id": 40170,
-    "Key": "p1s",
-    "enUS": "ÿc8Key of Terror S",
-    "zhTW": "",
+  	"id": 27189,
+	"Key": "p1s",
+	"enUS": "ÿc8Key of Terror S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26877,10 +26945,10 @@
     "zhCN": ""
   },
   {
-    "id": 40171,
-    "Key": "p2s",
-    "enUS": "ÿc8Key of Hatred S",
-    "zhTW": "",
+  	"id": 27190,
+	"Key": "p2s",
+	"enUS": "ÿc8Key of Hatred S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26894,10 +26962,10 @@
     "zhCN": ""
   },
   {
-    "id": 40172,
-    "Key": "p3s",
-    "enUS": "ÿc8Key of Destruction S",
-    "zhTW": "",
+  	"id": 27191,
+	"Key": "p3s",
+	"enUS": "ÿc8Key of Destruction S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26911,10 +26979,10 @@
     "zhCN": ""
   },
   {
-    "id": 40173,
-    "Key": "shn",
-    "enUS": "ÿc8Diablo's Horn S",
-    "zhTW": "",
+  	"id": 27192,
+	"Key": "shn",
+	"enUS": "ÿc8Diablo's Horn S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26928,10 +26996,10 @@
     "zhCN": ""
   },
   {
-    "id": 40174,
-    "Key": "sey",
-    "enUS": "ÿc8Baal's Eye S",
-    "zhTW": "",
+  	"id": 27193,
+	"Key": "sey",
+	"enUS": "ÿc8Baal's Eye S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26945,10 +27013,10 @@
     "zhCN": ""
   },
   {
-    "id": 40175,
-    "Key": "bms",
-    "enUS": "ÿc8Mephisto's Brain S",
-    "zhTW": "",
+  	"id": 27194,
+	"Key": "bms",
+	"enUS": "ÿc8Mephisto's Brain S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26962,10 +27030,10 @@
     "zhCN": ""
   },
   {
-    "id": 40176,
-    "Key": "soa",
-    "enUS": "ÿc8Token of Absolution S",
-    "zhTW": "",
+  	"id": 27195,
+	"Key": "soa",
+	"enUS": "ÿc8Token of Absolution S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26979,10 +27047,10 @@
     "zhCN": ""
   },
   {
-    "id": 40177,
-    "Key": "ses",
-    "enUS": "ÿc8Twisted Essence of Suffering S",
-    "zhTW": "",
+  	"id": 27196,
+	"Key": "ses",
+	"enUS": "ÿc8Twisted Essence of Suffering S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -26996,10 +27064,10 @@
     "zhCN": ""
   },
   {
-    "id": 40178,
-    "Key": "seh",
-    "enUS": "ÿc8Charged Essence of Hatred S",
-    "zhTW": "",
+  	"id": 27197,
+	"Key": "seh",
+	"enUS": "ÿc8Charged Essence of Hatred S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27013,10 +27081,10 @@
     "zhCN": ""
   },
   {
-    "id": 40179,
-    "Key": "set",
-    "enUS": "ÿc8Burning Essence of Terror S",
-    "zhTW": "",
+  	"id": 27198,
+	"Key": "set",
+	"enUS": "ÿc8Burning Essence of Terror S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27030,10 +27098,10 @@
     "zhCN": ""
   },
   {
-    "id": 40180,
-    "Key": "sed",
-    "enUS": "ÿc8Festering Essence of Destruction S",
-    "zhTW": "",
+  	"id": 27199,
+	"Key": "sed",
+	"enUS": "ÿc8Festering Essence of Destruction S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27047,10 +27115,10 @@
     "zhCN": ""
   },
   {
-    "id": 40181,
-    "Key": "8sc",
-    "enUS": "ÿc8Compound Essence S",
-    "zhTW": "",
+  	"id": 27200,
+	"Key": "8sc",
+	"enUS": "ÿc8Compound Essence S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27064,10 +27132,10 @@
     "zhCN": ""
   },
   {
-    "id": 40182,
-    "Key": "8sr",
-    "enUS": "ÿc8Rare Essence S",
-    "zhTW": "",
+  	"id": 27201,
+	"Key": "8sr",
+	"enUS": "ÿc8Rare Essence S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27081,10 +27149,10 @@
     "zhCN": ""
   },
   {
-    "id": 40183,
-    "Key": "8su",
-    "enUS": "ÿc8Unique Essence S",
-    "zhTW": "",
+  	"id": 27202,
+	"Key": "8su",
+	"enUS": "ÿc8Unique Essence S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27098,10 +27166,10 @@
     "zhCN": ""
   },
   {
-    "id": 40184,
-    "Key": "8sn",
-    "enUS": "ÿc8Normal Essence S",
-    "zhTW": "",
+  	"id": 27203,
+	"Key": "8sn",
+	"enUS": "ÿc8Normal Essence S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27115,10 +27183,10 @@
     "zhCN": ""
   },
   {
-    "id": 40185,
-    "Key": "8sx",
-    "enUS": "ÿc8Exceptional Essence S",
-    "zhTW": "",
+  	"id": 27204,
+	"Key": "8sx",
+	"enUS": "ÿc8Exceptional Essence S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27132,10 +27200,10 @@
     "zhCN": ""
   },
   {
-    "id": 40186,
-    "Key": "8sl",
-    "enUS": "ÿc8Elite Essence S",
-    "zhTW": "",
+  	"id": 27205,
+	"Key": "8sl",
+	"enUS": "ÿc8Elite Essence S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27149,10 +27217,10 @@
     "zhCN": ""
   },
   {
-    "id": 40187,
-    "Key": "8oc",
-    "enUS": "ÿc8Orb of Combination S",
-    "zhTW": "",
+  	"id": 27206,
+	"Key": "8oc",
+	"enUS": "ÿc8Orb of Combination S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27166,10 +27234,10 @@
     "zhCN": ""
   },
   {
-    "id": 40188,
-    "Key": "8ex",
-    "enUS": "ÿc8Orb of Extraction S",
-    "zhTW": "",
+  	"id": 27207,
+	"Key": "8ex",
+	"enUS": "ÿc8Orb of Extraction S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27183,10 +27251,10 @@
     "zhCN": ""
   },
   {
-    "id": 40189,
-    "Key": "8od",
-    "enUS": "ÿc8Orb of Divination S",
-    "zhTW": "",
+  	"id": 27208,
+	"Key": "8od",
+	"enUS": "ÿc8Orb of Divination S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27200,10 +27268,10 @@
     "zhCN": ""
   },
   {
-    "id": 40190,
-    "Key": "8zg",
-    "enUS": "ÿc8Larzuk's Gimlet S",
-    "zhTW": "",
+  	"id": 27209,
+	"Key": "8zg",
+	"enUS": "ÿc8Larzuk's Gimlet S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27217,10 +27285,10 @@
     "zhCN": ""
   },
   {
-    "id": 40191,
-    "Key": "8gx",
-    "enUS": "ÿc8Glyph of Xiansai S",
-    "zhTW": "",
+  	"id": 27210,
+	"Key": "8gx",
+	"enUS": "ÿc8Glyph of Xiansai S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27234,10 +27302,10 @@
     "zhCN": ""
   },
   {
-    "id": 40192,
-    "Key": "8fg",
-    "enUS": "ÿc8Jewel Fragment S",
-    "zhTW": "",
+  	"id": 27211,
+	"Key": "8fg",
+	"enUS": "ÿc8Jewel Fragment S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27251,10 +27319,10 @@
     "zhCN": ""
   },
   {
-    "id": 40193,
-    "Key": "cco",
-    "enUS": "ÿc8Charm Core",
-    "zhTW": "",
+  	"id": 27212,
+	"Key": "cco",
+	"enUS": "ÿc8Charm Core",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27268,10 +27336,10 @@
     "zhCN": ""
   },
   {
-    "id": 40194,
-    "Key": "8co",
-    "enUS": "ÿc8Charm Core S",
-    "zhTW": "",
+  	"id": 27213,
+	"Key": "8co",
+	"enUS": "ÿc8Charm Core S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27285,10 +27353,10 @@
     "zhCN": ""
   },
   {
-    "id": 40195,
-    "Key": "Nephalem's Admiration",
-    "enUS": "Nephalem's Admiration",
-    "zhTW": "",
+  	"id": 27214,
+	"Key": "Nephalem's Admiration",
+	"enUS": "Nephalem's Admiration",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27302,10 +27370,10 @@
     "zhCN": ""
   },
   {
-    "id": 40196,
-    "Key": "cdm",
-    "enUS": "Charsi's Hammer",
-    "zhTW": "",
+  	"id": 27215,
+	"Key": "cdm",
+	"enUS": "Charsi's Hammer",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27319,10 +27387,10 @@
     "zhCN": ""
   },
   {
-    "id": 40197,
-    "Key": "8vl",
-    "enUS": "ÿc;100% S",
-    "zhTW": "",
+  	"id": 27216,
+	"Key": "8vl",
+	"enUS": "ÿc;100% S",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27336,10 +27404,10 @@
     "zhCN": ""
   },
   {
-    "id": 40198,
-    "Key": "Amazon's Valor",
-    "enUS": "Amazon's Valor",
-    "zhTW": "",
+  	"id": 27217,
+	"Key": "cc1",
+	"enUS": "Amazon's Valor",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27353,10 +27421,10 @@
     "zhCN": ""
   },
   {
-    "id": 40199,
-    "Key": "Assassin's Valor",
-    "enUS": "Assassin's Valor",
-    "zhTW": "",
+  	"id": 27218,
+	"Key": "cc2",
+	"enUS": "Assassin's Valor",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27370,10 +27438,10 @@
     "zhCN": ""
   },
   {
-    "id": 40200,
-    "Key": "Barbarian's Valor",
-    "enUS": "Barbarian's Valor",
-    "zhTW": "",
+  	"id": 27219,
+	"Key": "cc3",
+	"enUS": "Barbarian's Valor",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27387,10 +27455,10 @@
     "zhCN": ""
   },
   {
-    "id": 40201,
-    "Key": "Druid's Valor",
-    "enUS": "Druid's Valor",
-    "zhTW": "",
+  	"id": 27220,
+	"Key": "cc4",
+	"enUS": "Druid's Valor",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27404,10 +27472,10 @@
     "zhCN": ""
   },
   {
-    "id": 40202,
-    "Key": "Necromancer's Valor",
-    "enUS": "Necromancer's Valor",
-    "zhTW": "",
+  	"id": 27221,
+	"Key": "cc5",
+	"enUS": "Necromancer's Valor",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27421,10 +27489,10 @@
     "zhCN": ""
   },
   {
-    "id": 40203,
-    "Key": "Paladin's Valor",
-    "enUS": "Paladin's Valor",
-    "zhTW": "",
+  	"id": 27222,
+	"Key": "cc6",
+	"enUS": "Paladin's Valor",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27438,10 +27506,78 @@
     "zhCN": ""
   },
   {
-    "id": 40204,
-    "Key": "Sorceress's Valor",
-    "enUS": "Sorceress's Valor",
-    "zhTW": "",
+  	"id": 27223,
+	"Key": "cc7",
+	"enUS": "Sorceress's Valor",
+	"zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+  	"id": 27224,
+	"Key": "mnb",
+	"enUS": "Minor Bidding",
+	"zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+  	"id": 27225,
+	"Key": "lgb",
+	"enUS": "Large bidding",
+	"zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+  	"id": 27226,
+	"Key": "gdb",
+	"enUS": "Grand Bidding",
+	"zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+  	"id": 27227,
+	"Key": "XXX's Valor",
+	"enUS": "XXs Valor",
+	"zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -27455,3 +27591,4 @@
     "zhCN": ""
   }
 ]
+
