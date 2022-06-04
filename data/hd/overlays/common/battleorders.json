@@ -1,0 +1,100 @@
+{
+  "dependencies": {
+    "particles": [ { "path": "data/hd/vfx/particles/overlays/common/battleorders/vfx_battle_orders.particles" } ],
+    "models": [ { "path": "data/hd/vfx/meshes/FX_Mesh_Bless.model" } ],
+    "skeletons": [],
+    "animations": [],
+    "textures": [ { "path": "data/hd/vfx/textures/gradient/T_FX_Mirror_Gradient_02.texture" } ],
+    "physics": [],
+    "json": [],
+    "variantdata": [],
+    "objecteffects": [],
+    "other": []
+
+  },
+  "type": "OverlayDefinition",
+  "name": "battleorders",
+  "entities": [
+    {
+      "type": "Entity",
+      "name": "entity_root",
+      "id": 3238534566,
+      "components": [
+        {
+          "type": "VfxDefinitionComponent",
+          "name": "component_vfx",
+          "filename": "data/hd/vfx/particles/overlays/common/battleorders/vfx_battle_orders.particles",
+          "hardKillOnDestroy": false
+        }
+      ]
+    },   
+    {
+      "type": "Entity",
+      "name": "entity_vfx1",
+      "id": 1310062357,
+      "components": [
+        {
+          "type": "TransformDefinitionComponent",
+          "name": "component_transform1",
+          "position": {
+            "x": 0.0,
+            "y": 11.0,
+            "z": 0.0
+          },
+          "orientation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "inheritOnlyPosition": false
+        },
+        {
+          "type": "VfxDefinitionComponent",
+          "name": "entity_vfx1_VfxDefinition",
+          "filename": "data/hd/vfx/particles/missiles/yellow_ball_glow_2/vfx_yellowBall_glow_2.particles",
+          "hardKillOnDestroy": false
+        }
+      ]
+    },    
+ {
+			"type": "Entity",
+			"name": "droplight",
+			"id": 9999996974,
+			"components": [
+				{
+					"type": "TransformDefinitionComponent",
+					"name": "component_transform1",
+					"position": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"orientation": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"w": 1.0
+					},
+					"scale": {
+						"x": 0.01,
+						"y": 0.01,
+						"z": 0.01
+					},
+					"inheritOnlyPosition": false
+				},
+				{
+					"type": "VfxDefinitionComponent",
+					"name": "entity_vfx_gousemyideaandshareyourfilthymods",
+					"filename": "data/hd/vfx/particles/overlays/common/baal_on_throne/baalshield.particles",
+					"hardKillOnDestroy": false
+				}
+			]
+		}
+  ]
+}
