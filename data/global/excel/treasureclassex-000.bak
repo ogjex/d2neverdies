@@ -30,7 +30,7 @@ Crafting			1						8co	4																						0
 Junk			1						Potion 0	24	Misc 0	12	Ammo	12																		0
 Junk (N)			1						Potion 1	24	Misc 1	12	Ammo	12	Crafting	2																0
 Junk (H)			1						Potion 2	24	Misc 2	12	Ammo	12	Crafting	2	Token	1														0
-Act 1 Equip A	1	0	1						weap3	7	armo3	7	mnb	20	cc1	20																0
+Act 1 Equip A	1	0	1						weap3	7	armo3	7	mnb	20	bnc	20																0
 Act 1 Equip B	1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
 Act 1 Equip C	1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
 Act 2 Equip A	1	12	1						weap6	2	armo6	1	weap9	6	armo9	3	weap12	14	armo12	7	weap15	2	armo15	1					36	66	0.4545	0
