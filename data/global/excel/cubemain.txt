@@ -1152,7 +1152,7 @@ Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	19		3	"amul"	
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	"amul"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 CHARM INFUSION RECIPES																																																																																																								0
 Charm Infusion Tracker	0																																																																																																							0
-Regular Charm Mod (w bidding, core and charm)	1			100					3	"char"	mnb	cco					"mod,tmp"				levelreq			1	1																																																																															0
+Regular Charm Mod (w bidding, core and charm)	1			100					3	cc1	mnb	cco					"mod,tmp"				levelreq			1	1																																																																															0
 	0																																																																																																							0
 TEMPERED CRAFTING	0																																																																																																							0
 1 Ral Rune + 1 Jewel + 1 Superior Armor -> Tempered Armor	0			100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
