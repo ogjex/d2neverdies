@@ -2,7 +2,7 @@
   {
     "id": 10902,
     "Key": "r16",
-    "enUS": "Io Runeÿc0(ÿc4r16ÿc0)",
+    "enUS": "Io Rune",
     "zhTW": "符文：埃歐",
     "deDE": "[fs]Io-Rune",
     "esES": "Runa Io",
@@ -36,7 +36,7 @@
   {
     "id": 10904,
     "Key": "r13",
-    "enUS": "Shael Runeÿc0(ÿc4r13ÿc0)",
+    "enUS": "Shael Rune",
     "zhTW": "符文：夏",
     "deDE": "[fs]Shael-Rune",
     "esES": "Runa Shael",
@@ -47,7 +47,7 @@
     "esMX": "Runa Shael",
     "jaJP": "シャエル・ルーン",
     "ptBR": "Runa Shael",
-    "ruRU": "Руна Шаэл",
+    "ruRU": "Руна Шаэль",
     "zhCN": "沙伊符文"
   },
   {
@@ -70,7 +70,7 @@
   {
     "id": 10906,
     "Key": "r31",
-    "enUS": "Jah Runeÿc0(ÿc4r31ÿc0)",
+    "enUS": "Jah Rune",
     "zhTW": "符文：喬",
     "deDE": "[fs]Jah-Rune",
     "esES": "Runa Jah",
@@ -121,7 +121,7 @@
   {
     "id": 20440,
     "Key": "r33",
-    "enUS": "ÿc1Zod Runeÿc0(ÿc4r33ÿc0)",
+    "enUS": "Zod Rune",
     "zhTW": "符文：薩德",
     "deDE": "[fs]Zod-Rune",
     "esES": "Runa Zod",
@@ -138,7 +138,7 @@
   {
     "id": 20441,
     "Key": "r32",
-    "enUS": "ÿc1Cham Runeÿc0(ÿc4r32ÿc0)",
+    "enUS": "Cham Rune",
     "zhTW": "符文：查姆",
     "deDE": "[fs]Cham-Rune",
     "esES": "Runa Cham",
@@ -155,7 +155,7 @@
   {
     "id": 20443,
     "Key": "r30",
-    "enUS": "ÿc1Ber Runeÿc0(ÿc4r30ÿc0)",
+    "enUS": "Ber Rune",
     "zhTW": "符文：貝",
     "deDE": "[fs]Ber-Rune",
     "esES": "Runa Ber",
@@ -172,7 +172,7 @@
   {
     "id": 20444,
     "Key": "r29",
-    "enUS": "ÿc1Sur Runeÿc0(ÿc4r29ÿc0)",
+    "enUS": "Sur Rune",
     "zhTW": "符文：瑟",
     "deDE": "[fs]Sur-Rune",
     "esES": "Runa Sur",
@@ -189,7 +189,7 @@
   {
     "id": 20445,
     "Key": "r28",
-    "enUS": "ÿc1Lo Runeÿc0(ÿc4r28ÿc0)",
+    "enUS": "Lo Rune",
     "zhTW": "符文：羅",
     "deDE": "[fs]Lo-Rune",
     "esES": "Runa Lo",
@@ -206,7 +206,7 @@
   {
     "id": 20446,
     "Key": "r27",
-    "enUS": "ÿc1Ohm Runeÿc0(ÿc4r27ÿc0)",
+    "enUS": "Ohm Rune",
     "zhTW": "符文：歐姆",
     "deDE": "[fs]Ohm-Rune",
     "esES": "Runa Ohm",
@@ -223,7 +223,7 @@
   {
     "id": 20447,
     "Key": "r26",
-    "enUS": "ÿc1Vex Runeÿc0(ÿc4r26ÿc0)",
+    "enUS": "Vex Rune",
     "zhTW": "符文：伐克斯",
     "deDE": "[fs]Vex-Rune",
     "esES": "Runa Vex",
@@ -240,7 +240,7 @@
   {
     "id": 20448,
     "Key": "r25",
-    "enUS": "ÿc1Gul Runeÿc0(ÿc4r25ÿc0)",
+    "enUS": "Gul Rune",
     "zhTW": "符文：古爾",
     "deDE": "[fs]Gul-Rune",
     "esES": "Runa Gul",
@@ -257,7 +257,7 @@
   {
     "id": 20449,
     "Key": "r24",
-    "enUS": "ÿc1Ist Runeÿc0(ÿc4r24ÿc0)",
+    "enUS": "Ist Rune",
     "zhTW": "符文：伊司特",
     "deDE": "[fs]Ist-Rune",
     "esES": "Runa Ist",
@@ -274,7 +274,7 @@
   {
     "id": 20450,
     "Key": "r23",
-    "enUS": "ÿc8Mal Runeÿc0(ÿc4r23ÿc0)",
+    "enUS": "Mal Rune",
     "zhTW": "符文：馬爾",
     "deDE": "[fs]Mal-Rune",
     "esES": "Runa Mal",
@@ -291,7 +291,7 @@
   {
     "id": 20451,
     "Key": "r22",
-    "enUS": "ÿc8Um Runeÿc0(ÿc4r22ÿc0)",
+    "enUS": "Um Rune",
     "zhTW": "符文：烏姆",
     "deDE": "[fs]Um-Rune",
     "esES": "Runa Um",
@@ -308,7 +308,7 @@
   {
     "id": 20452,
     "Key": "r21",
-    "enUS": "ÿc8Pul Runeÿc0(ÿc4r21ÿc0)",
+    "enUS": "Pul Rune",
     "zhTW": "符文：普爾",
     "deDE": "[fs]Pul-Rune",
     "esES": "Runa Pul",
@@ -325,7 +325,7 @@
   {
     "id": 20453,
     "Key": "r20",
-    "enUS": "ÿc8Lem Runeÿc0(ÿc4r20ÿc0)",
+    "enUS": "Lem Rune",
     "zhTW": "符文：藍姆",
     "deDE": "[fs]Lem-Rune",
     "esES": "Runa Lem",
@@ -342,7 +342,7 @@
   {
     "id": 20454,
     "Key": "r19",
-    "enUS": "ÿc8Fal Runeÿc0(ÿc4r19ÿc0)",
+    "enUS": "Fal Rune",
     "zhTW": "符文：法爾",
     "deDE": "[fs]Fal-Rune",
     "esES": "Runa Fal",
@@ -359,7 +359,7 @@
   {
     "id": 20455,
     "Key": "r18",
-    "enUS": "ÿc8Ko Runeÿc0(ÿc4r18ÿc0)",
+    "enUS": "Ko Rune",
     "zhTW": "符文：科",
     "deDE": "[fs]Ko-Rune",
     "esES": "Runa Ko",
@@ -376,7 +376,7 @@
   {
     "id": 20456,
     "Key": "r17",
-    "enUS": "ÿc8Lum Runeÿc0(ÿc4r17ÿc0)",
+    "enUS": "Lum Rune",
     "zhTW": "符文：盧姆",
     "deDE": "[fs]Lum-Rune",
     "esES": "Runa Lum",
@@ -393,7 +393,7 @@
   {
     "id": 20458,
     "Key": "r15",
-    "enUS": "ÿc8Hel Runeÿc0(ÿc4r15ÿc0)",
+    "enUS": "Hel Rune",
     "zhTW": "符文：海爾",
     "deDE": "[fs]Hel-Rune",
     "esES": "Runa Hel",
@@ -410,7 +410,7 @@
   {
     "id": 20459,
     "Key": "r14",
-    "enUS": "ÿc8Dol Runeÿc0(ÿc4r14ÿc0)",
+    "enUS": "Dol Rune",
     "zhTW": "符文：多爾",
     "deDE": "[fs]Dol-Rune",
     "esES": "Runa Dol",
@@ -427,7 +427,7 @@
   {
     "id": 20461,
     "Key": "r12",
-    "enUS": "ÿc8Sol Runeÿc0(ÿc4r12ÿc0)",
+    "enUS": "Sol Rune",
     "zhTW": "符文：索爾",
     "deDE": "[fs]Sol-Rune",
     "esES": "Runa Sol",
@@ -444,7 +444,7 @@
   {
     "id": 20462,
     "Key": "r11",
-    "enUS": "ÿc8Amn Runeÿc0(ÿc4r11ÿc0)",
+    "enUS": "Amn Rune",
     "zhTW": "符文：安姆",
     "deDE": "[fs]Amn-Rune",
     "esES": "Runa Amn",
@@ -461,7 +461,7 @@
   {
     "id": 20463,
     "Key": "r10",
-    "enUS": "ÿc;Thul Runeÿc0(ÿc4r10ÿc0)",
+    "enUS": "Thul Rune",
     "zhTW": "符文：書爾",
     "deDE": "[fs]Thul-Rune",
     "esES": "Runa Thul",
@@ -478,7 +478,7 @@
   {
     "id": 20464,
     "Key": "r09",
-    "enUS": "ÿc;Ort Runeÿc0(ÿc4r09ÿc0)",
+    "enUS": "Ort Rune",
     "zhTW": "符文：歐特",
     "deDE": "[fs]Ort-Rune",
     "esES": "Runa Ort",
@@ -495,7 +495,7 @@
   {
     "id": 20465,
     "Key": "r08",
-    "enUS": "ÿc;Ral Runeÿc0(ÿc4r08ÿc0)",
+    "enUS": "Ral Rune",
     "zhTW": "符文：拉爾",
     "deDE": "[fs]Ral-Rune",
     "esES": "Runa Ral",
@@ -512,7 +512,7 @@
   {
     "id": 20466,
     "Key": "r07",
-    "enUS": "ÿc;Tal Runeÿc0(ÿc4r07ÿc0)",
+    "enUS": "Tal Rune",
     "zhTW": "符文：塔爾",
     "deDE": "[fs]Tal-Rune",
     "esES": "Runa Tal",
@@ -529,7 +529,7 @@
   {
     "id": 20467,
     "Key": "r06",
-    "enUS": "ÿc;Ith Runeÿc0(ÿc4r06ÿc0)",
+    "enUS": "Ith Rune",
     "zhTW": "符文：伊司",
     "deDE": "[fs]Ith-Rune",
     "esES": "Runa Ith",
@@ -546,7 +546,7 @@
   {
     "id": 20468,
     "Key": "r05",
-    "enUS": "ÿc;Eth Runeÿc0(ÿc4r05ÿc0)",
+    "enUS": "Eth Rune",
     "zhTW": "符文：愛斯",
     "deDE": "[fs]Eth-Rune",
     "esES": "Runa Eth",
@@ -563,7 +563,7 @@
   {
     "id": 20469,
     "Key": "r04",
-    "enUS": "ÿc;Nef Runeÿc0(ÿc4r04ÿc0)",
+    "enUS": "Nef Rune",
     "zhTW": "符文：那夫",
     "deDE": "[fs]Nef-Rune",
     "esES": "Runa Nef",
@@ -580,7 +580,7 @@
   {
     "id": 20470,
     "Key": "r03",
-    "enUS": "ÿc;Tir Runeÿc0(ÿc4r03ÿc0)",
+    "enUS": "Tir Rune",
     "zhTW": "符文：特爾",
     "deDE": "[fs]Tir-Rune",
     "esES": "Runa Tir",
@@ -597,7 +597,7 @@
   {
     "id": 20471,
     "Key": "r02",
-    "enUS": "ÿc;Eld Runeÿc0(ÿc4r02ÿc0)",
+    "enUS": "Eld Rune",
     "zhTW": "符文：艾德",
     "deDE": "[fs]Eld-Rune",
     "esES": "Runa Eld",
@@ -614,7 +614,7 @@
   {
     "id": 20472,
     "Key": "r01",
-    "enUS": "ÿc;El Runeÿc0(ÿc4r01ÿc0)",
+    "enUS": "El Rune",
     "zhTW": "符文：艾爾",
     "deDE": "[fs]El-Rune",
     "esES": "Runa El",
@@ -625,7 +625,7 @@
     "esMX": "Runa El",
     "jaJP": "エル・ルーン",
     "ptBR": "Runa El",
-    "ruRU": "Руна Эл",
+    "ruRU": "Руна Эль",
     "zhCN": "艾尔符文"
   },
   {
@@ -812,7 +812,7 @@
     "esMX": "Um",
     "jaJP": "アム",
     "ptBR": "Um",
-    "ruRU": "Ом",
+    "ruRU": "Ум",
     "zhCN": "乌姆"
   },
   {
@@ -1033,7 +1033,7 @@
     "esMX": "Tal",
     "jaJP": "タル",
     "ptBR": "Tal",
-    "ruRU": "Тхаль",
+    "ruRU": "Тал",
     "zhCN": "塔尔"
   },
   {
@@ -1805,7 +1805,7 @@
     "id": 20546,
     "Key": "Runeword40",
     "enUS": "Flickering Flame",
-    "zhTW": "搖曳焰火",
+    "zhTW": "閃爍火焰",
     "deDE": "Flamme",
     "esES": "Llama trémula",
     "frFR": "Flamme vacillante",
@@ -2706,7 +2706,7 @@
     "id": 20599,
     "Key": "Runeword94",
     "enUS": "Obsession",
-    "zhTW": "著魔",
+    "zhTW": "執念",
     "deDE": "Besessenheit",
     "esES": "Obsesión",
     "frFR": "Obsession",
@@ -2757,7 +2757,7 @@
     "id": 20602,
     "Key": "Runeword97",
     "enUS": "Pattern",
-    "zhTW": "樣式",
+    "zhTW": "圖紋",
     "deDE": "Prasseln",
     "esES": "Patrón",
     "frFR": "Patron",
@@ -3675,7 +3675,7 @@
     "id": 20656,
     "Key": "Runeword151",
     "enUS": "Unbending Will",
-    "zhTW": "堅定意志",
+    "zhTW": "不屈意志",
     "deDE": "Unbeugsamer Wille",
     "esES": "Voluntad de hierro",
     "frFR": "Volonté inébranlable",
@@ -3683,7 +3683,7 @@
     "koKR": "불굴의 의지",
     "plPL": "Nieugięta Wola",
     "esMX": "Voluntad inflexible",
-    "jaJP": "不屈の意志",
+    "jaJP": "恒心",
     "ptBR": "Determinação",
     "ruRU": "Непреклонность",
     "zhCN": "不屈之志"
@@ -4012,10 +4012,10 @@
     "zhCN": "和风"
   },
   {
-	"id": 27224,
-	"Key": "s01",
-	"enUS": "ÿc;El Rune Stackÿc0(ÿc4r01ÿc0)",
-	"zhTW": "",
+    "id": 40205,
+    "Key": "s01",
+    "enUS": "ÿc;El Rune Stackÿc0(ÿc4r01ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4029,10 +4029,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27225,
-	"Key": "s02",
-	"enUS": "ÿc;Eld Rune Stackÿc0(ÿc4r02ÿc0)",
-	"zhTW": "",
+    "id": 40206,
+    "Key": "s02",
+    "enUS": "ÿc;Eld Rune Stackÿc0(ÿc4r02ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4046,10 +4046,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27226,
-	"Key": "s03",
-	"enUS": "ÿc;Tir Rune Stackÿc0(ÿc4r03ÿc0)",
-	"zhTW": "",
+    "id": 40207,
+    "Key": "s03",
+    "enUS": "ÿc;Tir Rune Stackÿc0(ÿc4r03ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4063,10 +4063,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27227,
-	"Key": "s04",
-	"enUS": "ÿc;Nef Rune Stackÿc0(ÿc4r04ÿc0)",
-	"zhTW": "",
+    "id": 40208,
+    "Key": "s04",
+    "enUS": "ÿc;Nef Rune Stackÿc0(ÿc4r04ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4080,10 +4080,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27228,
-	"Key": "s05",
-	"enUS": "ÿc;Eth Rune Stackÿc0(ÿc4r05ÿc0)",
-	"zhTW": "",
+    "id": 40209,
+    "Key": "s05",
+    "enUS": "ÿc;Eth Rune Stackÿc0(ÿc4r05ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4097,10 +4097,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27229,
-	"Key": "s06",
-	"enUS": "ÿc;Ith Rune Stackÿc0(ÿc4r06ÿc0)",
-	"zhTW": "",
+    "id": 40210,
+    "Key": "s06",
+    "enUS": "ÿc;Ith Rune Stackÿc0(ÿc4r06ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4114,10 +4114,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27230,
-	"Key": "s07",
-	"enUS": "ÿc;Tal Rune Stackÿc0(ÿc4r07ÿc0)",
-	"zhTW": "",
+    "id": 40211,
+    "Key": "s07",
+    "enUS": "ÿc;Tal Rune Stackÿc0(ÿc4r07ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4131,10 +4131,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27231,
-	"Key": "s08",
-	"enUS": "ÿc;Ral Rune Stackÿc0(ÿc4r08ÿc0)",
-	"zhTW": "",
+    "id": 40212,
+    "Key": "s08",
+    "enUS": "ÿc;Ral Rune Stackÿc0(ÿc4r08ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4148,10 +4148,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27232,
-	"Key": "s09",
-	"enUS": "ÿc;Ort Rune Stackÿc0(ÿc4r09ÿc0)",
-	"zhTW": "",
+    "id": 40213,
+    "Key": "s09",
+    "enUS": "ÿc;Ort Rune Stackÿc0(ÿc4r09ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4165,10 +4165,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27233,
-	"Key": "s10",
-	"enUS": "ÿc;Thul Rune Stackÿc0(ÿc4r10ÿc0)",
-	"zhTW": "",
+    "id": 40214,
+    "Key": "s10",
+    "enUS": "ÿc;Thul Rune Stackÿc0(ÿc4r10ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4182,10 +4182,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27234,
-	"Key": "s11",
-	"enUS": "ÿc8Amn Rune Stackÿc0(ÿc4r11ÿc0)",
-	"zhTW": "",
+    "id": 40215,
+    "Key": "s11",
+    "enUS": "ÿc8Amn Rune Stackÿc0(ÿc4r11ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4199,10 +4199,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27235,
-	"Key": "s12",
-	"enUS": "ÿc8Sol Rune Stackÿc0(ÿc4r12ÿc0)",
-	"zhTW": "",
+    "id": 40216,
+    "Key": "s12",
+    "enUS": "ÿc8Sol Rune Stackÿc0(ÿc4r12ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4216,10 +4216,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27236,
-	"Key": "s13",
-	"enUS": "ÿc8Shael Rune Stackÿc0(ÿc4r13ÿc0)",
-	"zhTW": "",
+    "id": 40217,
+    "Key": "s13",
+    "enUS": "ÿc8Shael Rune Stackÿc0(ÿc4r13ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4233,10 +4233,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27237,
-	"Key": "s14",
-	"enUS": "ÿc8Dol Rune Stackÿc0(ÿc4r14ÿc0)",
-	"zhTW": "",
+    "id": 40218,
+    "Key": "s14",
+    "enUS": "ÿc8Dol Rune Stackÿc0(ÿc4r14ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4250,10 +4250,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27238,
-	"Key": "s15",
-	"enUS": "ÿc8Hel Rune Stackÿc0(ÿc4r15ÿc0)",
-	"zhTW": "",
+    "id": 40219,
+    "Key": "s15",
+    "enUS": "ÿc8Hel Rune Stackÿc0(ÿc4r15ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4267,10 +4267,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27239,
-	"Key": "s16",
-	"enUS": "ÿc8Io Rune Stackÿc0(ÿc4r16ÿc0)",
-	"zhTW": "",
+    "id": 40220,
+    "Key": "s16",
+    "enUS": "ÿc8Io Rune Stackÿc0(ÿc4r16ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4284,10 +4284,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27240,
-	"Key": "s17",
-	"enUS": "ÿc8Lum Rune Stackÿc0(ÿc4r17ÿc0)",
-	"zhTW": "",
+    "id": 40221,
+    "Key": "s17",
+    "enUS": "ÿc8Lum Rune Stackÿc0(ÿc4r17ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4301,10 +4301,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27241,
-	"Key": "s18",
-	"enUS": "ÿc8Ko Rune Stackÿc0(ÿc4r18ÿc0)",
-	"zhTW": "",
+    "id": 40222,
+    "Key": "s18",
+    "enUS": "ÿc8Ko Rune Stackÿc0(ÿc4r18ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4318,10 +4318,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27242,
-	"Key": "s19",
-	"enUS": "ÿc8Fal Rune Stackÿc0(ÿc4r19ÿc0)",
-	"zhTW": "",
+    "id": 40223,
+    "Key": "s19",
+    "enUS": "ÿc8Fal Rune Stackÿc0(ÿc4r19ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4335,10 +4335,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27243,
-	"Key": "s20",
-	"enUS": "ÿc8Lem Rune Stackÿc0(ÿc4r20ÿc0)",
-	"zhTW": "",
+    "id": 40224,
+    "Key": "s20",
+    "enUS": "ÿc8Lem Rune Stackÿc0(ÿc4r20ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4352,10 +4352,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27244,
-	"Key": "s21",
-	"enUS": "ÿc8Pul Rune Stackÿc0(ÿc4r21ÿc0)",
-	"zhTW": "",
+    "id": 40225,
+    "Key": "s21",
+    "enUS": "ÿc8Pul Rune Stackÿc0(ÿc4r21ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4369,10 +4369,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27245,
-	"Key": "s22",
-	"enUS": "ÿc8Um Rune Stackÿc0(ÿc4r22ÿc0)",
-	"zhTW": "",
+    "id": 40226,
+    "Key": "s22",
+    "enUS": "ÿc8Um Rune Stackÿc0(ÿc4r22ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4386,10 +4386,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27246,
-	"Key": "s23",
-	"enUS": "ÿc8Mal Rune Stackÿc0(ÿc4r23ÿc0)",
-	"zhTW": "",
+    "id": 40227,
+    "Key": "s23",
+    "enUS": "ÿc8Mal Rune Stackÿc0(ÿc4r23ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4403,10 +4403,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27247,
-	"Key": "s24",
-	"enUS": "ÿc1Ist Rune Stackÿc0(ÿc4r24ÿc0)",
-	"zhTW": "",
+    "id": 40228,
+    "Key": "s24",
+    "enUS": "ÿc1Ist Rune Stackÿc0(ÿc4r24ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4420,10 +4420,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27248,
-	"Key": "s25",
-	"enUS": "ÿc1Gul Rune Stackÿc0(ÿc4r25ÿc0)",
-	"zhTW": "",
+    "id": 40229,
+    "Key": "s25",
+    "enUS": "ÿc1Gul Rune Stackÿc0(ÿc4r25ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4437,10 +4437,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27249,
-	"Key": "s26",
-	"enUS": "ÿc1Vex Rune Stackÿc0(ÿc4r26ÿc0)",
-	"zhTW": "",
+    "id": 40230,
+    "Key": "s26",
+    "enUS": "ÿc1Vex Rune Stackÿc0(ÿc4r26ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4454,10 +4454,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27250,
-	"Key": "s27",
-	"enUS": "ÿc1Ohm Rune Stackÿc0(ÿc4r27ÿc0)",
-	"zhTW": "",
+    "id": 40231,
+    "Key": "s27",
+    "enUS": "ÿc1Ohm Rune Stackÿc0(ÿc4r27ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4471,10 +4471,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27251,
-	"Key": "s28",
-	"enUS": "ÿc1Lo Rune Stackÿc0(ÿc4r28ÿc0)",
-	"zhTW": "",
+    "id": 40232,
+    "Key": "s28",
+    "enUS": "ÿc1Lo Rune Stackÿc0(ÿc4r28ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4488,10 +4488,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27252,
-	"Key": "s29",
-	"enUS": "ÿc1Sur Rune Stackÿc0(ÿc4r29ÿc0)",
-	"zhTW": "",
+    "id": 40233,
+    "Key": "s29",
+    "enUS": "ÿc1Sur Rune Stackÿc0(ÿc4r29ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4505,10 +4505,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27253,
-	"Key": "s30",
-	"enUS": "ÿc1Ber Rune Stackÿc0(ÿc4r30ÿc0)",
-	"zhTW": "",
+    "id": 40234,
+    "Key": "s30",
+    "enUS": "ÿc1Ber Rune Stackÿc0(ÿc4r30ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4522,10 +4522,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27254,
-	"Key": "s31",
-	"enUS": "ÿc1Jah Rune Stackÿc0(ÿc4r31ÿc0)",
-	"zhTW": "",
+    "id": 40235,
+    "Key": "s31",
+    "enUS": "ÿc1Jah Rune Stackÿc0(ÿc4r31ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4539,10 +4539,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27255,
-	"Key": "s32",
-	"enUS": "ÿc1Cham Rune Stackÿc0(ÿc4r32ÿc0)",
-	"zhTW": "",
+    "id": 40236,
+    "Key": "s32",
+    "enUS": "ÿc1Cham Rune Stackÿc0(ÿc4r32ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",
@@ -4556,10 +4556,10 @@
     "zhCN": ""
   },
   {
-  	"id": 27256,
-	"Key": "s33",
-	"enUS": "ÿc1Zod Rune Stackÿc0(ÿc4r33ÿc0)",
-	"zhTW": "",
+    "id": 40237,
+    "Key": "s33",
+    "enUS": "ÿc1Zod Rune Stackÿc0(ÿc4r33ÿc0)",
+    "zhTW": "",
     "deDE": "",
     "esES": "",
     "frFR": "",

@@ -27336,7 +27336,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28100,
+  	"id": 40198,
 	"Key": "cc1",
 	"enUS": "Amazon's Valor",
 	"zhTW": "",
@@ -27353,7 +27353,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28101,
+  	"id": 40199,
 	"Key": "cc2",
 	"enUS": "Assassin's Valor",
 	"zhTW": "",
@@ -27370,7 +27370,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28102,
+  	"id": 40200,
 	"Key": "cc3",
 	"enUS": "Barbarian's Valor",
 	"zhTW": "",
@@ -27387,7 +27387,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28103,
+  	"id": 40201,
 	"Key": "cc4",
 	"enUS": "Druid's Valor",
 	"zhTW": "",
@@ -27404,7 +27404,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28104,
+  	"id": 40202,
 	"Key": "cc5",
 	"enUS": "Necromancer's Valor",
 	"zhTW": "",
@@ -27421,7 +27421,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28105,
+  	"id": 40203,
 	"Key": "cc6",
 	"enUS": "Paladin's Valor",
 	"zhTW": "",
@@ -27438,7 +27438,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28106,
+  	"id": 40203,
 	"Key": "cc7",
 	"enUS": "Sorceress's Valor",
 	"zhTW": "",
@@ -27455,7 +27455,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28107,
+  	"id": 40204,
 	"Key": "mnb",
 	"enUS": "Minor Bidding",
 	"zhTW": "",
@@ -27472,7 +27472,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28108,
+  	"id": 40205,
 	"Key": "lgb",
 	"enUS": "Large bidding",
 	"zhTW": "",
@@ -27489,7 +27489,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28109,
+  	"id": 40206,
 	"Key": "gdb",
 	"enUS": "Grand Bidding",
 	"zhTW": "",
@@ -27506,7 +27506,7 @@
     "zhCN": ""
   },
   {
-  	"id": 28110,
+  	"id": 40207,
 	"Key": "XXX's Valor",
 	"enUS": "XXs Valor",
 	"zhTW": "",
