@@ -121,5 +121,5 @@ Crafting Stack	crfx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Core Stack	corx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Rejuvination Stack	misc			0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Minor Bidding	mnbi			0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Large Bidding	lgbi			0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Grand Bidding	gdbi			0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Strong Normal Bidding	nbid	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Grand Bidding	bidd			0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0

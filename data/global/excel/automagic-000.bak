@@ -152,6 +152,6 @@ Splashing - Ranged	100	1	1	1		1				1	341	splash	proc_SplashDamage	100	1	rep-quan
 Splashing - Ama	100	1	1	1		1				1	342	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	1	1				armo	weap											0	0
 Splashing - Ama	100	1	1	1		1				1	343	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	2	2				armo	weap											0	0
 Splashing - Ama	100	1	1	1		1				1	344	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	3	3				armo	weap											0	0
-Strong Bidding	100	1	1	1	20	3				1	345	str		2	2																						0	0
-Stronger Bidding	100	1	1	20	40	20				1	346	str		4	4																						0	0
-Strongest Bidding	100	1	1	60	60	40				1	347	str		6	6																						0	0
+Strong Bidding	100	1	1	1	20	3				1	345																											
+Stronger Bidding	100	1	1	20	40	20				1	346																											
+Strongest Bidding	100	1	1	60	60	40				1	347																											
