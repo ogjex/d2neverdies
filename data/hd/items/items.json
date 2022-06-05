@@ -770,6 +770,7 @@
   { "lgb": { "asset": "charm/charm_medium" } },
   { "gdb": { "asset": "charm/charm_large" } },
   { "cc1": { "asset": "valor/amazons_valor" } },
+  { "amv": { "asset": "valor/amazons_valor" } },
   { "cc2": { "asset": "valor/assasins_valor" } },
   { "cc3": { "asset": "valor/barbarians_valor" } },
   { "cc4": { "asset": "valor/druids_valor" } },

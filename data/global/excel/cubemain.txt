@@ -1166,7 +1166,7 @@ hp2 -> test item 2	1			100					1	hp2							cco	100		100																									
 hp3 -> test item 3	1			100					1	"8sx,qty=50"							"bac,uni"	100		100																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							"esc"	100		100																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							"esn"	100		100																										hp5																																																										0
-mp1 -> test item 6	1			100					1	mp1							cc1	100		100																										mp1																																																										0
+mp1 -> test item 6	1			100					1	mp1							"amv,uni"	100		100																										mp1																																																										0
 mp2 -> test item 7	1			100					1	mp2							cc2	100		100																										mp2																																																										0
 mp3 -> test item 8	1			100					1	mp3							"esr"	100		100																										mp3																																																										0
 mp4 -> test item 9	1			100					1	mp4							"esn"	100		100																										mp4																																																										0
