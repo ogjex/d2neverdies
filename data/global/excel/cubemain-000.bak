@@ -1150,7 +1150,7 @@ Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	17		3	"amul"	
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	18		3	"amul"	glx	gpb					useitem				corruption	100		21	21	str	100		4	8	dex	100		4	8	vit	100		4	8	enr	100		4	8																																																											0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	19		3	"amul"	glx	gpb					useitem				corruption	100		21	21	res-all	100		5	10																																																																										0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	"amul"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
-CHARM INFUSION RECIPES																																																																																																								0
+CHARM INFUSION RECIPES	0																																																																																																							0
 Strong Normal Bidding Infusion (w bidding + charm)	1			100	16	368	20		2	cc1	sb1						useitem				infusion	100		1	1	levelreq			-2	-2	str			2	2											sb1																													cco																													0
 test thing	0			100	16	368	2		3	cc1	sb1	cco					useitem				infusion			1	1	str			2	2																																																																										0
 Regular mod function with a weapon	1			100					2	mnb	"weap"						"weap,mod"				levelreq			1	1																																																																															0
