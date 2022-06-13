@@ -1151,7 +1151,7 @@ Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	18		3	"amul"	
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	19		3	"amul"	glx	gpb					useitem				corruption	100		21	21	res-all	100		5	10																																																																										0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	"amul"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 CHARM INFUSION RECIPES	0																																																																																																							0
-Strong Normal Bidding Infusion (w bidding + charm)	1			100	16	368	20		2	cc1	sb1						useitem				infusion	100		1	1	levelreq			-2	-2	str			2	2											sb1																													cco																													0
+Strong Normal Bidding Infusion (w bidding + charm)	1			100	16	368	19		2	cc7	sb1						useitem				infusion	100		1	1	levelreq			1	1	str			2	2											sb1																																																										0
 test thing	0			100	16	368	2		3	cc1	sb1	cco					useitem				infusion			1	1	str			2	2																																																																										0
 Regular mod function with a weapon	1			100					2	mnb	"weap"						"weap,mod"				levelreq			1	1																																																																															0
 TEMPERED CRAFTING	0																																																																																																							0
@@ -1161,12 +1161,12 @@ TEMPERED CRAFTING	0																																																													
 1 Ral Rune + 1 Jewel + 1 Magic Amulet -> Tempered Amulet	0			100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
 1 El Rune + 1 Chipped Gem (Any) + 1 Tempered Weapon -> Weapon With Extra Attack Rating	0			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							mnb	100		100																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							cco	100		100																										hp2																																																										0
+hp1 -> test item 1	1			100					1	hp1							sb1	100		100																										hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							cc7	100		100																										hp2																																																										0
 hp3 -> test item 3	1			100					1	"8sx,qty=50"							"bac,uni"	100		100																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							"esc"	100		100																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							"esn"	100		100																										hp5																																																										0
-mp1 -> test item 6	1			100					1	mp1							cc1	100		100																										mp1																																																										0
+mp1 -> test item 6	1			100					1	mp1							cm1	100		100																										mp1																																																										0
 mp2 -> test item 7	1			100					1	mp2							cc2	100		100																										mp2																																																										0
 mp3 -> test item 8	1			100					1	mp3							"esr"	100		100																										mp3																																																										0
 mp4 -> test item 9	1			100					1	mp4							"esn"	100		100																										mp4																																																										0

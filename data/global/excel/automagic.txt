@@ -136,10 +136,10 @@ Barrier Shield 1	100	1	1	18	42	13				4	337	block		2	4										armo	weap								
 Barrier Shield 2	100	1	1	30		23				3	337	block		4	6										armo	weap											0	0
 Barrier Shield 3	100	1	1	42		34				2	337	block		6	8										armo	weap											0	0
 Barrier Shield 4	100	1	1	50		42				1	337	block		8	10										armo	weap											0	0
-Swiftest Shield 1	100	1	1	18	42	13				4	338	block2		10	15																							
-Swiftest Shield 2	100	1	1	30		23				3	338	block2		15	20																							
-Swiftest Shield 3	100	1	1	42		34				2	338	block2		20	25																							
-Swiftest Shield 4	100	1	1	50		42				1	338	block2		25	30																							
+Swiftest Shield 1	100	1	1	18	42	13				4	338	block2		10	15										armo	weap											0	0
+Swiftest Shield 2	100	1	1	30		23				3	338	block2		15	20										armo	weap											0	0
+Swiftest Shield 3	100	1	1	42		34				2	338	block2		20	25										armo	weap											0	0
+Swiftest Shield 4	100	1	1	50		42				1	338	block2		25	30										armo	weap											0	0
 Caster's Shield 1	100	1	1	18	42	13				4	339	regen-mana		5	10	dmg-to-mana		5	10						armo	weap											0	0
 Caster's Shield 2	100	1	1	30		23				3	339	regen-mana		10	20	dmg-to-mana		10	20						armo	weap											0	0
 Caster's Shield 3	100	1	1	42		34				2	339	regen-mana		20	25	dmg-to-mana		20	25						armo	weap											0	0
@@ -152,6 +152,6 @@ Splashing - Ranged	100	1	1	1		1				1	341	splash	proc_SplashDamage	100	1	rep-quan
 Splashing - Ama	100	1	1	1		1				1	342	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	1	1				armo	weap											0	0
 Splashing - Ama	100	1	1	1		1				1	343	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	2	2				armo	weap											0	0
 Splashing - Ama	100	1	1	1		1				1	344	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	3	3				armo	weap											0	0
-Strong Bidding	100	1	1	1	20	3				1	345	str		2	2																						0	0
-Stronger Bidding	100	1	1	20	40	20				1	346	str		4	4																						0	0
-Strongest Bidding	100	1	1	60	60	40				1	347	str		6	6																						0	0
+Strong Bidding	100	1	1	1	20	3				1	345	str		2	2										snbi	bidd											0	0
+Stronger Bidding	100	1	1	20	40	20				1	346	str		4	4										snbi	bidd											0	0
+Strongest Bidding	100	1	1	60	60	40				1	347	str		6	6										snbi	bidd											0	0
