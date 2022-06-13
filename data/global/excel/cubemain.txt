@@ -1151,8 +1151,8 @@ Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	18		3	"amul"	
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	19		3	"amul"	glx	gpb					useitem				corruption	100		21	21	res-all	100		5	10																																																																										0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	"amul"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 CHARM INFUSION RECIPES																																																																																																								0
-Charm Infusion Tracker	0																																																																																																							0
-Strong Normal Bidding Infusion (w bidding + charm)	1			100					2	cc1	sb1						"useitem"				levelreq			1	1	str			2	2																																																																										0
+Strong Normal Bidding Infusion (w bidding + charm)	1			100	16	368	20		3	cc1	sb1	cco					useitem				infusion	100		1	1	levelreq			-2	-2	str			2	2											sb1																													cco																													0
+test thing	1			100	16	368	2		3	cc1	sb1	cco					useitem				infusion			1	1	str			2	2																																																																										0
 Regular mod function with a weapon	1			100					2	mnb	"weap"						"weap,mod"				levelreq			1	1																																																																															0
 TEMPERED CRAFTING	0																																																																																																							0
 1 Ral Rune + 1 Jewel + 1 Superior Armor -> Tempered Armor	0			100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0

@@ -331,8 +331,8 @@ pierce_idx	328		1	6																																															0
 passive_fire_mastery	329		1	12											1117	415		8	0	9	50																88	19		ModitemdamFiresk	ModitemdamFiresk									2	0
 passive_ltng_mastery	330		1	12											1054	408		8	0	9	50																88	19		ModitemdamLtngsk	ModitemdamLtngsk									2	0
 passive_cold_mastery	331		1	12											1295	379		8	0	9	50																88	19		ModitemdamColdsk	ModitemdamColdsk									2	0
-corrupted	360			10	10										54	204	1024		8	0	10	0	10																254	3	0	StrCorrupted	StrCorrupted								0
-corruptor	361			1	16											54	1024				12	0																	253	0	0	StrCorruptNum	StrCorruptNum								0
+corrupted	332			10	10										54	204	1024		8	0	10	0	10														254	3	0	StrCorrupted	StrCorrupted										0
+corruptor	333			1	16											54	1024				12	0															253	0	0	StrCorruptNum	StrCorruptNum										0
 passive_ltng_pierce	334		1	9												2493		8	0	8	0																88	19		Moditemenresltngsk	Moditemenresltngsk									2	0
 passive_cold_pierce	335		1	9												1984		8	0	8	0																88	19		Moditemenrescoldsk	Moditemenrescoldsk									2	0
 passive_pois_pierce	336		1	9												2345		8	0	8	0																88	19		Moditemenrespoissk	Moditemenrespoissk									2	0
@@ -367,5 +367,5 @@ item_elemskill_cold	364		1	3	3						1				76	1024		4	0	3	0	3															157	1	
 item_elemskill_light	365		1	3	3						1				76	1024		4	0	3	0	3															157	1	1	ModStr3i_light	ModStr3i_light										0
 item_elemskill_mag	366		1	3	3						1				76	1024		4	0	3	0	3															157	1	1	ModStr3i_mag	ModStr3i_mag										0
 item_elemskill_pois	367		1	3	3						1				76	1024		4	0	3	0	3															157	1	1	ModStr3i_pois	ModStr3i_pois										0
-infused	368			10	10										54	204	1024		8	0	10	0	10																254	3	0	StrInfused	StrInfused								0
-infuse value	369			1	16											54	1024				12	0																	253	0	0	StrInfVal	StrInfVal								0
+infusion_left	368			10	10										54	204	1024		8	0	10	0	10														254	3	0	StrInfused	StrInfused										0
+infuse_value	369			1	16											54	1024				12	0															253	0	0	StrInfVal	StrInfVal										0
