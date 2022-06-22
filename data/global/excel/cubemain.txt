@@ -1161,33 +1161,33 @@ Personal --> Pal valor	1			100					2	cm4							cc6																													g
 Personal --> Sorc valor	1			100					2	cm4							cc7																													gpb																																																										0
 SKILL TAB CHANGES	0																																																																																																							0
 Skillful --> Ama tab 1	1			100					2	aa0	gpy						aa1																													gpy																																																										0
-Ama tab 1 --> Ama tab 2	1			100						aa1	gpy						aa2																													gpy																																																										0
-Ama tab 2 --> Ama tab 3	1			100						aa2	gpy						aa3																													gpy																																																										0
-Ama tab 3 --> Ama tab 1	1			100						aa3	gpy						aa1																													gpy																																																										0
-Skillful --> Ass tab 1	1			100						aa0	gpw						aa4																													gpw																																																										0
-Ass tab 1 --> Ass tab 2	1			100						aa4	gpw						aa5																													gpw																																																										0
-Ass tab 2 --> Ass tab 3	1			100						aa5	gpw						aa6																													gpw																																																										0
-Ass tab 3 --> Ass tab 1	1			100						aa6	gpw						aa4																													gpw																																																										0
-Skillful --> Barb tab 1	1			100						aa0	gpr						aa7																													gpr																																																										0
-Barb tab 1 --> Barb tab 2	1			100						aa7	gpr						aa8																													gpr																																																										0
-Barb tab 2 --> Barb tab 3	1			100						aa8	gpr						aa9																													gpr																																																										0
-Barb tab 3 --> Barb tab 1	1			100						aa9	gpr						aa7																													gpr																																																										0
-Skillful --> Dru tab 1	1			100						aa0	gpg						ba1																													gpg																																																										0
-Dru tab 1 --> Dru tab 2	1			100						ba1	gpg						ba2																													gpg																																																										0
-Dru tab 2 --> Dru tab 3	1			100						ba2	gpg						ba3																													gpg																																																										0
-Dru tab 3 --> Dru tab 1	1			100						ba3	gpg						ba1																													gpg																																																										0
-Skillful --> Nec tab 1	1			100						aa0	skz						ba4																													skz																																																										0
-Nec tab 1 --> Nec tab 2	1			100						ba4	skz						ba5																													skz																																																										0
-Nec tab 2 --> Nec tab 3	1			100						ba5	skz						ba6																													skz																																																										0
-Nec tab 3 --> Nec tab 1	1			100						ba6	skz						ba4																													skz																																																										0
-Skillful --> Pal tab 1	1			100						aa0	gpv						ba7																													gpv																																																										0
-Pal tab 1 --> Pal tab 2	1			100						ba7	gpv						ba8																													gpv																																																										0
-Pal tab 2 --> Pal tab 3	1			100						ba8	gpv						ba9																													gpv																																																										0
-Pal tab 3 --> Pal tab 1	1			100						ba9	gpv						ba7							8					4					60												gpv																																																										0
-Skillful --> Sorc tab 1	1			100						aa0	gpb						ca1							6					3					30												gpb																																																										0
-Sorc tab 1 --> Sorc tab 2	1			100						ca1	gpb						ca2							9					3					60												gpb																																																										0
-Sorc tab 2 --> Sorc tab 3	1			100						ca2	gpb						ca3							9					6					90												gpb																																																										0
-Sorc tab 3 --> Sorc tab 1	1			100						ca3	gpb						ca1																													gpb																																																										0
+Ama tab 1 --> Ama tab 2	1			100					2	aa1	gpy						aa2																													gpy																																																										0
+Ama tab 2 --> Ama tab 3	1			100					2	aa2	gpy						aa3																													gpy																																																										0
+Ama tab 3 --> Ama tab 1	1			100					2	aa3	gpy						aa1																													gpy																																																										0
+Skillful --> Ass tab 1	1			100					2	aa0	gpw						aa4																													gpw																																																										0
+Ass tab 1 --> Ass tab 2	1			100					2	aa4	gpw						aa5																													gpw																																																										0
+Ass tab 2 --> Ass tab 3	1			100					2	aa5	gpw						aa6																													gpw																																																										0
+Ass tab 3 --> Ass tab 1	1			100					2	aa6	gpw						aa4																													gpw																																																										0
+Skillful --> Barb tab 1	1			100					2	aa0	gpr						aa7																													gpr																																																										0
+Barb tab 1 --> Barb tab 2	1			100					2	aa7	gpr						aa8																													gpr																																																										0
+Barb tab 2 --> Barb tab 3	1			100					2	aa8	gpr						aa9																													gpr																																																										0
+Barb tab 3 --> Barb tab 1	1			100					2	aa9	gpr						aa7																													gpr																																																										0
+Skillful --> Dru tab 1	1			100					2	aa0	gpg						ba1																													gpg																																																										0
+Dru tab 1 --> Dru tab 2	1			100					2	ba1	gpg						ba2																													gpg																																																										0
+Dru tab 2 --> Dru tab 3	1			100					2	ba2	gpg						ba3																													gpg																																																										0
+Dru tab 3 --> Dru tab 1	1			100					2	ba3	gpg						ba1																													gpg																																																										0
+Skillful --> Nec tab 1	1			100					2	aa0	skz						ba4																													skz																																																										0
+Nec tab 1 --> Nec tab 2	1			100					2	ba4	skz						ba5																													skz																																																										0
+Nec tab 2 --> Nec tab 3	1			100					2	ba5	skz						ba6																													skz																																																										0
+Nec tab 3 --> Nec tab 1	1			100					2	ba6	skz						ba4																													skz																																																										0
+Skillful --> Pal tab 1	1			100					2	aa0	gpv						ba7																													gpv																																																										0
+Pal tab 1 --> Pal tab 2	1			100					2	ba7	gpv						ba8																													gpv																																																										0
+Pal tab 2 --> Pal tab 3	1			100					2	ba8	gpv						ba9																													gpv																																																										0
+Pal tab 3 --> Pal tab 1	1			100					2	ba9	gpv						ba7																													gpv																																																										0
+Skillful --> Sorc tab 1	1			100					2	aa0	gpb						ca1																													gpb																																																										0
+Sorc tab 1 --> Sorc tab 2	1			100					2	ca1	gpb						ca2																													gpb																																																										0
+Sorc tab 2 --> Sorc tab 3	1			100					2	ca2	gpb						ca3																													gpb																																																										0
+Sorc tab 3 --> Sorc tab 1	1			100					2	ca3	gpb						ca1																													gpb																																																										0
 AMAZON VALOR SPECIFIC	0																																																																																																							0
 Strong Bidding	1			100	16	368	39		2	cc1	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2											sb1																																																										0
 Sturdy Bidding	1			100	16	368	39		2	cc1	ab2						useitem				infusion	100		3	3	levelreq			1	1	str			4	4											sb1																																																										0
@@ -1258,8 +1258,7 @@ Nauseating Bidding	1			100	16	368	39		2	cc1	vb3						useitem				infusion	100		3	
 Javelin Bidding	1			100	16	368	39		2	cc1	aa2						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
 Bow Bidding	1			100	16	368	39		2	cc1	aa3						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
 Passive Bidding	1			100	16	368	39		2	cc1	aa4						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
-test thing	0			100	16	368	2		3	cc1	sb1	cco					useitem				infusion			1	1	str			2	2																																																																										0
-Regular mod function with a weapon	1			100					2	mnb	"weap"						"weap,mod"				levelreq			1	1																																																																															0
+ASSASIN VALOR BIDDINGS	0																																																																																																							0
 TEMPERED CRAFTING	0																																																																																																							0
 1 Ral Rune + 1 Jewel + 1 Superior Armor -> Tempered Armor	0			100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
 1 Ral Rune + 1 Jewel + 1 Superior Weapon -> Tempered Weapon	0			100					3	"weap,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
