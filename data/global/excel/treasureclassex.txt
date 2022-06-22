@@ -16,12 +16,12 @@ Bidding E (N)			1						Bidding A (N)	35	Bidding B (N)	25	Bidding C (N)	25	Biddin
 Bidding A (NM)			1						ab2	10	bb2	10	cb2	10	db2	10	eb2	10	fb2	10												0
 Bidding B (NM)			1						gb2	10	hb2	10	ib2	10	jb2	10	kb2	10	lb2	10												0
 Bidding C (NM)			1						mb2	10	nb2	10	ob2	10	pb2	10	qb2	10														0
-Bidding D (NM)			1						rb2	10	sb2	10	tb2	10	ub2	10	vb2	10	aa1	10												0
+Bidding D (NM)			1						rb2	10	sb2	10	tb2	10	ub2	10	vb2	10	aa0	10												0
 Bidding E (NM)			1						Bidding A (NM)	35	Bidding B (NM)	25	Bidding C (NM)	25	Bidding D (NM)	15																0
 Bidding A (H)			1						ab3	10	bb3	10	cb3	10	db3	10	eb3	10	fb3	10												0
 Bidding B (H)			1						gb3	10	hb3	10	ib3	10	jb3	10	kb3	10	lb3	10												0
 Bidding C (H)			1						mb3	10	nb3	10	ob3	10	pb3	10	qb3	10														0
-Bidding D (H)			1						rb3	10	sb3	10	tb3	10	ub3	10	vb3	10	aa1	10												0
+Bidding D (H)			1						rb3	10	sb3	10	tb3	10	ub3	10	vb3	10	aa0	10												0
 Bidding E (H)			1						Bidding A (H)	35	Bidding B (H)	25	Bidding C (H)	25	Bidding D (H)	15																0
 Jewel Fragment			1						8fg	1																						0
 Ammo			1						aqv	1	cqv	1																				0
