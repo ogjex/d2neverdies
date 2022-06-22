@@ -1258,26 +1258,6 @@ Nauseating Bidding	1			100	16	368	39		2	cc1	vb3						useitem				infusion	100		3	
 Javelin Bidding	1			100	16	368	39		2	cc1	aa2						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
 Bow Bidding	1			100	16	368	39		2	cc1	aa3						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
 Passive Bidding	1			100	16	368	39		2	cc1	aa4						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
 test thing	0			100	16	368	2		3	cc1	sb1	cco					useitem				infusion			1	1	str			2	2																																																																										0
 Regular mod function with a weapon	1			100					2	mnb	"weap"						"weap,mod"				levelreq			1	1																																																																															0
 TEMPERED CRAFTING	0																																																																																																							0
