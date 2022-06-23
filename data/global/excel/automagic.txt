@@ -170,9 +170,9 @@ Vibrant Bidding	100	1	1							1	359	hp		30	30										lib3	bidd											0	0
 Dashing Bidding	100	1	1							1	360	mana		10	10										mab1	bidd											0	0
 Passionate Bidding	100	1	1							1	361	mana		20	20										mab2	bidd											0	0
 Vidid Bidding	100	1	1							1	362	mana		30	30										mab3	bidd											0	0
-Lucky Bidding	100	1	1							1	363	magic%		5	5										mfb1	bidd											0	0
-Fortunate Bidding	100	1	1							1	364	magic%		15	15										mfb2	bidd											0	0
-Blessed BIdding	100	1	1							1	365	magic%		25	25										mfb3	bidd											0	0
+Lucky Bidding	100	1	1							1	363	mag%		5	5										mfb1	bidd											0	0
+Fortunate Bidding	100	1	1							1	364	mag%		15	15										mfb2	bidd											0	0
+Blessed BIdding	100	1	1							1	365	mag%		25	25										mfb3	bidd											0	0
 Greedy Bidding	100	1	1							1	366	gold%		20	20										gob1	bidd											0	0
 Gluttenous Bidding	100	1	1							1	367	gold%		40	40										gob2	bidd											0	0
 Insatiable Bidding	100	1	1							1	368	gold%		60	60										gob3	bidd											0	0

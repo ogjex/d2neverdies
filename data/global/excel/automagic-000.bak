@@ -219,24 +219,24 @@ Uneasy Bidding	100	1	1							1	408	dmg-pois	75	16	16										dpb1	bidd									
 Sick Bidding	100	1	1							1	409	dmg-pois	75	32	32										dpb2	bidd											0	0
 Nauseating Bidding	100	1	1	60		40				1	410	dmg-pois	75	64	64										dpb3	bidd											0	0
 Skillful Bidding	100	1	1							1	411														skbi	bidd											0	0
-Summon Bidding	100	1	1							1	412														nsbi	bidd											0	0
-Bone Bidding	100	1	1							1	413														nbbi	bidd											0	0
-Curse Bidding	100	1	1							1	414														ncbi	bidd											0	0
+Javelin Bidding	100	1	1							1	412														nsbi	bidd											0	0
+Bow Bidding	100	1	1							1	413														nbbi	bidd											0	0
+Passive Bidding	100	1	1							1	414														ncbi	bidd											0	0
 Traps Bidding	100	1	1							1	415														atbi	bidd											0	0
 Martial Arts Bidding	100	1	1							1	416														ambi	bidd											0	0
 Shadow Bidding	100	1	1							1	417														asbi	bidd											0	0
 Combat Bidding	100	1	1							1	418														bcbi	bidd											0	0
 Mastery Bidding	100	1	1							1	419														bmbi	bidd											0	0
 Warcry Bidding	100	1	1							1	420														bwbi	bidd											0	0
-Combat Bidding	100	1	1							1	421														pcbi	bidd											0	0
-Defensive Bidding	100	1	1							1	422														pdbi	bidd											0	0
-Offensive Bidding	100	1	1							1	423														pobi	bidd											0	0
-Fire Bidding	100	1	1							1	424														sfbi	bidd											0	0
-Lightning Bidding	100	1	1							1	425														slbi	bidd											0	0
-Cold Bidding	100	1	1							1	426														scbi	bidd											0	0
-Elemental Bidding	100	1	1							1	427														debi	bidd											0	0
-Summon Bidding	100	1	1							1	428														dsbi	bidd											0	0
-Shapeshifter Bidding	100	1	1							1	429														dhbi	bidd											0	0
-Javelin Bidding	100	1	1							1	430														ajbi	bidd											0	0
-Bow Bidding	100	1	1							1	431														abbi	bidd											0	0
-Passive Bidding	100	1	1							1	432														apbi	bidd											0	0
+Elemental Bidding	100	1	1							1	421														pcbi	bidd											0	0
+Summon Bidding	100	1	1							1	422														pdbi	bidd											0	0
+Shapeshifter Bidding	100	1	1							1	423														pobi	bidd											0	0
+Summon Bidding	100	1	1							1	424														sfbi	bidd											0	0
+Bone Bidding	100	1	1							1	425														slbi	bidd											0	0
+Curse Bidding	100	1	1							1	426														scbi	bidd											0	0
+Combat Bidding	100	1	1							1	427														debi	bidd											0	0
+Defensive Bidding	100	1	1							1	428														dsbi	bidd											0	0
+Offensive Bidding	100	1	1							1	429														dhbi	bidd											0	0
+Fire Bidding	100	1	1							1	430														ajbi	bidd											0	0
+Lightning Bidding	100	1	1							1	431														abbi	bidd											0	0
+Cold Bidding	100	1	1							1	432														apbi	bidd											0	0
