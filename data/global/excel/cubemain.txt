@@ -1266,17 +1266,17 @@ TEMPERED CRAFTING	0																																																													
 1 Ral Rune + 1 Jewel + 1 Magic Amulet -> Tempered Amulet	0			100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
 1 El Rune + 1 Chipped Gem (Any) + 1 Tempered Weapon -> Weapon With Extra Attack Rating	0			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							aa4																													hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							aa5																													hp2																																																										0
-hp3 -> test item 3	1			100					1	hp3							aa6																													hp3																																																										0
-hp4 -> test item 4	1			100					1	hp4							aa7																													hp4																																																										0
-hp5-> test item 5	1			100					1	hp5							aa8																													hp5																																																										0
-mp1 -> test item 6	1			100					1	mp1							aa9																													mp1																																																										0
-mp2 -> test item 7	1			100					1	mp2							ba1																													mp2																																																										0
-mp3 -> test item 8	1			100					1	mp3							ba2																													mp3																																																										0
-mp4 -> test item 9	1			100					1	mp4							ba3																													mp4																																																										0
-mp5 -> test item 10	1			100					1	mp5							ba4																													mp5																																																										0
-id scroll -> test item	1			100					1	isc							cc7																													isc																																																										0
-tp scroll -> crf-wep	1			100					1	tsc							aa0	200	200	200																										tsc																																																										0
+hp1 -> test item 1	1			100					1	hp1							ac1																													hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							ac2																													hp2																																																										0
+hp3 -> test item 3	1			100					1	hp3							ac3																													hp3																																																										0
+hp4 -> test item 4	1			100					1	hp4							ac4																													hp4																																																										0
+hp5-> test item 5	1			100					1	hp5							ac5																													hp5																																																										0
+mp1 -> test item 6	1			100					1	mp1							ac6																													mp1																																																										0
+mp2 -> test item 7	1			100					1	mp2							ac7																													mp2																																																										0
+mp3 -> test item 8	1			100					1	mp3							ac8																													mp3																																																										0
+mp4 -> test item 9	1			100					1	mp4							ac9																													mp4																																																										0
+mp5 -> test item 10	1			100					1	mp5							ad1																													mp5																																																										0
+id scroll -> test item	1			100					1	isc							ad2																													isc																																																										0
+tp scroll -> crf-wep	1			100					1	tsc							ad3	200	200	200																										tsc																																																										0
 nos wep -> sock	1			100					1	"weap,nos"							"useitem,add"				sock			6	6																																																																															0
 nos armo -> sock	1			100					1	"armo,nos"							"useitem,add"				sock			6	6																																																																															0

@@ -1204,7 +1204,7 @@ Spirited Bidding	1			100	16	368	39		2	cc1	db3						useitem				infusion	100		3	3	
 Lively Bidding	1			100	16	368	39		2	cc1	eb1						useitem				infusion	100		2	2	levelreq			1	1	hp			10	10											sb1																																																										0
 Splendid Bidding	1			100	16	368	39		2	cc1	eb2						useitem				infusion	100		3	3	levelreq			1	1	hp			20	20											sb1																																																										0
 Vibrant Bidding	1			100	16	368	39		2	cc1	eb3						useitem				infusion	100		3	3	levelreq			2	2	hp			30	30											sb1																																																										0
-Dashing Bidding	1			100	16	368	39		2	cc1	fb1						useitem				infusion	100		2	2	levelreq			1	1	mana			10	10											sb1																																																										0
+Spirited Bidding	1			100	16	368	39		2	cc1	fb1						useitem				infusion	100		2	2	levelreq			1	1	mana			10	10											sb1																																																										0
 Passionate Bidding	1			100	16	368	39		2	cc1	fb2						useitem				infusion	100		3	3	levelreq			1	1	mana			20	20											sb1																																																										0
 Vidid Bidding	1			100	16	368	39		2	cc1	fb3						useitem				infusion	100		3	3	levelreq			2	2	mana			30	30											sb1																																																										0
 Lucky Bidding	1			100	16	368	39		2	cc1	gb1						useitem				infusion	100		2	2	levelreq			1	1	magic%			5	5											sb1																																																										0
@@ -1237,9 +1237,9 @@ Arrested Bidding	1			100	16	368	39		2	cc1	ob3						useitem				infusion	100		6	6	
 Neutralizing Bidding	1			100	16	368	39		2	cc1	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3											sb1																																																										0
 Antitoxic Bidding	1			100	16	368	39		2	cc1	pb2						useitem				infusion	100		6	6	levelreq			1	1	res-pois			6	6											sb1																																																										0
 Remedying Bidding	1			100	16	368	39		2	cc1	pb3						useitem				infusion	100		6	6	levelreq			2	2	res-pois			9	9											sb1																																																										0
-Scintillating Bidding	1			100	16	368	39		2	cc1	qb1						useitem				infusion	100		4	4	levelreq			1	1	res-all			1	1											sb1																																																										0
-Prismatic Bidding	1			100	16	368	39		2	cc1	qb2						useitem				infusion	100		6	6	levelreq			1	1	res-all			3	3											sb1																																																										0
-Chromatic Bidding	1			100	16	368	39		2	cc1	qb3						useitem				infusion	100		6	6	levelreq			2	2	res-all			5	5											sb1																																																										0
+Scintillating Bidding	1			100	16	368	39		2	cc1	qb1						useitem				infusion	100		4	4	levelreq			1	1	res-all			3	3											sb1																																																										0
+Prismatic Bidding	1			100	16	368	39		2	cc1	qb2						useitem				infusion	100		6	6	levelreq			1	1	res-all			6	6											sb1																																																										0
+Chromatic Bidding	1			100	16	368	39		2	cc1	qb3						useitem				infusion	100		6	6	levelreq			2	2	res-all			9	9											sb1																																																										0
 Quick Bidding	1			100	16	368	39		2	cc1	rb1						useitem				infusion	100		4	4	levelreq			1	1	move2			3	3											sb1																																																										0
 Swift Bidding	1			100	16	368	39		2	cc1	rb2						useitem				infusion	100		6	6	levelreq			1	1	move2			6	6											sb1																																																										0
 Speedy Bidding	1			100	16	368	39		2	cc1	rb3						useitem				infusion	100		6	6	levelreq			2	2	move2			9	9											sb1																																																										0
@@ -1255,28 +1255,28 @@ Electrical Bidding	1			100	16	368	39		2	cc1	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	39		2	cc1	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16											sb1																																																										0
 Sick Bidding	1			100	16	368	39		2	cc1	vb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-pois		75	32	32											sb1																																																										0
 Nauseating Bidding	1			100	16	368	39		2	cc1	vb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-pois		75	64	64											sb1																																																										0
-Skillful Bidding	1			100	16	368	39		2	cc1	aa2						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
-Javelin Bidding	1			100	16	368	39		2	cc1	aa3						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
-Bow Bidding	1			100	16	368	39		2	cc1	aa4						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
-Passive Bidding	0																																																																																																							0
-Traps Bidding	0																																																																																																							0
-Martial Arts Bidding	0			100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
-Shadow Bidding	0			100					3	"weap,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
-Combat Bidding	0			100					3	"ring,mag"	jew	r08					"usetype,tmp"				levelreq			3	3																																																																															0
-Mastery Bidding	0			100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
-Warcry Bidding	0			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
-Elemental Bidding	0																																																																																																							0
-Summon Bidding	1			100					1	hp1							aa4																													hp1																																																										0
-Shapeshifter Bidding	1			100					1	hp2							aa5																													hp2																																																										0
-Summon Bidding	1			100					1	hp3							aa6																													hp3																																																										0
-Bone Bidding	1			100					1	hp4							aa7																													hp4																																																										0
-Curse Bidding	1			100					1	hp5							aa8																													hp5																																																										0
-Combat Bidding	1			100					1	mp1							aa9																													mp1																																																										0
-Defensive Bidding	1			100					1	mp2							ba1																													mp2																																																										0
-Offensive Bidding	1			100					1	mp3							ba2																													mp3																																																										0
-Fire Bidding	1			100					1	mp4							ba3																													mp4																																																										0
-Lightning Bidding	1			100					1	mp5							ba4																													mp5																																																										0
-Cold Bidding	1			100					1	isc							cc7																													isc																																																										0
-Cold Bidding	1			100					1	tsc							aa0	200	200	200																										tsc																																																										0
-Cold Bidding	1			100					1	"weap,nos"							"useitem,add"				sock			6	6																																																																															0
-Cold Bidding	1			100					1	"armo,nos"							"useitem,add"				sock			6	6																																																																															0
+Javelin Bidding	1			100	16	368	39		2	cc1	aa2						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
+Bow Bidding	1			100	16	368	39		2	cc1	aa3						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
+Passive Bidding	1			100	16	368	39		2	cc1	aa4						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
+ASSASIN VALOR BIDDINGS	0																																																																																																							0
+TEMPERED CRAFTING	0																																																																																																							0
+1 Ral Rune + 1 Jewel + 1 Superior Armor -> Tempered Armor	0			100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
+1 Ral Rune + 1 Jewel + 1 Superior Weapon -> Tempered Weapon	0			100					3	"weap,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
+1 Ral Rune + 1 Jewel + Magic Ring -> Tempered Ring	0			100					3	"ring,mag"	jew	r08					"usetype,tmp"				levelreq			3	3																																																																															0
+1 Ral Rune + 1 Jewel + 1 Magic Amulet -> Tempered Amulet	0			100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
+1 El Rune + 1 Chipped Gem (Any) + 1 Tempered Weapon -> Weapon With Extra Attack Rating	0			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
+ITEM TESTING	0																																																																																																							0
+hp1 -> test item 1	1			100					1	hp1							ac1																													hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							ac2																													hp2																																																										0
+hp3 -> test item 3	1			100					1	hp3							ac3																													hp3																																																										0
+hp4 -> test item 4	1			100					1	hp4							ac4																													hp4																																																										0
+hp5-> test item 5	1			100					1	hp5							ac5																													hp5																																																										0
+mp1 -> test item 6	1			100					1	mp1							ac6																													mp1																																																										0
+mp2 -> test item 7	1			100					1	mp2							ac7																													mp2																																																										0
+mp3 -> test item 8	1			100					1	mp3							ac8																													mp3																																																										0
+mp4 -> test item 9	1			100					1	mp4							ac9																													mp4																																																										0
+mp5 -> test item 10	1			100					1	mp5							ad1																													mp5																																																										0
+id scroll -> test item	1			100					1	isc							cc7																													isc																																																										0
+tp scroll -> crf-wep	1			100					1	tsc							aa0	200	200	200																										tsc																																																										0
+nos wep -> sock	1			100					1	"weap,nos"							"useitem,add"				sock			6	6																																																																															0
+nos armo -> sock	1			100					1	"armo,nos"							"useitem,add"				sock			6	6																																																																															0
