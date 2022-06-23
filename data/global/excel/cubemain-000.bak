@@ -1153,12 +1153,12 @@ Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	"amul"	
 CHARM INFUSION RECIPES	0																																																																																																							0
 PERSONALIZED VALORS	0																																																																																																							0
 Personal --> Ama valor	1			100					2	cm4	gpy						cc1																													gpy																																																										0
-Personal --> Ass valor	1			100					2	cm4							cc2																													gpw																																																										0
-Personal --> Barb valor	1			100					2	cm4							cc3																													gpr																																																										0
-Personal --> Dru valor	1			100					2	cm4							cc4																													gpg																																																										0
-Personal --> Nec valor	1			100					2	cm4							cc5																													skz																																																										0
-Personal --> Pal valor	1			100					2	cm4							cc6																													gpv																																																										0
-Personal --> Sorc valor	1			100					2	cm4							cc7																													gpb																																																										0
+Personal --> Ass valor	1			100					2	cm4	gpw						cc2																													gpw																																																										0
+Personal --> Barb valor	1			100					2	cm4	gpr						cc3																													gpr																																																										0
+Personal --> Dru valor	1			100					2	cm4	gpg						cc4																													gpg																																																										0
+Personal --> Nec valor	1			100					2	cm4	skz						cc5																													skz																																																										0
+Personal --> Pal valor	1			100					2	cm4	gpv						cc6																													gpv																																																										0
+Personal --> Sorc valor	1			100					2	cm4	gpb						cc7																													gpb																																																										0
 SKILL TAB CHANGES	0																																																																																																							0
 Skillful --> Ama tab 1	1			100					2	aa0	gpy						aa1																													gpy																																																										0
 Ama tab 1 --> Ama tab 2	1			100					2	aa1	gpy						aa2																													gpy																																																										0
@@ -1266,16 +1266,16 @@ TEMPERED CRAFTING	0																																																													
 1 Ral Rune + 1 Jewel + 1 Magic Amulet -> Tempered Amulet	0			100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
 1 El Rune + 1 Chipped Gem (Any) + 1 Tempered Weapon -> Weapon With Extra Attack Rating	0			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							sb1	1		1																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							cc7	100		100																										hp2																																																										0
-hp3 -> test item 3	1			100					1	"8sx,qty=50"							"bac,uni"	100		100																										hp3																																																										0
-hp4 -> test item 4	1			100					1	hp4							"esc"	100		100																										hp4																																																										0
-hp5-> test item 5	1			100					1	hp5							"esn"	100		100																										hp5																																																										0
-mp1 -> test item 6	1			100					1	mp1							aqv	100		100																										mp1																																																										0
-mp2 -> test item 7	1			100					1	mp2							cc2	100		100																										mp2																																																										0
-mp3 -> test item 8	1			100					1	mp3							"esr"	100		100																										mp3																																																										0
-mp4 -> test item 9	1			100					1	mp4							"esn"	100		100																										mp4																																																										0
-mp5 -> test item 10	1			100					1	mp5							"lzg"	100		100																										mp5																																																										0
+hp1 -> test item 1	1			100					1	hp1							ab1	100		100																										hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							ab2	100		100																										hp2																																																										0
+hp3 -> test item 3	1			100					1	"8sx,qty=50"							ab3	100		100																										hp3																																																										0
+hp4 -> test item 4	1			100					1	hp4							bb1	100		100																										hp4																																																										0
+hp5-> test item 5	1			100					1	hp5							bb2	100		100																										hp5																																																										0
+mp1 -> test item 6	1			100					1	mp1							bb3	100		100																										mp1																																																										0
+mp2 -> test item 7	1			100					1	mp2							cb1	100		100																										mp2																																																										0
+mp3 -> test item 8	1			100					1	mp3							cb2	100		100																										mp3																																																										0
+mp4 -> test item 9	1			100					1	mp4							cb3	100		100																										mp4																																																										0
+mp5 -> test item 10	1			100					1	mp5							db1	100		100																										mp5																																																										0
 id scroll -> test item	1			100					1	isc							rvl	100		100																										isc																																																										0
 tp scroll -> crf-wep	1			100					1	tsc							r11	200	200	200																										tsc																																																										0
 nos wep -> sock	1			100					1	"weap,nos"							"useitem,add"				sock			6	6																																																																															0
