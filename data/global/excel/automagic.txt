@@ -154,89 +154,89 @@ Splashing - Ama	100	1	1	1		1				1	343	splash	proc_SplashDamage	100	1	rep-quant	6
 Splashing - Ama	100	1	1	1		1				1	344	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	3	3				armo	weap											0	0
 Strong Bidding	100	1	1	1	20	3				1	345	str		2	2										snb1	bidd											0	0
 Sturdy Bidding	100	1	1	20	40	20				1	346	str		4	4										snb2	bidd											0	0
-Burly Bidding	100	1	1	60	60	40				1	347	str		6	6										snb3	bidd											0	0
-Agile Bidding	100	1	1	1	20	3				1	348	dex		2	2										dxb1	bidd											0	0
-Nimble Bidding	100	1	1	20	40	20				1	349	dex		4	4										dxb2	bidd											0	0
-Dexterous Bidding	100	1	1	60	60	40				1	350	dex		6	6										dxb3	bidd											0	0
-Vital Bidding	100	1	1	1	20	3				1	351	vit		2	2										vib1	bidd											0	0
-Vibrous Bidding	100	1	1	20	40	20				1	352	vit		4	4										vib2	bidd											0	0
-Enduring Bidding	100	1	1	60	60	40				1	353	vit		6	6										vib3	bidd											0	0
-Energetic Bidding	100	1	1	1	20	3				1	354	enr		2	2										enb1	bidd											0	0
-Bright Bidding	100	1	1	20	40	20				1	355	enr		4	4										enb2	bidd											0	0
-Spirited Bidding	100	1	1	60	60	40				1	356	enr		6	6										enb3	bidd											0	0
-Lively Bidding	100	1	1	1	20	3				1	357	hp		10	10										lib1	bidd											0	0
-Splendid Bidding	100	1	1	20	40	20				1	358	hp		20	20										lib2	bidd											0	0
-Vibrant Bidding	100	1	1	60	60	40				1	359	hp		30	30										lib3	bidd											0	0
-Spirited Bidding	100	1	1	1	20	3				1	360	mana		10	10										mab1	bidd											0	0
-Passionate Bidding	100	1	1	20	40	20				1	361	mana		20	20										mab2	bidd											0	0
-Vidid Bidding	100	1	1	60	60	40				1	362	mana		30	30										mab3	bidd											0	0
-Lucky Bidding	100	1	1	1	20	3				1	363	magic%		5	5										mfb1	bidd											0	0
-Fortunate Bidding	100	1	1	20	40	20				1	364	magic%		15	15										mfb2	bidd											0	0
-Blessed BIdding	100	1	1	60	60	40				1	365	magic%		25	25										mfb3	bidd											0	0
-Greedy Bidding	100	1	1	1	20	3				1	366	gold%		20	20										gob1	bidd											0	0
-Gluttenous Bidding	100	1	1	20	40	20				1	367	gold%		40	40										gob2	bidd											0	0
-Insatiable Bidding	100	1	1	60	60	40				1	368	gold%		60	60										gob3	bidd											0	0
-Accurate Bidding	100	1	1	1	20	3				1	369	att		20	20										arb1	bidd											0	0
-Precise BIdding	100	1	1	20	40	20				1	370	att		40	40										arb2	bidd											0	0
-Exact Bidding	100	1	1	60	60	40				1	371	att		60	60										arb3	bidd											0	0
-Powerful Bidding	100	1	1	1	20	3				1	372	dmg-max		2	2										dmb1	bidd											0	0
-Harmful Bidding	100	1	1	20	40	20				1	373	dmg-max		5	5										dmb2	bidd											0	0
-Forceful Bidding	100	1	1	60	60	40				1	374	dmg-max		10	10										dmb3	bidd											0	0
-Dodgy Bidding	100	1	1	1	20	3				1	375	balance2		4	4										hrb1	bidd											0	0
-Avoiding Bidding	100	1	1	20	40	20				1	376	balance2		8	8										hrb2	bidd											0	0
-Evading Bidding	100	1	1	60	60	40				1	377	balance2		12	12										hrb3	bidd											0	0
-Defending Bidding	100	1	1	1	20	3				1	378	ac%		10	10										acb1	bidd											0	0
-Guarding Bidding	100	1	1	20	40	20				1	379	ac%		20	20										acb2	bidd											0	0
-Shielding Bidding	100	1	1	60	60	40				1	380	ac%		30	30										acb3	bidd											0	0
-Insulating Bidding	100	1	1	1	20	3				1	381	res-fire		3	3										rfb1	bidd											0	0
-Enclosed Bidding	100	1	1	20	40	20				1	382	res-fire		6	6										rfb2	bidd											0	0
-Heatproof Bidding	100	1	1	60	60	40				1	383	res-fire		9	9										rfb3	bidd											0	0
-Chunky Bidding	100	1	1	1	20	3				1	384	res-cold		3	3										rcb1	bidd											0	0
-Crystal Bidding	100	1	1	20	40	20				1	385	res-cold		6	6										rcb2	bidd											0	0
-Diamond Bidding	100	1	1	60	60	40				1	386	res-cold		9	9										rcb3	bidd											0	0
-Grounded Bidding	100	1	1	1	20	3				1	387	res-ltng		3	3										rlb1	bidd											0	0
-Conductive Bidding	100	1	1	20	40	20				1	388	res-ltng		6	6										rlb2	bidd											0	0
-Arrested Bidding	100	1	1	60	60	40				1	389	res-ltng		9	9										rlb3	bidd											0	0
-Neutralizing Bidding	100	1	1	1	20	3				1	390	res-pois		3	3										rpb1	bidd											0	0
-Antitoxic Bidding	100	1	1	20	40	20				1	391	res-pois		6	6										rpb2	bidd											0	0
-Remedying Bidding	100	1	1	60	60	40				1	392	res-pois		9	9										rpb3	bidd											0	0
-Scintillating Bidding	100	1	1	1	20	3				1	393	res-all		3	3										rab1	bidd											0	0
-Prismatic Bidding	100	1	1	20	40	20				1	394	res-all		6	6										rab2	bidd											0	0
-Chromatic Bidding	100	1	1	60	60	40				1	395	res-all		9	9										rab3	bidd											0	0
-Quick Bidding	100	1	1	1	20	3				1	396	move2		3	3										rwb1	bidd											0	0
-Swift Bidding	100	1	1	20	40	20				1	397	move2		6	6										rwb2	bidd											0	0
-Speedy Bidding	100	1	1	60	60	40				1	398	move2		9	9										rwb3	bidd											0	0
-Warm Bidding	100	1	1	1	20	3				1	399	dmg-fire		4	6										dfb1	bidd											0	0
-Hot Bidding	100	1	1	20	40	20				1	400	dmg-fire		12	16										dfb2	bidd											0	0
-Scalding Bidding	100	1	1	60	60	40				1	401	dmg-fire		32	46										dfb3	bidd											0	0
-Cold Bidding	100	1	1	1	20	3				1	402	dmg-cold		2	4										dcb1	bidd											0	0
-Icy Bidding	100	1	1	20	40	20				1	403	dmg-cold		8	16										dcb2	bidd											0	0
-Freezing Bidding	100	1	1	60	60	40				1	404	dmg-cold		18	36										dcb3	bidd											0	0
-Noisy Bidding	100	1	1	1	20	3				1	405	dmg-ltng		1	9										dlb1	bidd											0	0
-Eerie Bidding	100	1	1	20	40	20				1	406	dmg-ltng		1	18										dlb2	bidd											0	0
-Electrical Bidding	100	1	1	60	60	40				1	407	dmg-ltng		1	36										dlb3	bidd											0	0
-Uneasy Bidding	100	1	1	1	20	3				1	408	dmg-pois	75	16	16										dpb1	bidd											0	0
-Sick Bidding	100	1	1	20	40	20				1	409	dmg-pois	75	32	32										dpb2	bidd											0	0
-Nauseating Bidding	100	1	1	60	60	40				1	410	dmg-pois	75	64	64										dpb3	bidd											0	0
-Skillful Bidding	100	1	1	60	60	40				1	411														skbi	bidd											0	0
-Summon Bidding	100	1	1	60	60	40				1	412														nsbi	bidd											0	0
-Bone Bidding	100	1	1	60	60	40				1	413														nbbi	bidd											0	0
-Curse Bidding	100	1	1	60	60	40				1	414														ncbi	bidd											0	0
-Traps Bidding	100	1	1	60	60	40				1	415														atbi	bidd											0	0
-Martial Arts Bidding	100	1	1	60	60	40				1	416														ambi	bidd											0	0
-Shadow Bidding	100	1	1	60	60	40				1	417														asbi	bidd											0	0
-Combat Bidding	100	1	1	60	60	40				1	418														bcbi	bidd											0	0
-Mastery Bidding	100	1	1	60	60	40				1	419														bmbi	bidd											0	0
-Warcry Bidding	100	1	1	60	60	40				1	420														bwbi	bidd											0	0
-Combat Bidding	100	1	1	60	60	40				1	421														pcbi	bidd											0	0
-Defensive Bidding	100	1	1	60	60	40				1	422														pdbi	bidd											0	0
-Offensive Bidding	100	1	1	60	60	40				1	423														pobi	bidd											0	0
-Fire Bidding	100	1	1	60	60	40				1	424														sfbi	bidd											0	0
-Lightning Bidding	100	1	1	60	60	40				1	425														slbi	bidd											0	0
-Cold Bidding	100	1	1	60	60	40				1	426														scbi	bidd											0	0
-Elemtal Bidding	100	1	1	60	60	40				1	427														debi	bidd											0	0
-Summon Bidding	100	1	1	60	60	40				1	428														dsbi	bidd											0	0
-Shapeshifter Bidding	100	1	1	60	60	40				1	429														dhbi	bidd											0	0
-Javelin Bidding	100	1	1	60	60	40				1	430														ajbi	bidd											0	0
-Bow Bidding	100	1	1	60	60	40				1	431														abbi	bidd											0	0
-Passive Bidding	100	1	1	60	60	40				1	432														apbi	bidd											0	0
+Burly Bidding	100	1	1	60		40				1	347	str		6	6										snb3	bidd											0	0
+Agile Bidding	100	1	1							1	348	dex		2	2										dxb1	bidd											0	0
+Nimble Bidding	100	1	1							1	349	dex		4	4										dxb2	bidd											0	0
+Dexterous Bidding	100	1	1							1	350	dex		6	6										dxb3	bidd											0	0
+Vital Bidding	100	1	1							1	351	vit		2	2										vib1	bidd											0	0
+Vibrous Bidding	100	1	1							1	352	vit		4	4										vib2	bidd											0	0
+Enduring Bidding	100	1	1							1	353	vit		6	6										vib3	bidd											0	0
+Energetic Bidding	100	1	1							1	354	enr		2	2										enb1	bidd											0	0
+Bright Bidding	100	1	1							1	355	enr		4	4										enb2	bidd											0	0
+Spirited Bidding	100	1	1							1	356	enr		6	6										enb3	bidd											0	0
+Lively Bidding	100	1	1							1	357	hp		10	10										lib1	bidd											0	0
+Splendid Bidding	100	1	1							1	358	hp		20	20										lib2	bidd											0	0
+Vibrant Bidding	100	1	1							1	359	hp		30	30										lib3	bidd											0	0
+Spirited Bidding	100	1	1							1	360	mana		10	10										mab1	bidd											0	0
+Passionate Bidding	100	1	1							1	361	mana		20	20										mab2	bidd											0	0
+Vidid Bidding	100	1	1							1	362	mana		30	30										mab3	bidd											0	0
+Lucky Bidding	100	1	1							1	363	magic%		5	5										mfb1	bidd											0	0
+Fortunate Bidding	100	1	1							1	364	magic%		15	15										mfb2	bidd											0	0
+Blessed BIdding	100	1	1							1	365	magic%		25	25										mfb3	bidd											0	0
+Greedy Bidding	100	1	1							1	366	gold%		20	20										gob1	bidd											0	0
+Gluttenous Bidding	100	1	1							1	367	gold%		40	40										gob2	bidd											0	0
+Insatiable Bidding	100	1	1							1	368	gold%		60	60										gob3	bidd											0	0
+Accurate Bidding	100	1	1							1	369	att		20	20										arb1	bidd											0	0
+Precise BIdding	100	1	1							1	370	att		40	40										arb2	bidd											0	0
+Exact Bidding	100	1	1							1	371	att		60	60										arb3	bidd											0	0
+Powerful Bidding	100	1	1							1	372	dmg-max		2	2										dmb1	bidd											0	0
+Harmful Bidding	100	1	1							1	373	dmg-max		5	5										dmb2	bidd											0	0
+Forceful Bidding	100	1	1							1	374	dmg-max		10	10										dmb3	bidd											0	0
+Dodgy Bidding	100	1	1							1	375	balance2		4	4										hrb1	bidd											0	0
+Avoiding Bidding	100	1	1							1	376	balance2		8	8										hrb2	bidd											0	0
+Evading Bidding	100	1	1							1	377	balance2		12	12										hrb3	bidd											0	0
+Defending Bidding	100	1	1							1	378	ac%		10	10										acb1	bidd											0	0
+Guarding Bidding	100	1	1							1	379	ac%		20	20										acb2	bidd											0	0
+Shielding Bidding	100	1	1							1	380	ac%		30	30										acb3	bidd											0	0
+Insulating Bidding	100	1	1							1	381	res-fire		3	3										rfb1	bidd											0	0
+Enclosed Bidding	100	1	1							1	382	res-fire		6	6										rfb2	bidd											0	0
+Heatproof Bidding	100	1	1							1	383	res-fire		9	9										rfb3	bidd											0	0
+Chunky Bidding	100	1	1							1	384	res-cold		3	3										rcb1	bidd											0	0
+Crystal Bidding	100	1	1							1	385	res-cold		6	6										rcb2	bidd											0	0
+Diamond Bidding	100	1	1							1	386	res-cold		9	9										rcb3	bidd											0	0
+Grounded Bidding	100	1	1							1	387	res-ltng		3	3										rlb1	bidd											0	0
+Conductive Bidding	100	1	1							1	388	res-ltng		6	6										rlb2	bidd											0	0
+Arrested Bidding	100	1	1							1	389	res-ltng		9	9										rlb3	bidd											0	0
+Neutralizing Bidding	100	1	1							1	390	res-pois		3	3										rpb1	bidd											0	0
+Antitoxic Bidding	100	1	1							1	391	res-pois		6	6										rpb2	bidd											0	0
+Remedying Bidding	100	1	1							1	392	res-pois		9	9										rpb3	bidd											0	0
+Scintillating Bidding	100	1	1							1	393	res-all		3	3										rab1	bidd											0	0
+Prismatic Bidding	100	1	1							1	394	res-all		6	6										rab2	bidd											0	0
+Chromatic Bidding	100	1	1							1	395	res-all		9	9										rab3	bidd											0	0
+Quick Bidding	100	1	1							1	396	move2		3	3										rwb1	bidd											0	0
+Swift Bidding	100	1	1							1	397	move2		6	6										rwb2	bidd											0	0
+Speedy Bidding	100	1	1							1	398	move2		9	9										rwb3	bidd											0	0
+Warm Bidding	100	1	1							1	399	dmg-fire		4	6										dfb1	bidd											0	0
+Hot Bidding	100	1	1							1	400	dmg-fire		12	16										dfb2	bidd											0	0
+Scalding Bidding	100	1	1							1	401	dmg-fire		32	46										dfb3	bidd											0	0
+Cold Bidding	100	1	1							1	402	dmg-cold		2	4										dcb1	bidd											0	0
+Icy Bidding	100	1	1							1	403	dmg-cold		8	16										dcb2	bidd											0	0
+Freezing Bidding	100	1	1							1	404	dmg-cold		18	36										dcb3	bidd											0	0
+Noisy Bidding	100	1	1							1	405	dmg-ltng		1	9										dlb1	bidd											0	0
+Eerie Bidding	100	1	1							1	406	dmg-ltng		1	18										dlb2	bidd											0	0
+Electrical Bidding	100	1	1							1	407	dmg-ltng		1	36										dlb3	bidd											0	0
+Uneasy Bidding	100	1	1							1	408	dmg-pois	75	16	16										dpb1	bidd											0	0
+Sick Bidding	100	1	1							1	409	dmg-pois	75	32	32										dpb2	bidd											0	0
+Nauseating Bidding	100	1	1	60		40				1	410	dmg-pois	75	64	64										dpb3	bidd											0	0
+Skillful Bidding	100	1	1							1	411														skbi	bidd											0	0
+Summon Bidding	100	1	1							1	412														nsbi	bidd											0	0
+Bone Bidding	100	1	1							1	413														nbbi	bidd											0	0
+Curse Bidding	100	1	1							1	414														ncbi	bidd											0	0
+Traps Bidding	100	1	1							1	415														atbi	bidd											0	0
+Martial Arts Bidding	100	1	1							1	416														ambi	bidd											0	0
+Shadow Bidding	100	1	1							1	417														asbi	bidd											0	0
+Combat Bidding	100	1	1							1	418														bcbi	bidd											0	0
+Mastery Bidding	100	1	1							1	419														bmbi	bidd											0	0
+Warcry Bidding	100	1	1							1	420														bwbi	bidd											0	0
+Combat Bidding	100	1	1							1	421														pcbi	bidd											0	0
+Defensive Bidding	100	1	1							1	422														pdbi	bidd											0	0
+Offensive Bidding	100	1	1							1	423														pobi	bidd											0	0
+Fire Bidding	100	1	1							1	424														sfbi	bidd											0	0
+Lightning Bidding	100	1	1							1	425														slbi	bidd											0	0
+Cold Bidding	100	1	1							1	426														scbi	bidd											0	0
+Elemtal Bidding	100	1	1							1	427														debi	bidd											0	0
+Summon Bidding	100	1	1							1	428														dsbi	bidd											0	0
+Shapeshifter Bidding	100	1	1							1	429														dhbi	bidd											0	0
+Javelin Bidding	100	1	1							1	430														ajbi	bidd											0	0
+Bow Bidding	100	1	1							1	431														abbi	bidd											0	0
+Passive Bidding	100	1	1							1	432														apbi	bidd											0	0
