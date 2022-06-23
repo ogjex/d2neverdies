@@ -27454,8 +27454,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-  {
-    "id": 40402,
+    {
+    "id": 27230,
     "Key": "ab1",
     "enUS": "ÿc3Strong Bidding",
     "zhTW": "",
@@ -27471,9 +27471,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40403,
+    "id": 27231,
     "Key": "ab2",
     "enUS": "ÿc3Sturdy Bidding",
     "zhTW": "",
@@ -27489,9 +27488,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40404,
+    "id": 27232,
     "Key": "ab3",
     "enUS": "ÿc3Burly Bidding",
     "zhTW": "",
@@ -27507,9 +27505,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40405,
+    "id": 27233,
     "Key": "bb1",
     "enUS": "ÿc3Agile Bidding",
     "zhTW": "",
@@ -27525,11 +27522,10 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40406,
+    "id": 27234,
     "Key": "bb2",
-    "enUS": "ÿc3ÿc3Nimble Bidding",
+    "enUS": "ÿc3Nimble Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27543,9 +27539,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40407,
+    "id": 27235,
     "Key": "bb3",
     "enUS": "ÿc3Dexterous Bidding",
     "zhTW": "",
@@ -27561,9 +27556,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40408,
+    "id": 27236,
     "Key": "cb1",
     "enUS": "ÿc3Vital Bidding",
     "zhTW": "",
@@ -27579,9 +27573,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40409,
+    "id": 27237,
     "Key": "cb2",
     "enUS": "ÿc3Vibrous Bidding",
     "zhTW": "",
@@ -27597,9 +27590,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40410,
+    "id": 27238,
     "Key": "cb3",
     "enUS": "ÿc3Enduring Bidding",
     "zhTW": "",
@@ -27615,9 +27607,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40411,
+    "id": 27239,
     "Key": "db1",
     "enUS": "ÿc3Energetic Bidding",
     "zhTW": "",
@@ -27633,9 +27624,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40412,
+    "id": 27240,
     "Key": "db2",
     "enUS": "ÿc3Bright Bidding",
     "zhTW": "",
@@ -27651,9 +27641,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40413,
+    "id": 27241,
     "Key": "db3",
     "enUS": "ÿc3Spirited Bidding",
     "zhTW": "",
@@ -27669,9 +27658,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40414,
+    "id": 27242,
     "Key": "eb1",
     "enUS": "ÿc3Lively Bidding",
     "zhTW": "",
@@ -27687,9 +27675,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40415,
+    "id": 27243,
     "Key": "eb2",
     "enUS": "ÿc3Splendid Bidding",
     "zhTW": "",
@@ -27705,9 +27692,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40416,
+    "id": 27244,
     "Key": "eb3",
     "enUS": "ÿc3Vibrant Bidding",
     "zhTW": "",
@@ -27723,11 +27709,10 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40417,
+    "id": 27245,
     "Key": "fb1",
-    "enUS": "ÿc3Spirited Bidding",
+    "enUS": "ÿc3Dashing Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27741,9 +27726,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40418,
+    "id": 27246,
     "Key": "fb2",
     "enUS": "ÿc3Passionate Bidding",
     "zhTW": "",
@@ -27759,9 +27743,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40419,
+    "id": 27247,
     "Key": "fb3",
     "enUS": "ÿc3Vidid Bidding",
     "zhTW": "",
@@ -27777,9 +27760,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40420,
+    "id": 27248,
     "Key": "gb1",
     "enUS": "ÿc3Lucky Bidding",
     "zhTW": "",
@@ -27795,9 +27777,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40421,
+    "id": 27249,
     "Key": "gb2",
     "enUS": "ÿc3Fortunate Bidding",
     "zhTW": "",
@@ -27813,11 +27794,10 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40422,
+    "id": 27250,
     "Key": "gb3",
-    "enUS": "ÿc3Blessed Bidding",
+    "enUS": "ÿc3Blessed BIdding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27831,9 +27811,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40423,
+    "id": 27251,
     "Key": "hb1",
     "enUS": "ÿc3Greedy Bidding",
     "zhTW": "",
@@ -27849,9 +27828,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40424,
+    "id": 27252,
     "Key": "hb2",
     "enUS": "ÿc3Gluttenous Bidding",
     "zhTW": "",
@@ -27867,9 +27845,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40425,
+    "id": 27253,
     "Key": "hb3",
     "enUS": "ÿc3Insatiable Bidding",
     "zhTW": "",
@@ -27885,9 +27862,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40426,
+    "id": 27254,
     "Key": "ib1",
     "enUS": "ÿc3Accurate Bidding",
     "zhTW": "",
@@ -27903,11 +27879,10 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40427,
+    "id": 27255,
     "Key": "ib2",
-    "enUS": "ÿc3Precise Bidding",
+    "enUS": "ÿc3Precise BIdding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27921,9 +27896,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40428,
+    "id": 27256,
     "Key": "ib3",
     "enUS": "ÿc3Exact Bidding",
     "zhTW": "",
@@ -27939,9 +27913,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40429,
+    "id": 27257,
     "Key": "jb1",
     "enUS": "ÿc3Powerful Bidding",
     "zhTW": "",
@@ -27957,9 +27930,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40430,
+    "id": 27258,
     "Key": "jb2",
     "enUS": "ÿc3Harmful Bidding",
     "zhTW": "",
@@ -27975,9 +27947,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40431,
+    "id": 27259,
     "Key": "jb3",
     "enUS": "ÿc3Forceful Bidding",
     "zhTW": "",
@@ -27993,9 +27964,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40432,
+    "id": 27260,
     "Key": "kb1",
     "enUS": "ÿc3Dodgy Bidding",
     "zhTW": "",
@@ -28011,9 +27981,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40433,
+    "id": 27261,
     "Key": "kb2",
     "enUS": "ÿc3Avoiding Bidding",
     "zhTW": "",
@@ -28029,9 +27998,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40434,
+    "id": 27262,
     "Key": "kb3",
     "enUS": "ÿc3Evading Bidding",
     "zhTW": "",
@@ -28047,9 +28015,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40435,
+    "id": 27263,
     "Key": "lb1",
     "enUS": "ÿc3Defending Bidding",
     "zhTW": "",
@@ -28065,9 +28032,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40436,
+    "id": 27264,
     "Key": "lb2",
     "enUS": "ÿc3Guarding Bidding",
     "zhTW": "",
@@ -28083,9 +28049,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40437,
+    "id": 27265,
     "Key": "lb3",
     "enUS": "ÿc3Shielding Bidding",
     "zhTW": "",
@@ -28101,9 +28066,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40438,
+    "id": 27266,
     "Key": "mb1",
     "enUS": "ÿc3Insulating Bidding",
     "zhTW": "",
@@ -28119,9 +28083,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40439,
+    "id": 27267,
     "Key": "mb2",
     "enUS": "ÿc3Enclosed Bidding",
     "zhTW": "",
@@ -28137,9 +28100,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40440,
+    "id": 27268,
     "Key": "mb3",
     "enUS": "ÿc3Heatproof Bidding",
     "zhTW": "",
@@ -28155,9 +28117,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40441,
+    "id": 27269,
     "Key": "nb1",
     "enUS": "ÿc3Chunky Bidding",
     "zhTW": "",
@@ -28173,9 +28134,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40442,
+    "id": 27270,
     "Key": "nb2",
     "enUS": "ÿc3Crystal Bidding",
     "zhTW": "",
@@ -28191,9 +28151,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40443,
+    "id": 27271,
     "Key": "nb3",
     "enUS": "ÿc3Diamond Bidding",
     "zhTW": "",
@@ -28209,9 +28168,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40444,
+    "id": 27272,
     "Key": "ob1",
     "enUS": "ÿc3Grounded Bidding",
     "zhTW": "",
@@ -28227,9 +28185,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40445,
+    "id": 27273,
     "Key": "ob2",
     "enUS": "ÿc3Conductive Bidding",
     "zhTW": "",
@@ -28245,9 +28202,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40446,
+    "id": 27274,
     "Key": "ob3",
     "enUS": "ÿc3Arrested Bidding",
     "zhTW": "",
@@ -28263,9 +28219,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40447,
+    "id": 27275,
     "Key": "pb1",
     "enUS": "ÿc3Neutralizing Bidding",
     "zhTW": "",
@@ -28281,9 +28236,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40448,
+    "id": 27276,
     "Key": "pb2",
     "enUS": "ÿc3Antitoxic Bidding",
     "zhTW": "",
@@ -28299,9 +28253,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40449,
+    "id": 27277,
     "Key": "pb3",
     "enUS": "ÿc3Remedying Bidding",
     "zhTW": "",
@@ -28317,9 +28270,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40450,
+    "id": 27278,
     "Key": "qb1",
     "enUS": "ÿc3Scintillating Bidding",
     "zhTW": "",
@@ -28335,9 +28287,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40451,
+    "id": 27279,
     "Key": "qb2",
     "enUS": "ÿc3Prismatic Bidding",
     "zhTW": "",
@@ -28353,9 +28304,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40452,
+    "id": 27280,
     "Key": "qb3",
     "enUS": "ÿc3Chromatic Bidding",
     "zhTW": "",
@@ -28371,9 +28321,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40453,
+    "id": 27281,
     "Key": "rb1",
     "enUS": "ÿc3Quick Bidding",
     "zhTW": "",
@@ -28389,9 +28338,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40454,
+    "id": 27282,
     "Key": "rb2",
     "enUS": "ÿc3Swift Bidding",
     "zhTW": "",
@@ -28407,9 +28355,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40455,
+    "id": 27283,
     "Key": "rb3",
     "enUS": "ÿc3Speedy Bidding",
     "zhTW": "",
@@ -28425,9 +28372,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40456,
+    "id": 27284,
     "Key": "sb1",
     "enUS": "ÿc3Warm Bidding",
     "zhTW": "",
@@ -28443,9 +28389,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40457,
+    "id": 27285,
     "Key": "sb2",
     "enUS": "ÿc3Hot Bidding",
     "zhTW": "",
@@ -28461,9 +28406,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40458,
+    "id": 27286,
     "Key": "sb3",
     "enUS": "ÿc3Scalding Bidding",
     "zhTW": "",
@@ -28479,9 +28423,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40459,
+    "id": 27287,
     "Key": "tb1",
     "enUS": "ÿc3Cold Bidding",
     "zhTW": "",
@@ -28497,9 +28440,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40460,
+    "id": 27288,
     "Key": "tb2",
     "enUS": "ÿc3Icy Bidding",
     "zhTW": "",
@@ -28515,9 +28457,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40461,
+    "id": 27289,
     "Key": "tb3",
     "enUS": "ÿc3Freezing Bidding",
     "zhTW": "",
@@ -28533,9 +28474,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40462,
+    "id": 27290,
     "Key": "ub1",
     "enUS": "ÿc3Noisy Bidding",
     "zhTW": "",
@@ -28551,9 +28491,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40463,
+    "id": 27291,
     "Key": "ub2",
     "enUS": "ÿc3Eerie Bidding",
     "zhTW": "",
@@ -28569,9 +28508,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40464,
+    "id": 27292,
     "Key": "ub3",
     "enUS": "ÿc3Electrical Bidding",
     "zhTW": "",
@@ -28587,9 +28525,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40465,
+    "id": 27293,
     "Key": "vb1",
     "enUS": "ÿc3Uneasy Bidding",
     "zhTW": "",
@@ -28605,9 +28542,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40466,
+    "id": 27294,
     "Key": "vb2",
     "enUS": "ÿc3Sick Bidding",
     "zhTW": "",
@@ -28623,9 +28559,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40467,
+    "id": 27295,
     "Key": "vb3",
     "enUS": "ÿc3Nauseating Bidding",
     "zhTW": "",
@@ -28641,9 +28576,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40468,
+    "id": 27296,
     "Key": "aa0",
     "enUS": "ÿc3Skillful Bidding",
     "zhTW": "",
@@ -28659,11 +28593,10 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40469,
+    "id": 27297,
     "Key": "aa1",
-    "enUS": "ÿc3Summon Bidding",
+    "enUS": "ÿc3Javelin Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28677,11 +28610,10 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40470,
+    "id": 27298,
     "Key": "aa2",
-    "enUS": "ÿc3Bone Bidding",
+    "enUS": "ÿc3Bow Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28695,11 +28627,10 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40471,
+    "id": 27299,
     "Key": "aa3",
-    "enUS": "ÿc3Curse Bidding",
+    "enUS": "ÿc3Passive Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28713,9 +28644,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40472,
+    "id": 27300,
     "Key": "aa4",
     "enUS": "ÿc3Traps Bidding",
     "zhTW": "",
@@ -28731,9 +28661,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40473,
+    "id": 27301,
     "Key": "aa5",
     "enUS": "ÿc3Martial Arts Bidding",
     "zhTW": "",
@@ -28749,9 +28678,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40474,
+    "id": 27302,
     "Key": "aa6",
     "enUS": "ÿc3Shadow Bidding",
     "zhTW": "",
@@ -28767,9 +28695,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40475,
+    "id": 27303,
     "Key": "aa7",
     "enUS": "ÿc3Combat Bidding",
     "zhTW": "",
@@ -28785,9 +28712,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40476,
+    "id": 27304,
     "Key": "aa8",
     "enUS": "ÿc3Mastery Bidding",
     "zhTW": "",
@@ -28803,9 +28729,8 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40477,
+    "id": 27305,
     "Key": "aa9",
     "enUS": "ÿc3Warcry Bidding",
     "zhTW": "",
@@ -28821,123 +28746,10 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40478,
+    "id": 27306,
     "Key": "ba1",
-    "enUS": "ÿc3Combat Bidding",
-    "zhTW": "",
-    "deDE": "",
-    "esES": "",
-    "frFR": "",
-    "itIT": "",
-    "koKR": "",
-    "plPL": "",
-    "esMX": "",
-    "jaJP": "",
-    "ptBR": "",
-    "ruRU": "",
-    "zhCN": ""
-  },
-
-  {
-    "id": 40479,
-    "Key": "ba2",
-    "enUS": "ÿc3Defensive Bidding",
-    "zhTW": "",
-    "deDE": "",
-    "esES": "",
-    "frFR": "",
-    "itIT": "",
-    "koKR": "",
-    "plPL": "",
-    "esMX": "",
-    "jaJP": "",
-    "ptBR": "",
-    "ruRU": "",
-    "zhCN": ""
-  },
-
-  {
-    "id": 40480,
-    "Key": "ba3",
-    "enUS": "ÿc3Offensive Bidding",
-    "zhTW": "",
-    "deDE": "",
-    "esES": "",
-    "frFR": "",
-    "itIT": "",
-    "koKR": "",
-    "plPL": "",
-    "esMX": "",
-    "jaJP": "",
-    "ptBR": "",
-    "ruRU": "",
-    "zhCN": ""
-  },
-
-  {
-    "id": 40481,
-    "Key": "ba4",
-    "enUS": "ÿc3Fire Bidding",
-    "zhTW": "",
-    "deDE": "",
-    "esES": "",
-    "frFR": "",
-    "itIT": "",
-    "koKR": "",
-    "plPL": "",
-    "esMX": "",
-    "jaJP": "",
-    "ptBR": "",
-    "ruRU": "",
-    "zhCN": ""
-  },
-
-  {
-    "id": 40482,
-    "Key": "ba5",
-    "enUS": "ÿc3Lightning Bidding",
-    "zhTW": "",
-    "deDE": "",
-    "esES": "",
-    "frFR": "",
-    "itIT": "",
-    "koKR": "",
-    "plPL": "",
-    "esMX": "",
-    "jaJP": "",
-    "ptBR": "",
-    "ruRU": "",
-    "zhCN": ""
-  },
-
-  {
-    "id": 40483,
-    "Key": "ba6",
-    "enUS": "ÿc3Cold Bidding",
-    "zhTW": "",
-    "deDE": "",
-    "esES": "",
-    "frFR": "",
-    "itIT": "",
-    "koKR": "",
-    "plPL": "",
-    "esMX": "",
-    "jaJP": "",
-    "ptBR": "",
-    "ruRU": "",
-    "zhCN": ""
-  },
-
-  {
-    "id": 40484,
-    "Key": "ba7",
-<<<<<<< HEAD
-    "enUS": "Elemental Bidding",
-=======
     "enUS": "ÿc3Elemental Bidding",
->>>>>>> 7eb28cda795ca100b9470db764ff2f44c439275b
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28951,10 +28763,9 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40485,
-    "Key": "ba8",
+    "id": 27307,
+    "Key": "ba2",
     "enUS": "ÿc3Summon Bidding",
     "zhTW": "",
     "deDE": "",
@@ -28969,10 +28780,9 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40486,
-    "Key": "ba9",
+    "id": 27308,
+    "Key": "ba3",
     "enUS": "ÿc3Shapeshifter Bidding",
     "zhTW": "",
     "deDE": "",
@@ -28987,11 +28797,112 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40487,
+    "id": 27309,
+    "Key": "ba4",
+    "enUS": "ÿc3Summon Bidding",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 27310,
+    "Key": "ba5",
+    "enUS": "ÿc3Bone Bidding",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 27311,
+    "Key": "ba6",
+    "enUS": "ÿc3Curse Bidding",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 27312,
+    "Key": "ba7",
+    "enUS": "ÿc3Combat Bidding",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 27313,
+    "Key": "ba8",
+    "enUS": "ÿc3Defensive Bidding",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 27314,
+    "Key": "ba9",
+    "enUS": "ÿc3Offensive Bidding",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 27315,
     "Key": "ca1",
-    "enUS": "ÿc3Javelin Bidding",
+    "enUS": "ÿc3Fire Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -29005,11 +28916,10 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40488,
+    "id": 27316,
     "Key": "ca2",
-    "enUS": "ÿc3Bow Bidding",
+    "enUS": "ÿc3Lightning Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -29023,11 +28933,10 @@
     "ruRU": "",
     "zhCN": ""
   },
-
   {
-    "id": 40489,
+    "id": 27317,
     "Key": "ca3",
-    "enUS": "ÿc3Passive Bidding",
+    "enUS": "ÿc3Cold Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -29041,6 +28950,4 @@
     "ruRU": "",
     "zhCN": ""
   }
-
-
 ]
