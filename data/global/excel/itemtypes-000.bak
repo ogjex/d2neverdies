@@ -119,7 +119,7 @@ Organ Stack	ubrx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Essence Stack	escx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Crafting Stack	crfx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Core Stack	corx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
-Rejuvination Stack	misc			0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
+Rejuvenation Stack	misc			0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Strong Normal Bidding	snbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Strong Bidding	strb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Sturdy Bidding	stub	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
@@ -181,31 +181,31 @@ Scalding Bidding	scab	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							mis
 Cold Bidding	colb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Icy Bidding	icyb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Freezing Bidding	freb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Noisy Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Eerie Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Electrical Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Uneasy Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Sick Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Nauseating Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Skillful Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Javelin Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Bow Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Passive Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Traps Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Martial Arts Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Shadow Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Combat Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Mastery Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Warcry Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Elemtal Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Summon Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Shapeshifter Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Summon Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Bone Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Curse Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Combat Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Defensive Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Offensive Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Fire Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Lightning Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Cold Bidding		bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Noisy Bidding	noib	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Eerie Bidding	eerb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Electrical Bidding	eleb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Uneasy Bidding	uneb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Sick Bidding	sicb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Nauseating Bidding	naub	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Skillful Bidding	skib	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Javelin Bidding	javb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Bow Bidding	bowb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Passive Bidding	pasb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Traps Bidding	trab	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Martial Arts Bidding	marb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Shadow Bidding	shab	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Combat Bidding	comb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Mastery Bidding	masb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Warcry Bidding	warb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Elemental Bidding	eleb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Summon Bidding	sumb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Shapeshifter Bidding	shab	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Summon Bidding	sumb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Bone Bidding	bonb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Curse Bidding	curb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Combat Bidding	cbab	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Defensive Bidding	defb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Offensive Bidding	offb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Fire Bidding	firb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Lightning Bidding	lgtb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Cold Bidding	cldb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
