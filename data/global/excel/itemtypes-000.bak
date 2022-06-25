@@ -85,7 +85,7 @@ Thawing Potion	wpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
 Small Charm	scha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
 Medium Charm	mcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch2	invch5	invch8				misc	0
 Large Charm	lcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
-Player Charm	pchar	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
+Player Charm	pcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
 Amazon's Valor	zcha	char	amaz	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3		ama	3	invch1	invch4	invch7				misc	0
 Assassin's Valor	acha	char	assn	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3		ass	3	invch1	invch4	invch7				misc	0
 Barbarian's Valor	bcha	char	barb	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3		bar	3	invch1	invch4	invch7				misc	0

@@ -766,6 +766,7 @@
   { "8co": { "asset": "charm/charm_core_stacked" } },
   { "cdm": { "asset": "hammer/horadric_malus" } },
   { "8vl": { "asset": "potion/full_rejuv_potion" } },
+  { "cc0": { "asset": "charm/charm_core" } },
   { "sb1": { "asset": "charm/charm_small" } },
   { "cc0": { "asset": "charm/charm_core" } },
   { "ab1": { "asset": "charm/charm_small" } },
