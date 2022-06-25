@@ -767,6 +767,7 @@
   { "cdm": { "asset": "hammer/horadric_malus" } },
   { "8vl": { "asset": "potion/full_rejuv_potion" } },
   { "sb1": { "asset": "charm/charm_small" } },
+  { "cc0": { "asset": "charm/charm_core" } },
   { "cc1": { "asset": "valor/amazons_valor" } },
   { "cc2": { "asset": "valor/assasins_valor" } },
   { "cc3": { "asset": "valor/barbarians_valor" } },
