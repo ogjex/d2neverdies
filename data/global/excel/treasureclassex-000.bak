@@ -1,18 +1,18 @@
 Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	*ItemProbSum	*ItemProbTotal	*TreasureClassDropChance	*eol
 Gold			1						gld	1																						0
-Jewelry A			1						rin	16	amu	8	jew	4	c80	2																0
-Jewelry B			1						rin	16	amu	8	jew	4	c80	2																0
-Jewelry C			1						rin	16	amu	8	jew	4	c80	2																0
+Jewelry A			1						rin	16	amu	8	jew	4	c80	2	8fg	4														0
+Jewelry B			1						rin	16	amu	8	jew	4	c80	2	8fg	4														0
+Jewelry C			1						rin	16	amu	8	jew	4	c80	2	8fg	4														0
 Chipped Gem			1						gcv	3	gcy	3	gcb	3	gcg	3	gcr	3	gcw	3	skc	3										0
 Flawed Gem			1						gfv	3	gfy	3	gfb	3	gfg	3	gfr	3	gfw	3	skf	3										0
 Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	3										0
 Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	3										0
 Perfect Gem			1						8pa	3	8pd	3	8pe	3	8pr	3	8ps	3	8pt	3	8pk	3										0
-Bidding A (N)			1						ab1	10	bb1	10	cb1	10	db1	10	eb1	10	fb1	10												0
-Bidding B (N)			1						gb1	10	hb1	10	ib1	10	jb1	10	kb1	10	lb1	10												0
-Bidding C (N)			1						mb1	10	nb1	10	zb1	10	pb1	10	qb1	10														0
-Bidding D (N)			1						rb1	10	sb1	10	tb1	10	ub1	10	vb1	10														0
-Bidding E (N)			1						Bidding A (N)	35	Bidding B (N)	25	Bidding C (N)	25	Bidding D (N)	15																0
+Bidding A			1						ab1	10	bb1	10	cb1	10	db1	10	eb1	10	fb1	10												0
+Bidding B			1						gb1	10	hb1	10	ib1	10	jb1	10	kb1	10	lb1	10												0
+Bidding C			1						mb1	10	nb1	10	zb1	10	pb1	10	qb1	10														0
+Bidding D			1						rb1	10			tb1	10	ub1	10	vb1	10														0
+Bidding E			1						Bidding A	35	Bidding B	25	Bidding C	25	Bidding D	15																0
 Bidding A (NM)			1						ab2	10	bb2	10	cb2	10	db2	10	eb2	10	fb2	10												0
 Bidding B (NM)			1						gb2	10	hb2	10	ib2	10	jb2	10	kb2	10	lb2	10												0
 Bidding C (NM)			1						mb2	10	nb2	10	zb2	10	pb2	10	qb2	10														0
@@ -45,7 +45,7 @@ Crafting			1						8co	4																						0
 Junk			1						Potion 0	24	Misc 0	12	Ammo	12																		0
 Junk (N)			1						Potion 1	24	Misc 1	12	Ammo	12	Crafting	2																0
 Junk (H)			1						Potion 2	24	Misc 2	12	Ammo	12	Crafting	2	Token	1														0
-Act 1 Equip A	1	0	1						weap3	7	armo3	7	sb1	20																		0
+Act 1 Equip A	1	0	1						weap3	7	armo3	7	6	20																		0
 Act 1 Equip B	1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
 Act 1 Equip C	1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
 Act 2 Equip A	1	12	1						weap6	2	armo6	1	weap9	6	armo9	3	weap12	14	armo12	7	weap15	2	armo15	1					36	66	0.4545	0
@@ -161,11 +161,11 @@ Act 4 (H) Bow B	3	80	1						bow66	1	bow69	2	bow72	5	bow75	7	bow78	8	bow81	7	bow8
 Act 5 (H) Bow A	3	82	1						bow69	1	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	2	bow87	1					33	2113	0.9844	0
 Act 5 (H) Bow B	3	83	1						bow72	1	bow75	2	bow78	5	bow81	7	bow84	8	bow87	7	bow87	2	bow87	1					33	2113	0.9844	0
 Act 5 (H) Bow C	3	85	1						bow75	1	bow78	2	bow81	5	bow84	7	bow87	8	bow87	1	bow87	1	bow87	1					26	1681	0.9845	0
-Act 1 Good	5	0	1						Jewelry A	60	Jewel Fragment	48	Runes 1	36	8gx	5	Bidding E (N)	48														0
-Act 2 Good	5	12	1						Jewelry B	80	Jewel Fragment	48	Runes 2	36	8gx	5	Bidding E (N)	48														0
-Act 3 Good	5	18	1						Jewelry C	80	Jewel Fragment	32	Runes 2	36	8gx	5	Bidding E (N)	32														0
-Act 4 Good	5	26	1						Jewelry C	200	Flawless Gem	64	Runes 3	36	8gx	5	Bidding E (N)	64														0
-Act 5 Good	5	32	1						Jewelry C	200	Flawless Gem	64	Runes 3	36	8gx	5	Bidding E (N)	64														0
+Act 1 Good	5	0	1						Jewelry A	60	Runes 1	36	8gx	5	Bidding E	5																0
+Act 2 Good	5	12	1						Jewelry B	80	Runes 2	36	8gx	5	Bidding E	48																0
+Act 3 Good	5	18	1						Jewelry C	80	Runes 2	36	8gx	5	Bidding E	48																0
+Act 4 Good	5	26	1						Jewelry C	200	Flawless Gem	64	Runes 3	36	8gx	5	Bidding E	64														0
+Act 5 Good	5	32	1						Jewelry C	200	Flawless Gem	64	Runes 3	36	8gx	5	Bidding E	64														0
 Act 1 (N) Good	5	38	1						Jewelry C	240	Flawless Gem	64	Runes 4	36	8gx	10	Bidding E (NM)	64														0
 Act 2 (N) Good	5	42	1						Jewelry C	240	Flawless Gem	64	Runes 4	36	8gx	10	Bidding E (NM)	64														0
 Act 3 (N) Good	5	46	1						Jewelry C	240	Flawless Gem	64	Runes 5	36	8gx	10	Bidding E (NM)	64														0
@@ -221,7 +221,7 @@ Act 4 (H) Chest C	6	82	4					173	Junk (H)	15	Act 4 (H) Equip B	10	Act 4 (H) Good
 Act 5 (H) Chest A	6	83	4					173	Junk (H)	15	Act 5 (H) Equip A	10	Act 5 (H) Good	4																		0
 Act 5 (H) Chest B	6	84	4					173	Junk (H)	15	Act 5 (H) Equip B	10	Act 5 (H) Good	4																		0
 Act 5 (H) Chest C	6	85	4					173	Junk (H)	15	Act 5 (H) Equip B	10	Act 5 (H) Good	4																		0
-Act 1 H2H A	7	0	1					95	gld	21	Act 1 Equip A	16	Junk	21	Act 1 Good	4																0
+Act 1 H2H A	7	0	1					95	gld	21	Act 1 Equip B	16	Junk	21	Act 1 Good	4																0
 Act 1 H2H B	7	5	1					95	gld	21	Act 1 Equip B	16	Junk	21	Act 1 Good	4																0
 Act 1 H2H C	7	9	1					95	gld	21	Act 1 Equip C	16	Junk	21	Act 1 Good	4																0
 Act 2 H2H A	7	12	1					95	gld	21	Act 2 Equip A	16	Junk	21	Act 2 Good	4																0
