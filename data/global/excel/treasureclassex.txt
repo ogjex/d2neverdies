@@ -161,21 +161,21 @@ Act 4 (H) Bow B	3	80	1						bow66	1	bow69	2	bow72	5	bow75	7	bow78	8	bow81	7	bow8
 Act 5 (H) Bow A	3	82	1						bow69	1	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	2	bow87	1					33	2113	0.9844	0
 Act 5 (H) Bow B	3	83	1						bow72	1	bow75	2	bow78	5	bow81	7	bow84	8	bow87	7	bow87	2	bow87	1					33	2113	0.9844	0
 Act 5 (H) Bow C	3	85	1						bow75	1	bow78	2	bow81	5	bow84	7	bow87	8	bow87	1	bow87	1	bow87	1					26	1681	0.9845	0
-Act 1 Good	5	0	1						Jewelry A	60	Jewel Fragment	48	Runes 1	36	8gx	5	Bidding E (N)	1000														0
-Act 2 Good	5	12	1						Jewelry B	80	Jewel Fragment	48	Runes 2	36	8gx	5	Bidding E (N)	1000														0
-Act 3 Good	5	18	1						Jewelry C	80	Jewel Fragment	32	Runes 2	36	8gx	5	Bidding E (N)	1000														0
-Act 4 Good	5	26	1						Jewelry C	200	Flawless Gem	64	Runes 3	36	8gx	5	Bidding E (N)	1000														0
-Act 5 Good	5	32	1						Jewelry C	200	Flawless Gem	64	Runes 3	36	8gx	5	Bidding E (N)	1000														0
-Act 1 (N) Good	5	38	1						Jewelry C	240	Flawless Gem	64	Runes 4	36	8gx	10	Bidding E (NM)	36														0
-Act 2 (N) Good	5	42	1						Jewelry C	240	Flawless Gem	64	Runes 4	36	8gx	10	Bidding E (NM)	36														0
-Act 3 (N) Good	5	46	1						Jewelry C	240	Flawless Gem	64	Runes 5	36	8gx	10	Bidding E (NM)	36														0
-Act 4 (N) Good	5	51	1						Jewelry C	240	Flawless Gem	64	Runes 5	36	8gx	10	Bidding E (NM)	36														0
-Act 5 (N) Good	5	57	1						Jewelry C	240	Perfect Gem	64	Runes 6	36	8gx	10	Bidding E (NM)	36														0
-Act 1 (H) Good	5	66	1						Jewelry C	240	Perfect Gem	96	Runes 6	36	8gx	15	Bidding E (H)	36														0
-Act 2 (H) Good	5	72	1						Jewelry C	240	Perfect Gem	96	Runes 7	36	8gx	15	Bidding E (H)	36														0
-Act 3 (H) Good	5	78	1						Jewelry C	240	Perfect Gem	96	Runes 7	36	8gx	15	Bidding E (H)	36														0
-Act 4 (H) Good	5	82	1						Jewelry C	240	Perfect Gem	96	Runes 8	36	8gx	15	Bidding E (H)	36														0
-Act 5 (H) Good	5	85	1						Jewelry C	240	Perfect Gem	96	Runes 9	36	8gx	15	Bidding E (H)	36														0
+Act 1 Good	5	0	1						Jewelry A	60	Jewel Fragment	48	Runes 1	36	8gx	5	Bidding E (N)	48														0
+Act 2 Good	5	12	1						Jewelry B	80	Jewel Fragment	48	Runes 2	36	8gx	5	Bidding E (N)	48														0
+Act 3 Good	5	18	1						Jewelry C	80	Jewel Fragment	32	Runes 2	36	8gx	5	Bidding E (N)	32														0
+Act 4 Good	5	26	1						Jewelry C	200	Flawless Gem	64	Runes 3	36	8gx	5	Bidding E (N)	64														0
+Act 5 Good	5	32	1						Jewelry C	200	Flawless Gem	64	Runes 3	36	8gx	5	Bidding E (N)	64														0
+Act 1 (N) Good	5	38	1						Jewelry C	240	Flawless Gem	64	Runes 4	36	8gx	10	Bidding E (NM)	64														0
+Act 2 (N) Good	5	42	1						Jewelry C	240	Flawless Gem	64	Runes 4	36	8gx	10	Bidding E (NM)	64														0
+Act 3 (N) Good	5	46	1						Jewelry C	240	Flawless Gem	64	Runes 5	36	8gx	10	Bidding E (NM)	64														0
+Act 4 (N) Good	5	51	1						Jewelry C	240	Flawless Gem	64	Runes 5	36	8gx	10	Bidding E (NM)	64														0
+Act 5 (N) Good	5	57	1						Jewelry C	240	Perfect Gem	64	Runes 6	36	8gx	10	Bidding E (NM)	64														0
+Act 1 (H) Good	5	66	1						Jewelry C	240	Perfect Gem	96	Runes 6	36	8gx	15	Bidding E (H)	64														0
+Act 2 (H) Good	5	72	1						Jewelry C	240	Perfect Gem	96	Runes 7	36	8gx	15	Bidding E (H)	64														0
+Act 3 (H) Good	5	78	1						Jewelry C	240	Perfect Gem	96	Runes 7	36	8gx	15	Bidding E (H)	64														0
+Act 4 (H) Good	5	82	1						Jewelry C	240	Perfect Gem	96	Runes 8	36	8gx	15	Bidding E (H)	64														0
+Act 5 (H) Good	5	85	1						Jewelry C	240	Perfect Gem	96	Runes 9	36	8gx	15	Bidding E (H)	64														0
 Act 1 Chest A	6	0	4					173	Junk	15	Act 1 Equip A	10	Act 1 Good	4																		0
 Act 1 Chest B	6	5	4					173	Junk	15	Act 1 Equip B	10	Act 1 Good	4																		0
 Act 1 Chest C	6	9	4					173	Junk	12	Act 1 Equip C	15	Act 1 Good	4																		0
@@ -516,48 +516,48 @@ Act 4 (H) Uitem B	14	80	1	800	800	800	1024	0	Act 4 (H) Equip B	58	Act 4 (H) Good
 Act 5 (H) Uitem A	14	81	1	800	800	800	1024	0	Act 5 (H) Equip A	58	Act 5 (H) Good	4																				0
 Act 5 (H) Uitem B	14	83	1	800	800	800	1024	0	Act 5 (H) Equip B	58	Act 5 (H) Good	4																				0
 Act 5 (H) Uitem C	14	85	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4																				0
-Act 1 Unique A	15	0	-3					0	Act 1 Uitem A	1																						0
-Act 1 Unique B	15	5	-3					0	Act 1 Uitem B	1																						0
-Act 1 Unique C	15	9	-3					0	Act 1 Uitem C	1																						0
-Act 2 Unique A	15	12	-3					0	Act 2 Uitem A	1																						0
-Act 2 Unique B	15	15	-3					0	Act 2 Uitem B	1																						0
-Act 2 Unique C	15	18	-3					0	Act 2 Uitem C	1																						0
-Act 3 Unique A	15	20	-3					0	Act 3 Uitem A	1																						0
-Act 3 Unique B	15	22	-3					0	Act 3 Uitem B	1																						0
-Act 3 Unique C	15	24	-3					0	Act 3 Uitem C	1																						0
-Act 4 Unique A	15	26	-3					0	Act 4 Uitem A	1																						0
-Act 4 Unique B	15	29	-3					0	Act 4 Uitem B	1																						0
-Act 5 Unique A	15	32	-3					0	Act 5 Uitem A	1																						0
-Act 5 Unique B	15	34	-3					0	Act 5 Uitem B	1																						0
-Act 5 Unique C	15	36	-3					0	Act 5 Uitem C	1																						0
-Act 1 (N) Unique A	15	38	-3					0	Act 1 (N) Uitem A	1																						0
-Act 1 (N) Unique B	15	40	-3					0	Act 1 (N) Uitem B	1																						0
-Act 1 (N) Unique C	15	41	-3					0	Act 1 (N) Uitem C	1																						0
-Act 2 (N) Unique A	15	42	-3					0	Act 2 (N) Uitem A	1																						0
-Act 2 (N) Unique B	15	44	-3					0	Act 2 (N) Uitem B	1																						0
-Act 2 (N) Unique C	15	45	-3					0	Act 2 (N) Uitem C	1																						0
-Act 3 (N) Unique A	15	46	-3					0	Act 3 (N) Uitem A	1																						0
-Act 3 (N) Unique B	15	48	-3					0	Act 3 (N) Uitem B	1																						0
-Act 3 (N) Unique C	15	50	-3					0	Act 3 (N) Uitem C	1																						0
-Act 4 (N) Unique A	15	51	-3					0	Act 4 (N) Uitem A	1																						0
-Act 4 (N) Unique B	15	54	-3					0	Act 4 (N) Uitem B	1																						0
-Act 5 (N) Unique A	15	57	-3					0	Act 5 (N) Uitem A	1																						0
-Act 5 (N) Unique B	15	60	-3					0	Act 5 (N) Uitem B	1																						0
-Act 5 (N) Unique C	15	62	-3					0	Act 5 (N) Uitem C	1																						0
-Act 1 (H) Unique A	15	63	-3					0	Act 1 (H) Uitem A	1																						0
-Act 1 (H) Unique B	15	66	-3					0	Act 1 (H) Uitem B	1																						0
-Act 1 (H) Unique C	15	68	-3					0	Act 1 (H) Uitem C	1																						0
-Act 2 (H) Unique A	15	69	-3					0	Act 2 (H) Uitem A	1																						0
-Act 2 (H) Unique B	15	71	-3					0	Act 2 (H) Uitem B	1																						0
-Act 2 (H) Unique C	15	72	-3					0	Act 2 (H) Uitem C	1																						0
-Act 3 (H) Unique A	15	74	-3					0	Act 3 (H) Uitem A	1																						0
-Act 3 (H) Unique B	15	75	-3					0	Act 3 (H) Uitem B	1																						0
-Act 3 (H) Unique C	15	77	-3					0	Act 3 (H) Uitem C	1																						0
-Act 4 (H) Unique A	15	78	-3					0	Act 4 (H) Uitem A	1																						0
-Act 4 (H) Unique B	15	80	-3					0	Act 4 (H) Uitem B	1																						0
-Act 5 (H) Unique A	15	81	-3					0	Act 5 (H) Uitem A	1																						0
-Act 5 (H) Unique B	15	83	-3					0	Act 5 (H) Uitem B	1																						0
-Act 5 (H) Unique C	15	85	-3					0	Act 5 (H) Uitem C	1																						0
+Act 1 Unique A	15	0	-3					0	Act 1 Uitem A	10	cc0	1																				0
+Act 1 Unique B	15	5	-3					0	Act 1 Uitem B	10	cc0	1																				0
+Act 1 Unique C	15	9	-3					0	Act 1 Uitem C	10	cc0	1																				0
+Act 2 Unique A	15	12	-3					0	Act 2 Uitem A	10	cc0	1																				0
+Act 2 Unique B	15	15	-3					0	Act 2 Uitem B	10	cc0	1																				0
+Act 2 Unique C	15	18	-3					0	Act 2 Uitem C	10	cc0	1																				0
+Act 3 Unique A	15	20	-3					0	Act 3 Uitem A	10	cc0	1																				0
+Act 3 Unique B	15	22	-3					0	Act 3 Uitem B	10	cc0	1																				0
+Act 3 Unique C	15	24	-3					0	Act 3 Uitem C	10	cc0	1																				0
+Act 4 Unique A	15	26	-3					0	Act 4 Uitem A	10	cc0	1																				0
+Act 4 Unique B	15	29	-3					0	Act 4 Uitem B	10	cc0	1																				0
+Act 5 Unique A	15	32	-3					0	Act 5 Uitem A	10	cc0	1																				0
+Act 5 Unique B	15	34	-3					0	Act 5 Uitem B	10	cc0	1																				0
+Act 5 Unique C	15	36	-3					0	Act 5 Uitem C	10	cc0	1																				0
+Act 1 (N) Unique A	15	38	-3					0	Act 1 (N) Uitem A	10	cc0	1																				0
+Act 1 (N) Unique B	15	40	-3					0	Act 1 (N) Uitem B	10	cc0	1																				0
+Act 1 (N) Unique C	15	41	-3					0	Act 1 (N) Uitem C	10	cc0	1																				0
+Act 2 (N) Unique A	15	42	-3					0	Act 2 (N) Uitem A	10	cc0	1																				0
+Act 2 (N) Unique B	15	44	-3					0	Act 2 (N) Uitem B	10	cc0	1																				0
+Act 2 (N) Unique C	15	45	-3					0	Act 2 (N) Uitem C	10	cc0	1																				0
+Act 3 (N) Unique A	15	46	-3					0	Act 3 (N) Uitem A	10	cc0	1																				0
+Act 3 (N) Unique B	15	48	-3					0	Act 3 (N) Uitem B	10	cc0	1																				0
+Act 3 (N) Unique C	15	50	-3					0	Act 3 (N) Uitem C	10	cc0	1																				0
+Act 4 (N) Unique A	15	51	-3					0	Act 4 (N) Uitem A	10	cc0	1																				0
+Act 4 (N) Unique B	15	54	-3					0	Act 4 (N) Uitem B	10	cc0	1																				0
+Act 5 (N) Unique A	15	57	-3					0	Act 5 (N) Uitem A	10	cc0	1																				0
+Act 5 (N) Unique B	15	60	-3					0	Act 5 (N) Uitem B	10	cc0	1																				0
+Act 5 (N) Unique C	15	62	-3					0	Act 5 (N) Uitem C	10	cc0	1																				0
+Act 1 (H) Unique A	15	63	-3					0	Act 1 (H) Uitem A	10	cc0	1																				0
+Act 1 (H) Unique B	15	66	-3					0	Act 1 (H) Uitem B	10	cc0	1																				0
+Act 1 (H) Unique C	15	68	-3					0	Act 1 (H) Uitem C	10	cc0	1																				0
+Act 2 (H) Unique A	15	69	-3					0	Act 2 (H) Uitem A	10	cc0	1																				0
+Act 2 (H) Unique B	15	71	-3					0	Act 2 (H) Uitem B	10	cc0	1																				0
+Act 2 (H) Unique C	15	72	-3					0	Act 2 (H) Uitem C	10	cc0	1																				0
+Act 3 (H) Unique A	15	74	-3					0	Act 3 (H) Uitem A	10	cc0	1																				0
+Act 3 (H) Unique B	15	75	-3					0	Act 3 (H) Uitem B	10	cc0	1																				0
+Act 3 (H) Unique C	15	77	-3					0	Act 3 (H) Uitem C	10	cc0	1																				0
+Act 4 (H) Unique A	15	78	-3					0	Act 4 (H) Uitem A	10	cc0	1																				0
+Act 4 (H) Unique B	15	80	-3					0	Act 4 (H) Uitem B	10	cc0	1																				0
+Act 5 (H) Unique A	15	81	-3					0	Act 5 (H) Uitem A	10	cc0	1																				0
+Act 5 (H) Unique B	15	83	-3					0	Act 5 (H) Uitem B	10	cc0	1																				0
+Act 5 (H) Unique C	15	85	-3					0	Act 5 (H) Uitem C	10	cc0	1																				0
 Quill 1	16	0	1					265	gld	19	Junk	19																				0
 Quill 2	16	4	1					265	gld	19	Junk	19																				0
 Quill 3	16	8	1					257	gld	19	Junk	19	Act 1 Good	4																		0
