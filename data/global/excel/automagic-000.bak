@@ -203,8 +203,8 @@ Remedying Bidding	100	1	1	60		40				1	392	res-pois		9	9										rpb3	bidd						
 Scintillating Bidding	100	1	1	1	20	3				1	393	res-all		1	1										rab1	bidd											0	0
 Prismatic Bidding	100	1	1	20	40	20				1	394	res-all		3	3										rab2	bidd											0	0
 Chromatic Bidding	100	1	1	60		40				1	395	res-all		5	5										rab3	bidd											0	0
-Quick Bidding	100	1	1	1	20	3				1	396	move2		3	3										rwb1	bidd											0	0
-Swift Bidding	100	1	1	20	40	20				1	397	move2		6	6										rwb2	bidd											0	0
+Quick Bidding	100	1	1	1	20	3				1	396	move2		5	3										rwb1	bidd											0	0
+Swift Bidding	100	1	1	20	40	20				1	397	move2		5	6										rwb2	bidd											0	0
 Speedy Bidding	100	1	1	60		40				1	398	move2		9	9										rwb3	bidd											0	0
 Warm Bidding	100	1	1	1	20	3				1	399	dmg-fire		4	6										dfb1	bidd											0	0
 Hot Bidding	100	1	1	20	40	20				1	400	dmg-fire		12	16										dfb2	bidd											0	0
