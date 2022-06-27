@@ -1,8 +1,8 @@
 Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	*ItemProbSum	*ItemProbTotal	*TreasureClassDropChance	*eol
 Gold			1						gld	1																						0
-Jewelry A			1						rin	16	amu	8	jew	4	c80	2																0
-Jewelry B			1						rin	16	amu	8	jew	4	c80	2																0
-Jewelry C			1						rin	16	amu	8	jew	4	c80	2																0
+Jewelry A			1						rin	16	amu	8	jew	4	c80	2	8fg	4														0
+Jewelry B			1						rin	16	amu	8	jew	4	c80	2	8fg	4														0
+Jewelry C			1						rin	16	amu	8	jew	4	c80	2	8fg	4														0
 Chipped Gem			1						gcv	3	gcy	3	gcb	3	gcg	3	gcr	3	gcw	3	skc	3										0
 Flawed Gem			1						gfv	3	gfy	3	gfb	3	gfg	3	gfr	3	gfw	3	skf	3										0
 Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	3										0
@@ -161,9 +161,9 @@ Act 4 (H) Bow B	3	80	1						bow66	1	bow69	2	bow72	5	bow75	7	bow78	8	bow81	7	bow8
 Act 5 (H) Bow A	3	82	1						bow69	1	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	2	bow87	1					33	2113	0.9844	0
 Act 5 (H) Bow B	3	83	1						bow72	1	bow75	2	bow78	5	bow81	7	bow84	8	bow87	7	bow87	2	bow87	1					33	2113	0.9844	0
 Act 5 (H) Bow C	3	85	1						bow75	1	bow78	2	bow81	5	bow84	7	bow87	8	bow87	1	bow87	1	bow87	1					26	1681	0.9845	0
-Act 1 Good	5	0	1						Jewelry A	60	Jewel Fragment	48	Runes 1	36	8gx	5	Bidding E (N)	48														0
-Act 2 Good	5	12	1						Jewelry B	80	Jewel Fragment	48	Runes 2	36	8gx	5	Bidding E (N)	48														0
-Act 3 Good	5	18	1						Jewelry C	80	Jewel Fragment	32	Runes 2	36	8gx	5	Bidding E (N)	32														0
+Act 1 Good	5	0	1						Jewelry A	60	Runes 1	36	8gx	5	Bidding E (N)	48																0
+Act 2 Good	5	12	1						Jewelry B	80	Runes 2	36	8gx	5	Bidding E (N)	48																0
+Act 3 Good	5	18	1						Jewelry C	80	Runes 2	36	8gx	5	Bidding E (N)	48																0
 Act 4 Good	5	26	1						Jewelry C	200	Flawless Gem	64	Runes 3	36	8gx	5	Bidding E (N)	64														0
 Act 5 Good	5	32	1						Jewelry C	200	Flawless Gem	64	Runes 3	36	8gx	5	Bidding E (N)	64														0
 Act 1 (N) Good	5	38	1						Jewelry C	240	Flawless Gem	64	Runes 4	36	8gx	10	Bidding E (NM)	64														0
