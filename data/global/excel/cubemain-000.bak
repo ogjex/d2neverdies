@@ -1189,75 +1189,75 @@ Sorc tab 1 --> Sorc tab 2	1			100					2	ca1	gpb						ca2																								
 Sorc tab 2 --> Sorc tab 3	1			100					2	ca2	gpb						ca3																													gpb																																																										0
 Sorc tab 3 --> Sorc tab 1	1			100					2	ca3	gpb						ca1																													gpb																																																										0
 AMAZON VALOR SPECIFIC	0																																																																																																							0
-Strong Bidding	1			100	16	368	39		2	cc1	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2											sb1																																																										0
-Sturdy Bidding	1			100	16	368	39		2	cc1	ab2						useitem				infusion	100		3	3	levelreq			1	1	str			4	4											sb1																																																										0
-Burly Bidding	1			100	16	368	39		2	cc1	ab3						useitem				infusion	100		3	3	levelreq			2	2	str			6	6											sb1																																																										0
-Agile Bidding	1			100	16	368	39		2	cc1	bb1						useitem				infusion	100		2	2	levelreq			1	1	dex			2	2											sb1																																																										0
-Nimble Bidding	1			100	16	368	39		2	cc1	bb2						useitem				infusion	100		3	3	levelreq			1	1	dex			4	4											sb1																																																										0
-Dexterous Bidding	1			100	16	368	39		2	cc1	bb3						useitem				infusion	100		3	3	levelreq			2	2	dex			6	6											sb1																																																										0
-Vital Bidding	1			100	16	368	39		2	cc1	cb1						useitem				infusion	100		2	2	levelreq			1	1	vit			2	2											sb1																																																										0
-Vibrous Bidding	1			100	16	368	39		2	cc1	cb2						useitem				infusion	100		3	3	levelreq			1	1	vit			4	4											sb1																																																										0
-Enduring Bidding	1			100	16	368	39		2	cc1	cb3						useitem				infusion	100		3	3	levelreq			2	2	vit			6	6											sb1																																																										0
-Energetic Bidding	1			100	16	368	39		2	cc1	db1						useitem				infusion	100		2	2	levelreq			1	1	enr			2	2											sb1																																																										0
-Bright Bidding	1			100	16	368	39		2	cc1	db2						useitem				infusion	100		3	3	levelreq			1	1	enr			4	4											sb1																																																										0
-Spirited Bidding	1			100	16	368	39		2	cc1	db3						useitem				infusion	100		3	3	levelreq			2	2	enr			6	6											sb1																																																										0
-Lively Bidding	1			100	16	368	39		2	cc1	eb1						useitem				infusion	100		2	2	levelreq			1	1	hp			10	10											sb1																																																										0
-Splendid Bidding	1			100	16	368	39		2	cc1	eb2						useitem				infusion	100		3	3	levelreq			1	1	hp			20	20											sb1																																																										0
-Vibrant Bidding	1			100	16	368	39		2	cc1	eb3						useitem				infusion	100		3	3	levelreq			2	2	hp			30	30											sb1																																																										0
-Spirited Bidding	1			100	16	368	39		2	cc1	fb1						useitem				infusion	100		2	2	levelreq			1	1	mana			10	10											sb1																																																										0
-Passionate Bidding	1			100	16	368	39		2	cc1	fb2						useitem				infusion	100		3	3	levelreq			1	1	mana			20	20											sb1																																																										0
-Vidid Bidding	1			100	16	368	39		2	cc1	fb3						useitem				infusion	100		3	3	levelreq			2	2	mana			30	30											sb1																																																										0
-Lucky Bidding	1			100	16	368	39		2	cc1	gb1						useitem				infusion	100		2	2	levelreq			1	1	magic%			5	5											sb1																																																										0
-Fortunate Bidding	1			100	16	368	39		2	cc1	gb2						useitem				infusion	100		3	3	levelreq			1	1	magic%			15	15											sb1																																																										0
-Blessed BIdding	1			100	16	368	39		2	cc1	gb3						useitem				infusion	100		3	3	levelreq			2	2	magic%			25	25											sb1																																																										0
-Greedy Bidding	1			100	16	368	39		2	cc1	hb1						useitem				infusion	100		2	2	levelreq			1	1	gold%			20	20											sb1																																																										0
-Gluttenous Bidding	1			100	16	368	39		2	cc1	hb2						useitem				infusion	100		3	3	levelreq			1	1	gold%			40	40											sb1																																																										0
-Insatiable Bidding	1			100	16	368	39		2	cc1	hb3						useitem				infusion	100		3	3	levelreq			2	2	gold%			60	60											sb1																																																										0
-Accurate Bidding	1			100	16	368	39		2	cc1	ib1						useitem				infusion	100		2	2	levelreq			1	1	att			20	20											sb1																																																										0
-Precise BIdding	1			100	16	368	39		2	cc1	ib2						useitem				infusion	100		3	3	levelreq			1	1	att			40	40											sb1																																																										0
-Exact Bidding	1			100	16	368	39		2	cc1	ib3						useitem				infusion	100		3	3	levelreq			2	2	att			60	60											sb1																																																										0
-Powerful Bidding	1			100	16	368	39		2	cc1	jb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-max			2	2											sb1																																																										0
-Harmful Bidding	1			100	16	368	39		2	cc1	jb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-max			5	5											sb1																																																										0
-Forceful Bidding	1			100	16	368	39		2	cc1	jb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-max			10	10											sb1																																																										0
-Dodgy Bidding	1			100	16	368	39		2	cc1	kb1						useitem				infusion	100		2	2	levelreq			1	1	balance2			4	4											sb1																																																										0
-Avoiding Bidding	1			100	16	368	39		2	cc1	kb2						useitem				infusion	100		3	3	levelreq			1	1	balance2			8	8											sb1																																																										0
-Evading Bidding	1			100	16	368	39		2	cc1	kb3						useitem				infusion	100		3	3	levelreq			2	2	balance2			12	12											sb1																																																										0
-Defending Bidding	1			100	16	368	39		2	cc1	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			10	10											sb1																																																										0
-Guarding Bidding	1			100	16	368	39		2	cc1	lb2						useitem				infusion	100		3	3	levelreq			1	1	ac%			20	20											sb1																																																										0
-Shielding Bidding	1			100	16	368	39		2	cc1	lb3						useitem				infusion	100		3	3	levelreq			2	2	ac%			30	30											sb1																																																										0
-Insulating Bidding	1			100	16	368	39		2	cc1	mb1						useitem				infusion	100		4	4	levelreq			1	1	res-fire			3	3											sb1																																																										0
-Enclosed Bidding	1			100	16	368	39		2	cc1	mb2						useitem				infusion	100		6	6	levelreq			1	1	res-fire			6	6											sb1																																																										0
-Heatproof Bidding	1			100	16	368	39		2	cc1	mb3						useitem				infusion	100		6	6	levelreq			2	2	res-fire			9	9											sb1																																																										0
-Chunky Bidding	1			100	16	368	39		2	cc1	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3											sb1																																																										0
-Crystal Bidding	1			100	16	368	39		2	cc1	nb2						useitem				infusion	100		6	6	levelreq			1	1	res-cold			6	6											sb1																																																										0
-Diamond Bidding	1			100	16	368	39		2	cc1	nb3						useitem				infusion	100		6	6	levelreq			2	2	res-cold			9	9											sb1																																																										0
-Grounded Bidding	1			100	16	368	39		2	cc1	ob1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3											sb1																																																										0
-Conductive Bidding	1			100	16	368	39		2	cc1	ob2						useitem				infusion	100		6	6	levelreq			1	1	res-ltng			6	6											sb1																																																										0
-Arrested Bidding	1			100	16	368	39		2	cc1	ob3						useitem				infusion	100		6	6	levelreq			2	2	res-ltng			9	9											sb1																																																										0
-Neutralizing Bidding	1			100	16	368	39		2	cc1	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3											sb1																																																										0
-Antitoxic Bidding	1			100	16	368	39		2	cc1	pb2						useitem				infusion	100		6	6	levelreq			1	1	res-pois			6	6											sb1																																																										0
-Remedying Bidding	1			100	16	368	39		2	cc1	pb3						useitem				infusion	100		6	6	levelreq			2	2	res-pois			9	9											sb1																																																										0
-Scintillating Bidding	1			100	16	368	39		2	cc1	qb1						useitem				infusion	100		4	4	levelreq			1	1	res-all			3	3											sb1																																																										0
-Prismatic Bidding	1			100	16	368	39		2	cc1	qb2						useitem				infusion	100		6	6	levelreq			1	1	res-all			6	6											sb1																																																										0
-Chromatic Bidding	1			100	16	368	39		2	cc1	qb3						useitem				infusion	100		6	6	levelreq			2	2	res-all			9	9											sb1																																																										0
-Quick Bidding	1			100	16	368	39		2	cc1	rb1						useitem				infusion	100		4	4	levelreq			1	1	move2			3	3											sb1																																																										0
-Swift Bidding	1			100	16	368	39		2	cc1	rb2						useitem				infusion	100		6	6	levelreq			1	1	move2			6	6											sb1																																																										0
-Speedy Bidding	1			100	16	368	39		2	cc1	rb3						useitem				infusion	100		6	6	levelreq			2	2	move2			9	9											sb1																																																										0
-Warm Bidding	1			100	16	368	39		2	cc1	sb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-fire			4	6											sb1																																																										0
-Hot Bidding	1			100	16	368	39		2	cc1	sb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-fire			12	16											sb1																																																										0
-Scalding Bidding	1			100	16	368	39		2	cc1	sb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-fire			32	46											sb1																																																										0
-Cold Bidding	1			100	16	368	39		2	cc1	tb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-cold			2	4											sb1																																																										0
-Icy Bidding	1			100	16	368	39		2	cc1	tb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-cold			8	16											sb1																																																										0
-Freezing Bidding	1			100	16	368	39		2	cc1	tb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-cold			18	36											sb1																																																										0
-Noisy Bidding	1			100	16	368	39		2	cc1	ub1						useitem				infusion	100		2	2	levelreq			1	1	dmg-ltng			1	9											sb1																																																										0
-Eerie Bidding	1			100	16	368	39		2	cc1	ub2						useitem				infusion	100		3	3	levelreq			1	1	dmg-ltng			1	18											sb1																																																										0
-Electrical Bidding	1			100	16	368	39		2	cc1	ub3						useitem				infusion	100		3	3	levelreq			2	2	dmg-ltng			1	36											sb1																																																										0
-Uneasy Bidding	1			100	16	368	39		2	cc1	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16											sb1																																																										0
-Sick Bidding	1			100	16	368	39		2	cc1	vb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-pois		75	32	32											sb1																																																										0
-Nauseating Bidding	1			100	16	368	39		2	cc1	vb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-pois		75	64	64											sb1																																																										0
-Javelin Bidding	1			100	16	368	39		2	cc1	aa2						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
-Bow Bidding	1			100	16	368	39		2	cc1	aa3						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
-Passive Bidding	1			100	16	368	39		2	cc1	aa4						useitem				infusion	100		4	4	levelreq			4	4																sb1																																																										0
+Strong Bidding	1			100	16	368	39		2	cc1	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
+Sturdy Bidding	1			100	16	368	39		2	cc1	ab2						useitem				infusion	100		3	3	levelreq			1	1	str			4	4																																																																					0
+Burly Bidding	1			100	16	368	39		2	cc1	ab3						useitem				infusion	100		3	3	levelreq			2	2	str			6	6																																																																					0
+Agile Bidding	1			100	16	368	39		2	cc1	bb1						useitem				infusion	100		2	2	levelreq			1	1	dex			2	2																																																																					0
+Nimble Bidding	1			100	16	368	39		2	cc1	bb2						useitem				infusion	100		3	3	levelreq			1	1	dex			4	4																																																																					0
+Dexterous Bidding	1			100	16	368	39		2	cc1	bb3						useitem				infusion	100		3	3	levelreq			2	2	dex			6	6																																																																					0
+Vital Bidding	1			100	16	368	39		2	cc1	cb1						useitem				infusion	100		2	2	levelreq			1	1	vit			2	2																																																																					0
+Vibrous Bidding	1			100	16	368	39		2	cc1	cb2						useitem				infusion	100		3	3	levelreq			1	1	vit			4	4																																																																					0
+Enduring Bidding	1			100	16	368	39		2	cc1	cb3						useitem				infusion	100		3	3	levelreq			2	2	vit			6	6																																																																					0
+Energetic Bidding	1			100	16	368	39		2	cc1	db1						useitem				infusion	100		2	2	levelreq			1	1	enr			2	2																																																																					0
+Bright Bidding	1			100	16	368	39		2	cc1	db2						useitem				infusion	100		3	3	levelreq			1	1	enr			4	4																																																																					0
+Spirited Bidding	1			100	16	368	39		2	cc1	db3						useitem				infusion	100		3	3	levelreq			2	2	enr			6	6																																																																					0
+Lively Bidding	1			100	16	368	39		2	cc1	eb1						useitem				infusion	100		2	2	levelreq			1	1	hp			10	10																																																																					0
+Splendid Bidding	1			100	16	368	39		2	cc1	eb2						useitem				infusion	100		3	3	levelreq			1	1	hp			20	20																																																																					0
+Vibrant Bidding	1			100	16	368	39		2	cc1	eb3						useitem				infusion	100		3	3	levelreq			2	2	hp			30	30																																																																					0
+Spirited Bidding	1			100	16	368	39		2	cc1	fb1						useitem				infusion	100		2	2	levelreq			1	1	mana			10	10																																																																					0
+Passionate Bidding	1			100	16	368	39		2	cc1	fb2						useitem				infusion	100		3	3	levelreq			1	1	mana			20	20																																																																					0
+Vidid Bidding	1			100	16	368	39		2	cc1	fb3						useitem				infusion	100		3	3	levelreq			2	2	mana			30	30																																																																					0
+Lucky Bidding	1			100	16	368	39		2	cc1	gb1						useitem				infusion	100		2	2	levelreq			1	1	mag%			5	5																																																																					0
+Fortunate Bidding	1			100	16	368	39		2	cc1	gb2						useitem				infusion	100		3	3	levelreq			1	1	mag%			15	15																																																																					0
+Blessed BIdding	1			100	16	368	39		2	cc1	gb3						useitem				infusion	100		3	3	levelreq			2	2	mag%			25	25																																																																					0
+Greedy Bidding	1			100	16	368	39		2	cc1	hb1						useitem				infusion	100		2	2	levelreq			1	1	gold%			20	20																																																																					0
+Gluttenous Bidding	1			100	16	368	39		2	cc1	hb2						useitem				infusion	100		3	3	levelreq			1	1	gold%			40	40																																																																					0
+Insatiable Bidding	1			100	16	368	39		2	cc1	hb3						useitem				infusion	100		3	3	levelreq			2	2	gold%			60	60																																																																					0
+Accurate Bidding	1			100	16	368	39		2	cc1	ib1						useitem				infusion	100		2	2	levelreq			1	1	att			20	20																																																																					0
+Precise BIdding	1			100	16	368	39		2	cc1	ib2						useitem				infusion	100		3	3	levelreq			1	1	att			40	40																																																																					0
+Exact Bidding	1			100	16	368	39		2	cc1	ib3						useitem				infusion	100		3	3	levelreq			2	2	att			60	60																																																																					0
+Powerful Bidding	1			100	16	368	39		2	cc1	jb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-max			2	2																																																																					0
+Harmful Bidding	1			100	16	368	39		2	cc1	jb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-max			5	5																																																																					0
+Forceful Bidding	1			100	16	368	39		2	cc1	jb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-max			10	10																																																																					0
+Dodgy Bidding	1			100	16	368	39		2	cc1	kb1						useitem				infusion	100		2	2	levelreq			1	1	balance2			4	4																																																																					0
+Avoiding Bidding	1			100	16	368	39		2	cc1	kb2						useitem				infusion	100		3	3	levelreq			1	1	balance2			8	8																																																																					0
+Evading Bidding	1			100	16	368	39		2	cc1	kb3						useitem				infusion	100		3	3	levelreq			2	2	balance2			12	12																																																																					0
+Defending Bidding	1			100	16	368	39		2	cc1	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			10	10																																																																					0
+Guarding Bidding	1			100	16	368	39		2	cc1	lb2						useitem				infusion	100		3	3	levelreq			1	1	ac%			20	20																																																																					0
+Shielding Bidding	1			100	16	368	39		2	cc1	lb3						useitem				infusion	100		3	3	levelreq			2	2	ac%			30	30																																																																					0
+Insulating Bidding	1			100	16	368	39		2	cc1	mb1						useitem				infusion	100		4	4	levelreq			1	1	res-fire			3	3																																																																					0
+Enclosed Bidding	1			100	16	368	39		2	cc1	mb2						useitem				infusion	100		6	6	levelreq			1	1	res-fire			6	6																																																																					0
+Heatproof Bidding	1			100	16	368	39		2	cc1	mb3						useitem				infusion	100		6	6	levelreq			2	2	res-fire			9	9																																																																					0
+Chunky Bidding	1			100	16	368	39		2	cc1	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
+Crystal Bidding	1			100	16	368	39		2	cc1	nb2						useitem				infusion	100		6	6	levelreq			1	1	res-cold			6	6																																																																					0
+Diamond Bidding	1			100	16	368	39		2	cc1	nb3						useitem				infusion	100		6	6	levelreq			2	2	res-cold			9	9																																																																					0
+Grounded Bidding	1			100	16	368	39		2	cc1	ob1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Conductive Bidding	1			100	16	368	39		2	cc1	ob2						useitem				infusion	100		6	6	levelreq			1	1	res-ltng			6	6																																																																					0
+Arrested Bidding	1			100	16	368	39		2	cc1	ob3						useitem				infusion	100		6	6	levelreq			2	2	res-ltng			9	9																																																																					0
+Neutralizing Bidding	1			100	16	368	39		2	cc1	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
+Antitoxic Bidding	1			100	16	368	39		2	cc1	pb2						useitem				infusion	100		6	6	levelreq			1	1	res-pois			6	6																																																																					0
+Remedying Bidding	1			100	16	368	39		2	cc1	pb3						useitem				infusion	100		6	6	levelreq			2	2	res-pois			9	9																																																																					0
+Scintillating Bidding	1			100	16	368	39		2	cc1	qb1						useitem				infusion	100		4	4	levelreq			1	1	res-all			3	3																																																																					0
+Prismatic Bidding	1			100	16	368	39		2	cc1	qb2						useitem				infusion	100		6	6	levelreq			1	1	res-all			6	6																																																																					0
+Chromatic Bidding	1			100	16	368	39		2	cc1	qb3						useitem				infusion	100		6	6	levelreq			2	2	res-all			9	9																																																																					0
+Quick Bidding	1			100	16	368	39		2	cc1	rb1						useitem				infusion	100		4	4	levelreq			1	1	move2			3	3																																																																					0
+Swift Bidding	1			100	16	368	39		2	cc1	rb2						useitem				infusion	100		6	6	levelreq			1	1	move2			6	6																																																																					0
+Speedy Bidding	1			100	16	368	39		2	cc1	rb3						useitem				infusion	100		6	6	levelreq			2	2	move2			9	9																																																																					0
+Warm Bidding	1			100	16	368	39		2	cc1	sb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-fire			4	6																																																																					0
+Hot Bidding	1			100	16	368	39		2	cc1	sb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-fire			12	16																																																																					0
+Scalding Bidding	1			100	16	368	39		2	cc1	sb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-fire			32	46																																																																					0
+Cold Bidding	1			100	16	368	39		2	cc1	tb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-cold			2	4																																																																					0
+Icy Bidding	1			100	16	368	39		2	cc1	tb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-cold			8	16																																																																					0
+Freezing Bidding	1			100	16	368	39		2	cc1	tb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-cold			18	36																																																																					0
+Noisy Bidding	1			100	16	368	39		2	cc1	ub1						useitem				infusion	100		2	2	levelreq			1	1	dmg-ltng			1	9																																																																					0
+Eerie Bidding	1			100	16	368	39		2	cc1	ub2						useitem				infusion	100		3	3	levelreq			1	1	dmg-ltng			1	18																																																																					0
+Electrical Bidding	1			100	16	368	39		2	cc1	ub3						useitem				infusion	100		3	3	levelreq			2	2	dmg-ltng			1	36																																																																					0
+Uneasy Bidding	1			100	16	368	39		2	cc1	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
+Sick Bidding	1			100	16	368	39		2	cc1	vb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-pois		75	32	32																																																																					0
+Nauseating Bidding	1			100	16	368	39		2	cc1	vb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-pois		75	64	64																																																																					0
+Javelin Bidding	1			100	16	368	39		2	cc1	aa2						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
+Bow Bidding	1			100	16	368	39		2	cc1	aa3						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
+Passive Bidding	1			100	16	368	39		2	cc1	aa4						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
 ASSASIN VALOR BIDDINGS	0																																																																																																							0
 TEMPERED CRAFTING	0																																																																																																							0
 1 Ral Rune + 1 Jewel + 1 Superior Armor -> Tempered Armor	0			100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
