@@ -52,7 +52,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_torso",
             "fields": {
-                "rect": { "x": 483, "y": 348, "width": 196, "height": 294 },
+                "rect": { "x": 483, "y": 410, "width": 196, "height": 294 },
                 "cellSize": "$ItemCellSize",
                 "location": "torso",
                 "backgroundFilename": "PANEL\\Inventory\\Inventory_Paperdoll_ChestArmor",
@@ -297,7 +297,7 @@
         {
             "type": "Widget", "name": "Damage",
             "fields": {
-                "rect": { "x": 328, "y": 1269, "width": 237, "height": 59 },
+                "rect": { "x": 361, "y": 1210, "width": 187, "height": 59 },
             },
             "children": [
                 {
