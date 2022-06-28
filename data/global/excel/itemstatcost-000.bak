@@ -367,4 +367,4 @@ item_elemskill_cold	364		1	3	3						1				76	1024		4	0	3	0	3															157	1	
 item_elemskill_light	365		1	3	3						1				76	1024		4	0	3	0	3															157	1	1	ModStr3i_light	ModStr3i_light										0
 item_elemskill_mag	366		1	3	3						1				76	1024		4	0	3	0	3															157	1	1	ModStr3i_mag	ModStr3i_mag										0
 item_elemskill_pois	367		1	3	3						1				76	1024		4	0	3	0	3															157	1	1	ModStr3i_pois	ModStr3i_pois										0
-item_iscorrupted	368			11			1	0	10			1	1					7	32	7	32																255	3	1	StrInfused	StrInfused										0
+item_isinfused	368			11			1	0	10			1	1					7	32	7	32																255	3	1	StrInfused	StrInfused										0

@@ -276,4 +276,4 @@ ltngskill	1	21	item_elemskill	2	2	3	item_elemskill_light																							+
 magskill	1	21	item_elemskill	3	3	3	item_elemskill_mag																							+# to Magic Skills		Min #	Max #		0
 poisskill	1	21	item_elemskill	5	5	3	item_elemskill_pois																							+# to Poison Skills		Min #	Max #		0
 noconsume	1	1	item_noconsume																											+# to not Consume Quantity		Min %	Max %		0
-infusion	1	1																																	0
+infusion	1	1	item_isinfused																																0
