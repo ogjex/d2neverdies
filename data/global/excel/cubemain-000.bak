@@ -1266,7 +1266,7 @@ TEMPERED CRAFTING	0																																																													
 1 Ral Rune + 1 Jewel + 1 Magic Amulet -> Tempered Amulet	0			100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
 1 El Rune + 1 Chipped Gem (Any) + 1 Tempered Weapon -> Weapon With Extra Attack Rating	0			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							cco																													hp1																																																										0
+hp1 -> test item 1	1			100					1	hp1							ltp																													hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							cc0																													hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							glx																													hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							cc7																													hp4																																																										0
