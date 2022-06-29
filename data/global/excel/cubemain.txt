@@ -1267,7 +1267,7 @@ TEMPERED CRAFTING	0																																																													
 1 El Rune + 1 Chipped Gem (Any) + 1 Tempered Weapon -> Weapon With Extra Attack Rating	0			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 ITEM TESTING	0																																																																																																							0
 hp1 -> test item 1	1			100					1	hp1							aa0	200	200	200																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							gpw	200	200	200																										hp2																																																										0
+hp2 -> test item 2	1			100					1	hp2							gpv	200	200	200																										hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							"zhb,uni"	200	200	200																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							"ltp,uni"	200	200	200																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							"7br,uni"	200	200	200																										hp5																																																										0

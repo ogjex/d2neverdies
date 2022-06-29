@@ -5901,7 +5901,7 @@
   {
     "id": 40012,
     "Key": "StrAmeCraft",
-    "enUS": "ÿc;Fomenter'sÿc0: ÿc3Amuletÿc0+ÿc5Ral Runeÿc0+ÿc5Jewel Fragment\n ÿc3Ringÿc0+ÿc5Tal Runeÿc0+ÿc5Jewel Fragment\nÿc3Helmÿc0+ÿc5Ith Runeÿc0+ÿc5Jewel Fragment\nÿc3Glovesÿc0+ÿc5Ort Runeÿc0+ÿc5Jewel Fragment\nÿc3Bootsÿc0+ÿc5Ral Runeÿc0+ÿc5Jewel Fragment\nÿc3Beltÿc0+ÿc5Tal Runeÿc0+ÿc5Jewel Fragment\nÿc3Chestÿc0+ÿc5Nef Runeÿc0+ÿc5Jewel Fragment\nÿc3Shieldÿc0+ÿc5Eth Runeÿc0+ÿc5Jewel Fragment\nÿc3Bow/X-bowÿc0+ÿc5Tal Runeÿc0+ÿc5Jewel Fragment\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "ÿc3Bow/X-bowÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc;Fomenter'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6054,7 +6054,7 @@
   {
     "id": 40021,
     "Key": "StrBidSkillDesc",
-    "enUS": "ÿc3P. Sapphire ÿc0= Sorc +1 Skill Tab \n ÿc;P. Amethyst ÿc0= Paladin +1 Skill Tab \n ÿc5P. Skull ÿc0= Necro +1 Skill Tab \n ÿc2P. Emerald ÿc1= Druid +1 Skill Tab \n ÿc1P. Ruby ÿc0= Barbarian +1 Skill Tab \n ÿc0P. Diamond ÿc0= Assassin +1 Skill Tab \n ÿc1P. Topaz ÿc9= Amazon +1 Skill Tab \n Cube to transmute into:",
+    "enUS": "ÿc3P. Sapphire ÿc0= Sorceress +1 Skill Tab \n ÿc;P. Amethyst ÿc0= Paladin +1 Skill Tab \n ÿc5P. Skull ÿc0= Necromancer +1 Skill Tab \n ÿc2P. Emerald ÿc0= Druid +1 Skill Tab \n ÿc1P. Ruby ÿc0= Barbarian +1 Skill Tab \n ÿc0P. Diamond ÿc0= Assassin +1 Skill Tab \n ÿc9P. Topaz ÿc0= Amazon +1 Skill Tab \n ÿc0Cube to transmute into:",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6207,7 +6207,7 @@
   {
     "id": 40030,
     "Key": "StrEssEliDesc",
-    "enUS": "What does this essence do?",
+    "enUS": "Cube with the following to up",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6224,7 +6224,7 @@
   {
     "id": 40031,
     "Key": "StrOrbCombDesc",
-    "enUS": "What does this Orb do?",
+    "enUS": "Cube with Magic items to build new items",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6241,7 +6241,7 @@
   {
     "id": 40032,
     "Key": "StrOrbExtDesc",
-    "enUS": "What does this Orb do?",
+    "enUS": "Cube with Unique and Set items to Extract Essences",
     "zhTW": "",
     "deDE": "",
     "esES": "",
