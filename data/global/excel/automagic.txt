@@ -219,24 +219,24 @@ Uneasy Bidding	100	1	1							1	408	dmg-pois	75	16	16	infusion-cost		2	2	lvl-cost
 Sick Bidding	100	1	1							1	409	dmg-pois	75	32	32	infusion-cost		3	3	lvl-cost		1	1		dpb2	bidd											0	0
 Nauseating Bidding	100	1	1							1	410	dmg-pois	75	64	64	infusion-cost		3	3	lvl-cost		2	2		dpb3	bidd											0	0
 Skillful Bidding	100	1	1							1	411														skbi	bidd											0	0
-Javelin Bidding	100	1	1							1	412														nsbi	bidd											0	0
-Bow Bidding	100	1	1							1	413														nbbi	bidd											0	0
-Passive Bidding	100	1	1							1	414														ncbi	bidd											0	0
-Traps Bidding	100	1	1							1	415														atbi	bidd											0	0
-Martial Arts Bidding	100	1	1							1	416														ambi	bidd											0	0
-Shadow Bidding	100	1	1							1	417														asbi	bidd											0	0
-Combat Bidding	100	1	1							1	418														bcbi	bidd											0	0
-Mastery Bidding	100	1	1							1	419														bmbi	bidd											0	0
-Warcry Bidding	100	1	1							1	420														bwbi	bidd											0	0
-Elemental Bidding	100	1	1							1	421														pcbi	bidd											0	0
-Summon Bidding	100	1	1							1	422														pdbi	bidd											0	0
-Shapeshifter Bidding	100	1	1							1	423														pobi	bidd											0	0
-Summon Bidding	100	1	1							1	424														sfbi	bidd											0	0
-Bone Bidding	100	1	1							1	425														slbi	bidd											0	0
-Curse Bidding	100	1	1							1	426														scbi	bidd											0	0
-Combat Bidding	100	1	1							1	427														debi	bidd											0	0
-Defensive Bidding	100	1	1							1	428														dsbi	bidd											0	0
-Offensive Bidding	100	1	1							1	429														dhbi	bidd											0	0
-Fire Bidding	100	1	1							1	430														ajbi	bidd											0	0
-Lightning Bidding	100	1	1							1	431														abbi	bidd											0	0
-Cold Bidding	100	1	1							1	432														apbi	bidd											0	0
+Javelin Bidding	100	1	1							1	412	skilltab	2	1	1										nsbi	bidd											0	0
+Bow Bidding	100	1	1							1	413	skilltab	0	1	1										nbbi	bidd											0	0
+Passive Bidding	100	1	1							1	414	skilltab	1	1	1										ncbi	bidd											0	0
+Traps Bidding	100	1	1							1	415	skilltab	48	1	1										atbi	bidd											0	0
+Martial Arts Bidding	100	1	1							1	416	skilltab	50	1	1										ambi	bidd											0	0
+Shadow Bidding	100	1	1							1	417	skilltab	49	1	1										asbi	bidd											0	0
+Combat Bidding	100	1	1							1	418	skilltab	32	1	1										bcbi	bidd											0	0
+Mastery Bidding	100	1	1							1	419	skilltab	33	1	1										bmbi	bidd											0	0
+Warcry Bidding	100	1	1							1	420	skilltab	34	1	1										bwbi	bidd											0	0
+Elemental Bidding	100	1	1							1	421	skilltab	42	1	1										pcbi	bidd											0	0
+Summon Bidding	100	1	1							1	422	skilltab	40	1	1										pdbi	bidd											0	0
+Shapeshifter Bidding	100	1	1							1	423	skilltab	41	1	1										pobi	bidd											0	0
+Summon Bidding	100	1	1							1	424	skilltab	18	1	1										sfbi	bidd											0	0
+Bone Bidding	100	1	1							1	425	skilltab	17	1	1										slbi	bidd											0	0
+Curse Bidding	100	1	1							1	426	skilltab	16	1	1										scbi	bidd											0	0
+Combat Bidding	100	1	1							1	427	skilltab	24	1	1										debi	bidd											0	0
+Defensive Bidding	100	1	1							1	428	skilltab	26	1	1										dsbi	bidd											0	0
+Offensive Bidding	100	1	1							1	429	skilltab	25	1	1										dhbi	bidd											0	0
+Fire Bidding	100	1	1							1	430	skilltab	8	1	1										ajbi	bidd											0	0
+Lightning Bidding	100	1	1							1	431	skilltab	9	1	1										abbi	bidd											0	0
+Cold Bidding	100	1	1							1	432	skilltab	10	1	1										apbi	bidd											0	0
