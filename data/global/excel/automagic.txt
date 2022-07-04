@@ -43,111 +43,111 @@ Sharp Knife	100	1	1	1		1				1	310	deadly		20	20	splash	proc_SplashDamage	100	1		
 Crushing Crossbow	100	1	1	1		1				1	311	crushing		10	10	dmg%		50	50						armo	weap											0	0
 Shinobi Throwing Knife	100	1	1	1		1				1	312	deadly		20	20	rep-quant	60			pierce		20	20		armo	weap											0	0
 Replenish Quantity	100	1	1	1		1				1	313	rep-quant	60												weap												0	0
-Acrobat's Light Armor 1	100	1	1	10	30	5				4	330	move2		5	8	red-dmg		0	3						armo	weap											0	0
-Acrobat's Light Armor 2	100	1	1	18	42	13				3	330	move2		7	10	red-dmg		1	4						armo	weap											0	0
-Acrobat's Light Armor 3	100	1	1	30		23				2	330	move2		9	12	red-dmg		2	5						armo	weap											0	0
-Acrobat's Light Armor 4	100	1	1	42		34				2	330	move2		11	14	red-dmg		3	7						armo	weap											0	0
-Acrobat's Light Armor 5	100	1	1	50		42				1	330	move2		12	15	red-dmg		5	8						armo	weap											0	0
-Caster's Armor 1	100	1	1	10	30	5				4	330	cast2		5	8	red-mag		0	3						armo	weap											0	0
-Caster's Armor 2	100	1	1	18	42	13				3	330	cast2		7	10	red-mag		1	4						armo	weap											0	0
-Caster's Armor 3	100	1	1	30		23				2	330	cast2		9	12	red-mag		2	5						armo	weap											0	0
-Caster's Armor 4	100	1	1	42		34				2	330	cast2		11	14	red-mag		3	7						armo	weap											0	0
-Caster's Armor 5	100	1	1	50		42				1	330	cast2		12	15	red-mag		5	8						armo	weap											0	0
-Brawler's Armor 1	100	1	1	10	30	5				4	331	red-dmg%		0	3	red-dmg		2	5						armo	weap											0	0
-Brawler's Armor 2	100	1	1	18	42	13				3	331	red-dmg%		1	4	red-dmg		3	7						armo	weap											0	0
-Brawler's Armor 3	100	1	1	30		23				2	331	red-dmg%		2	5	red-dmg		5	9						armo	weap											0	0
-Brawler's Armor 4	100	1	1	42		34				2	331	red-dmg%		3	7	red-dmg		7	13						armo	weap											0	0
-Brawler's Armor 5	100	1	1	50		42				1	331	red-dmg%		5	7	red-dmg		10	15						armo	weap											0	0
-Battle Mage's Armor 1	100	1	1	10	30	5				4	332	cast2		5	8	red-dmg		2	5						armo	weap											0	0
-Battle Mage's Armor 2	100	1	1	18	42	13				3	332	cast2		7	10	red-dmg		3	7						armo	weap											0	0
-Battle Mage's Armor 3	100	1	1	30		23				2	332	cast2		9	12	red-dmg		5	9						armo	weap											0	0
-Battle Mage's Armor 4	100	1	1	42		34				2	332	cast2		11	14	red-dmg		7	13						armo	weap											0	0
-Battle Mage's Armor 5	100	1	1	50		42				1	332	cast2		12	15	red-dmg		10	15						armo	weap											0	0
-Battle Mage's Armor 6	100	1	1	10	30	5				4	332	red-dmg%		0	3	red-mag		0	3						armo	weap											0	0
-Battle Mage's Armor 7	100	1	1	18	42	13				3	332	red-dmg%		1	4	red-mag		1	4						armo	weap											0	0
-Battle Mage's Armor 8	100	1	1	30		23				2	332	red-dmg%		2	5	red-mag		2	5						armo	weap											0	0
-Battle Mage's Armor 9	100	1	1	42		34				2	332	red-dmg%		3	7	red-mag		3	7						armo	weap											0	0
-Battle Mage's Armor 10	100	1	1	50		42				1	332	red-dmg%		5	7	red-mag		5	8						armo	weap											0	0
-Acrobat's Boots 1	100	1	1	10	30	5				4	333	move2		6	9										armo	weap											0	0
-Acrobat's Boots 2	100	1	1	18	42	13				3	333	move2		8	11										armo	weap											0	0
-Acrobat's Boots 3	100	1	1	30		23				2	333	move2		9	13										armo	weap											0	0
-Acrobat's Boots 4	100	1	1	42		34				2	333	move2		11	15										armo	weap											0	0
-Acrobat's Boots 5	100	1	1	50		42				1	333	move2		13	15										armo	weap											0	0
-Caster's Boots 1	100	1	1	10	30	5				4	333	mana%		6	11										armo	weap											0	0
-Caster's Boots 2	100	1	1	18	42	13				3	333	mana%		8	13										armo	weap											0	0
-Caster's Boots 3	100	1	1	30		23				2	333	mana%		9	15										armo	weap											0	0
-Caster's Boots 4	100	1	1	42		34				2	333	mana%		11	15										armo	weap											0	0
-Caster's Boots 5	100	1	1	50		42				1	333	mana%		13	20										armo	weap											0	0
-Brawler's Boots 1	100	1	1	10	30	5				4	333	swing2		2	6										armo	weap											0	0
-Brawler's Boots 2	100	1	1	18	42	13				3	333	swing2		3	7										armo	weap											0	0
-Brawler's Boots 3	100	1	1	30		23				2	333	swing2		4	8										armo	weap											0	0
-Brawler's Boots 4	100	1	1	42		34				2	333	swing2		5	9										armo	weap											0	0
-Brawler's Boots 5	100	1	1	50		42				1	333	swing2		6	10										armo	weap											0	0
-Acrobat's Gloves 1	100	1	1	10	30	5				4	334	att		20	30										armo	weap											0	0
-Acrobat's Gloves 2	100	1	1	18	42	13				3	334	att		30	40										armo	weap											0	0
-Acrobat's Gloves 3	100	1	1	30		23				2	334	att		40	60										armo	weap											0	0
-Acrobat's Gloves 4	100	1	1	42		34				2	334	att		60	80										armo	weap											0	0
-Acrobat's Gloves 5	100	1	1	50		42				1	334	att		80	100										armo	weap											0	0
-Caster's Gloves 1	100	1	1	10	30	5				4	334	regen-mana		15	20										armo	weap											0	0
-Caster's Gloves 2	100	1	1	18	42	13				3	334	regen-mana		20	25										armo	weap											0	0
-Caster's Gloves 3	100	1	1	30		23				2	334	regen-mana		25	30										armo	weap											0	0
-Caster's Gloves 4	100	1	1	42		34				2	334	regen-mana		30	40										armo	weap											0	0
-Caster's Gloves 5	100	1	1	50		42				1	334	regen-mana		40	50										armo	weap											0	0
-Brawler's Gloves 1	100	1	1	10	30	5				4	334	dmg%		10	13										armo	weap											0	0
-Brawler's Gloves 2	100	1	1	18	42	13				3	334	dmg%		13	17										armo	weap											0	0
-Brawler's Gloves 3	100	1	1	30		23				2	334	dmg%		17	20										armo	weap											0	0
-Brawler's Gloves 4	100	1	1	42		34				2	334	dmg%		20	22										armo	weap											0	0
-Brawler's Gloves 5	100	1	1	50		42				1	334	dmg%		22	25										armo	weap											0	0
-Acrobat's Belt 1	100	1	1	10	30	5				4	335	balance2		4	8										armo	weap											0	0
-Acrobat's Belt 2	100	1	1	18	42	13				3	335	balance2		6	10										armo	weap											0	0
-Acrobat's Belt 3	100	1	1	30		23				2	335	balance2		8	12										armo	weap											0	0
-Acrobat's Belt 4	100	1	1	42		34				2	335	balance2		10	14										armo	weap											0	0
-Acrobat's Belt 5	100	1	1	50		42				1	335	balance2		12	15										armo	weap											0	0
+Acrobat's Light Armor 1	100	1	1	10	30	5				4	330	move2		2	4	red-dmg		0	1						armo	weap											0	0
+Acrobat's Light Armor 2	100	1	1	18	42	13				3	330	move2		3	5	red-dmg		1	2						armo	weap											0	0
+Acrobat's Light Armor 3	100	1	1	30		23				2	330	move2		4	7	red-dmg		2	4						armo	weap											0	0
+Acrobat's Light Armor 4	100	1	1	42		34				2	330	move2		5	8	red-dmg		3	5						armo	weap											0	0
+Acrobat's Light Armor 5	100	1	1	50		42				1	330	move2		6	9	red-dmg		4	6						armo	weap											0	0
+Caster's Armor 1	100	1	1	10	30	5				4	330	cast2		2	5	red-mag		0	2						armo	weap											0	0
+Caster's Armor 2	100	1	1	18	42	13				3	330	cast2		3	7	red-mag		1	4						armo	weap											0	0
+Caster's Armor 3	100	1	1	30		23				2	330	cast2		4	8	red-mag		2	4						armo	weap											0	0
+Caster's Armor 4	100	1	1	42		34				2	330	cast2		5	10	red-mag		3	5						armo	weap											0	0
+Caster's Armor 5	100	1	1	50		42				1	330	cast2		7	12	red-mag		4	6						armo	weap											0	0
+Brawler's Armor 1	100	1	1	10	30	5				4	331	red-dmg%		0	2	red-dmg		1	2						armo	weap											0	0
+Brawler's Armor 2	100	1	1	18	42	13				3	331	red-dmg%		1	3	red-dmg		2	4						armo	weap											0	0
+Brawler's Armor 3	100	1	1	30		23				2	331	red-dmg%		2	4	red-dmg		3	6						armo	weap											0	0
+Brawler's Armor 4	100	1	1	42		34				2	331	red-dmg%		3	5	red-dmg		4	7						armo	weap											0	0
+Brawler's Armor 5	100	1	1	50		42				1	331	red-dmg%		4	6	red-dmg		5	8						armo	weap											0	0
+Battle Mage's Armor 1	100	1	1	10	30	5				4	332	cast2		2	5	red-dmg		1	2						armo	weap											0	0
+Battle Mage's Armor 2	100	1	1	18	42	13				3	332	cast2		3	7	red-dmg		2	4						armo	weap											0	0
+Battle Mage's Armor 3	100	1	1	30		23				2	332	cast2		4	8	red-dmg		3	6						armo	weap											0	0
+Battle Mage's Armor 4	100	1	1	42		34				2	332	cast2		5	10	red-dmg		4	7						armo	weap											0	0
+Battle Mage's Armor 5	100	1	1	50		42				1	332	cast2		7	12	red-dmg		5	8						armo	weap											0	0
+Battle Mage's Armor 6	100	1	1	10	30	5				4	332	red-dmg%		0	2	red-mag		0	2						armo	weap											0	0
+Battle Mage's Armor 7	100	1	1	18	42	13				3	332	red-dmg%		1	3	red-mag		1	4						armo	weap											0	0
+Battle Mage's Armor 8	100	1	1	30		23				2	332	red-dmg%		2	4	red-mag		2	4						armo	weap											0	0
+Battle Mage's Armor 9	100	1	1	42		34				2	332	red-dmg%		3	5	red-mag		3	5						armo	weap											0	0
+Battle Mage's Armor 10	100	1	1	50		42				1	332	red-dmg%		4	6	red-mag		4	6						armo	weap											0	0
+Acrobat's Boots 1	100	1	1	10	30	5				4	333	move2		1	4										armo	weap											0	0
+Acrobat's Boots 2	100	1	1	18	42	13				3	333	move2		2	6										armo	weap											0	0
+Acrobat's Boots 3	100	1	1	30		23				2	333	move2		3	7										armo	weap											0	0
+Acrobat's Boots 4	100	1	1	42		34				2	333	move2		4	8										armo	weap											0	0
+Acrobat's Boots 5	100	1	1	50		42				1	333	move2		5	10										armo	weap											0	0
+Caster's Boots 1	100	1	1	10	30	5				4	333	mana%		1	3										armo	weap											0	0
+Caster's Boots 2	100	1	1	18	42	13				3	333	mana%		2	4										armo	weap											0	0
+Caster's Boots 3	100	1	1	30		23				2	333	mana%		3	5										armo	weap											0	0
+Caster's Boots 4	100	1	1	42		34				2	333	mana%		4	7										armo	weap											0	0
+Caster's Boots 5	100	1	1	50		42				1	333	mana%		5	8										armo	weap											0	0
+Brawler's Boots 1	100	1	1	10	30	5				4	333	swing2		2	5										armo	weap											0	0
+Brawler's Boots 2	100	1	1	18	42	13				3	333	swing2		3	6										armo	weap											0	0
+Brawler's Boots 3	100	1	1	30		23				2	333	swing2		4	7										armo	weap											0	0
+Brawler's Boots 4	100	1	1	42		34				2	333	swing2		5	8										armo	weap											0	0
+Brawler's Boots 5	100	1	1	50		42				1	333	swing2		6	9										armo	weap											0	0
+Acrobat's Gloves 1	100	1	1	10	30	5				4	334	att		10	15										armo	weap											0	0
+Acrobat's Gloves 2	100	1	1	18	42	13				3	334	att		20	25										armo	weap											0	0
+Acrobat's Gloves 3	100	1	1	30		23				2	334	att		30	35										armo	weap											0	0
+Acrobat's Gloves 4	100	1	1	42		34				2	334	att		40	45										armo	weap											0	0
+Acrobat's Gloves 5	100	1	1	50		42				1	334	att		50	55										armo	weap											0	0
+Caster's Gloves 1	100	1	1	10	30	5				4	334	regen-mana		2	5										armo	weap											0	0
+Caster's Gloves 2	100	1	1	18	42	13				3	334	regen-mana		3	6										armo	weap											0	0
+Caster's Gloves 3	100	1	1	30		23				2	334	regen-mana		4	7										armo	weap											0	0
+Caster's Gloves 4	100	1	1	42		34				2	334	regen-mana		5	8										armo	weap											0	0
+Caster's Gloves 5	100	1	1	50		42				1	334	regen-mana		6	9										armo	weap											0	0
+Brawler's Gloves 1	100	1	1	10	30	5				4	334	dmg%		2	5										armo	weap											0	0
+Brawler's Gloves 2	100	1	1	18	42	13				3	334	dmg%		3	6										armo	weap											0	0
+Brawler's Gloves 3	100	1	1	30		23				2	334	dmg%		4	7										armo	weap											0	0
+Brawler's Gloves 4	100	1	1	42		34				2	334	dmg%		5	8										armo	weap											0	0
+Brawler's Gloves 5	100	1	1	50		42				1	334	dmg%		6	9										armo	weap											0	0
+Acrobat's Belt 1	100	1	1	10	30	5				4	335	balance2		2	5										armo	weap											0	0
+Acrobat's Belt 2	100	1	1	18	42	13				3	335	balance2		3	6										armo	weap											0	0
+Acrobat's Belt 3	100	1	1	30		23				2	335	balance2		4	7										armo	weap											0	0
+Acrobat's Belt 4	100	1	1	42		34				2	335	balance2		5	8										armo	weap											0	0
+Acrobat's Belt 5	100	1	1	50		42				1	335	balance2		6	9										armo	weap											0	0
 Caster's Belt 1	100	1	1	10	30	5				4	335	mana-kill		1	2										armo	weap											0	0
 Caster's Belt 2	100	1	1	18	42	13				3	335	mana-kill		2	2										armo	weap											0	0
 Caster's Belt 3	100	1	1	30		23				2	335	mana-kill		2	3										armo	weap											0	0
 Caster's Belt 4	100	1	1	42		34				2	335	mana-kill		3	3										armo	weap											0	0
-Caster's Belt 5	100	1	1	50		42				1	335	mana-kill		4	5										armo	weap											0	0
+Caster's Belt 5	100	1	1	50		42				1	335	mana-kill		3	4										armo	weap											0	0
 Brawler's Belt 1	100	1	1	10	30	5				4	335	heal-kill		1	2										armo	weap											0	0
 Brawler's Belt 2	100	1	1	18	42	13				3	335	heal-kill		2	2										armo	weap											0	0
 Brawler's Belt 3	100	1	1	30		23				2	335	heal-kill		2	3										armo	weap											0	0
 Brawler's Belt 4	100	1	1	42		34				2	335	heal-kill		3	3										armo	weap											0	0
-Brawler's Belt 5	100	1	1	50		42				1	335	heal-kill		4	5										armo	weap											0	0
-Acrobat's Helmet 1	100	1	1	10	30	5				4	336	regen		4	8	ac-miss		30	45						armo	weap											0	0
-Acrobat's Helmet 2	100	1	1	18	42	13				3	336	regen		6	10	ac-miss		40	55						armo	weap											0	0
-Acrobat's Helmet 3	100	1	1	30		23				2	336	regen		8	12	ac-miss		50	65						armo	weap											0	0
-Acrobat's Helmet 4	100	1	1	42		34				2	336	regen		10	14	ac-miss		60	80						armo	weap											0	0
-Acrobat's Helmet 5	100	1	1	50		42				1	336	regen		12	15	ac-miss		80	100						armo	weap											0	0
-Caster's Helmet 1	100	1	1	10	30	5				4	336	dmg-to-mana		10	15										armo	weap											0	0
-Caster's Helmet 2	100	1	1	18	42	13				3	336	dmg-to-mana		15	20										armo	weap											0	0
-Caster's Helmet 3	100	1	1	30		23				2	336	dmg-to-mana		20	25										armo	weap											0	0
-Caster's Helmet 4	100	1	1	42		34				2	336	dmg-to-mana		25	30										armo	weap											0	0
-Caster's Helmet 5	100	1	1	50		42				1	336	dmg-to-mana		28	30										armo	weap											0	0
-Brawler's Helmet 1	100	1	1	10	30	5				4	336	ac%		10	15	ac-hth		30	45						armo	weap											0	0
-Brawler's Helmet 2	100	1	1	18	42	13				3	336	ac%		15	20	ac-hth		40	55						armo	weap											0	0
-Brawler's Helmet 3	100	1	1	30		23				2	336	ac%		20	25	ac-hth		50	65						armo	weap											0	0
-Brawler's Helmet 4	100	1	1	42		34				2	336	ac%		25	30	ac-hth		60	80						armo	weap											0	0
-Brawler's Helmet 5	100	1	1	50		42				1	336	ac%		28	30	ac-hth		80	100						armo	weap											0	0
+Brawler's Belt 5	100	1	1	50		42				1	335	heal-kill		3	4										armo	weap											0	0
+Acrobat's Helmet 1	100	1	1	10	30	5				4	336	regen		1	2	ac-miss		10	15						armo	weap											0	0
+Acrobat's Helmet 2	100	1	1	18	42	13				3	336	regen		2	2	ac-miss		20	25						armo	weap											0	0
+Acrobat's Helmet 3	100	1	1	30		23				2	336	regen		2	3	ac-miss		30	35						armo	weap											0	0
+Acrobat's Helmet 4	100	1	1	42		34				2	336	regen		3	3	ac-miss		40	45						armo	weap											0	0
+Acrobat's Helmet 5	100	1	1	50		42				1	336	regen		3	4	ac-miss		50	55						armo	weap											0	0
+Caster's Helmet 1	100	1	1	10	30	5				4	336	dmg-to-mana		2	5										armo	weap											0	0
+Caster's Helmet 2	100	1	1	18	42	13				3	336	dmg-to-mana		3	6										armo	weap											0	0
+Caster's Helmet 3	100	1	1	30		23				2	336	dmg-to-mana		4	7										armo	weap											0	0
+Caster's Helmet 4	100	1	1	42		34				2	336	dmg-to-mana		5	8										armo	weap											0	0
+Caster's Helmet 5	100	1	1	50		42				1	336	dmg-to-mana		6	9										armo	weap											0	0
+Brawler's Helmet 1	100	1	1	10	30	5				4	336	ac%		10	15	ac-hth		10	15						armo	weap											0	0
+Brawler's Helmet 2	100	1	1	18	42	13				3	336	ac%		15	20	ac-hth		20	25						armo	weap											0	0
+Brawler's Helmet 3	100	1	1	30		23				2	336	ac%		20	25	ac-hth		30	35						armo	weap											0	0
+Brawler's Helmet 4	100	1	1	42		34				2	336	ac%		25	30	ac-hth		40	45						armo	weap											0	0
+Brawler's Helmet 5	100	1	1	50		42				1	336	ac%		28	30	ac-hth		50	55						armo	weap											0	0
 Swift Shield 1	100	1	1	18	42	13				4	337	block2		4	6										armo	weap											0	0
 Swift Shield 2	100	1	1	30		23				3	337	block2		6	8										armo	weap											0	0
-Swift Shield 3	100	1	1	42		34				2	337	block2		10	15										armo	weap											0	0
-Swift Shield 4	100	1	1	50		42				1	337	block2		15	20										armo	weap											0	0
+Swift Shield 3	100	1	1	42		34				2	337	block2		8	10										armo	weap											0	0
+Swift Shield 4	100	1	1	50		42				1	337	block2		10	12										armo	weap											0	0
 Barrier Shield 1	100	1	1	18	42	13				4	337	block		2	4										armo	weap											0	0
 Barrier Shield 2	100	1	1	30		23				3	337	block		4	6										armo	weap											0	0
 Barrier Shield 3	100	1	1	42		34				2	337	block		6	8										armo	weap											0	0
 Barrier Shield 4	100	1	1	50		42				1	337	block		8	10										armo	weap											0	0
-Swiftest Shield 1	100	1	1	18	42	13				4	338	block2		10	15										armo	weap											0	0
-Swiftest Shield 2	100	1	1	30		23				3	338	block2		15	20										armo	weap											0	0
-Swiftest Shield 3	100	1	1	42		34				2	338	block2		20	25										armo	weap											0	0
-Swiftest Shield 4	100	1	1	50		42				1	338	block2		25	30										armo	weap											0	0
-Caster's Shield 1	100	1	1	18	42	13				4	339	regen-mana		5	10	dmg-to-mana		5	10						armo	weap											0	0
-Caster's Shield 2	100	1	1	30		23				3	339	regen-mana		10	20	dmg-to-mana		10	20						armo	weap											0	0
-Caster's Shield 3	100	1	1	42		34				2	339	regen-mana		20	25	dmg-to-mana		20	25						armo	weap											0	0
-Caster's Shield 4	100	1	1	50		42				1	339	regen-mana		25	30	dmg-to-mana		25	30						armo	weap											0	0
-Reflecting Shield 1	100	1	1	18	42	13				4	340	thorns		10	20	att		10	20						armo	weap											0	0
-Reflecting Shield 2	100	1	1	30		23				3	340	thorns		30	50	att		30	50						armo	weap											0	0
-Reflecting Shield 3	100	1	1	42		34				2	340	thorns		50	100	att		50	100						armo	weap											0	0
-Reflecting Shield 4	100	1	1	50		42				1	340	thorns		100	200	att		100	200						armo	weap											0	0
+Swiftest Shield 1	100	1	1	18	42	13				4	338	block2		6	8										armo	weap											0	0
+Swiftest Shield 2	100	1	1	30		23				3	338	block2		8	10										armo	weap											0	0
+Swiftest Shield 3	100	1	1	42		34				2	338	block2		10	12										armo	weap											0	0
+Swiftest Shield 4	100	1	1	50		42				1	338	block2		12	15										armo	weap											0	0
+Caster's Shield 1	100	1	1	18	42	13				4	339	regen-mana		2	5	dmg-to-mana		2	5						armo	weap											0	0
+Caster's Shield 2	100	1	1	30		23				3	339	regen-mana		3	6	dmg-to-mana		3	6						armo	weap											0	0
+Caster's Shield 3	100	1	1	42		34				2	339	regen-mana		4	7	dmg-to-mana		4	7						armo	weap											0	0
+Caster's Shield 4	100	1	1	50		42				1	339	regen-mana		5	8	dmg-to-mana		5	8						armo	weap											0	0
+Reflecting Shield 1	100	1	1	18	42	13				4	340	thorns		6	9	att		10	15						armo	weap											0	0
+Reflecting Shield 2	100	1	1	30		23				3	340	thorns		20	30	att		20	25						armo	weap											0	0
+Reflecting Shield 3	100	1	1	42		34				2	340	thorns		30	50	att		30	35						armo	weap											0	0
+Reflecting Shield 4	100	1	1	50		42				1	340	thorns		50	60	att		40	45						armo	weap											0	0
 Splashing - Ranged	100	1	1	1		1				1	341	splash	proc_SplashDamage	100	1	rep-quant	60								armo	weap											0	0
 Splashing - Ama	100	1	1	1		1				1	342	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	1	1				armo	weap											0	0
 Splashing - Ama	100	1	1	1		1				1	343	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	2	2				armo	weap											0	0
