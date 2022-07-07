@@ -419,14 +419,29 @@ Stack of 48 (Any) -> Stack-1 + Target Output	1			0	18	70	48		1	misc							"usety
 Stack of 49 (Any) -> Stack-1 + Target Output	1			0	18	70	49		1	misc							"usetype,qty=48"																													"usetype,qty=1"																																																										0
 Stack of 50 (Any) -> Stack-1 + Target Output	1			0	18	70	50		1	misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
 EXTRACTION RECIPES	0																																																																																																							0
-Normal Unique + Orb of Extraction -> Extract Normal Essence	1								2	"any,uni,bas"	oex						"esn,qty=1"	50	100																											oex																																																										0
-Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1								2	"any,uni,exc"	oex						"esx,qty=1"	50	100																											oex																																																										0
-Elite Unique + Orb of Extraction -> Extract Elite Essence	1								2	"any,uni,eli"	oex						"esl,qty=1"	50	100																											oex																																																										0
-Set Item + Orb of Extraction -> Extract Compound Essence	1								2	"any,set"	oex						"esc,qty=1"	50	100																											oex																																																										0
-Rare Item + Orb of Extraction -> Extract Rare Essence	1								2	"any,rar"	oex						"esr,qty=1"	50	100																											oex																																																										0
+Normal Unique + Orb of Extraction -> Extract Normal Essence	1								2	"any,uni,bas"	oex						esu	50	100																											esn																																																										0
+Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1								2	"any,uni,exc"	oex						"esu,qty=2"	50	100																											esx																																																										0
+Elite Unique + Orb of Extraction -> Extract Elite Essence	1								2	"any,uni,eli"	oex						"esu,qty=3"	50	100																											esl																																																										0
+Set Item + Orb of Extraction -> Extract Compound Essence	1								2	"any,set"	oex						"esc,qty=1"	50	100																																																																																					0
+Rare Item + Orb of Extraction -> Extract Rare Essence	1								2	"any,rar"	oex						"esr,qty=1"	50	100																																																																																					0
 BUILD RECIPES	0																																																																																																							0
-Magic Weapon + Compound Essence + Orb of Combination -> Normal Set Weapon	1								13	"weap,mag,bas"	"esc,qty=10"	ooc	"gpg,qty=1"				"usetype,set"	50	100																											ooc																																																										0
-Magic Armor + Compound Essence + Orb of Combination -> Normal Set Armor	1								13	"armo,mag,bas"	"esc,qty=10"	ooc	"gpg,qty=1"				"usetype,set"	50	100																											ooc																																																										0
+Rare Weapon + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Weapon	0								4	"weap,rar,bas"	esc	esn	ooc				"usetype,set"	50	100																																																																																					0
+Rare Armor + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Armor	0								4	"armo,rar,bas"	esc	esn	ooc				"usetype,set"	50	100																																																																																					0
+Rare Weapon + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Weapon	0								4	"weap,rar,exc"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
+Rare Armor + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Armor	0								4	"armo,rar,exc"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
+Rare Weapon + Compound Essence + Elite Essence + Orb of Combination -> Elite Set Weapon	0								4	"weap,rar,eli"	esc	esl	ooc				"usetype,set"	50	100																																																																																					0
+Rare Armor + Compound Essence + Elite Essence + Orb of Combination -> Elite Set Armor	0								4	"armo,rar,eli"	esc	esl	ooc				"usetype,set"	50	100																																																																																					0
+Rare Ring + Compound Essence + Exceptional Essence + Orb of Combination -> Set Ring
+	0								4	"ring,rar"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
+Rare Amulet + Compound Essence + Exceptional Essence + Orb of Combination -> Set Amulet	0								4	"amul,rar"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
+Rare Weapon + Unique Essence + Normal Essence + Orb of Combination -> Normal Unique Weapon	0								4	"weap,rar,bas"	esc	esn	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Armor + Unique Essence + Normal Essence + Orb of Combination -> Normal Unique Armor	0								4	"armo,rar,bas"	esu	esn	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Weapon + Unique Essence + Exceptional Essence + Orb of Combination -> Exceptional Unique Weapon	0								4	"weap,rar,exc"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Armor + Unique Essence + Exceptional Essence + Orb of Combination -> Exceptional Unique Armor	0								4	"armo,rar,exc"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Weapon + Unique Essence + Elite Essence + Orb of Combination -> Elite Unique Weapon	0								4	"weap,rar,eli"	esu	esl	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Armor + Unique Essence + Elite Essence + Orb of Combination -> Elite Unique Armor	0								4	"armo,rar,eli"	esu	esl	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Ring + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Ring	0								4	"ring,rar"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Amulet + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Amulet	0								4	"amul,rar"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
 CRAFTING RECIPES	0																																																																																																							0
 FOMENTERS (HITPOWER)	0																																																																																																							0
 1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm	1			100					4	"helm,mag,noe"	jfg	"r06,qty=1"	"gpv,qty=1"				"usetype,crf"		50	50	slow			5	10	balance1			10	20	att			100	200																																																																					0
@@ -1684,8 +1699,8 @@ hp2 -> test item 2	1			100					1	hp2							gpw	200	200	200																						
 hp3 -> test item 3	1			100					1	hp3							"zhb,uni"	200	200	200																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							"ltp,uni"	200	200	200																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							"7br,uni"	200	200	200																										hp5																																																										0
-mp1 -> test item 6	1			100					1	mp1							ab1	200	200	200																										mp1																																																										0
-mp2 -> test item 7	1			100					1	mp2								200	200	200																										mp2																																																										0
+mp1 -> test item 6	1			100					1	mp1							"xap,uni"	200	200	200																										mp1																																																										0
+mp2 -> test item 7	1			100					1	mp2							"uhg,uni"	200	200	200																										mp2																																																										0
 mp3 -> test item 8	1			100					1	mp3							ac8	200	200	200																										mp3																																																										0
 mp4 -> test item 9	1			100					1	mp4							ac9	200	200	200																										mp4																																																										0
 mp5 -> test item 10	1			100					1	mp5							ad1	200	200	200																										mp5																																																										0

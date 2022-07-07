@@ -419,14 +419,29 @@ Stack of 48 (Any) -> Stack-1 + Target Output	1			0	18	70	48		1	misc							"usety
 Stack of 49 (Any) -> Stack-1 + Target Output	1			0	18	70	49		1	misc							"usetype,qty=48"																													"usetype,qty=1"																																																										0
 Stack of 50 (Any) -> Stack-1 + Target Output	1			0	18	70	50		1	misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
 EXTRACTION RECIPES	0																																																																																																							0
-Normal Unique + Orb of Extraction -> Extract Normal Essence	1								2	"any,uni,bas"	oex						"esn,qty=1"	50	100																											oex																																																										0
-Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1								2	"any,uni,exc"	oex						"esx,qty=1"	50	100																											oex																																																										0
-Elite Unique + Orb of Extraction -> Extract Elite Essence	1								2	"any,uni,eli"	oex						"esl,qty=1"	50	100																											oex																																																										0
-Set Item + Orb of Extraction -> Extract Compound Essence	1								2	"any,set"	oex						"esc,qty=1"	50	100																											oex																																																										0
-Rare Item + Orb of Extraction -> Extract Rare Essence	1								2	"any,rar"	oex						"esr,qty=1"	50	100																											oex																																																										0
+Normal Unique + Orb of Extraction -> Extract Normal Essence	1								2	"any,uni,bas"	oex						esu	50	100																											esn																																																										0
+Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1								2	"any,uni,exc"	oex						"esu,qty=2"	50	100																											esx																																																										0
+Elite Unique + Orb of Extraction -> Extract Elite Essence	1								2	"any,uni,eli"	oex						"esu,qty=3"	50	100																											esl																																																										0
+Set Item + Orb of Extraction -> Extract Compound Essence	1								2	"any,set"	oex						"esc,qty=1"	50	100																																																																																					0
+Rare Item + Orb of Extraction -> Extract Rare Essence	1								2	"any,rar"	oex						"esr,qty=1"	50	100																																																																																					0
 BUILD RECIPES	0																																																																																																							0
-Magic Weapon + Compound Essence + Orb of Combination -> Normal Set Weapon	1								13	"weap,mag,bas"	"esc,qty=10"	ooc	"gpg,qty=1"				"usetype,set"	50	100																											ooc																																																										0
-Magic Armor + Compound Essence + Orb of Combination -> Normal Set Armor	1								13	"armo,mag,bas"	"esc,qty=10"	ooc	"gpg,qty=1"				"usetype,set"	50	100																											ooc																																																										0
+Rare Weapon + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Weapon	0								4	"weap,rar,bas"	esc	esn	ooc				"usetype,set"	50	100																																																																																					0
+Rare Armor + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Armor	0								4	"armo,rar,bas"	esc	esn	ooc				"usetype,set"	50	100																																																																																					0
+Rare Weapon + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Weapon	0								4	"weap,rar,exc"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
+Rare Armor + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Armor	0								4	"armo,rar,exc"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
+Rare Weapon + Compound Essence + Elite Essence + Orb of Combination -> Elite Set Weapon	0								4	"weap,rar,eli"	esc	esl	ooc				"usetype,set"	50	100																																																																																					0
+Rare Armor + Compound Essence + Elite Essence + Orb of Combination -> Elite Set Armor	0								4	"armo,rar,eli"	esc	esl	ooc				"usetype,set"	50	100																																																																																					0
+Rare Ring + Compound Essence + Exceptional Essence + Orb of Combination -> Set Ring
+	0								4	"ring,rar"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
+Rare Amulet + Compound Essence + Exceptional Essence + Orb of Combination -> Set Amulet	0								4	"amul,rar"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
+Rare Weapon + Unique Essence + Normal Essence + Orb of Combination -> Normal Unique Weapon	0								4	"weap,rar,bas"	esc	esn	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Armor + Unique Essence + Normal Essence + Orb of Combination -> Normal Unique Armor	0								4	"armo,rar,bas"	esu	esn	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Weapon + Unique Essence + Exceptional Essence + Orb of Combination -> Exceptional Unique Weapon	0								4	"weap,rar,exc"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Armor + Unique Essence + Exceptional Essence + Orb of Combination -> Exceptional Unique Armor	0								4	"armo,rar,exc"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Weapon + Unique Essence + Elite Essence + Orb of Combination -> Elite Unique Weapon	0								4	"weap,rar,eli"	esu	esl	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Armor + Unique Essence + Elite Essence + Orb of Combination -> Elite Unique Armor	0								4	"armo,rar,eli"	esu	esl	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Ring + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Ring	0								4	"ring,rar"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Amulet + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Amulet	0								4	"amul,rar"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
 CRAFTING RECIPES	0																																																																																																							0
 FOMENTERS (HITPOWER)	0																																																																																																							0
 1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm	1			100					4	"helm,mag,noe"	jfg	"r06,qty=1"	"gpv,qty=1"				"usetype,crf"		50	50	slow			5	10	balance1			10	20	att			100	200																																																																					0
@@ -1255,9 +1270,9 @@ Electrical Bidding	1			100	16	368	59		2	cc1	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc1	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc1	vb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc1	vb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-pois		75	64	64																																																																					0
-Javelin Bidding	1			100	16	368	59		2	cc1	aa1						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Bow Bidding	1			100	16	368	59		2	cc1	aa2						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Passive Bidding	1			100	16	368	59		2	cc1	aa3						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
+Javelin Bidding	1			100	16	368	59		2	cc1	aa1						useitem				infusion	100		4	4	levelreq			4	4	skilltab		2	1	1																																																																					0
+Bow Bidding	1			100	16	368	59		2	cc1	aa2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		0	1	1																																																																					0
+Passive Bidding	1			100	16	368	59		2	cc1	aa3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		1	1	1																																																																					0
 ASSA VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc2	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc2	ab2						useitem				infusion	100		3	3	levelreq			1	1	str			4	4																																																																					0
@@ -1325,9 +1340,9 @@ Electrical Bidding	1			100	16	368	59		2	cc2	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc2	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc2	vb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc2	vb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-pois		75	64	64																																																																					0
-Traps Bidding	1			100	16	368	59		2	cc2	aa4						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Martial Arts Bidding	1			100	16	368	59		2	cc2	aa5						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Shadow Bidding	1			100	16	368	59		2	cc2	aa6						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
+Traps Bidding	1			100	16	368	59		2	cc2	aa4						useitem				infusion	100		4	4	levelreq			4	4	skilltab		48	1	1																																																																					0
+Martial Arts Bidding	1			100	16	368	59		2	cc2	aa5						useitem				infusion	100		4	4	levelreq			4	4	skilltab		50	1	1																																																																					0
+Shadow Bidding	1			100	16	368	59		2	cc2	aa6						useitem				infusion	100		4	4	levelreq			4	4	skilltab		49	1	1																																																																					0
 BARBARIAN VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc3	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc3	ab2						useitem				infusion	100		3	3	levelreq			1	1	str			4	4																																																																					0
@@ -1395,9 +1410,9 @@ Electrical Bidding	1			100	16	368	59		2	cc3	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc3	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc3	vb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc3	vb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-pois		75	64	64																																																																					0
-Combat Bidding	1			100	16	368	59		2	cc3	aa7						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Mastery Bidding	1			100	16	368	59		2	cc3	aa8						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Warcry Bidding	1			100	16	368	59		2	cc3	aa9						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
+Combat Bidding	1			100	16	368	59		2	cc3	aa7						useitem				infusion	100		4	4	levelreq			4	4	skilltab		32	1	1																																																																					0
+Mastery Bidding	1			100	16	368	59		2	cc3	aa8						useitem				infusion	100		4	4	levelreq			4	4	skilltab		33	1	1																																																																					0
+Warcry Bidding	1			100	16	368	59		2	cc3	aa9						useitem				infusion	100		4	4	levelreq			4	4	skilltab		34	1	1																																																																					0
 DRUID VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc4	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc4	ab2						useitem				infusion	100		3	3	levelreq			1	1	str			4	4																																																																					0
@@ -1465,9 +1480,9 @@ Electrical Bidding	1			100	16	368	59		2	cc4	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc4	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc4	vb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc4	vb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-pois		75	64	64																																																																					0
-Elemental Bidding	1			100	16	368	59		2	cc4	ac1						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Summon Bidding	1			100	16	368	59		2	cc4	ac2						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Shapeshifter Bidding	1			100	16	368	59		2	cc4	ac3						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
+Elemental Bidding	1			100	16	368	59		2	cc4	ac1						useitem				infusion	100		4	4	levelreq			4	4	skilltab		42	1	1																																																																					0
+Summon Bidding	1			100	16	368	59		2	cc4	ac2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		40	1	1																																																																					0
+Shapeshifter Bidding	1			100	16	368	59		2	cc4	ac3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		41	1	1																																																																					0
 NECRO VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc5	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc5	ab2						useitem				infusion	100		3	3	levelreq			1	1	str			4	4																																																																					0
@@ -1535,9 +1550,9 @@ Electrical Bidding	1			100	16	368	59		2	cc5	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc5	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc5	vb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc5	vb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-pois		75	64	64																																																																					0
-Summon Bidding	1			100	16	368	59		2	cc5	ac4						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Bone Bidding	1			100	16	368	59		2	cc5	ac5						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Curse Bidding	1			100	16	368	59		2	cc5	ac6						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
+Summon Bidding	1			100	16	368	59		2	cc5	ac4						useitem				infusion	100		4	4	levelreq			4	4	skilltab		18	1	1																																																																					0
+Bone Bidding	1			100	16	368	59		2	cc5	ac5						useitem				infusion	100		4	4	levelreq			4	4	skilltab		17	1	1																																																																					0
+Curse Bidding	1			100	16	368	59		2	cc5	ac6						useitem				infusion	100		4	4	levelreq			4	4	skilltab		16	1	1																																																																					0
 PALA VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc6	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc6	ab2						useitem				infusion	100		3	3	levelreq			1	1	str			4	4																																																																					0
@@ -1605,9 +1620,9 @@ Electrical Bidding	1			100	16	368	59		2	cc6	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc6	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc6	vb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc6	vb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-pois		75	64	64																																																																					0
-Combat Bidding	1			100	16	368	59		2	cc6	ac7						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Defensive Bidding	1			100	16	368	59		2	cc6	ac8						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Offensive Bidding	1			100	16	368	59		2	cc6	ac9						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
+Combat Bidding	1			100	16	368	59		2	cc6	ac7						useitem				infusion	100		4	4	levelreq			4	4	skilltab		24	1	1																																																																					0
+Defensive Bidding	1			100	16	368	59		2	cc6	ac8						useitem				infusion	100		4	4	levelreq			4	4	skilltab		26	1	1																																																																					0
+Offensive Bidding	1			100	16	368	59		2	cc6	ac9						useitem				infusion	100		4	4	levelreq			4	4	skilltab		25	1	1																																																																					0
 SORC VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc7	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc7	ab2						useitem				infusion	100		3	3	levelreq			1	1	str			4	4																																																																					0
@@ -1675,9 +1690,9 @@ Electrical Bidding	1			100	16	368	59		2	cc7	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc7	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc7	vb2						useitem				infusion	100		3	3	levelreq			1	1	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc7	vb3						useitem				infusion	100		3	3	levelreq			2	2	dmg-pois		75	64	64																																																																					0
-Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
-Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4																																																																										0
+Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	levelreq			4	4	skilltab		8	1	1																																																																					0
+Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
+Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
 ITEM TESTING	0																																																																																																							0
 hp1 -> test item 1	1			100					1	hp1							aa0	200	200	200																										hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							gpw	200	200	200																										hp2																																																										0
