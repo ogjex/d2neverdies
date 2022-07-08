@@ -6224,7 +6224,7 @@
   {
     "id": 40031,
     "Key": "StrOrbCombDesc",
-    "enUS": "Build ÿc4Unique items: \n Orb of Combination + ÿc9Rare item ÿc0+ 5 Normal/10 Exceptional/15 Elite Essence + ÿc4Unique Essence ÿc0= new ÿc4Unique Item\n ÿc0Build ÿc2Set items ÿc0\n Cube Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "Build ÿc4Unique normal items: \n Orb of Combination + ÿc9Rare item ÿc0+ 5 Normal Essence + 5 ÿc4Unique Essences ÿc0= new ÿc4Unique Item\n ÿc0Build ÿc2Set items ÿc0\n Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6241,7 +6241,7 @@
   {
     "id": 40032,
     "Key": "StrOrbExtDesc",
-    "enUS": "Cube with Unique and Set items to Extract Essences \n Transmute in Cube to Stack and Unstack",
+    "enUS": "Cube with ÿc4Unique ÿc0and ÿc2Set ÿc0items to Extract Essences \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6258,7 +6258,7 @@
   {
     "id": 40033,
     "Key": "StrOrbDivDesc",
-    "enUS": "What does this Orb do? \n Transmute in Cube to Stack and Unstack",
+    "enUS": "Build ÿc4Unique normal items: \n Orb of Combination + ÿc9Rare item ÿc0+ 5 Normal Essence + 5 ÿc4Unique Essences ÿc0= new ÿc4Unique Item\n ÿc0Build ÿc2Set items ÿc0\n Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
