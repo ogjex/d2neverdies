@@ -6122,7 +6122,7 @@
   {
     "id": 40025,
     "Key": "StrEssComDesc",
-    "enUS": "What does this essence do? \n Transmute in Cube to Stack and Unstack",
+    "enUS": "Use with Orbs to build new set items \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6139,7 +6139,7 @@
   {
     "id": 40026,
     "Key": "StrEssRareDesc",
-    "enUS": "What does this essence do? \n Transmute in Cube to Stack and Unstack",
+    "enUS": "This essence has an unknown purpose \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6156,7 +6156,7 @@
   {
     "id": 40027,
     "Key": "StrEssUniDesc",
-    "enUS": "What does this essence do? \n Transmute in Cube to Stack and Unstack",
+    "enUS": "Use with Orbs to build new Unique items \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6173,7 +6173,7 @@
   {
     "id": 40028,
     "Key": "StrEssNormDesc",
-    "enUS": "What does this essence do? \n Transmute in Cube to Stack and Unstack",
+    "enUS": "Use with Orbs to build new items \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6190,7 +6190,7 @@
   {
     "id": 40029,
     "Key": "StrEssExcDesc",
-    "enUS": "What does this essence do? \n Transmute in Cube to Stack and Unstack",
+    "enUS": "Use with Orbs to build new items \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6207,7 +6207,7 @@
   {
     "id": 40030,
     "Key": "StrEssEliDesc",
-    "enUS": "Cube with the following to up \n Transmute in Cube to Stack and Unstack",
+    "enUS": "Use with Orbs to build new items \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6224,7 +6224,7 @@
   {
     "id": 40031,
     "Key": "StrOrbCombDesc",
-    "enUS": "Cube with Magic items to build new Set or Unique items \n Transmute in Cube to Stack and Unstack",
+    "enUS": "Build ÿc4Unique items: \n Orb of Combination + ÿc9Rare item ÿc0+ 5 Normal/10 Exceptional/15 Elite Essence + ÿc4Unique Essence ÿc0= new ÿc4Unique Item\n ÿc0Build ÿc2Set items ÿc0\n Cube Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
