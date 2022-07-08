@@ -5918,7 +5918,7 @@
   {
     "id": 40013,
     "Key": "StrTopCraft",
-    "enUS": "ÿc3Weaponÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc;Fomenter'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "ÿc3Weaponÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc9Cornucopia'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -5935,7 +5935,7 @@
   {
     "id": 40014,
     "Key": "StrSapCraft",
-    "enUS": "ÿc3Weaponÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Conjurer's'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "ÿc3Weaponÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Conjurer'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6105,7 +6105,7 @@
   {
     "id": 40024,
     "Key": "StrValorDesc",
-    "enUS": "ÿc3P. Sapphire ÿc0= Sorceress' Valor \n ÿc;P. Amethyst ÿc0= Paladin's Valor \n ÿc5P. Skull ÿc0= Necromancer's Valor \n ÿc2P. Emerald ÿc1= Druid's Valor \n ÿc1P. Ruby ÿc0= Barbarian's Valor \n ÿc0P. Diamond ÿc0= Assassin's Valor \n ÿc1P. Topaz ÿc9= Amazon's Valor \n Cube to transmute into:",
+    "enUS": "ÿc3P. Sapphire ÿc0= Sorceress' Valor \n ÿc;P. Amethyst ÿc0= Paladin's Valor \n ÿc5P. Skull ÿc0= Necromancer's Valor \n ÿc2P. Emerald ÿc0= Druid's Valor \n ÿc1P. Ruby ÿc0= Barbarian's Valor \n ÿc0P. Diamond ÿc0= Assassin's Valor \n ÿc9P. Topaz ÿc0= Amazon's Valor \n ÿc0Cube to transmute into:",
     "zhTW": "",
     "deDE": "",
     "esES": "",
