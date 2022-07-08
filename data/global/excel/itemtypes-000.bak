@@ -32,8 +32,8 @@ Club	club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Sword	swor	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Hammer	hamm	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Knife	knif	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	3			0							weap	0
-Spear	spea	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Polearm	pole	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Spear	spea	mele	merc	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Polearm	pole	mele	merc	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Crossbow	xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Mace	mace	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Helm	merc			1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
@@ -85,7 +85,7 @@ Thawing Potion	wpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
 Small Charm	scha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
 Medium Charm	mcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch2	invch5	invch8				misc	0
 Large Charm	lcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
-Player Charm	pcha			0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
+Player Charm	pcha			0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3							misc	0
 Amazon's Valor	zcha	char	amaz	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3		ama	3	invch1	invch4	invch7				misc	0
 Assassin's Valor	acha	char	assn	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3		ass	3	invch1	invch4	invch7				misc	0
 Barbarian's Valor	bcha	char	barb	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3		bar	3	invch1	invch4	invch7				misc	0
