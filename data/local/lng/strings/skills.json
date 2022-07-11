@@ -35311,7 +35311,7 @@
   {
     "id": 27146,
     "Key": "StrSkillChancePerLevel",
-    "enUS": "%+d%% Chance per level",
+    "enUS": "%s: %+d%% Chance per level",
     "zhTW": "每等級 %+d%% 機率",
     "deDE": "%+d%% Chance pro Stufe",
     "esES": "%+d%% de probabilidad por nivel",
