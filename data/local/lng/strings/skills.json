@@ -31554,7 +31554,7 @@
   {
     "id": 22162,
     "Key": "Skillname253",
-    "enUS": "Claw Mastery",
+    "enUS": "Claw and Dagger Mastery",
     "zhTW": "利爪專精",
     "deDE": "Klauenbeherrschung",
     "esES": "Dominio de la garra",
@@ -31571,7 +31571,7 @@
   {
     "id": 22163,
     "Key": "Skillsd253",
-    "enUS": "passive - improves claw class weapons ability",
+    "enUS": "passive - improves claw and dagger class weapons ability",
     "zhTW": "被動 - 提高你使用爪類武器的戰鬥技巧",
     "deDE": "Passiv - Verbessert den Umgang mit Klauenwaffen.",
     "esES": "Pasiva: Mejora la destreza de lucha con armas de tipo garra.",
@@ -31588,7 +31588,7 @@
   {
     "id": 22164,
     "Key": "Skillld253",
-    "enUS": "passive - improves your skill\nwith claw class weapons",
+    "enUS": "passive - improves your skill\nwith claw and dagger class weapons",
     "zhTW": "被動 - 提高你使用爪類武器的戰鬥技巧",
     "deDE": "Passiv - Erhöht Schaden, Angriff\nund kritische Trefferchance\nmit Klauenwaffen.",
     "esES": "Pasiva: Mejora la destreza de lucha con garras.",
@@ -31605,7 +31605,7 @@
   {
     "id": 22165,
     "Key": "Skillan253",
-    "enUS": "Claw Mastery",
+    "enUS": "Claw and Dagger Mastery",
     "zhTW": "利爪專精",
     "deDE": "Klauenbeherrschung",
     "esES": "Dominio de la garra",
