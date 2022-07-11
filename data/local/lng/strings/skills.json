@@ -35735,8 +35735,8 @@
   },
   {
     "id": 28004,
-    "Key": "StrNewString",
-    "enUS": "String explanation here",
+    "Key": "AOEDamplev",
+    "enUS": "%s: %+d%% Area Attack Damage per Level",
     "zhTW": "",
     "deDE": "",
     "esES": "",
