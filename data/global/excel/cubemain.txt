@@ -1706,5 +1706,5 @@ mp4 -> test item 9	1			100					1	mp4							ac9	200	200	200																						
 mp5 -> test item 10	1			100					1	mp5							ad1	200	200	200																										mp5																																																										0
 id scroll -> test item	1			100					1	isc							oex	200	200	200																										isc																																																										0
 tp scroll -> crf-wep	1			100					1	tsc							ooc	200	200	200																										tsc																																																										0
-nos wep -> sock	1			100					1	"weap,nos"							"useitem,add"				sock			6	6																																																																															0
-nos armo -> sock	1			100					1	"armo,nos"							"useitem,add"				sock			6	6																																																																															0
+nos wep -> sock	0			100					1	"weap,nos"							"useitem,add"				sock			6	6																																																																															0
+nos armo -> sock	0			100					1	"armo,nos"							"useitem,add"				sock			6	6																																																																															0
