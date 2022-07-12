@@ -156,7 +156,7 @@
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
-                    "pointSize": "$SmallPanelFontSize",
+                    "pointSize": "$SmallFontSize",
                     "alignment": { "h": "center", "v": "center" }
                 },
             }
@@ -167,7 +167,7 @@
                 "rect": { "x": 361, "y": 955, "width": 187, "height": 59 },
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
-                    "pointSize": "$SmallPanelFontSize",
+                    "pointSize": "$SmallFontSize",
                     "alignment": { "h": "center", "v": "center" }
                 },
             }
@@ -179,7 +179,7 @@
                 "rect": { "x": 380, "y": 860, "width": 100, "height": 30 },
                 "text": "@strchrlvl",
                 "style": {
-                    "fontColor": "$FontColorWhite",
+                    "fontColor": "$FontColorOrange",
                     "pointSize": "$XMediumFontSize",
                     "dropShadow": "$DefaultDropShadow",
                     "alignment": { "h": "left" }
@@ -190,7 +190,7 @@
         {
             "type": "ExpBarWidget", "name": "XpProgress",
             "fields": {
-                "rect": { "x": 139, "y": 830, "width": 888, "height": 10 },
+                "rect": { "x": 139, "y": 830, "width": 888, "height": 10 } ,
                 "filename": "PANEL\\Hireling\\Hireling_ExpBar",
                 "frame": 0,
                 "isHireling": true,
@@ -295,45 +295,15 @@
             }
         },
         {
-            "type": "Widget", "name": "Damage",
+            "type": "TextBoxWidget", "name": "DamageStat",
             "fields": {
-                "rect": { "x": 328, "y": 1204, "width": 237, "height": 59 },
-            },
-            "children": [
-                {
-					"type": "TextBoxWidget", "name": "DamageStat",
-					"fields": {
-						"rect": { "x": 25, "y": 0, "width": 187, "height": 59 },
-						"style": {
-							"fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
-							"pointSize": "$SmallPanelFontSize",
-							"alignment": { "h": "center", "v": "center" }
-						}
-					}
-				},
-				{
-					"type": "TextBoxWidget", "name": "DamageStatTop",
-					"fields": {
-						"rect": { "x": 0, "y": 0, "width": 237, "height": 59 },
-						"style": {
-							"fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
-							"pointSize": "$SmallPanelFontSize",
-							"alignment": { "h": "center", "v": "top" }
-						}
-					}
-				},
-				{
-					"type": "TextBoxWidget", "name": "DamageStatBottom",
-					"fields": {
-						"rect": { "x": 0, "y": -1, "width": 237, "height": 59 },
-						"style": {
-							"fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
-							"pointSize": "$SmallPanelFontSize",
-							"alignment": { "h": "center", "v": "bottom" }
-						}
-					}
-				},
-			]
+                "rect": { "x": 361, "y": 1204, "width": 187, "height": 59 },
+                "style": {
+                    "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
+                    "pointSize": "$SmallFontSize",
+                    "alignment": { "h": "center", "v": "center" }
+                },
+            }
         },
         {
             "type": "TextBoxWidget", "name": "ArmorClassTitle",
@@ -366,7 +336,7 @@
                 "rect": { "x": 608, "y": 1038, "width": 325, "height": 59 },
                 "text": "@strchrfir",
                 "style": {
-                    "fontColor":"$FontColorWhite",
+                    "fontColor":"$FontColorRed",
                     "fontFace": "Formal",
                     "pointSize": "$SmallFontSize",
                     "alignment": { "h": "center", "v": "center" },
@@ -390,7 +360,7 @@
                 "rect": { "x": 608, "y": 1119, "width": 325, "height": 59 },
                 "text": "@strchrcol",
                 "style": {
-                    "fontColor":"$FontColorWhite",
+                    "fontColor":"$FontColorBlue",
                     "fontFace": "Formal",
                     "pointSize": "$SmallFontSize",
                     "alignment": { "h": "center", "v": "center" },
@@ -414,7 +384,7 @@
                 "rect": { "x": 608, "y": 1204, "width": 325, "height": 59 },
                 "text": "@strchrlit",
                 "style": {
-                    "fontColor":"$FontColorWhite",
+                    "fontColor":"$FontColorYellow",
                     "fontFace": "Formal",
                     "pointSize": "$SmallFontSize",
                     "alignment": { "h": "center", "v": "center" },
@@ -438,7 +408,7 @@
                 "rect": { "x": 608, "y": 1286, "width": 325, "height": 59 },
                 "text": "@strchrpos",
                 "style": {
-                    "fontColor":"$FontColorWhite",
+                    "fontColor":"$FontColorGreen",
                     "fontFace": "Formal",
                     "pointSize": "$SmallFontSize",
                     "alignment": { "h": "center", "v": "center" },
