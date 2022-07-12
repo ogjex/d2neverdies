@@ -1,244 +1,172 @@
 {
-  "basedOn": "PlayerInventoryOriginalLayoutHD.json",
-  "type": "PlayerInventoryPanel", "name": "PlayerInventoryExpansionLayout",
-  "fields": {
-      "activeWeaponSwapFontColor": "$TabsActiveTextColorInGame",
-      "inactiveWeaponSwapFontColor": "$TabsInactiveTextColor"
-  },
-"children": [
-  {
-    "type": "ClickCatcherWidget", "name": "click_catcher"
-  },
-  {
-    "type": "ImageWidget", "name": "background",
+    "basedOn": "PlayerInventoryOriginalLayoutHD.json",
+    "type": "PlayerInventoryPanel", "name": "PlayerInventoryExpansionLayout",
     "fields": {
-      "filename": "PANEL\\Inventory\\Background"
-    }
-  },
-  {
-    "type": "ImageWidget", "name": "RightHinge"
-  },
-  {
-    "type": "TextBoxWidget", "name": "title"
-  },
-  {
-    "type": "TextBoxWidget", "name": "gold_amount",
-    "children": [
-      {	"rect": { "x": 65, "y": 1455, "width": 249, "height": 48 },
-        "type": "FocusableWidget", "name": "gold_amount_tooltip"
-      }
-    ]
-  },
-  {
-    "type": "ButtonWidget", "name": "gold_button",
-    "fields": {
-      "rect": { "x": 8, "y": 1453 },
-              "filename": "PANEL\\GoldButton",
-              "hoveredFrame": 3,
-              "tooltipString": "@strGoldDrop",
-              "onClickMessage": "PlayerInventoryPanelMessage:DropGold",
+        "activeWeaponSwapFontColor": "$TabsActiveTextColorInGame",
+        "inactiveWeaponSwapFontColor": "$TabsInactiveTextColor",
     },
-  },
-  {
-    "type": "ButtonWidget", "name": "close"
-  },
-  {
-    "type": "InventoryGridWidget", "name": "grid"
-  },
-  {
-    "type": "InventorySlotWidget", "name": "slot_right_hand"
-  },
-  {
-    "type": "InventorySlotWidget", "name": "slot_left_hand"
-  },
-  {
-    "type": "InventorySlotWidget", "name": "slot_belt"
-  },
-  {
-    "type": "InventorySlotWidget", "name": "slot_feet"
-  },
-  {
-    "type": "InventorySlotWidget", "name": "slot_gloves"
-  },
-  {
-    "type": "InventorySlotWidget", "name": "slot_head"
-  },
-  {
-    "type": "InventorySlotWidget", "name": "slot_neck"
-  },
-  {
-    "type": "InventorySlotWidget", "name": "slot_torso"
-  },
-  {
-    "type": "InventorySlotWidget", "name": "slot_right_arm"
-  },
-  {
-    "type": "InventorySlotWidget", "name": "slot_left_arm"
-  },
-  {
-    "type": "ImageWidget", "name": "background_right_arm_selected",
-    "fields": {
-      "rect": { "x": 99, "y": 65 },
-      "filename": "PANEL\\Inventory\\Tab"
-    }
-  },
-  {
-    "type": "ImageWidget", "name": "background_left_arm_selected",
-    "fields": {
-      "rect": { "x": 850, "y": 65 },
-      "filename": "PANEL\\Inventory\\Tab"
-    }
-  },
-  {
-    "type": "ImageWidget", "name": "background_right_arm",
-    "fields": {
-      "rect": { "x": 99, "y": 65 },
-      "filename": "PANEL\\Inventory\\Tab",
-      "frame": 1
-    }
-  },
-  {
-    "type": "ImageWidget", "name": "background_left_arm",
-    "fields": {
-      "rect": { "x": 850, "y": 65 },
-      "filename": "PANEL\\Inventory\\Tab",
-      "frame": 1
-    }
-  },
-  {
-    "type": "TextBoxWidget", "name": "text_i_left",
-    "fields": {
-      "rect": { "x": 99, "y": 65, "width": 107, "height": 48 },
-      "text": "I",
-      "style": "$StyleWeaponSwapTabs"
-    }
-  },
-  {
-    "type": "TextBoxWidget", "name": "text_ii_left",
-    "fields": {
-      "rect": { "x": 205, "y": 65, "width": 107, "height": 48 },
-      "text": "II",
-      "style": "$StyleWeaponSwapTabs"
-    }
-  },
-  {
-    "type": "TextBoxWidget", "name": "text_i_right",
-    "fields": {
-      "rect": { "x": 850, "y": 65, "width": 107, "height": 48 },
-      "text": "I",
-      "style": "$StyleWeaponSwapTabs"
-    }
-  },
-  {
-    "type": "TextBoxWidget", "name": "text_ii_right",
-    "fields": {
-      "rect": { "x": 956, "y": 65, "width": 107, "height": 48 },
-      "text": "II",
-      "style": "$StyleWeaponSwapTabs"
-    }
-  },
-  {
-    "type": "FocusableWidget", "name": "weaponswap_right_arm",
-    "fields": {
-      "rect": { "x": 99, "y": 65, "width": 215, "height": 48 }
-    }
-  },
-  {
-    "type": "FocusableWidget", "name": "weaponswap_left_arm",
-    "fields": {
-      "rect": { "x": 850, "y": 179, "width": 215, "height": 48 }
-    }
-  },
-  {
-    "type": "ButtonWidget", "name": "hudStr16",
-    "fields": {
-      "rect": { "x": 80, "y": 1380, "scale" : 0.9, "width": 220, "height": 80 },
-      "filename": "blank",
-      "hoveredFrame": 3,
-      "textString": "@IvButtonOn",
-      "pressLabelOffset": [ 0, 0 ],
-      "onClickMessage": "PanelManager:OpenPanel:ModSettingsPanel",
-      "textColor": "$FontColorGold",
-      "text/style": "$StyleFEButtonText",
-      "tooltipString": "@IvButtonOn",
-      "acceptsReturnKey": true,
-      "focusOnMouseOver": false,
-      "sound": "select"
-    }
-  },
-  {
-    "type": "ButtonWidget", "name": "convert",
-    "fields": {
-      "rect": { "x": 86, "y": 1291 },
-      "filename": "PANEL\\Horadric_Cube\\TransmuteButton1",
-      "tooltipString": "@strUiMenu2",
-      "hoveredFrame": 2,
-      "onClickMessage": "HoradricCubePanelMessage:Convert"
-    }
-  },
-  {
-    "type": "ButtonWidget", "name": "hudStr10",
-    "fields": {
-      "rect": { "x": 295, "y": 1374 },
-      "tooltipString": "@hudjewel",
-      "filename": "PANEL/hud_jewel"
-    }
-  },
-  {
-    "type": "ButtonWidget", "name": "hudStr3",
-    "fields": {
-      "rect": { "x": 395, "y": 1374 },
-      "tooltipString": "@hudpanelStr3",
-      "filename": "PANEL/seonhee_hud3"
-    }
-  },
-  {
-    "type": "ButtonWidget", "name": "hudStr4",
-    "fields": {
-      "rect": { "x": 495, "y": 1374 },
-      "tooltipString": "@hudpanelStr4",
-      "filename": "PANEL/seonhee_hud4"
-    }
-  },
-  {
-    "type": "ButtonWidget", "name": "hudStr5",
-    "fields": {
-      "rect": { "x": 595, "y": 1374 },
-      "tooltipString": "@hudpanelStr5",
-      "filename": "PANEL/seonhee_hud5"
-    }
-  },
-  {
-    "type": "ButtonWidget", "name": "hudStr6",
-    "fields": {
-      "rect": { "x": 695, "y": 1374 },
-      "tooltipString": "@hudpanelStr6",
-      "filename": "PANEL/seonhee_hud6"
-    }
-  },
-  {
-    "type": "ButtonWidget", "name": "hudStr7",
-    "fields": {
-      "rect": { "x": 795, "y": 1374 },
-      "tooltipString": "@hudpanelStr7",
-      "filename": "PANEL/seonhee_hud7"
-    }
-  },
-  {
-    "type": "ButtonWidget", "name": "hudStr8",
-    "fields": {
-      "rect": { "x": 895, "y": 1374 },
-      "tooltipString": "@hudpanelStr8",
-      "filename": "PANEL/seonhee_hud8"
-    }
-  },
-  {
-    "type": "ButtonWidget", "name": "hudStr9",
-    "fields": {
-      "rect": { "x": 995, "y": 1374 },
-      "tooltipString": "@hudpanelStr9",
-      "filename": "PANEL/seonhee_hud9"
-    }
-  }
-]
+    "children": [
+        {
+            "type": "ClickCatcherWidget", "name": "click_catcher",
+        },
+        {
+            "type": "ImageWidget", "name": "background",
+            "fields": {
+                "filename": "PANEL\\Inventory\\Background"
+            },
+        },
+        {
+            "type": "ImageWidget", "name": "RightHinge",
+        },
+        {
+            "type": "TextBoxWidget", "name": "title",
+        },
+        {
+            "type": "TextBoxWidget", "name": "gold_amount",
+            "children": [
+                {	"rect": { "x": 65, "y": 1455, "width": 249, "height": 48 },
+                    "type": "FocusableWidget", "name": "gold_amount_tooltip",
+                }
+            ]
+        },
+        {
+            "type": "ButtonWidget", "name": "gold_button",
+			"fields": {
+				"rect": { "x": 8, "y": 1453 },
+                "filename": "PANEL\\GoldButton",
+                "hoveredFrame": 3,
+                "tooltipString": "@strGoldDrop",
+                "onClickMessage": "PlayerInventoryPanelMessage:DropGold",
+            },
+        },
+        {
+            "type": "ButtonWidget", "name": "close",
+        },
+        {
+            "type": "InventoryGridWidget", "name": "grid",
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_right_hand",
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_left_hand",
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_belt",
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_feet",
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_gloves",
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_head",
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_neck",
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_torso",
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_right_arm",
+        },
+        {
+            "type": "InventorySlotWidget", "name": "slot_left_arm",
+        },
+        {
+            "type": "ImageWidget", "name": "background_right_arm_selected",
+            "fields": {
+                "rect": { "x": 99, "y": 65 },
+                "filename": "PANEL\\Inventory\\Tab",
+            },
+        },
+        {
+            "type": "ImageWidget", "name": "background_left_arm_selected",
+            "fields": {
+                "rect": { "x": 850, "y": 65 },
+                "filename": "PANEL\\Inventory\\Tab",
+            },
+        },
+        {
+            "type": "ImageWidget", "name": "background_right_arm",
+            "fields": {
+                "rect": { "x": 99, "y": 65 },
+                "filename": "PANEL\\Inventory\\Tab",
+                "frame": 1,
+            },
+        },
+        {
+            "type": "ImageWidget", "name": "background_left_arm",
+            "fields": {
+                "rect": { "x": 850, "y": 65 },
+                "filename": "PANEL\\Inventory\\Tab",
+                "frame": 1,
+            },
+        },
+        /*
+        {
+            "type": "TabBarWidget", "name": "Tabs",
+            "fields": {
+                "rect": { "x": 99, "y": 0 },
+                "tabCount": 2,
+                "inactiveFrames": [ 1, 1 ],
+                "activeFrames": [ 0, 0 ],
+                "textStrings": [ "I", "II" ],
+                "textStyle": { "pointSize": "$MediumLargeFontSize" },
+                "activeTextColor": "$TabsActiveTextColor",
+                "inactiveTextColor": "$TabsInactiveTextColor",
+                "tabSize": { "x": 107, "y": 60 },
+                "tabPadding": { "x": 0, "y": 0 },
+                "onSwitchTabMessage": "PlayerInventoryPanelMessage:SelectTab",
+            }
+        },
+        */
+
+        {
+            "type": "TextBoxWidget", "name": "text_i_left",
+            "fields": {
+                "rect": { "x": 99, "y": 65, "width": 107, "height": 48 },
+                "text": "I",
+                "style": "$StyleWeaponSwapTabs",
+            },
+        },
+        {
+            "type": "TextBoxWidget", "name": "text_ii_left",
+            "fields": {
+                "rect": { "x": 205, "y": 65, "width": 107, "height": 48 },
+                "text": "II",
+                "style": "$StyleWeaponSwapTabs",
+            },
+        },
+        {
+            "type": "TextBoxWidget", "name": "text_i_right",
+            "fields": {
+                "rect": { "x": 850, "y": 65, "width": 107, "height": 48 },
+                "text": "I",
+                "style": "$StyleWeaponSwapTabs",
+            },
+        },
+        {
+            "type": "TextBoxWidget", "name": "text_ii_right",
+            "fields": {
+                "rect": { "x": 956, "y": 65, "width": 107, "height": 48 },
+                "text": "II",
+                "style": "$StyleWeaponSwapTabs",
+            },
+        },
+        {
+            "type": "FocusableWidget", "name": "weaponswap_right_arm",
+            "fields": {
+                "rect": { "x": 99, "y": 65, "width": 215, "height": 48 },
+            },
+        },
+        {
+            "type": "FocusableWidget", "name": "weaponswap_left_arm",
+            "fields": {
+                "rect": { "x": 850, "y": 65, "width": 215, "height": 48 },
+            },
+        },
+    ]
 }
