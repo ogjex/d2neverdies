@@ -333,6 +333,30 @@ Exceptional Essence Unstack	1			100	18	70	1		1	8sx							esx																				
 Exceptional Essence Stack	1			100					1	esx							8sx																																																																																							0
 Elite Essence Unstack	1			100	18	70	1		1	8sl							esl																																																																																							0
 Elite Essence Stack	1			100					1	esl							8sl																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
+	0																																																																																																							0
 UBERS ITEMS STACKING	0																																																																																																							0
 Key of Terror Unstack	1			100	18	70	1		1	p1s							pk1																																																																																							0
 Key of Terror Stack	1			100					1	pk1							p1s																																																																																							0
@@ -703,31 +727,48 @@ Larzuk's Gimlet + 2H weapon -> 2H Weapon with 1-4 Sockets	1			100					2	"weap,no
 Larzuk's Gimlet + Torso -> 1-2 Sockets	1			100					2	"tors,nos"	"lzg,qty=1"						useitem			50	sock	100		1	2																																																																															0
 ESSENCE RECIPES	0																																																																																																							0
 ESSENCE EXTRACTION RECIPES	0																																																																																																							0
-Normal Unique + Orb of Extraction -> Extract Normal Essence	1								2	"any,uni,bas"	oex						esu	50	100																											esn																																																										0
-Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1								2	"any,uni,exc"	oex						"esu,qty=2"	50	100																											esx																																																										0
-Elite Unique + Orb of Extraction -> Extract Elite Essence	1								2	"any,uni,eli"	oex						"esu,qty=3"	50	100																											esl																																																										0
-Set Item + Orb of Extraction -> Extract Compound Essence	1								2	"any,set"	oex						"esc,qty=1"	50	100																																																																																					0
-Rare Item + Orb of Extraction -> Extract Rare Essence	1								2	"any,rar"	oex						"esr,qty=1"	50	100																																																																																					0
-BUILD RECIPES	0																																																																																																							0
-Rare Weapon + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Weapon	0								4	"weap,rar,bas"	esc	esn	ooc				"usetype,set"	50	100																																																																																					0
-Rare Armor + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Armor	0								4	"armo,rar,bas"	esc	esn	ooc				"usetype,set"	50	100																																																																																					0
-Rare Weapon + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Weapon	0								4	"weap,rar,exc"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
-Rare Armor + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Armor	0								4	"armo,rar,exc"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
-Rare Weapon + Compound Essence + Elite Essence + Orb of Combination -> Elite Set Weapon	0								4	"weap,rar,eli"	esc	esl	ooc				"usetype,set"	50	100																																																																																					0
-Rare Armor + Compound Essence + Elite Essence + Orb of Combination -> Elite Set Armor	0								4	"armo,rar,eli"	esc	esl	ooc				"usetype,set"	50	100																																																																																					0
-Rare Ring + Compound Essence + Exceptional Essence + Orb of Combination -> Set Ring	0								4	"ring,rar"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
-Rare Amulet + Compound Essence + Exceptional Essence + Orb of Combination -> Set Amulet	0								4	"amul,rar"	esc	esx	ooc				"usetype,set"	50	100																																																																																					0
-Rare Weapon + Unique Essence + Normal Essence + Orb of Combination -> Normal Unique Weapon	0								4	"weap,rar,bas"	esc	esn	ooc				"usetype,uni"	50	100																																																																																					0
-Rare Armor + Unique Essence + Normal Essence + Orb of Combination -> Normal Unique Armor	0								4	"armo,rar,bas"	esu	esn	ooc				"usetype,uni"	50	100																																																																																					0
-Rare Weapon + Unique Essence + Exceptional Essence + Orb of Combination -> Exceptional Unique Weapon	0								4	"weap,rar,exc"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
-Rare Armor + Unique Essence + Exceptional Essence + Orb of Combination -> Exceptional Unique Armor	0								4	"armo,rar,exc"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
-Rare Weapon + Unique Essence + Elite Essence + Orb of Combination -> Elite Unique Weapon	0								4	"weap,rar,eli"	esu	esl	ooc				"usetype,uni"	50	100																																																																																					0
-Rare Armor + Unique Essence + Elite Essence + Orb of Combination -> Elite Unique Armor	0								4	"armo,rar,eli"	esu	esl	ooc				"usetype,uni"	50	100																																																																																					0
-Rare Ring + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Ring	0								4	"ring,rar"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
-Rare Amulet + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Amulet	0								4	"amul,rar"	esu	esx	ooc				"usetype,uni"	50	100																																																																																					0
-ESSENCE UPGRADES																																																																																																								0
+Normal Unique + Orb of Extraction -> Extract Normal Essence	1			100					2	"any,uni,bas"	oex						esu	50	100																											esn																																																										0
+Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1			100					2	"any,uni,exc"	oex						e3u	50	100																											esx																																																										0
+Elite Unique + Orb of Extraction -> Extract Elite Essence	1			100					2	"any,uni,eli"	oex						e5u	50	100																											esl																																																										0
+Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"any,set"	oex						esc	50	100																																																																																					0
+Rare Item + Orb of Extraction -> Extract Rare Essence	1			100					2	"any,rar"	oex						esr	50	100																																																																																					0
+ESSENCE UPTIER	0																																																																																																							0
+Compound Essence to Triple	1			100					4	esc	esc	esc	ooc				e3c																																																																																							0
+Compound Essence to Quintuple	1			100					6	esc	esc	esc	esc	esc	ooc		e5c																													ooc																																																										0
+Rare Essence to Triple	1			100					4	esr	esr	esr	ooc				e3r																													ooc																																																										0
+Rare Essence to Quintuple	1			100					6	esr	esr	esr	esr	esr	ooc		e5r																																																																																							0
+Unique Essence to Triple	1			100					4	esu	esu	esu	ooc				e3n																																																																																							0
+Unique Normal Essence to Quintuple	1			100					6	esu	esu	esu	esu	esu	ooc		e5n																													ooc																																																										0
+Unique Essence to Triple	1			100					4	esu	esu	esu	ooc				e3n																																																																																							0
+Unique Normal Essence to Quintuple	1			100					6	esu	esu	esu	esu	esu	ooc		e5n																													ooc																																																										0
+Normal Essence to Triple	1			100					4	esn	esn	esn	ooc				e3n																																																																																							0
+Normal Essence to Quintuple	1			100					6	esn	esn	esn	esn	esn	ooc		e5n																													ooc																																																										0
+Exceptional Essence to Triple	1			100					4	esx	esx	esx	ooc				e3x																																																																																							0
+Exceptional Essence to Quintuple	1			100					6	esx	esx	esx	esx	esx	ooc		e5x																													ooc																																																										0
+Elite Essence to Triple	1			100					4	esl	esl	esl	ooc				e3l																																																																																							0
+Elite Essence to Quintuple	1			100					6	esl	esl	esl	esl	esl	ooc		e5l																													ooc																																																										0
 5 Normal Essence -> 1 Exceptional Essence	1			100					5	esn	esn	esn	esn	esn			esx																																																																																							0
+1 Quintuple Normal Essence -> 1 Exceptional Essence	1			100					1	e5n							esx																																																																																							0
+1 Triple Normal Essence + 2 Normal Essences -> 1 Exceptional Essence	1			100					3	e3n	esn	esn					esx																																																																																							0
 4 Exceptional Essence -> 1 Elite Essence	1			100					4	esx	esx	esx	esx				esl																																																																																							0
+3 Triple Exceptional Essences + 1 Exceptional Essence -> Elite Essence	1			100					2	e3x	esx						esl																																																																																							0
+BUILD RECIPES	0																																																																																																							0
+Rare Weapon + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Weapon	0			100					4	"weap,rar,bas"	e3c	e5n	ooc				"usetype,set"	50	100																																																																																					0
+Rare Armor + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Armor	0			100					4	"armo,rar,bas"	e3c	e5n	ooc				"usetype,set"	50	100																																																																																					0
+Rare Weapon + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Weapon	0			100					4	"weap,rar,exc"	e5c	e3x	ooc				"usetype,set"	50	100																																																																																					0
+Rare Armor + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Armor	0			100					4	"armo,rar,exc"	e5c	esx	ooc				"usetype,set"	50	100																																																																																					0
+Rare Weapon + Compound Essence + Elite Essence + Orb of Combination -> Elite Set Weapon	0			100					5	"weap,rar,eli"	e5c	e3l	ooc	e5c			"usetype,set"	50	100																																																																																					0
+Rare Armor + Compound Essence + Elite Essence + Orb of Combination -> Elite Set Armor	0			100					5	"armo,rar,eli"	e5c	e3l	ooc	e5c			"usetype,set"	50	100																																																																																					0
+Rare Ring + Compound Essence + Exceptional Essence + Orb of Combination -> Set Ring	0			100					4	"ring,rar"	e3c	e5n	ooc				"usetype,set"	50	100																																																																																					0
+Rare Amulet + Compound Essence + Exceptional Essence + Orb of Combination -> Set Amulet	0			100					4	"amul,rar"	e3c	e5n	ooc				"usetype,set"	50	100																																																																																					0
+Rare Weapon + Unique Essence + Normal Essence + Orb of Combination -> Normal Unique Weapon	0			100					4	"weap,rar,bas"	e3u	e5n	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Armor + Unique Essence + Normal Essence + Orb of Combination -> Normal Unique Armor	0			100					4	"armo,rar,bas"	e3u	e5n	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Weapon + Unique Essence + Exceptional Essence + Orb of Combination -> Exceptional Unique Weapon	0			100					4	"weap,rar,exc"	e5u	e3x	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Armor + Unique Essence + Exceptional Essence + Orb of Combination -> Exceptional Unique Armor	0			100					4	"armo,rar,exc"	e5u	e3x	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Weapon + Unique Essence + Elite Essence + Orb of Combination -> Elite Unique Weapon	0			100					5	"weap,rar,eli"	e5u	e5l	ooc	e5u			"usetype,uni"	50	100																																																																																					0
+Rare Armor + Unique Essence + Elite Essence + Orb of Combination -> Elite Unique Armor	0			100					5	"armo,rar,eli"	e5u	e5l	ooc	e5u			"usetype,uni"	50	100																																																																																					0
+Rare Ring + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Ring	0			100					4	"ring,rar"	e3u	e5n	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Amulet + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Amulet	0			100					4	"amul,rar"	e3u	e5n	ooc				"usetype,uni"	50	100																																																																																					0
 UNIQUE REROLL	0																																																																																																							0
 JEWELRY	0																																																																																																							0
 4 Exceptional Essences + Orb of Divination + Unique Ring -> Reroll Stats	1			100					6	esx	esx	esx	esx	"ring,uni"	ood		"usetype,uni"		99	99																										ood																																																										0
@@ -1706,5 +1747,5 @@ mp4 -> test item 9	1			100					1	mp4							ac9	200	200	200																						
 mp5 -> test item 10	1			100					1	mp5							ad1	200	200	200																										mp5																																																										0
 id scroll -> test item	1			100					1	isc							oex	200	200	200																										isc																																																										0
 tp scroll -> crf-wep	1			100					1	tsc							ooc	200	200	200																										tsc																																																										0
-nos wep -> sock	1			100					1	"weap,nos"							"useitem,add"				sock			6	6																																																																															0
-nos armo -> sock	1			100					1	"armo,nos"							"useitem,add"				sock			6	6																																																																															0
+nos wep -> sock	0			100					1	"weap,nos"							"useitem,add"				sock			6	6																																																																															0
+nos armo -> sock	0			100					1	"armo,nos"							"useitem,add"				sock			6	6																																																																															0
