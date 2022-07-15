@@ -1,7 +1,7 @@
 ################################
 NEXT VALID ID
 ################################
-40489
+40515
 ################################
 "String IDs (""id"") are shared across all string files and required to be unique."
 This file is meant to contain the next valid ID to use when adding new strings.
