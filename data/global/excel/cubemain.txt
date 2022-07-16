@@ -771,30 +771,30 @@ Rare Ring + Unique Essence + Exceptional Essence + Orb of Combination -> Unique 
 Rare Amulet + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Amulet	0			100					4	"amul,rar"	e3u	e5n	ooc				"usetype,uni"	50	100																																																																																					0
 UNIQUE REROLL	0																																																																																																							0
 JEWELRY	0																																																																																																							0
-4 Exceptional Essences + Orb of Divination + Unique Ring -> Reroll Stats	1			100					6	esx	esx	esx	esx	"ring,uni"	ood		"usetype,uni"		99	99																										ood																																																										0
-3 Elite Essences + Orb of Divination + Unique Amulet -> Reroll Stats	1			100					5	esl	esl	esl	"amul,uni"	ood			"usetype,uni"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Unique Ring -> Reroll Stats	1			100					3	e3x	"ring,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Triple Elite Essence + Orb of Divination + Unique Amulet -> Reroll Stats	1			100					5	e3l	"amul,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
 NORMAL UNIQUE	0																																																																																																							0
-5 Normal Essences + Orb of Divination + Unique Armor -> Reroll Stats	1			100					7	esn	esn	esn	esn	esn	"armo,bas,uni"	ood	"usetype,uni"		99	99																										ood																																																										0
-5 Noraml Essences + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					7	esn	esn	esn	esn	esn	"weap,bas,uni"	ood	"usetype,uni"		99	99																										ood																																																										0
+1 Quintuple Normal Essence + Orb of Divination + Unique Armor -> Reroll Stats	1			100					3	e5n	"armo,bas,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Quintuple Normal Essence + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					3	e5n	"weap,bas,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
 EXCEPTIONAL UNIQUE	0																																																																																																							0
-4 Exceptional Essences + Orb of Divination + Unique Armor -> Reroll Stats	1			100					6	esx	esx	esx	esx	"armo,exc,uni"	ood		"usetype,uni"		99	99																										ood																																																										0
-4 Exceptional Essences + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					6	esx	esx	esx	esx	"weap,exc,uni"	ood		"usetype,uni"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Unique Armor -> Reroll Stats	1			100					3	e3x	"armo,exc,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					3	e3x	"weap,exc,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
 ELITE UNIQUE	0																																																																																																							0
-3 Elite Essences + Orb of Divination + Unique Armor -> Reroll Stats	1			100					5	esl	esl	esl	"armo,eli,uni"	ood			"usetype,uni"		99	99																										ood																																																										0
-3 Elite Essences + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					5	esl	esl	esl	"weap,eli,uni"	ood			"usetype,uni"		99	99																										ood																																																										0
+1 Triple Elite Essence + Orb of Divination + Unique Armor -> Reroll Stats	1			100					3	e3l	"armo,eli,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Triple Elite Essence + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					3	e3l	"weap,eli,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
 SET REROLL	0																																																																																																							0
 JEWELRY	0																																																																																																							0
-4 Exceptional Essences + Orb of Divination + Set Ring -> Reroll Stats	1			100					6	esx	esx	esx	esx	"ring,set"	ood		"usetype,set"		99	99																										ood																																																										0
-3 Elite Essences + Orb of Divination + Set Amulet -> Reroll Stats	1			100					5	esl	esl	esl	"amul,set"	ood			"usetype,set"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Set Ring -> Reroll Stats	1			100					3	e3x	"ring,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Triple Elite Essence + Orb of Divination + Set Amulet -> Reroll Stats	1			100					3	e3l	"amul,set"	ood					"usetype,set"		99	99																										ood																																																										0
 NORMAL SET	0																																																																																																							0
-5 Normal Essences + Orb of Divination + Set Armor -> Reroll Stats	1			100					7	esn	esn	esn	esn	esn	"armo,bas,set"	ood	"usetype,set"		99	99																										ood																																																										0
-5 Noraml Essences + Orb of Divination + Set Weapon -> Reroll Stats	1			100					7	esn	esn	esn	esn	esn	"weap,bas,set"	ood	"usetype,set"		99	99																										ood																																																										0
+1 Quintuple Normal Essence + Orb of Divination + Set Armor -> Reroll Stats	1			100					3	e5n	"armo,bas,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Quintuple Normal Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	e5n	"weap,bas,set"	ood					"usetype,set"		99	99																										ood																																																										0
 EXCEPTIONAL SET	0																																																																																																							0
-4 Exceptional Essences + Orb of Divination + Set Armor -> Reroll Stats	1			100					6	esx	esx	esx	esx	"armo,exc,set"	ood		"usetype,set"		99	99																										ood																																																										0
-4 Exceptional Essences + Orb of Divination + Set Weapon -> Reroll Stats	1			100					6	esx	esx	esx	esx	"weap,exc,set"	ood		"usetype,set"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Set Armor -> Reroll Stats	1			100					3	e3x	"armo,exc,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	e3x	"weap,exc,set"	ood					"usetype,set"		99	99																										ood																																																										0
 ELITE SET	0																																																																																																							0
-3 Elite Essences + Orb of Divination + Set Armor -> Reroll Stats	1			100					5	esl	esl	esl	"armo,eli,set"	ood			"usetype,set"		99	99																										ood																																																										0
-3 Elite Essences + Orb of Divination + Set Weapon -> Reroll Stats	1			100					5	esl	esl	esl	"weap,eli,set"	ood			"usetype,set"		99	99																										ood																																																										0
+1 Triple Elite Essence + Orb of Divination + Set Armor -> Reroll Stats	1			100					3	e3l	"armo,eli,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Triple Elite Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	e3l	"weap,eli,set"	ood					"usetype,set"		99	99																										ood																																																										0
 CORRUPTIONS	0																																																																																																							0
 WEAPONS - NORMAL 	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		2	"weap,nor,nos"	glx						useitem				corruption	100		1	20																					glx																																																										0
