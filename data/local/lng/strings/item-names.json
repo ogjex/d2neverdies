@@ -26080,7 +26080,7 @@
   {
     "id": 40124,
     "Key": "esc",
-    "enUS": "ÿc8Compound Essence",
+    "enUS": "ÿc8Compound Essence Cube",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26114,7 +26114,7 @@
   {
     "id": 40126,
     "Key": "esu",
-    "enUS": "ÿc8Unique Essence",
+    "enUS": "ÿc8Unique Essence Cube",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26131,7 +26131,7 @@
   {
     "id": 40127,
     "Key": "esn",
-    "enUS": "ÿc8Normal Essence",
+    "enUS": "ÿc8Normal Essence Cube",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26148,7 +26148,7 @@
   {
     "id": 40128,
     "Key": "esx",
-    "enUS": "ÿc8Exceptional Essence",
+    "enUS": "ÿc8Exceptional Essence Cube",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26165,7 +26165,7 @@
   {
     "id": 40129,
     "Key": "esl",
-    "enUS": "ÿc8Elite Essence",
+    "enUS": "ÿc8Elite Essence Cube",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26182,7 +26182,7 @@
   {
     "id": 40130,
     "Key": "lzg",
-    "enUS": "ÿc7Torso > +1-2 Sockets\n2H Wep > +1-4 Sockets\n1H Wep > +1-2 Sockets\nÿc8Larzuk's Gimlet:",
+    "enUS": "ÿc7Torso > +1-2 Sockets\n2H Wep > +1-4 Sockets\n1H Wep > +1-2 Sockets\nÿc8Larzuk's Gimlet",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26199,7 +26199,7 @@
   {
     "id": 40131,
     "Key": "glx",
-    "enUS": "ÿc8Glyph of Xiansai",
+    "enUS": "\nÿc8Glyph of Xiansai",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26437,7 +26437,7 @@
   {
     "id": 40145,
     "Key": "8ce",
-    "enUS": "ÿc2Chip Emerlad S",
+    "enUS": "ÿc2Chip Emerald S",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26454,7 +26454,7 @@
   {
     "id": 40146,
     "Key": "8fe",
-    "enUS": "ÿc2Flawed Emerlad S",
+    "enUS": "ÿc2Flawed Emerald S",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26471,7 +26471,7 @@
   {
     "id": 40147,
     "Key": "8ne",
-    "enUS": "ÿc2Emerlad S",
+    "enUS": "ÿc2Emerald S",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26488,7 +26488,7 @@
   {
     "id": 40148,
     "Key": "8le",
-    "enUS": "ÿc2Flaw Emerlad S",
+    "enUS": "ÿc2Flaw Emerald S",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26505,7 +26505,7 @@
   {
     "id": 40149,
     "Key": "8pe",
-    "enUS": "ÿc2P Emerlad S",
+    "enUS": "ÿc2P Emerald S",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -29310,7 +29310,7 @@
   {
     "id": 40511,
     "Key": "85u",
-    "enUS": "Quintuple Unique Essence Stack",
+    "enUS": "Quintuple Unique Essence Cube Stack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -29327,7 +29327,7 @@
   {
     "id": 40512,
     "Key": "85n",
-    "enUS": "Quintuple Normal Essence Stack",
+    "enUS": "Quintuple Normal Essence Cube Stack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -29344,7 +29344,7 @@
   {
     "id": 40513,
     "Key": "85x",
-    "enUS": "Quintuple Exceptional Essence Stack",
+    "enUS": "Quintuple Exceptional Essence Cube Stack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -29361,7 +29361,7 @@
   {
     "id": 40514,
     "Key": "85l",
-    "enUS": "Quintuple Elite Essence Stack",
+    "enUS": "Quintuple Elite Essence Cube Stack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
