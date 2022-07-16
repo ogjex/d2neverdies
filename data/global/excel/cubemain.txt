@@ -389,9 +389,9 @@ Rejuvination Unstack	1			100	18	70	1		1	8vl							rvl																											
 Rejuvination Stack	1			100					1	rvl							8vl																																																																																							0
 JEWEL TO FRAGMENT	0																																																																																																							0
 Any Jewel -> 1 Jewel Fragment	1			100					1	jew							8fg																																																																																							0
-Any Jewel -> 1 Jewel Fragment	1			100					2	"jew,mag"	cdm						"8fg,qty=2"																													cdm																																																										0
-Any Jewel -> 1 Jewel Fragment	1			100					2	"jew,rar"	cdm						"8fg,qty=3"																													cdm																																																										0
-Any Jewel -> 1 Jewel Fragment	1			100					2	"Jew,uni"	cdm						"8fg,qty=5"																													cdm																																																										0
+Any Jewel -> 1 Jewel Fragment	1			100					2	"jew,mag"	cdm						8fg																													cdm																													8fg																													0
+Any Jewel -> 1 Jewel Fragment	1			100					2	"jew,rar"	cdm						8fg																													cdm																													8fg																													0
+Any Jewel -> 1 Jewel Fragment	1			100					2	"Jew,uni"	cdm						8fg																													cdm																													8fg																													0
 QUANTITY MASTER	0																																																																																																							0
 Stack of 2 (Any) -> Stack-1 + Target Output	1			0	18	70	2		1	misc							"usetype,qty=1"																													"usetype,qty=1"																																																										0
 Stack of 3 (Any) -> Stack-1 + Target Output	1			0	18	70	3		1	misc							"usetype,qty=2"																													"usetype,qty=1"																																																										0
