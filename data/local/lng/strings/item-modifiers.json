@@ -6173,7 +6173,7 @@
   {
     "id": 40028,
     "Key": "StrEssNormDesc",
-    "enUS": "Use with Orbs to build new items \n Transmute in Cube to Stack and Unstack",
+    "enUS": "Build Normal ÿc4Unique Weapon/Armor: \n Orb of Combination + ÿc9Rare item ÿc0+ 1 x Normal Quintuple Essence Cube\n + 1 x ÿc4Triple Unique Essence Cube\n ÿc0= new Normal ÿc4Unique Item\n ÿc0Build Normal ÿc2Set items ÿc0\n Recipes: \n Orb of Combination + ÿc9Rare item ÿc0+ 1 x Normal Quintuple Essence Cube\n + 1 x ÿc4Triple Unique Essence Cube\n ÿc0= new Normal ÿc4Set Weapon/Armor\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6224,7 +6224,7 @@
   {
     "id": 40031,
     "Key": "StrOrbCombDesc",
-    "enUS": "Build ÿc4Unique normal items: \n Orb of Combination + ÿc9Rare item ÿc0+ 5 Normal Essence + 5 ÿc4Unique Essences ÿc0= new ÿc4Unique Item\n ÿc0Build ÿc2Set items ÿc0\n Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
