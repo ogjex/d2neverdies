@@ -389,9 +389,9 @@ Rejuvination Unstack	1			100	18	70	1		1	8vl							rvl																											
 Rejuvination Stack	1			100					1	rvl							8vl																																																																																							0
 JEWEL TO FRAGMENT	0																																																																																																							0
 Any Jewel -> 1 Jewel Fragment	1			100					1	jew							8fg																																																																																							0
-Any Jewel -> 1 Jewel Fragment	1			100					2	"jew,mag"	cdm						"8fg,qty=2"																													cdm																																																										0
-Any Jewel -> 1 Jewel Fragment	1			100					2	"jew,rar"	cdm						"8fg,qty=3"																													cdm																																																										0
-Any Jewel -> 1 Jewel Fragment	1			100					2	"Jew,uni"	cdm						"8fg,qty=5"																													cdm																																																										0
+Any Jewel -> 1 Jewel Fragment	1			100					2	"jew,mag"	cdm						8fg																													cdm																													8fg																													0
+Any Jewel -> 1 Jewel Fragment	1			100					2	"jew,rar"	cdm						8fg																													cdm																													8fg																													0
+Any Jewel -> 1 Jewel Fragment	1			100					2	"Jew,uni"	cdm						8fg																													cdm																													8fg																													0
 QUANTITY MASTER	0																																																																																																							0
 Stack of 2 (Any) -> Stack-1 + Target Output	1			0	18	70	2		1	misc							"usetype,qty=1"																													"usetype,qty=1"																																																										0
 Stack of 3 (Any) -> Stack-1 + Target Output	1			0	18	70	3		1	misc							"usetype,qty=2"																													"usetype,qty=1"																																																										0
@@ -756,7 +756,7 @@ BUILD RECIPES	0																																																																	
 Rare Weapon + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Weapon	0			100					4	"weap,rar,bas"	e3c	e5n	ooc				"usetype,set"	50	100																																																																																					0
 Rare Armor + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Armor	0			100					4	"armo,rar,bas"	e3c	e5n	ooc				"usetype,set"	50	100																																																																																					0
 Rare Weapon + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Weapon	0			100					4	"weap,rar,exc"	e5c	e3x	ooc				"usetype,set"	50	100																																																																																					0
-Rare Armor + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Armor	0			100					4	"armo,rar,exc"	e5c	esx	ooc				"usetype,set"	50	100																																																																																					0
+Rare Armor + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Armor	0			100					4	"armo,rar,exc"	e5c	e3x	ooc				"usetype,set"	50	100																																																																																					0
 Rare Weapon + Compound Essence + Elite Essence + Orb of Combination -> Elite Set Weapon	0			100					5	"weap,rar,eli"	e5c	e3l	ooc	e5c			"usetype,set"	50	100																																																																																					0
 Rare Armor + Compound Essence + Elite Essence + Orb of Combination -> Elite Set Armor	0			100					5	"armo,rar,eli"	e5c	e3l	ooc	e5c			"usetype,set"	50	100																																																																																					0
 Rare Ring + Compound Essence + Exceptional Essence + Orb of Combination -> Set Ring	0			100					4	"ring,rar"	e3c	e5n	ooc				"usetype,set"	50	100																																																																																					0
@@ -767,12 +767,12 @@ Rare Weapon + Unique Essence + Exceptional Essence + Orb of Combination -> Excep
 Rare Armor + Unique Essence + Exceptional Essence + Orb of Combination -> Exceptional Unique Armor	0			100					4	"armo,rar,exc"	e5u	e3x	ooc				"usetype,uni"	50	100																																																																																					0
 Rare Weapon + Unique Essence + Elite Essence + Orb of Combination -> Elite Unique Weapon	0			100					5	"weap,rar,eli"	e5u	e5l	ooc	e5u			"usetype,uni"	50	100																																																																																					0
 Rare Armor + Unique Essence + Elite Essence + Orb of Combination -> Elite Unique Armor	0			100					5	"armo,rar,eli"	e5u	e5l	ooc	e5u			"usetype,uni"	50	100																																																																																					0
-Rare Ring + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Ring	0			100					4	"ring,rar"	e3u	e5n	ooc				"usetype,uni"	50	100																																																																																					0
-Rare Amulet + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Amulet	0			100					4	"amul,rar"	e3u	e5n	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Ring + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Ring	0			100					4	"ring,rar"	e3u	e3x	ooc				"usetype,uni"	50	100																																																																																					0
+Rare Amulet + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Amulet	0			100					4	"amul,rar"	e3u	e3x	ooc				"usetype,uni"	50	100																																																																																					0
 UNIQUE REROLL	0																																																																																																							0
 JEWELRY	0																																																																																																							0
 1 Triple Exceptional Essence + Orb of Divination + Unique Ring -> Reroll Stats	1			100					3	e3x	"ring,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
-1 Triple Elite Essence + Orb of Divination + Unique Amulet -> Reroll Stats	1			100					5	e3l	"amul,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Unique Amulet -> Reroll Stats	1			100					3	e3x	"amul,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
 NORMAL UNIQUE	0																																																																																																							0
 1 Quintuple Normal Essence + Orb of Divination + Unique Armor -> Reroll Stats	1			100					3	e5n	"armo,bas,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
 1 Quintuple Normal Essence + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					3	e5n	"weap,bas,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
@@ -785,7 +785,7 @@ ELITE UNIQUE	0																																																																		
 SET REROLL	0																																																																																																							0
 JEWELRY	0																																																																																																							0
 1 Triple Exceptional Essence + Orb of Divination + Set Ring -> Reroll Stats	1			100					3	e3x	"ring,set"	ood					"usetype,set"		99	99																										ood																																																										0
-1 Triple Elite Essence + Orb of Divination + Set Amulet -> Reroll Stats	1			100					3	e3l	"amul,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Set Amulet -> Reroll Stats	1			100					3	e3x	"amul,set"	ood					"usetype,set"		99	99																										ood																																																										0
 NORMAL SET	0																																																																																																							0
 1 Quintuple Normal Essence + Orb of Divination + Set Armor -> Reroll Stats	1			100					3	e5n	"armo,bas,set"	ood					"usetype,set"		99	99																										ood																																																										0
 1 Quintuple Normal Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	e5n	"weap,bas,set"	ood					"usetype,set"		99	99																										ood																																																										0
