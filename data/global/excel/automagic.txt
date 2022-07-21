@@ -240,3 +240,6 @@ Offensive Bidding	100	1	1							1	429	skilltab	25	1	1										dhbi	bidd								
 Fire Bidding	100	1	1							1	430	skilltab	8	1	1										ajbi	bidd											0	0
 Lightning Bidding	100	1	1							1	431	skilltab	9	1	1										abbi	bidd											0	0
 Cold Bidding	100	1	1							1	432	skilltab	10	1	1										apbi	bidd											0	0
+Parrying	100	1	1							1	433	block2		6	8	splash	proc_SplashDamage	100	1																			
+Slashing	100	1	1							1	434	deadly		5	15	splash	proc_SplashDamage	100	1																			
+Crunching	100	1	1							1	435	crushing		5	10	splash	proc_SplashDamage	100	1																			
