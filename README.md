@@ -13,7 +13,9 @@ In this mod you will find powerful rare items and craft even stronger items that
 ## Developed by:
 
 OGJeX (Discord: JeX#1706)
+
 Duits (Discord: Swoosh#1949)
+
 Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 
 # Features
