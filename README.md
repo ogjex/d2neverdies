@@ -91,17 +91,32 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
     - Removed: Holy Fire, Holy Shock, Blessed Aim
     - Added Vigor, Concentration, Higher chance for Fanatacism
     - Multishot much more common
-    - Aura Enchanted more common in Insanity
-    - Teleportation Mod Half as common in Insanity
-    - Super Uniques are almost Always Aura Enchanted Especially in Insanity in addition to regular mods
+    - Aura Enchanted more common 
+    - Teleportation Mod Half as common 
+    - Super Uniques are almost Always Aura Enchanted 
     - Lord De Seis always Extra fast in addition to regular mods
     - Ismail Vilehand is now Always Aura Enchanted (Travincal)
     - Bremm Sparkfist is now always Cursed (Durance of Hate Level 3)
 
 ## Runewords:
 
+- Updated all Runewords to create better balance
 - Buffed starter runewords: Steel, Strength, Nadir, Edge, Zephyr with enhanced damage, pierce, crushing blow etc.
 - Delirium: removed ctc delirium
+
+## Items
+
+- Added stronger and more rare rolls 
+- Necro shields (exceptional and elite) can now have 3 sockets
+- All weapons can now have minimum of 2 sockets
+- All weapons now deal Area of Effect damage
+- Updated block chances for larger shields so they are now viable (Aegis and Wards now useful)
+- Updated unique and set items to be actually viable
+- Increased viability of sabres (faster block rate, faster base attack speed), scimitars (deadly strike, faster base attack speed), falchion (crushing blow), throwing knife class (deadly strike, pierce), staves (fcr, mana recovery, damage reduction) 
+- Added base properties to armors to provide better bases to craft from, or to create runewords. Armors e.g. will be either combat-oriented (damage reduction), caster-oriented (FCR) or agility-oriented (FRW)
+- Added minor base properties to helmets, gloves, boots and shields to be better viable for crafting and rares
+- Light armors now require dexterity in order to provide better trade-offs of stat allocation
+- Edited low level sets and set items (Isenhart's Lightbrand now a javelin, Clegclaws Tooth and Claw now katars, Tancred's Weird now a Gothic Axe)
 
 ## QoL
 
@@ -117,16 +132,8 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 	- act 3 merc can now use orbs, wands, scepters and swords
 	- act 5 mercs can now use hammers, axes and mauls as well as swords
 - Added Stacking to gems, runes, and most misc items
+- Added Jewel Fragments that can be cubed from regular Jewels (and stacked!)
 - Added Descriptions to all items to help with crafting, corruptions, and more!
-- Updated unique and set items to be actually viable
-- Updated Rune words to create better balance
-- Added stronger and more rare rolls 
-- Necro shields (exceptional and elite) can now have 3 sockets
-- All weapons now deal area of attack damage
-- Increased viability of sabres (faster block rate, faster base attack speed), scimitars (deadly strike, faster base attack speed), falchion (crushing blow), throwing knife class (deadly strike, pierce), staves (fcr, mana recovery, damage reduction) 
-- Added base properties to armors to provide better bases to craft from, or to create runewords. Armors e.g. will be either combat-oriented (damage reduction), caster-oriented (FCR) or agility-oriented (FRW)
-- Light armors now require dexterity in order to provide better trade-offs of stat allocation
-- Edited low level sets and set items (Isenhart's Lightbrand now a javelin, Clegclaws Tooth and Claw now katars, Tancred's Weird now a Gothic Axe)
 - Removed useless shrines: stamina, exploding, poison
 - Players can have multiple shrines active
 - Battle cry is no longer a curse and can be applied simultaneously with curses and other progs
