@@ -38,7 +38,9 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Added Skulls for leech crafting and topaz for magic find crafting recipes
 
 ![Crafting Example 1](./d2-nd-crafting1.png)
+
 ![Crafting Example 2](./d2-nd-crafting2.png)
+
 ![Crafting Overview](./d2-nd-crafting_overview.png)
 
 ## Rerolling items:
@@ -47,6 +49,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Use Orbs of Divination to reroll unique items for greater reusability
 
 ![Reroll Example 1](./d2-nd-reroll_unique.png)
+
 ![Reroll Example 2](./d2-nd-reroll_set.png)
 
 ## Building set and unique items:
@@ -54,8 +57,11 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Use new Orbs of Combination with Essences to build new unique and set items 
 
 ![Building Example 1_1](./d2-nd-building1_1.png)
+
 ![Building Example 1_2](./d2-nd-building1_2.png)
+
 ![Building Example 2_1](./d2-nd-building2_1.png)
+
 ![Building Example 2_2](./d2-nd-building2_2.png)
 
 ## New Valor Charm:
@@ -67,8 +73,11 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Use the Valor charms to completely tailor-make your character build and use them as leveling devices
 
 ![Valor in the Rough](./d2-nd-valor_in_the_rough.png)
+
 ![Character Valor Empty](./d2-nd-valor0.png)
+
 ![Character Valor Half](./d2-nd-valor1.png)
+
 ![Character Valor Full](./d2-nd-valor2.png)
 
 ## Monsters:
@@ -123,23 +132,41 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Battle cry is no longer a curse and can be applied simultaneously with curses and other progs
 
 ![Inventory M/K](./d2-nd-inventoryMK.png)
+
 ![Inventory Controller](./d2-nd-inventoryController.png)
+
 ![Horadric Cube M/K](./d2-nd-cubeMK.png)
+
 ![Horadric Cube Controller](./d2-nd-cubeController.png)
+
 ![Area Attack](./d2-nd-inventoryMK.png)
+
 ![Automagic Armor Light](./d2-nd-light.png)
+
 ![Automagic Armor Caster](./d2-nd-caster.png)
+
 ![Automagic Armor Heavy](./d2-nd-heavy.png)
+
 ![Automagic Throwing Knife](./d2-nd-throwing_knife.png)
+
 ![Automagic Dagger](./d2-nd-dagger.png)
+
 ![Automagic Shield](./d2-nd-shield.png)
+
 ![Rare example](./d2-nd-rare1.png)
+
 ![Isenhart's Javelin](./d2-nd-isenharts.png)
+
 ![Clegclaw's set](./d2-nd-clegclaws.png)
+
 ![Unique Essence](./d2-nd-unique.png)
+
 ![Compound Essence](./d2-nd-compound.png)
+
 ![Orb of Combination](./d2-nd-combination.png)
+
 ![Orb of Divination](./d2-nd-divination.png)
+
 ![Orb of Extraction](./d2-nd-extraction.png)
 
 ## Amazon Skill changes:
