@@ -27,7 +27,9 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Collect Larzuk's Gimlets to roll sockets on any weapon or armor
 
 ![Corruption Example 1](./d2-nd-corruption1.png)
+
 ![Corruption Example 2](./d2-nd-corruption2.png)
+
 ![Larzuk's Gimlet](./d2-nd-gimlet.png)
 
 ## Crafting:
