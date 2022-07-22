@@ -84,7 +84,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 
 - Mephisto is now flying (no more moat trick)
 - Undead skeletons now leech a little bit 
-- Immunities removed from normal monsters (uniques can still be immune)
+- Immunities removed from regular monster packs (uniques can still be immune)
 - From BTDiablo mod:
     - Increased monster reaction times in Hell
     - 2x Aura Range
