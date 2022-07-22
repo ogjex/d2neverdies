@@ -74,6 +74,18 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Mephisto is now flying (no more moat trick)
 - Undead skeletons now leech a little bit 
 - Immunities removed from normal monsters (uniques can still be immune)
+- From BTDiablo mod:
+    - Increased monster reaction times in Hell
+    - 2x Aura Range
+    - Removed: Holy Fire, Holy Shock, Blessed Aim
+    - Added Vigor, Concentration, Higher chance for Fanatacism
+    - Multishot much more common
+    - Aura Enchanted more common in Insanity
+    - Teleportation Mod Half as common in Insanity
+    - Super Uniques are almost Always Aura Enchanted Especially in Insanity in addition to regular mods
+    - Lord De Seis always Extra fast in addition to regular mods
+    - Ismail Vilehand is now Always Aura Enchanted (Travincal)
+    - Bremm Sparkfist is now always Cursed (Durance of Hate Level 3)
 
 ## Runewords:
 
