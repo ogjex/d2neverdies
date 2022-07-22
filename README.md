@@ -291,7 +291,11 @@ Bonesy from https://www.d2rmodding.com/ and https://www.nexusmods.com/diablo2res
 
 ## Mercenary only items
 
-Nefarius from Phrozen Keep: https://d2mods.info/forum/kb/viewarticle?a=374
+Credits: Nefarius from Phrozen Keep: https://d2mods.info/forum/kb/viewarticle?a=374
+
+## Monster Difficulty Hell
+
+Credits: BTNeanderthal: https://github.com/BTNeandertha1/BTDiablo and https://www.youtube.com/c/BTNeanderthal
 
 # Installing the Mod
 One method is using the D2R launch parameters `-mod` and `-txt`.  
