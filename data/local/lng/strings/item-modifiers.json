@@ -6224,7 +6224,7 @@
   {
     "id": 40543,
     "Key": "StrOrbCombDesc",
-    "enUS": "Transmute in Cube to Stack and Unstack",
+    "enUS": "Cube with ÿc4Unique ÿc0and ÿc2Compound Essences ÿc0to build new items \n ÿc0Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6258,7 +6258,7 @@
   {
     "id": 40545,
     "Key": "StrOrbDivDesc",
-    "enUS": "Build ÿc4Unique normal items: \n Orb of Combination + ÿc9Rare item ÿc0+ 5 Normal Essence + 5 ÿc4Unique Essences ÿc0= new ÿc4Unique Item\n ÿc0Build ÿc2Set items ÿc0\n Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "Cube with Normal, Exceptional and Elite Essences to reroll unique and set items \n ÿc0Transmute in Cube to Stack and Unstack", 
     "zhTW": "",
     "deDE": "",
     "esES": "",
