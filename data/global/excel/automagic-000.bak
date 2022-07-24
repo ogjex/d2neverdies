@@ -40,7 +40,7 @@ Base Staff	100	1	1	1		1				1	307	cast2		10	10	regen-mana		0	10	red-dmg		0	6		arm
 Exceptional Staff	100	1	1	1		1				1	308	cast2		30	30	regen-mana		15	20	red-dmg		10	16		armo	weap											0	0
 Elite Staff	100	1	1	1		1				1	309	cast2		50	50	regen-mana		25	30	red-dmg		20	30		armo	weap											0	0
 Sharp Knife	100	1	1	1		1				1	310	deadly		20	20	splash	proc_SplashDamage	100	1						armo	weap											0	0
-Crushing Crossbow	100	1	1	1		1				1	311	crushing		10	10	dmg%		50	50						armo	weap											0	0
+Crushing Crossbow	100	1	1	1		1				1	311	crush		10	10	dmg%		50	50						armo	weap											0	0
 Shinobi Throwing Knife	100	1	1	1		1				1	312	deadly		20	20	rep-quant	60			pierce		20	20		armo	weap											0	0
 Replenish Quantity	100	1	1	1		1				1	313	rep-quant	60												weap												0	0
 Acrobat's Light Armor 1	100	1	1	10	30	5				4	330	move2		2	4	red-dmg		0	1						armo	weap											0	0
@@ -243,12 +243,10 @@ Cold Bidding	100	1	1							1	432	skilltab	10	1	1										apbi	bidd											0	
 Fence Apprentice	100	1	1							3	433	deadly		3	5	block2		2	4	splash	proc_SplashDamage	100	1															
 Fence Novice	100	1	1							2	433	deadly		5	8	block2		4	6	splash	proc_SplashDamage	100	1															
 Fence Master	100	1	1							1	433	deadly		8	12	block2		6	8	splash	proc_SplashDamage	100	1															
-Peasants	100	1	1							3	434	crushing		3	5	openwounds		3	5	splash	proc_SplashDamage	100	1															
-Farmers	100	1	1							2	434	crushing		5	8	openwounds		5	8	splash	proc_SplashDamage	100	1															
-Ranchers	100	1	1							1	434	crushing		8	12	openwounds		8	12	splash	proc_SplashDamage	100	1															
+Peasants	100	1	1							3	434	crush		3	5	openwounds		3	5	splash	proc_SplashDamage	100	1															
+Farmers	100	1	1							2	434	crush		5	8	openwounds		5	8	splash	proc_SplashDamage	100	1															
+Ranchers	100	1	1							1	434	crush		8	12	openwounds		8	12	splash	proc_SplashDamage	100	1															
 Necro Blight	100	1	1							3	435	pierce-pois		1	2																							
 Necro Venom	100	1	1							3	435	pierce-pois		3	4																							
 Necro Pestilence	100	1	1							2	435	pierce-pois		5	6																							
 Necro Anthrax	100	1	1							1	435	pierce-pois		6	7																							
-																																						
-																																						
