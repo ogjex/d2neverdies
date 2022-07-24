@@ -1,5 +1,5 @@
 {
-    "name": "d2-nd",
-    "savepath": "./d2-nd",
-    "comments": "D2 Never Dies Mod. place this .json file and the data/ folder into D2R/mods/d2-nd/d2-nd.mpq/ (d2-nd.mpq is a folder name not an MPQ file). Launch D2R with -mod d2-nd -txt"
+    "name": "d2nd",
+    "savepath": "./d2nd",
+    "comments": "D2 Never Dies Mod. place this .json file and the data/ folder into D2R/mods/d2nd/d2nd.mpq/ (d2nd.mpq is a folder name not an MPQ file). Launch D2R with -mod d2nd -txt"
 }
