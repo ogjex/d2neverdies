@@ -11,7 +11,7 @@ Perfect Gem			1						8pa	3	8pd	3	8pe	3	8pr	3	8ps	3	8pt	3	8pk	3										0
 Bidding A			1						ab1	10	bb1	10	cb1	10	db1	10	eb1	10	fb1	10												0
 Bidding B			1						gb1	10	hb1	10	ib1	10	jb1	10	kb1	10	lb1	10												0
 Bidding C			1						mb1	10	nb1	10	zb1	10	pb1	10	qb1	10														0
-Bidding D			1						rb1	10			tb1	10	ub1	10	vb1	10														0
+Bidding D			1						rb1	10	sb1		tb1	10	ub1	10	vb1	10														0
 Bidding E			1						Bidding A	35	Bidding B	25	Bidding C	25	Bidding D	15																0
 Bidding A (NM)			1						ab2	10	bb2	10	cb2	10	db2	10	eb2	10	fb2	10												0
 Bidding B (NM)			1						gb2	10	hb2	10	ib2	10	jb2	10	kb2	10	lb2	10												0

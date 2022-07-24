@@ -23,7 +23,6 @@ Bidding B (H)			1						gb3	10	hb3	10	ib3	10	jb3	10	kb3	10	lb3	10												0
 Bidding C (H)			1						mb3	10	nb3	10	zb3	10	pb3	10	qb3	10														0
 Bidding D (H)			1						rb3	10	sb3	10	tb3	10	ub3	10	vb3	10	aa0	10												0
 Bidding E (H)			1						Bidding A (H)	35	Bidding B (H)	25	Bidding C (H)	25	Bidding D (H)	15																0
-Jewel Fragment			1						8fg	1																						0
 Ammo			1						aqv	1	cqv	1																				0
 Misc 0			1						key	3	tsc	3	isc	3																		0
 Misc 1			1						key	3	tsc	3	isc	3																		0
@@ -41,10 +40,9 @@ Runes 7			1						s25	3	s26	3	s27	2	s28	2	Runes 6	300														0
 Runes 8			1						s29	3	s30	3	s31	2	s32	2	Runes 7	350														0
 Runes 9			1						s33	1	Runes 8	600																				0
 Token			1						soa	1																						0
-Crafting			1						8co	4																						0
 Junk			1						Potion 0	24	Misc 0	12	Ammo	12																		0
-Junk (N)			1						Potion 1	24	Misc 1	12	Ammo	12	Crafting	2																0
-Junk (H)			1						Potion 2	24	Misc 2	12	Ammo	12	Crafting	2	Token	1														0
+Junk (N)			1						Potion 1	24	Misc 1	12	Ammo	12																		0
+Junk (H)			1						Potion 2	24	Misc 2	12	Ammo	12	Token	1																0
 Act 1 Equip A	1	0	1						weap3	7	armo3	7	6	20																		0
 Act 1 Equip B	1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
 Act 1 Equip C	1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
