@@ -5712,7 +5712,7 @@
     "zhCN": "%+d%% 几率不消耗数量"
   },
   {
-    "id": 40001,
+    "id": 40514,
     "Key": "splash",
     "enUS": "ÿc8Area Attack",
     "zhTW": "Area Attack",
@@ -5729,7 +5729,7 @@
     "zhCN": "Area Attack"
   },
   {
-    "id": 40002,
+    "id": 40515,
     "Key": "Splashing",
     "enUS": "Splashing",
     "zhTW": "Splashing",
@@ -5746,7 +5746,7 @@
     "zhCN": "Splashing"
    },
    {
-    "id": 40003,
+    "id": 40516,
     "Key": "corrupted",
   	"enUS": "ÿc1Corrupted",
     "zhTW": "ÿc1Corrupted",
@@ -5763,7 +5763,7 @@
     "zhCN": "ÿc1Corrupted"
   },
   {
-    "id": 40004,
+    "id": 40517,
     "Key": "ModStr3i_fire",
     "enUS": " to Fire Skills",
     "zhTW": "",
@@ -5780,7 +5780,7 @@
     "zhCN": ""
   },
   {
-    "id": 40005,
+    "id": 40518,
     "Key": "ModStr3i_cold",
     "enUS": " to Cold Skills",
     "zhTW": "",
@@ -5797,7 +5797,7 @@
     "zhCN": ""
   },
   { 
-	"id": 40006,
+	"id": 40519,
     "Key": "ModStr3i_light",
     "enUS": " to Lightning Skills",
     "zhTW": "",
@@ -5814,7 +5814,7 @@
     "zhCN": ""
   },    
   { 
-	"id": 40007,
+	"id": 40520,
     "Key": "ModStr3i_mag",
     "enUS": " to Magic Skills",
     "zhTW": "",
@@ -5831,7 +5831,7 @@
     "zhCN": ""
   },
   { 
-	"id": 40008,
+	"id": 40521,
     "Key": "ModStr3i_pois",
     "enUS": " to Poison Skills",
     "zhTW": "",
@@ -5848,7 +5848,7 @@
     "zhCN": ""
   },
   {
-    "id": 40009,
+    "id": 40522,
     "Key": "StrInfused",
     "enUS": "Infused (out of 60)",
     "zhTW": "",
@@ -5865,7 +5865,7 @@
     "zhCN": ""
   },
   {
-    "id": 40010,
+    "id": 40523,
     "Key": "StrInfCost",
     "enUS": "Infusion Points Added",
     "zhTW": "",
@@ -5882,7 +5882,7 @@
     "zhCN": ""
   },
   {
-    "id": 40011,
+    "id": 40524,
     "Key": "StrLvlCost",
     "enUS": "Additional Level(s) Required",
     "zhTW": "",
@@ -5899,7 +5899,7 @@
     "zhCN": ""
   },
   {
-    "id": 40012,
+    "id": 40525,
     "Key": "StrAmeCraft",
     "enUS": "ÿc3Bow/X-bowÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc;Fomenter'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -5916,7 +5916,7 @@
     "zhCN": ""
   },
   {
-    "id": 40013,
+    "id": 40526,
     "Key": "StrTopCraft",
     "enUS": "ÿc3Weaponÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc9Cornucopia'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -5933,7 +5933,7 @@
     "zhCN": ""
   },
   {
-    "id": 40014,
+    "id": 40527,
     "Key": "StrSapCraft",
     "enUS": "ÿc3Weaponÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Conjurer'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -5950,7 +5950,7 @@
     "zhCN": ""
   },
   {
-    "id": 40015,
+    "id": 40528,
     "Key": "StrEmeCraft",
     "enUS": "ÿc3Weaponÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Circletc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Amn Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc2Craven'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -5967,7 +5967,7 @@
     "zhCN": ""
   },
   {
-    "id": 40016,
+    "id": 40529,
     "Key": "StrRubCraft",
     "enUS": "ÿc3Weaponÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc1Combatant'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -5984,7 +5984,7 @@
     "zhCN": ""
   },
   {
-    "id": 40017,
+    "id": 40530,
     "Key": "StrDiaCraft",
     "enUS": "",
     "zhTW": "",
@@ -6001,7 +6001,7 @@
     "zhCN": ""
   },
   {
-    "id": 40018,
+    "id": 40531,
     "Key": "StrSkulCraft",
     "enUS": "ÿc3Weaponÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Lum Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc5Revenant'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6018,7 +6018,7 @@
     "zhCN": ""
   },
   {
-    "id": 40019,
+    "id": 40531,
     "Key": "StrStackDesc",
     "enUS": "See detailed recipes in unstacked version\nTransmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6035,7 +6035,7 @@
     "zhCN": ""
   }, 
   {
-    "id": 40020,
+    "id": 40532,
     "Key": "StrBidDesc",
     "enUS": "Cube with Valor Charm to infuse",
     "zhTW": "",
@@ -6052,7 +6052,7 @@
     "zhCN": ""
   },
   {
-    "id": 40021,
+    "id": 40533,
     "Key": "StrBidSkillDesc",
     "enUS": "ÿc3P. Sapphire ÿc0= Sorceress +1 Skill Tab \n ÿc;P. Amethyst ÿc0= Paladin +1 Skill Tab \n ÿc5P. Skull ÿc0= Necromancer +1 Skill Tab \n ÿc2P. Emerald ÿc0= Druid +1 Skill Tab \n ÿc1P. Ruby ÿc0= Barbarian +1 Skill Tab \n ÿc0P. Diamond ÿc0= Assassin +1 Skill Tab \n ÿc9P. Topaz ÿc0= Amazon +1 Skill Tab \n ÿc0Cube to transmute into:",
     "zhTW": "",
@@ -6069,7 +6069,7 @@
     "zhCN": ""
   },
   {
-    "id": 40022,
+    "id": 40534,
     "Key": "StrGlyphDesc",
     "enUS": "ÿc125% Chance ÿc0to Brick Item \n ÿc3P. Sapphire ÿc0= Caster Corruptions\n ÿc1P. Ruby ÿc0= Combat Corruptions \n Cube with Any Item to add random Corruption: \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6086,7 +6086,7 @@
     "zhCN": ""
   },
   {
-    "id": 40023,
+    "id": 40535,
     "Key": "StrGimletDesc",
     "enUS": "ÿc7Torso > +1-2 Sockets\n2H Wep > +1-4 Sockets\n1H Wep > +1-2 Sockets \n ÿc0Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6103,7 +6103,7 @@
     "zhCN": ""
   },
   {
-    "id": 40024,
+    "id": 40536,
     "Key": "StrValorDesc",
     "enUS": "ÿc3P. Sapphire ÿc0= Sorceress' Valor \n ÿc;P. Amethyst ÿc0= Paladin's Valor \n ÿc5P. Skull ÿc0= Necromancer's Valor \n ÿc2P. Emerald ÿc0= Druid's Valor \n ÿc1P. Ruby ÿc0= Barbarian's Valor \n ÿc0P. Diamond ÿc0= Assassin's Valor \n ÿc9P. Topaz ÿc0= Amazon's Valor \n ÿc0Cube to transmute into:",
     "zhTW": "",
@@ -6120,7 +6120,7 @@
     "zhCN": ""
   },
   {
-    "id": 40025,
+    "id": 40537,
     "Key": "StrEssComDesc",
     "enUS": "Use with Orbs to build new set items \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6137,7 +6137,7 @@
     "zhCN": ""
   },
   {
-    "id": 40026,
+    "id": 40538,
     "Key": "StrEssRareDesc",
     "enUS": "This essence has an unknown purpose \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6154,7 +6154,7 @@
     "zhCN": ""
   },
   {
-    "id": 40027,
+    "id": 40539,
     "Key": "StrEssUniDesc",
     "enUS": "Use with Orbs to build new Unique items \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6171,7 +6171,7 @@
     "zhCN": ""
   },
   {
-    "id": 40028,
+    "id": 40540,
     "Key": "StrEssNormDesc",
     "enUS": "Build Normal ÿc4Unique Weapon/Armor: \n Orb of Combination + ÿc9Rare item ÿc0+ 1 x Normal Quintuple Essence Cube\n + 1 x ÿc4Triple Unique Essence Cube\n ÿc0= new Normal ÿc4Unique Item\n ÿc0Build Normal ÿc2Set items ÿc0\n Recipes: \n Orb of Combination + ÿc9Rare item ÿc0+ 1 x Normal Quintuple Essence Cube\n + 1 x ÿc4Triple Unique Essence Cube\n ÿc0= new Normal ÿc4Set Weapon/Armor\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6188,7 +6188,7 @@
     "zhCN": ""
   },
   {
-    "id": 40029,
+    "id": 40541,
     "Key": "StrEssExcDesc",
     "enUS": "Use with Orbs to build new items \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6205,7 +6205,7 @@
     "zhCN": ""
   },
   {
-    "id": 40030,
+    "id": 40542,
     "Key": "StrEssEliDesc",
     "enUS": "Use with Orbs to build new items \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6222,7 +6222,7 @@
     "zhCN": ""
   },
   {
-    "id": 40031,
+    "id": 40543,
     "Key": "StrOrbCombDesc",
     "enUS": "Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6239,7 +6239,7 @@
     "zhCN": ""
   },
   {
-    "id": 40032,
+    "id": 40544,
     "Key": "StrOrbExtDesc",
     "enUS": "Cube with ÿc4Unique ÿc0and ÿc2Set ÿc0items to Extract Essences \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6256,7 +6256,7 @@
     "zhCN": ""
   },
   {
-    "id": 40033,
+    "id": 40545,
     "Key": "StrOrbDivDesc",
     "enUS": "Build ÿc4Unique normal items: \n Orb of Combination + ÿc9Rare item ÿc0+ 5 Normal Essence + 5 ÿc4Unique Essences ÿc0= new ÿc4Unique Item\n ÿc0Build ÿc2Set items ÿc0\n Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6273,7 +6273,7 @@
     "zhCN": ""
   },
   {
-    "id": 40034,
+    "id": 40546,
     "Key": "StrFragDesc",
     "enUS": "Used in Crafting Recipes\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6290,7 +6290,7 @@
     "zhCN": ""
   },
   {
-    "id": 40035,
+    "id": 40547,
     "Key": "StrJewelDesc",
     "enUS": "Cube to make a stackable jewel fragment for crafting",
     "zhTW": "",
