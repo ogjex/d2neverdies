@@ -14,7 +14,7 @@ In this mod you will find powerful rare items and craft even stronger items that
 
 OGJeX (Discord: JeX#1706)
 
-Duits (Discord: Swoosh#1949)
+Duits (Discord: Swoosh#7712)
 
 Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 
@@ -79,6 +79,18 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 ![Character Valor Half](./d2-nd-valor1.png)
 
 ![Character Valor Full](./d2-nd-valor2.png)
+
+## Areas
+
+- Area density buffed across the board: doubled in playthrough areas on Normal, quadrupled in lvl 85 areas in Hell
+- Increased number of monster uniques across the board: doubled in most of Normal, small increases in NM and Hell
+- Added new lvl 85 areas: 
+	- Crypt 
+	- Mausoleum
+	- Catacombs lvl 3 and 4
+	- Halls of the Dead lvl 3
+	- Claw viper temple level 2
+	- Maggot Lair lvl 1 and 2
 
 ## Monsters:
 
