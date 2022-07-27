@@ -219,7 +219,7 @@ Uneasy Bidding	100	1	1							1	408	dmg-pois	75	16	16	infusion-cost		2	2	lvl-cost
 Sick Bidding	100	1	1							1	409	dmg-pois	75	32	32	infusion-cost		3	3	lvl-cost		1	1		dpb2	bidd											0	0
 Nauseating Bidding	100	1	1							1	410	dmg-pois	75	64	64	infusion-cost		3	3	lvl-cost		2	2		dpb3	bidd											0	0
 Skillful Bidding	100	1	1							1	411														skbi	bidd											0	0
-Javelin Bidding	100	1	1							1	412	skilltab	2	1	1										nsbi	bidd											0	0
+Javelin Bidding	100	1	1							1	412	skilltab	2	1	1	infusion-cost		4	4	lvl-cost		4	4		nsbi	bidd											0	0
 Bow Bidding	100	1	1							1	413	skilltab	0	1	1										nbbi	bidd											0	0
 Passive Bidding	100	1	1							1	414	skilltab	1	1	1										ncbi	bidd											0	0
 Traps Bidding	100	1	1							1	415	skilltab	48	1	1										atbi	bidd											0	0
@@ -240,13 +240,13 @@ Offensive Bidding	100	1	1							1	429	skilltab	25	1	1										dhbi	bidd								
 Fire Bidding	100	1	1							1	430	skilltab	8	1	1										ajbi	bidd											0	0
 Lightning Bidding	100	1	1							1	431	skilltab	9	1	1										abbi	bidd											0	0
 Cold Bidding	100	1	1							1	432	skilltab	10	1	1										apbi	bidd											0	0
-Fence Apprentice	100	1	1							3	433	deadly		3	5	block2		2	4	splash	proc_SplashDamage	100	1															
-Fence Novice	100	1	1							2	433	deadly		5	8	block2		4	6	splash	proc_SplashDamage	100	1															
-Fence Master	100	1	1							1	433	deadly		8	12	block2		6	8	splash	proc_SplashDamage	100	1															
-Peasants	100	1	1							3	434	crush		3	5	openwounds		3	5	splash	proc_SplashDamage	100	1															
-Farmers	100	1	1							2	434	crush		5	8	openwounds		5	8	splash	proc_SplashDamage	100	1															
-Ranchers	100	1	1							1	434	crush		8	12	openwounds		8	12	splash	proc_SplashDamage	100	1															
-Necro Blight	100	1	1							3	435	pierce-pois		1	2																							
-Necro Venom	100	1	1							3	435	pierce-pois		3	4																							
-Necro Pestilence	100	1	1							2	435	pierce-pois		5	6																							
-Necro Anthrax	100	1	1							1	435	pierce-pois		6	7																							
+Fence Apprentice	100	1	1							3	433	deadly		3	5	block2		2	4	splash	proc_SplashDamage	100	1		armo	weap												
+Fence Novice	100	1	1							2	433	deadly		5	8	block2		4	6	splash	proc_SplashDamage	100	1		armo	weap												
+Fence Master	100	1	1							1	433	deadly		8	12	block2		6	8	splash	proc_SplashDamage	100	1		armo	weap												
+Peasants	100	1	1							3	434	crush		3	5	openwounds		3	5	splash	proc_SplashDamage	100	1		armo	weap												
+Farmers	100	1	1							2	434	crush		5	8	openwounds		5	8	splash	proc_SplashDamage	100	1		armo	weap												
+Ranchers	100	1	1							1	434	crush		8	12	openwounds		8	12	splash	proc_SplashDamage	100	1		armo	weap												
+Necro Blight	100	1	1							3	435	pierce-pois		1	2										armo	weap												
+Necro Venom	100	1	1							3	435	pierce-pois		3	4										armo	weap												
+Necro Pestilence	100	1	1							2	435	pierce-pois		5	6										armo	weap												
+Necro Anthrax	100	1	1							1	435	pierce-pois		6	7										armo	weap												
