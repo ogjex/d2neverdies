@@ -333,30 +333,6 @@ Exceptional Essence Unstack	1			100	18	70	1		1	8sx							esx																				
 Exceptional Essence Stack	1			100					1	esx							8sx																																																																																							0
 Elite Essence Unstack	1			100	18	70	1		1	8sl							esl																																																																																							0
 Elite Essence Stack	1			100					1	esl							8sl																																																																																							0
-Triple Compound Essence Unstack	1			100	18	70	1		1	83c							e3c																																																																																							0
-Triple Compound Essence Stack	1			100					1	e3c							83c																																																																																							0
-Triple Rare Essence Unstack	1			100	18	70	1		1	83r							e3r																																																																																							0
-Triple Rare Essence Stack	1			100					1	e3r							83r																																																																																							0
-Triple Unique Essence Unstack	1			100	18	70	1		1	83u							e3u																																																																																							0
-Triple Unique Essence Stack	1			100					1	e3u							83u																																																																																							0
-Triple Normal Essence Unstack	1			100	18	70	1		1	83n							e3n																																																																																							0
-Triple Normal Essence Stack	1			100					1	e3n							83n																																																																																							0
-Triple Exceptional Essence Unstack	1			100	18	70	1		1	83x							e3x																																																																																							0
-Triple Exceptional Essence Stack	1			100					1	e3x							83x																																																																																							0
-Triple Elite Essence Unstack	1			100	18	70	1		1	83l							e3l																																																																																							0
-Triple Elite Essence Stack	1			100					1	e3l							83l																																																																																							0
-Quintuple Compound Essence Unstack	1			100	18	70	1		1	85c							e5c																																																																																							0
-Quintuple Compound Essence Stack	1			100					1	e5c							85c																																																																																							0
-Quintuple Rare Essence Unstack	1			100	18	70	1		1	85r							e5r																																																																																							0
-Quintuple Rare Essence Stack	1			100					1	e5r							85r																																																																																							0
-Quintuple Unique Essence Unstack	1			100	18	70	1		1	85u							e5u																																																																																							0
-Quintuple Unique Essence Stack	1			100					1	e5u							85u																																																																																							0
-Quintuple Normal Essence Unstack	1			100	18	70	1		1	85n							e5n																																																																																							0
-Quintuple Normal Essence Stack	1			100					1	e5n							85n																																																																																							0
-Quintuple Exceptional Essence Unstack	1			100	18	70	1		1	85x							e5x																																																																																							0
-Quintuple Exceptional Essence Stack	1			100					1	e5x							85x																																																																																							0
-Quintuple Elite Essence Unstack	1			100	18	70	1		1	85l							e5l																																																																																							0
-Quintuple Elite Essence Stack	1			100					1	e5l							85l																																																																																							0
 UBERS ITEMS STACKING	0																																																																																																							0
 Key of Terror Unstack	1			100	18	70	1		1	p1s							pk1																																																																																							0
 Key of Terror Stack	1			100					1	pk1							p1s																																																																																							0
@@ -728,32 +704,14 @@ Larzuk's Gimlet + Torso -> 1-2 Sockets	1			100					2	"tors,nos"	"lzg,qty=1"					
 ESSENCE RECIPES	0																																																																																																							0
 ESSENCE EXTRACTION RECIPES	0																																																																																																							0
 Normal Unique + Orb of Extraction -> Extract Normal Essence	1			100					2	"any,uni,bas"	oex						esu	50	100																											esn																																																										0
-Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1			100					2	"any,uni,exc"	oex						e3u	50	100																											esx																																																										0
+Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1			100					2	"any,uni,exc"	oex						"8su,qty=3"	50	100																											esx																																																										0
 Elite Unique + Orb of Extraction -> Extract Elite Essence	1			100					2	"any,uni,eli"	oex						e5u	50	100																											esl																																																										0
 Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"any,set"	oex						esc	50	100																																																																																					0
 Rare Item + Orb of Extraction -> Extract Rare Essence	1			100					2	"any,rar"	oex						esr	50	100																																																																																					0
 ESSENCE UPTIER	0																																																																																																							0
-Compound Essence to Triple	1			100					4	esc	esc	esc	ooc				e3c																																																																																							0
-Compound Essence to Quintuple	1			100					6	esc	esc	esc	esc	esc	ooc		e5c																													ooc																																																										0
-Rare Essence to Triple	1			100					4	esr	esr	esr	ooc				e3r																													ooc																																																										0
-Rare Essence to Quintuple	1			100					6	esr	esr	esr	esr	esr	ooc		e5r																																																																																							0
-Unique Essence to Triple	1			100					4	esu	esu	esu	ooc				e3n																																																																																							0
-Unique Normal Essence to Quintuple	1			100					6	esu	esu	esu	esu	esu	ooc		e5n																													ooc																																																										0
-Unique Essence to Triple	1			100					4	esu	esu	esu	ooc				e3n																																																																																							0
-Unique Normal Essence to Quintuple	1			100					6	esu	esu	esu	esu	esu	ooc		e5n																													ooc																																																										0
-Normal Essence to Triple	1			100					4	esn	esn	esn	ooc				e3n																																																																																							0
-Normal Essence to Quintuple	1			100					6	esn	esn	esn	esn	esn	ooc		e5n																													ooc																																																										0
-Exceptional Essence to Triple	1			100					4	esx	esx	esx	ooc				e3x																																																																																							0
-Exceptional Essence to Quintuple	1			100					6	esx	esx	esx	esx	esx	ooc		e5x																													ooc																																																										0
-Elite Essence to Triple	1			100					4	esl	esl	esl	ooc				e3l																																																																																							0
-Elite Essence to Quintuple	1			100					6	esl	esl	esl	esl	esl	ooc		e5l																													ooc																																																										0
 5 Normal Essence -> 1 Exceptional Essence	1			100					5	esn	esn	esn	esn	esn			esx																																																																																							0
-1 Quintuple Normal Essence -> 1 Exceptional Essence	1			100					1	e5n							esx																																																																																							0
-1 Triple Normal Essence + 2 Normal Essences -> 1 Exceptional Essence	1			100					3	e3n	esn	esn					esx																																																																																							0
-4 Exceptional Essence -> 1 Elite Essence	1			100					4	esx	esx	esx	esx				esl																																																																																							0
-3 Triple Exceptional Essences + 1 Exceptional Essence -> Elite Essence	1			100					2	e3x	esx						esl																																																																																							0
 BUILD RECIPES	0																																																																																																							0
-Rare Weapon + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Weapon	0			100					4	"weap,rar,bas"	e3c	e5n	ooc				"usetype,set"	50	100																																																																																					0
+Rare Weapon + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Weapon	1			100					10	"weap,rar,bas"	"8sc,qty=3"	"8sn,qty=5"	ooc				"usetype,set"	50	100																											"8sc,qty=0"																													"8sn,qty=5"																													0
 Rare Armor + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Armor	0			100					4	"armo,rar,bas"	e3c	e5n	ooc				"usetype,set"	50	100																																																																																					0
 Rare Weapon + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Weapon	0			100					4	"weap,rar,exc"	e5c	e3x	ooc				"usetype,set"	50	100																																																																																					0
 Rare Armor + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Armor	0			100					4	"armo,rar,exc"	e5c	e3x	ooc				"usetype,set"	50	100																																																																																					0
@@ -771,30 +729,30 @@ Rare Ring + Unique Essence + Exceptional Essence + Orb of Combination -> Unique 
 Rare Amulet + Unique Essence + Exceptional Essence + Orb of Combination -> Unique Amulet	0			100					4	"amul,rar"	e3u	e3x	ooc				"usetype,uni"	50	100																																																																																					0
 UNIQUE REROLL	0																																																																																																							0
 JEWELRY	0																																																																																																							0
-1 Triple Exceptional Essence + Orb of Divination + Unique Ring -> Reroll Stats	1			100					3	e3x	"ring,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
-1 Triple Exceptional Essence + Orb of Divination + Unique Amulet -> Reroll Stats	1			100					3	e3x	"amul,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Unique Ring -> Reroll Stats	1			100					3	8sx	"ring,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Unique Amulet -> Reroll Stats	1			100					3	8sx	"amul,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
 NORMAL UNIQUE	0																																																																																																							0
-1 Quintuple Normal Essence + Orb of Divination + Unique Armor -> Reroll Stats	1			100					3	e5n	"armo,bas,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
-1 Quintuple Normal Essence + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					3	e5n	"weap,bas,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Quintuple Normal Essence + Orb of Divination + Unique Armor -> Reroll Stats	1			100					3	8sn	"armo,bas,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Quintuple Normal Essence + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					3	8sn	"weap,bas,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
 EXCEPTIONAL UNIQUE	0																																																																																																							0
-1 Triple Exceptional Essence + Orb of Divination + Unique Armor -> Reroll Stats	1			100					3	e3x	"armo,exc,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
-1 Triple Exceptional Essence + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					3	e3x	"weap,exc,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Unique Armor -> Reroll Stats	1			100					3	8sx	"armo,exc,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					3	8sx	"weap,exc,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
 ELITE UNIQUE	0																																																																																																							0
-1 Triple Elite Essence + Orb of Divination + Unique Armor -> Reroll Stats	1			100					3	e3l	"armo,eli,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
-1 Triple Elite Essence + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					3	e3l	"weap,eli,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Triple Elite Essence + Orb of Divination + Unique Armor -> Reroll Stats	1			100					3	8sl	"armo,eli,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
+1 Triple Elite Essence + Orb of Divination + Unique Weapon -> Reroll Stats	1			100					3	8sl	"weap,eli,uni"	ood					"usetype,uni"		99	99																										ood																																																										0
 SET REROLL	0																																																																																																							0
 JEWELRY	0																																																																																																							0
-1 Triple Exceptional Essence + Orb of Divination + Set Ring -> Reroll Stats	1			100					3	e3x	"ring,set"	ood					"usetype,set"		99	99																										ood																																																										0
-1 Triple Exceptional Essence + Orb of Divination + Set Amulet -> Reroll Stats	1			100					3	e3x	"amul,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Set Ring -> Reroll Stats	1			100					3	8sx	"ring,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Set Amulet -> Reroll Stats	1			100					3	8sx	"amul,set"	ood					"usetype,set"		99	99																										ood																																																										0
 NORMAL SET	0																																																																																																							0
-1 Quintuple Normal Essence + Orb of Divination + Set Armor -> Reroll Stats	1			100					3	e5n	"armo,bas,set"	ood					"usetype,set"		99	99																										ood																																																										0
-1 Quintuple Normal Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	e5n	"weap,bas,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Quintuple Normal Essence + Orb of Divination + Set Armor -> Reroll Stats	1			100					3	8sn	"armo,bas,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Quintuple Normal Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	8sn	"weap,bas,set"	ood					"usetype,set"		99	99																										ood																																																										0
 EXCEPTIONAL SET	0																																																																																																							0
-1 Triple Exceptional Essence + Orb of Divination + Set Armor -> Reroll Stats	1			100					3	e3x	"armo,exc,set"	ood					"usetype,set"		99	99																										ood																																																										0
-1 Triple Exceptional Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	e3x	"weap,exc,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Set Armor -> Reroll Stats	1			100					3	8sx	"armo,exc,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Triple Exceptional Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	8sx	"weap,exc,set"	ood					"usetype,set"		99	99																										ood																																																										0
 ELITE SET	0																																																																																																							0
-1 Triple Elite Essence + Orb of Divination + Set Armor -> Reroll Stats	1			100					3	e3l	"armo,eli,set"	ood					"usetype,set"		99	99																										ood																																																										0
-1 Triple Elite Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	e3l	"weap,eli,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Triple Elite Essence + Orb of Divination + Set Armor -> Reroll Stats	1			100					3	8sl	"armo,eli,set"	ood					"usetype,set"		99	99																										ood																																																										0
+1 Triple Elite Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	8sl	"weap,eli,set"	ood					"usetype,set"		99	99																										ood																																																										0
 CORRUPTIONS	0																																																																																																							0
 WEAPONS - NORMAL 	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		2	"weap,nor,nos"	glx						useitem				corruption	100		1	20																					glx																																																										0
@@ -1735,11 +1693,11 @@ Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	leve
 Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
 Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							"gsd,crf,eth"	200	200	200																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							"r09,qty=1"	200	200	200																										hp2																																																										0
-hp3 -> test item 3	1			100					1	hp3							"r11,qty=1"	200	200	200																										hp3																																																										0
+hp1 -> test item 1	1			100					1	hp1							"lbb,rar,bas"	200	200	200																										hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							"8sn,qty=5"	200	200	200																										hp2																																																										0
+hp3 -> test item 3	1			100					1	hp3							"8sc,qty=3"	200	200	200																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							"gpb,qty=1"	200	200	200																										hp4																																																										0
-hp5-> test item 5	1			100					1	hp5							"7br,uni"	200	200	200																										hp5																																																										0
+hp5-> test item 5	1			100					1	hp5							ooc	200	200	200																										hp5																																																										0
 mp1 -> test item 6	1			100					1	mp1							"xap,uni"	200	200	200																										mp1																																																										0
 mp2 -> test item 7	1			100					1	mp2							"uhg,uni"	200	200	200																										mp2																																																										0
 mp3 -> test item 8	1			100					1	mp3							ac8	200	200	200																										mp3																																																										0
