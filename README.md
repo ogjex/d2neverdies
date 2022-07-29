@@ -192,13 +192,13 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 
 ### Javelin and spear skills:
 - Jab: unchanged
-- Poison Javelin: unchanged
+- Poison Javelin: poison duration set to 2 seconds
 - Impale: unchanged
 - Power Strike: unchanged
-- Lightning Bolt: added lightning pierce
+- Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage
 - Fend: reduced strikes to 3
 - Charged Strike: unchanged
-- Plague Javelin: removed delay
+- Plague Javelin: removed delay, poison duration set to 2 seconds
 - Lightning Strike: unchanged
 - Lightning Fury: set base number of bolts to 11
 
@@ -215,15 +215,15 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Valkyrie: added additional Valkyries per 10 base levels 
 
 ### Bow and Crossbow:
-- Magic Arrow: added additional arrows based on base level 
+- Magic Arrow: added additional arrows based on base level, magic arrow now takes 50% conversion from physical from base level 1
 - Multiple Shot: unchanged 
-- Fire Arrow: buffed fire damage, velocity increased, fire pierce, synergy from multiple shot to add additional arrows 
-- Cold Arrow: buffed cold damage, synergy from multiple shot to add additional arrows 
+- Fire Arrow: buffed fire damage, velocity increased, fire pierce, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage 
+- Cold Arrow: buffed cold damage, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage
 - Ice Arrow: buffed cold damage, velocity increased, cold pierce
 - Guided Arrow: enabled piercing 
 - Exploding Arrow: buffed damage to make it more viable
 - Strafe: removed local delay 
-- Immolation Arrow: buffed damage, increase burn area as skill levels up
+- Immolation Arrow: buffed damage, increase burn area as skill levels up, explosion radius now increases with Explosion Arrow synergy
 - Freezing Arrow: buffed damage 
 
 ## Assassin skill changes 
@@ -237,7 +237,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Cobra Strike: now deals poison damange, synergy with Venom
 - Claws of Thunder: increased lightning damage, synergy from Charged Bolt Sentry and Shock Web
 - Dragon Tail: unchanged
-- Dragon Flight: unchanged 
+- Dragon Flight: reduce frame animation for Dragon Flight to 6 (from 16)
 - Blades of Ice: increased damage
 - Phoenix Strike: unchanged 
 
@@ -257,15 +257,15 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 ### Traps
 
 - Fire Blast: unchanged
-- Shock Web: unchanged 
-- Blade Sentinel: increased max sentinels, removed delay
+- Shock Web: removed next delay so it can actually hit monsters now
+- Blade Sentinel: increased max sentinels, removed cast delay, reduced next hit delay (4 from 25) so a monster can get hit more than once
 - Charged Bolt Sentry: unchanged
 - Wake of Fire: increased damage overall 
-- Blade Fury: unchanged 
+- Blade Fury: added AR% multiplier, added pierce
 - Blade Shield: increased base duration, changed synergy to Claw and Dagger Mastery to enable viability
 - Lightning Sentry: unchanged
 - Wake of Inferno: unchanged
-- Death Sentry: unchanged
+- Death Sentry: is now a fire skill, removed lightning sentry skill function
 
 ## Barbarian skill changes
 
