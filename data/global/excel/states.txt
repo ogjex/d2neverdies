@@ -191,3 +191,6 @@ impale	188																																																																						
 redcolor	189																												1	1																										85	100	255	255	255										0	0
 bluecolor	190																												1	1																										85	108	255	255	255										0	0
 coldpierce	191																																																																						0
+firepierce	192																																																																						0
+lightningpierce	193																																																																						0
+poisonpierce	194																																																																						0
