@@ -370,3 +370,4 @@ item_elemskill_pois	367		1	3	3						1				76	1024		4	0	3	0	3															157	1	
 item_isinfused	368			11			1	0	10			1	1					7	32	7	32																255	3	1	StrInfused	StrInfused										0
 item_infuse_cost	369			11			1	0	10			1	1					7	32	7	32																255	3	1	StrInfCost	StrInfCost										0
 item_lvl_cost	370			11			1	0	10			1	1					7	32	7	32																255	3	1	StrLvlCost	StrLvlCost										0
+passive_fire_pierce	371		1	9												2578		8	0	8	0																88	19		Moditemenresfiresk	Moditemenresfiresk									2	0
