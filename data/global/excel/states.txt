@@ -190,3 +190,4 @@ hidedead	187																											1	1			1																																		
 impale	188																																																																						0
 redcolor	189																												1	1																										85	100	255	255	255										0	0
 bluecolor	190																												1	1																										85	108	255	255	255										0	0
+coldpierce	191																																																																						0
