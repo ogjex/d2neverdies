@@ -759,7 +759,7 @@ Elite Essence to Quintuple	0			100					6	esl	esl	esl	esl	esl	ooc		e5l											
 4 Exceptional Essence -> 1 Elite Essence	0			100					4	esx	esx	esx	esx				esl																																																																																							0
 3 Triple Exceptional Essences + 1 Exceptional Essence -> Elite Essence	0			100					2	e3x	esx						esl																																																																																							0
 CHARGE RECIPES	0																																																																																																							0
-Rare Weapon + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Weapon	0			100					6	"weap,rar,bas"	"nce,qty=5"						"useitem"	50	100		set-charge			5	5																																																																															0
+Rare Weapon + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Weapon	1			100					6	"weap,rar,bas"	"nce,qty=5"						"useitem"	50	100		set-charge			5	5																																																																															0
 Rare Armor + Compound Essence + Normal Essence + Orb of Combination -> Normal Set Armor	0																																																																																																							0
 Rare Weapon + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Weapon	0																																																																																																							0
 Rare Armor + Compound Essence + Exceptional Essence + Orb of Combination -> Exceptional Set Armor	0																																																																																																							0
