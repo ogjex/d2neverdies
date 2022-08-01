@@ -192,10 +192,10 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 
 ### Javelin and spear skills:
 - Jab: unchanged
-- Poison Javelin: poison duration set to 2 seconds
+- Poison Javelin: added poison pierce, poison duration set to 2 seconds
 - Impale: unchanged
 - Power Strike: unchanged
-- Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage
+- Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage, always pierces target
 - Fend: reduced strikes to 3
 - Charged Strike: unchanged
 - Plague Javelin: removed delay, poison duration set to 2 seconds
@@ -217,13 +217,13 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 ### Bow and Crossbow:
 - Magic Arrow: added additional arrows based on base level, magic arrow now takes 50% conversion from physical from base level 1
 - Multiple Shot: unchanged 
-- Fire Arrow: buffed fire damage, velocity increased, fire pierce, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage 
+- Fire Arrow: buffed fire damage, velocity increased, always pierces target, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage
 - Cold Arrow: buffed cold damage, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage
 - Ice Arrow: buffed cold damage, velocity increased, cold pierce
 - Guided Arrow: enabled piercing 
 - Exploding Arrow: buffed damage to make it more viable
 - Strafe: removed local delay 
-- Immolation Arrow: buffed damage, increase burn area as skill levels up, explosion radius now increases with Explosion Arrow synergy
+- Immolation Arrow: fire pierce for 2 seconds, buffed damage, increase burn area as skill levels up, explosion radius now increases with Explosion Arrow synergy 
 - Freezing Arrow: buffed damage 
 
 ## Assassin skill changes 
