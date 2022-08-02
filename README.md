@@ -118,22 +118,30 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 
 ## Items
 
-- Added stronger and more rare rolls 
+- Added stronger and more frequent rare rolls 
 - Necro shields (exceptional and elite) can now have 3 sockets
 - All weapons can now have minimum of 2 sockets
 - All weapons now deal Area of Effect damage
 - Updated block chances for larger shields so they are now viable (Aegis and Wards now useful)
 - Updated unique and set items to be actually viable
+- Increased ranges of Spear and Polearms, Daggers and Assassin claws
 - Increased viability of sabres (faster block rate, faster base attack speed), scimitars (deadly strike, faster base attack speed), falchion (crushing blow), throwing knife class (deadly strike, pierce), staves (fcr, mana recovery, damage reduction) 
 - Added base properties to armors to provide better bases to craft from, or to create runewords. Armors e.g. will be either combat-oriented (damage reduction), caster-oriented (FCR) or agility-oriented (FRW)
 - Added minor base properties to helmets, gloves, boots and shields to be better viable for crafting and rares
 - Light armors now require dexterity in order to provide better trade-offs of stat allocation
 - Edited low level sets and set items (Isenhart's Lightbrand now a javelin, Clegclaws Tooth and Claw now katars, Tancred's Weird now a Gothic Axe)
+- Bolts and Arrows can now be magic and rare
+
+## Drops
+- Removed Chipped, Flawed, Standard gems from dropping (they will be used for other things later)
+- Increased Rare, Set and Unique drops overall
+- All Act Bosses now drop Quest drops as their normal drops
 
 ## QoL
 
 - All characters now walk close to as fast as running - better defense bonus
-- increased base AR for all characters (before -15 to 20, now is 50-75)
+- Increased chances of gambling rares, sets and unique items (unique being the smallest increase)
+- Increased base AR for all characters (before -15 to 20, now is 50-75)
 - Static field now caps at 65 in Hell
 - Normal starts with -20 all res
 - NM now has -60 all res
