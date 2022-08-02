@@ -23,7 +23,7 @@ Runeword21	Deception																																																0
 Runeword22	Delirium	1		110	helm									LemIstIo	r20	r24	r16				hit-skill	Confuse	11	18	charged	Attract	60	17	gethit-skill	Terror	14	13	ac		261	261	gethit-skill	Mind Blast	6	14	allskills		2	2					0
 Runeword23	Desire																																																0
 Runeword24	Despair																																																0
-Runeword25	Destruction	1		Previously Ladder Only	pole	swor								VexLoBerJahKo	r26	r28	r30	r31	r18		dmg%		300	300	swing2		30	40	hit-skill	Molten Boulder	5	33	hit-skill	Meteor	5	45	att-skill	Nova	15	32	hit-skill	Frost Nova	23	22	hit-skill	Molten Boulder	5	18	0
+Runeword25	Destruction	1		Previously Ladder Only	sppl	swor								VexLoBerJahKo	r26	r28	r30	r31	r18		dmg%		300	300	swing2		30	40	hit-skill	Molten Boulder	5	33	hit-skill	Meteor	5	45	att-skill	Nova	15	32	hit-skill	Frost Nova	23	22	hit-skill	Molten Boulder	5	18	0
 Runeword26	Doom	1		110	axe	pole	hamm							HelOhmUmLoCham	r15	r27	r22	r28	r32		dmg%		280	320	aura	Holy Freeze	12	12	swing2		45	45	noheal		1	1	pierce-cold		30	50	allskills		2	2	hit-skill	Volcano	5	18	0
 Runeword27	Dragon	1		Previously Ladder Only	tors	shld								SurLoSol	r29	r28	r12				ac		360	360	ac-miss		230	230	str/lvl	3			hit-skill	Hydra	12	28	gethit-skill	Venom	20	18	aura	Holy Fire	12	12	all-stats		3	3	0
 Runeword28	Dread																																																0
@@ -58,9 +58,9 @@ Runeword56	Revenge																																																0
 Runeword57	Humility																																																0
 Runeword58	Hunger																																																0
 Runeword59	Ice	1		Previously Ladder Only	miss									AmnShaelJahLo	r11	r13	r31	r28			dmg%		140	210	aura	Holy Freeze	18	18	extra-cold		25	30	hit-skill	Frost Nova	20	32	levelup-skill	Blizzard	100	40	pierce-cold		20	20	gold%/lvl	25			0
-Runeword60	Infinity	1		Previously Ladder Only	pole									BerMalBerIst	r30	r23	r30	r24			dmg%		255	325	move2		35	35	vit/lvl	4			aura	Conviction	12	12	kill-skill	Lightning	50	20	pierce-ltng		45	55	oskill	Cyclone Armor	3	3	0
+Runeword60	Infinity	1		Previously Ladder Only	sppl									BerMalBerIst	r30	r23	r30	r24			dmg%		255	325	move2		35	35	vit/lvl	4			aura	Conviction	12	12	kill-skill	Lightning	50	20	pierce-ltng		45	55	oskill	Cyclone Armor	3	3	0
 Runeword61	Innocence																																																0
-Runeword62	Insight	1		Previously Ladder Only	pole	staf	miss							RalTirTalSol	r08	r03	r07	r12			dmg%		120	180	att%		180	250	mag%		23	23	oskill	Critical Strike	1	6	cast2		35	35	aura	Meditation	12	17	all-stats		10	20	0
+Runeword62	Insight	1		Previously Ladder Only	sppl	staf	miss							RalTirTalSol	r08	r03	r07	r12			dmg%		120	180	att%		180	250	mag%		23	23	oskill	Critical Strike	1	6	cast2		35	35	aura	Meditation	12	17	all-stats		10	20	0
 Runeword63	Jealousy																																																0
 Runeword64	Judgment																																																0
 Runeword65	King's Grace	1		109	swor	scep								AmnRalThul	r11	r08	r10				dmg%		100	100	att		150	150	dmg-demon		100	100	dmg-undead		50	50	att-demon		100	100	att-undead		100	100					0
@@ -118,7 +118,7 @@ Runeword117	Rain	1		111	tors									OrtMalIth	r09	r23	r06				hit-skill	Twister	
 Runeword118	Reason																																																0
 Runeword119	Red																																																0
 Runeword120	Rhyme	1		109	shld									ShaelEth	r13	r05					block2		20	20	block		20	20	res-all		25	25	nofreeze		1	1	gold%		50	50	mag%		25	25					0
-Runeword121	Rift	1		Previously Ladder Only	pole	scep								HelKoLemGul	r15	r18	r20	r25			dmg-mag		160	250	dmg-fire		60	180	dmg-to-mana		38	38	hit-skill	Tornado	20	21	att-skill	Frozen Orb	16	21	charged	Iron Maiden	40	15	all-stats		15	20	0
+Runeword121	Rift	1		Previously Ladder Only	sppl	scep								HelKoLemGul	r15	r18	r20	r25			dmg-mag		160	250	dmg-fire		60	180	dmg-to-mana		38	38	hit-skill	Tornado	20	21	att-skill	Frozen Orb	16	21	charged	Iron Maiden	40	15	all-stats		15	20	0
 Runeword122	Sanctuary	1		110	shld									KoKoMal	r18	r18	r23				block		20	20	block2		20	20	ac%		130	160	gethitskill	Slow Missiles	8	12	res-all		35	50	balance2		20	20	nofreeze		1	1	0
 Runeword123	Serendipity																																																0
 Runeword124	Shadow																																																0
