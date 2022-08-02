@@ -1,0 +1,5 @@
+site_name: Diablo 2 Never Dies
+site_url: https://diablo2neverdies.com/
+nav:
+  - Home: index.md
+  - About: about.md
