@@ -205,7 +205,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Power Strike: unchanged
 - Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage, always pierces target
 - Fend: reduced strikes to 3
-- Charged Strike: unchanged
+- Charged Strike: removed dependency to lightning bolt
 - Plague Javelin: removed delay, poison duration set to 2 seconds
 - Lightning Strike: unchanged
 - Lightning Fury: set base number of bolts to 11
@@ -220,7 +220,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Dodge: added faster hit recovery
 - Decoy: unchanged 
 - Penetrate: added minus monster defense [per 10 base levels]
-- Valkyrie: added additional Valkyries per 10 base levels 
+- Valkyrie: rmoved dependency to evade, added additional Valkyries per 10 base levels 
 
 ### Bow and Crossbow:
 - Magic Arrow: added additional arrows based on base level, magic arrow now takes 50% conversion from physical from base level 1
@@ -228,7 +228,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Fire Arrow: buffed fire damage, velocity increased, always pierces target, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage
 - Cold Arrow: buffed cold damage, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage
 - Ice Arrow: buffed cold damage, velocity increased, cold pierce
-- Guided Arrow: enabled piercing 
+- Guided Arrow: removed dependency to cold arrow, enabled piercing 
 - Exploding Arrow: buffed damage to make it more viable
 - Strafe: removed local delay 
 - Immolation Arrow: fire pierce for 2 seconds, buffed damage, increase burn area as skill levels up, explosion radius now increases with Explosion Arrow synergy 
@@ -247,7 +247,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Dragon Tail: unchanged
 - Dragon Flight: reduce frame animation for Dragon Flight to 6 (from 16)
 - Blades of Ice: increased damage
-- Phoenix Strike: unchanged 
+- Phoenix Strike: removed dependency to Cobra Strike
 
 ### Shadow Disciplines:
 
@@ -258,7 +258,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Cloak of Shadows: Decreased duration to 6 seconds to allow for multiple casts
 - Mind Blast: unchanged 
 - Fade: increased duration, decreased max damage reduction 
-- Shadow Warrior: decreased max resistances 
+- Shadow Warrior: removed dependency to Cloak of Shadows, decreased max resistances 
 - Shadow Master: decreased max resistances 
 - Venom: increased duration, increased damage, added base -enemy poison res
 
@@ -269,7 +269,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Blade Sentinel: increased max sentinels, removed cast delay, reduced next hit delay (4 from 25) so a monster can get hit more than once
 - Charged Bolt Sentry: unchanged
 - Wake of Fire: increased damage overall 
-- Blade Fury: added AR% multiplier, added pierce
+- Blade Fury: removed dependency to Wake of Fire, added AR% multiplier, added pierce
 - Blade Shield: increased base duration, changed synergy to Claw and Dagger Mastery to enable viability
 - Lightning Sentry: unchanged
 - Wake of Inferno: unchanged
@@ -282,7 +282,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Howl: unchanged 
 - Find Potion: unchanged 
 - Shout: set to fixed duration of 300 seconds
-- War Cry: removed cast sound, increased Damage, decreased mana cost, set to only stun on the first 2 skill levels
+- War Cry: removed dependency to Battle Orders, removed cast sound, increased Damage, decreased mana cost, set to only stun on the first 2 skill levels
 - Find Item: unchanged 
 - Taunt: unchanged 
 - Battle Orders: set to fixed duration of 300 seconds, decreased overall buff to max mana and life 
@@ -309,12 +309,12 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Double Swing: added damage multiplier
 - Frenzy: changed duration calculation to last longer, synergy from Double Swing
 - Stun: unchanged
-- Concentrate: Added deadly strike
+- Concentrate: Added chance of deadly strike
 - Double Throw: set chance to not use quantity to 100%
 - Leap: unchanged 
 - Leap Attack: increased leap speed, reduced minimum frames to 8 on short leaps, doubled AoE damage, added synergy to AoE damage (Leap and Bash)
 - Berserk: unchanged 
-- Whirlwind: buffed damage and added attack speed to gain max frames
+- Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames
 
 ## Paladin, Druid, Necro, Sorceress
 
