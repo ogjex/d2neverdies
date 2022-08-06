@@ -121,7 +121,7 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 - Added stronger and more frequent rare rolls 
 - Necro shields (exceptional and elite) can now have 3 sockets
 - All weapons can now have minimum of 2 sockets
-- All weapons now deal Area of Effect damage
+- All weapons now deal Area of Effect damage in an arc
 - Updated block chances for larger shields so they are now viable (Aegis and Wards now useful)
 - Updated unique and set items to be actually viable
 - Increased ranges of Spear and Polearms, Daggers and Assassin claws
