@@ -1684,7 +1684,7 @@ Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	18		3	ring	glx	gp
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	19		3	ring	glx	gpb					useitem				corruption	100		21	21	str	100		8	15																																																																										0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	20		3	ring	glx	gpb					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
 AMULETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Amulet Corruption Tracker	0			100	16	361	0		3	amul	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
+Amulet Corruption Tracker	1			100	16	361	0		3	amul	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Amulet + Glyph -> Random Rare	1			100	16	361	5		3	amul	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	6		3	amul	glx	gpr					useitem				corruption	100		21	21	move1	100		8	12																																																																										0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	8		3	amul	glx	gpr					useitem				corruption	100		21	21	mag%	100		20	35																																																																										0
