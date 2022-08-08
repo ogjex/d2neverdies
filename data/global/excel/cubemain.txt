@@ -743,7 +743,7 @@ Stack of 47 (PTopaz) -> Stack-1 + Target Output	1			0	18	70	47		1	8pt							"use
 Stack of 48 (PTopaz) -> Stack-1 + Target Output	1			0	18	70	48		1	8pt							"usetype,qty=47"																													gpy																																																										0
 Stack of 49 (PTopaz) -> Stack-1 + Target Output	1			0	18	70	49		1	8pt							"usetype,qty=48"																													gpy																																																										0
 Stack of 50 (PTopaz) -> Stack-1 + Target Output	1			0	18	70	50		1	8pt							"usetype,qty=49"																													gpy																																																										0
-QUANTITY MASTER FRAGMENTS, GLYPHS, GIMLETS	0																																																																																																							0
+"QUANTITY MASTER FRAGMENTS, GLYPHS, GIMLETS"	0																																																																																																							0
 FRAGMENTS	0																																																																																																							0
 Stack of 2 (JFragment) -> Stack-1 + Target Output	1			100	18	70	2		1	8fg							"usetype,qty=1"																													jfg																																																										0
 Stack of 3 (JFragment) -> Stack-1 + Target Output	1			100	18	70	3		1	8fg							"usetype,qty=2"																													jfg																																																										0
@@ -1572,143 +1572,143 @@ Normal Boots + Glyph -> Corrupted Boots	1			100	16	361	20		2	"boot,nor"	glx					
 Superior Boots + Glyph -> Corrupted Boots	1			100	16	361	20		2	"boot,hiq"	glx						useitem				corruption	100		21	21																																																																															0
 Low quality Boots + Glyph -> Corrupted Boots	1			100	16	361	20		2	"boot,low"	glx						useitem				corruption	100		21	21																																																																															0
 BOOTS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Boots Corruption Tracker	1			100	16	361	0		3	"boot"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Boots + Glyph -> Random Rare	1			100	16	361	5		3	"boot"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	6		3	"boot"	glx	gpr					useitem				corruption	100		21	21	dex	100		15	20																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	8		3	"boot"	glx	gpr					useitem				corruption	100		21	21	mag%	100		10	20																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	10		3	"boot"	glx	gpr					useitem				corruption	100		21	21	balance2	100		5	8																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	12		3	"boot"	glx	gpr					useitem				corruption	100		21	21	block2	100		5	10																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	14		3	"boot"	glx	gpr					useitem				corruption	100		21	21	res-fire-max	100		2	3																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	16		3	"boot"	glx	gpr					useitem				corruption	100		21	21	res-cold-max	100		2	3																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	17		3	"boot"	glx	gpr					useitem				corruption	100		21	21	res-ltng-max	100		2	3																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	18		3	"boot"	glx	gpr					useitem				corruption	100		21	21	nofreeze	100		1	1																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	19		3	"boot"	glx	gpr					useitem				corruption	100		21	21	move1	100		10	15																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	20		3	"boot"	glx	gpr					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
+Boots Corruption Tracker	1			100	16	361	0		3	boot	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
+Boots + Glyph -> Random Rare	1			100	16	361	5		3	boot	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	6		3	boot	glx	gpr					useitem				corruption	100		21	21	dex	100		15	20																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	8		3	boot	glx	gpr					useitem				corruption	100		21	21	mag%	100		10	20																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	10		3	boot	glx	gpr					useitem				corruption	100		21	21	balance2	100		5	8																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	12		3	boot	glx	gpr					useitem				corruption	100		21	21	block2	100		5	10																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	14		3	boot	glx	gpr					useitem				corruption	100		21	21	res-fire-max	100		2	3																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	16		3	boot	glx	gpr					useitem				corruption	100		21	21	res-cold-max	100		2	3																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	17		3	boot	glx	gpr					useitem				corruption	100		21	21	res-ltng-max	100		2	3																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	18		3	boot	glx	gpr					useitem				corruption	100		21	21	nofreeze	100		1	1																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	19		3	boot	glx	gpr					useitem				corruption	100		21	21	move1	100		10	15																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	20		3	boot	glx	gpr					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
 BOOTS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Boots Corruption Tracker	0			100	16	361	0		3	"boot"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Boots + Glyph -> Random Rare	0			100	16	361	5		3	"boot"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	6		3	"boot"	glx	gpb					useitem				corruption	100		21	21	mana-kill	100		2	4																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	8		3	"boot"	glx	gpb					useitem				corruption	100		21	21	mag%	100		10	20																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	10		3	"boot"	glx	gpb					useitem				corruption	100		21	21	balance2	100		5	8																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	12		3	"boot"	glx	gpb					useitem				corruption	100		21	21	block2	100		5	10																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	14		3	"boot"	glx	gpb					useitem				corruption	100		21	21	res-fire-max	100		2	3																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	16		3	"boot"	glx	gpb					useitem				corruption	100		21	21	res-cold-max	100		2	3																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	17		3	"boot"	glx	gpb					useitem				corruption	100		21	21	res-ltng-max	100		2	3																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	18		3	"boot"	glx	gpb					useitem				corruption	100		21	21	nofreeze	100		1	1																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	19		3	"boot"	glx	gpb					useitem				corruption	100		21	21	move1	100		10	15																																																																										0
-Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	20		3	"boot"	glx	gpb					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
+Boots Corruption Tracker	0			100	16	361	0		3	boot	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
+Boots + Glyph -> Random Rare	0			100	16	361	5		3	boot	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
+Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	6		3	boot	glx	gpb					useitem				corruption	100		21	21	mana-kill	100		2	4																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	8		3	boot	glx	gpb					useitem				corruption	100		21	21	mag%	100		10	20																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	10		3	boot	glx	gpb					useitem				corruption	100		21	21	balance2	100		5	8																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	12		3	boot	glx	gpb					useitem				corruption	100		21	21	block2	100		5	10																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	14		3	boot	glx	gpb					useitem				corruption	100		21	21	res-fire-max	100		2	3																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	16		3	boot	glx	gpb					useitem				corruption	100		21	21	res-cold-max	100		2	3																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	17		3	boot	glx	gpb					useitem				corruption	100		21	21	res-ltng-max	100		2	3																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	18		3	boot	glx	gpb					useitem				corruption	100		21	21	nofreeze	100		1	1																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	19		3	boot	glx	gpb					useitem				corruption	100		21	21	move1	100		10	15																																																																										0
+Boots + Glyph -> Corrupted Boots With Useful Stat	0			100	16	361	20		3	boot	glx	gpb					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
 GLOVES - NORMAL GLOVE CATCHER	0																																																																																																							0
 Normal Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		2	"glov,nor"	glx						useitem				corruption	100		21	21																																																																															0
 Superior Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		2	"glov,hiq"	glx						useitem				corruption	100		21	21																																																																															0
 Low quality Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		2	"glov,low"	glx						useitem				corruption	100		21	21																																																																															0
 GLOVES - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Gloves Corruption Tracker	1			100	16	361	0		3	"glov"	glx	gpr					useitem				corruption	100		1	20																																																		gpr																													0
-Gloves + Glyph -> Random Rare	1			100	16	361	5		3	"glov"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	6		3	"glov"	glx	gpr					useitem				corruption	100		21	21	swing1	100		10	10																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	8		3	"glov"	glx	gpr					useitem				corruption	100		21	21	deadly	100		6	12																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	10		3	"glov"	glx	gpr					useitem				corruption	100		21	21	lifesteal	100		2	4																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	12		3	"glov"	glx	gpr					useitem				corruption	100		21	21	reduce-ac	100		15	20																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	14		3	"glov"	glx	gpr					useitem				corruption	100		21	21	heal-kill	100		3	5																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	16		3	"glov"	glx	gpr					useitem				corruption	100		21	21	ar	100		100	150																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	17		3	"glov"	glx	gpr					useitem				corruption	100		21	21	dmg%	100		30	40																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	18		3	"glov"	glx	gpr					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100		3	6																																																											0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	19		3	"glov"	glx	gpr					useitem				corruption	100		21	21	dex	100		10	15																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	20		3	"glov"	glx	gpr					useitem				corruption	100		21	21	str	100		10	15																																																																										0
+Gloves Corruption Tracker	1			100	16	361	0		3	glov	glx	gpr					useitem				corruption	100		1	20																																																		gpr																													0
+Gloves + Glyph -> Random Rare	1			100	16	361	5		3	glov	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	6		3	glov	glx	gpr					useitem				corruption	100		21	21	swing1	100		10	10																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	8		3	glov	glx	gpr					useitem				corruption	100		21	21	deadly	100		6	12																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	10		3	glov	glx	gpr					useitem				corruption	100		21	21	lifesteal	100		2	4																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	12		3	glov	glx	gpr					useitem				corruption	100		21	21	reduce-ac	100		15	20																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	14		3	glov	glx	gpr					useitem				corruption	100		21	21	heal-kill	100		3	5																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	16		3	glov	glx	gpr					useitem				corruption	100		21	21	ar	100		100	150																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	17		3	glov	glx	gpr					useitem				corruption	100		21	21	dmg%	100		30	40																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	18		3	glov	glx	gpr					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100		3	6																																																											0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	19		3	glov	glx	gpr					useitem				corruption	100		21	21	dex	100		10	15																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	20		3	glov	glx	gpr					useitem				corruption	100		21	21	str	100		10	15																																																																										0
 GLOVES - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Gloves Corruption Tracker	1			100	16	361	0		3	"glov"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Gloves + Glyph -> Random Rare	1			100	16	361	5		3	"glov"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	6		3	"glov"	glx	gpb					useitem				corruption	100		21	21	cast1	100		5	10																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	8		3	"glov"	glx	gpb					useitem				corruption	100		21	21	manakill	100		3	5																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	10		3	"glov"	glx	gpb					useitem				corruption	100		21	21	mag%	100		10	20																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	12		3	"glov"	glx	gpb					useitem				corruption	100		21	21	block	100		5	10																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	14		3	"glov"	glx	gpb					useitem				corruption	100		21	21	block2	100		10	20																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	16		3	"glov"	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		25	30																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	17		3	"glov"	glx	gpb					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	18		3	"glov"	glx	gpb					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100		3	6																																																											0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	19		3	"glov"	glx	gpb					useitem				corruption	100		21	21	vit	100		10	15																																																																										0
-Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	20		3	"glov"	glx	gpb					useitem				corruption	100		21	21	str	100		10	15																																																																										0
+Gloves Corruption Tracker	1			100	16	361	0		3	glov	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
+Gloves + Glyph -> Random Rare	1			100	16	361	5		3	glov	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	6		3	glov	glx	gpb					useitem				corruption	100		21	21	cast1	100		5	10																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	8		3	glov	glx	gpb					useitem				corruption	100		21	21	manakill	100		3	5																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	10		3	glov	glx	gpb					useitem				corruption	100		21	21	mag%	100		10	20																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	12		3	glov	glx	gpb					useitem				corruption	100		21	21	block	100		5	10																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	14		3	glov	glx	gpb					useitem				corruption	100		21	21	block2	100		10	20																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	16		3	glov	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		25	30																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	17		3	glov	glx	gpb					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	18		3	glov	glx	gpb					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100		3	6																																																											0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	19		3	glov	glx	gpb					useitem				corruption	100		21	21	vit	100		10	15																																																																										0
+Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	20		3	glov	glx	gpb					useitem				corruption	100		21	21	str	100		10	15																																																																										0
 BELTS - NORMAL CATCHER	0																																																																																																							0
 Normal Belt + Glyph -> Corrupted Belt	1			100	16	361	20		2	"belt,nor"	glx						useitem				corruption	100		21	21																																																																															0
 Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		2	"belt,hiq"	glx						useitem				corruption	100		21	21																																																																															0
 Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		2	"belt,low"	glx						useitem				corruption	100		21	21																																																																															0
 BELTS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Belt Corruption Tracker	1			100	16	361	0		3	"belt"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Belt + Glyph -> Random Rare	1			100	16	361	5		3	"belt"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	6		3	"belt"	glx	gpr					useitem				corruption	100		21	21	pierce	100		10	15																																																																										0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	8		3	"belt"	glx	gpr					useitem				corruption	100		21	21	swing1	100		10	10																																																																										0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	10		3	"belt"	glx	gpr					useitem				corruption	100		21	21	res-fire	100		5	8	res-cold	100		5	8																																																																					0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	12		3	"belt"	glx	gpr					useitem				corruption	100		21	21	res-cold	100		5	8	res-ltng	100		5	8																																																																					0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	14		3	"belt"	glx	gpr					useitem				corruption	100		21	21	res-ltng	100		5	8	res-fire	100		5	8																																																																					0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	16		3	"belt"	glx	gpr					useitem				corruption	100		21	21	balance2	100		8	14																																																																										0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	17		3	"belt"	glx	gpr					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100		3	6																																																											0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	18		3	"belt"	glx	gpr					useitem				corruption	100		21	21	move1	100		8	12																																																																										0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	19		3	"belt"	glx	gpr					useitem				corruption	100		21	21	res-all	100		4	4																																																																										0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	20		3	"belt"	glx	gpr					useitem				corruption	100		21	21	red-dmg%	100		2	4																																																																										0
+Belt Corruption Tracker	1			100	16	361	0		3	belt	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
+Belt + Glyph -> Random Rare	1			100	16	361	5		3	belt	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	6		3	belt	glx	gpr					useitem				corruption	100		21	21	pierce	100		10	15																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	8		3	belt	glx	gpr					useitem				corruption	100		21	21	swing1	100		10	10																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	10		3	belt	glx	gpr					useitem				corruption	100		21	21	res-fire	100		5	8	res-cold	100		5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	12		3	belt	glx	gpr					useitem				corruption	100		21	21	res-cold	100		5	8	res-ltng	100		5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	14		3	belt	glx	gpr					useitem				corruption	100		21	21	res-ltng	100		5	8	res-fire	100		5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	16		3	belt	glx	gpr					useitem				corruption	100		21	21	balance2	100		8	14																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	17		3	belt	glx	gpr					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100		3	6																																																											0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	18		3	belt	glx	gpr					useitem				corruption	100		21	21	move1	100		8	12																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	19		3	belt	glx	gpr					useitem				corruption	100		21	21	res-all	100		4	4																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	20		3	belt	glx	gpr					useitem				corruption	100		21	21	red-dmg%	100		2	4																																																																										0
 BELTS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Belt Corruption Tracker	1			100	16	361	0		3	"belt"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Belt + Glyph -> Random Rare	1			100	16	361	5		3	"belt"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	6		3	"belt"	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10																																																																										0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	8		3	"belt"	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		20	30																																																																										0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	10		3	"belt"	glx	gpb					useitem				corruption	100		21	21	res-fire	100		5	8	res-cold	100		5	8																																																																					0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	12		3	"belt"	glx	gpb					useitem				corruption	100		21	21	res-cold	100		5	8	res-ltng	100		5	8																																																																					0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	14		3	"belt"	glx	gpb					useitem				corruption	100		21	21	res-ltng	100		5	8	res-fire	100		5	8																																																																					0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	16		3	"belt"	glx	gpb					useitem				corruption	100		21	21	balance2	100		8	14																																																																										0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	17		3	"belt"	glx	gpb					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100		3	6																																																											0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	18		3	"belt"	glx	gpb					useitem				corruption	100		21	21	move1	100		8	12																																																																										0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	19		3	"belt"	glx	gpb					useitem				corruption	100		21	21	res-all	100		5	5																																																																										0
-Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	20		3	"belt"	glx	gpb					useitem				corruption	100		21	21	red-dmg%	100		2	4																																																																										0
+Belt Corruption Tracker	1			100	16	361	0		3	belt	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
+Belt + Glyph -> Random Rare	1			100	16	361	5		3	belt	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	6		3	belt	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	8		3	belt	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		20	30																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	10		3	belt	glx	gpb					useitem				corruption	100		21	21	res-fire	100		5	8	res-cold	100		5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	12		3	belt	glx	gpb					useitem				corruption	100		21	21	res-cold	100		5	8	res-ltng	100		5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	14		3	belt	glx	gpb					useitem				corruption	100		21	21	res-ltng	100		5	8	res-fire	100		5	8																																																																					0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	16		3	belt	glx	gpb					useitem				corruption	100		21	21	balance2	100		8	14																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	17		3	belt	glx	gpb					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100		3	6																																																											0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	18		3	belt	glx	gpb					useitem				corruption	100		21	21	move1	100		8	12																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	19		3	belt	glx	gpb					useitem				corruption	100		21	21	res-all	100		5	5																																																																										0
+Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	20		3	belt	glx	gpb					useitem				corruption	100		21	21	red-dmg%	100		2	4																																																																										0
 RINGS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Ring Corruption Tracker	1			100	16	361	0		3	"ring"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Ring + Glyph -> Random Rare	1			100	16	361	5		3	"ring"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	6		3	"ring"	glx	gpr					useitem				corruption	100		21	21	dex	100		8	15																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	8		3	"ring"	glx	gpr					useitem				corruption	100		21	21	lifesteal	100		3	4																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	10		3	"ring"	glx	gpr					useitem				corruption	100		21	21	manasteal	100		3	4																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	12		3	"ring"	glx	gpr					useitem				corruption	100		21	21	att	100		100	150																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	14		3	"ring"	glx	gpr					useitem				corruption	100		21	21	mag%	100		15	20																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	16		3	"ring"	glx	gpr					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100																																																														0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	17		3	"ring"	glx	gpr					useitem				corruption	100		21	21	move1	100		8	12																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	18		3	"ring"	glx	gpr					useitem				corruption	100		21	21	nofreeze	100		1	1																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	19		3	"ring"	glx	gpr					useitem				corruption	100		21	21	str	100		8	15																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	20		3	"ring"	glx	gpr					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
+Ring Corruption Tracker	1			100	16	361	0		3	ring	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
+Ring + Glyph -> Random Rare	1			100	16	361	5		3	ring	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	6		3	ring	glx	gpr					useitem				corruption	100		21	21	dex	100		8	15																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	8		3	ring	glx	gpr					useitem				corruption	100		21	21	lifesteal	100		3	4																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	10		3	ring	glx	gpr					useitem				corruption	100		21	21	manasteal	100		3	4																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	12		3	ring	glx	gpr					useitem				corruption	100		21	21	att	100		100	150																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	14		3	ring	glx	gpr					useitem				corruption	100		21	21	mag%	100		15	20																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	16		3	ring	glx	gpr					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100																																																														0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	17		3	ring	glx	gpr					useitem				corruption	100		21	21	move1	100		8	12																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	18		3	ring	glx	gpr					useitem				corruption	100		21	21	nofreeze	100		1	1																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	19		3	ring	glx	gpr					useitem				corruption	100		21	21	str	100		8	15																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	20		3	ring	glx	gpr					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
 RINGS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Ring Corruption Tracker	1			100	16	361	0		3	"ring"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Ring + Glyph -> Random Rare	1			100	16	361	5		3	"ring"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	6		3	"ring"	glx	gpb					useitem				corruption	100		21	21	enr	100		10	20																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	8		3	"ring"	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		15	20																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	10		3	"ring"	glx	gpb					useitem				corruption	100		21	21	mana-kill	100		3	5																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	12		3	"ring"	glx	gpb					useitem				corruption	100		21	21	life-kill	100		3	5																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	14		3	"ring"	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	16		3	"ring"	glx	gpb					useitem				corruption	100		21	21	mag%	100		15	20																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	17		3	"ring"	glx	gpb					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100																																																														0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	18		3	"ring"	glx	gpb					useitem				corruption	100		21	21	nofreeze	100		1	1																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	19		3	"ring"	glx	gpb					useitem				corruption	100		21	21	str	100		8	15																																																																										0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	20		3	"ring"	glx	gpb					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
+Ring Corruption Tracker	1			100	16	361	0		3	ring	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
+Ring + Glyph -> Random Rare	1			100	16	361	5		3	ring	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	6		3	ring	glx	gpb					useitem				corruption	100		21	21	enr	100		10	20																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	8		3	ring	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		15	20																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	10		3	ring	glx	gpb					useitem				corruption	100		21	21	mana-kill	100		3	5																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	12		3	ring	glx	gpb					useitem				corruption	100		21	21	life-kill	100		3	5																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	14		3	ring	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	16		3	ring	glx	gpb					useitem				corruption	100		21	21	mag%	100		15	20																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	17		3	ring	glx	gpb					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100																																																														0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	18		3	ring	glx	gpb					useitem				corruption	100		21	21	nofreeze	100		1	1																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	19		3	ring	glx	gpb					useitem				corruption	100		21	21	str	100		8	15																																																																										0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	20		3	ring	glx	gpb					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
 AMULETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Amulet Corruption Tracker	0			100	16	361	0		3	"amul"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Amulet + Glyph -> Random Rare	1			100	16	361	5		3	"amul"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	6		3	"amul"	glx	gpr					useitem				corruption	100		21	21	move1	100		8	12																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	8		3	"amul"	glx	gpr					useitem				corruption	100		21	21	mag%	100		20	35																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	10		3	"amul"	glx	gpr					useitem				corruption	100		21	21	block	100		5	9																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	12		3	"amul"	glx	gpr					useitem				corruption	100		21	21	dmg%	100		30	40																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	14		3	"amul"	glx	gpr					useitem				corruption	100		21	21	heal-kill	100		3	4																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	16		3	"amul"	glx	gpr					useitem				corruption	100		21	21	balance2	100		10	14																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	17		3	"amul"	glx	gpr					useitem				corruption	100		21	21	str	100		4	8	dex	100		4	8	vit	100		4	8	enr	100		4	8																																																											0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	18		3	"amul"	glx	gpr					useitem				corruption	100		21	21	pierce	100		12	15																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	19		3	"amul"	glx	gpr					useitem				corruption	100		21	21	res-all	100		5	10																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	"amul"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
+Amulet Corruption Tracker	0			100	16	361	0		3	amul	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
+Amulet + Glyph -> Random Rare	1			100	16	361	5		3	amul	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	6		3	amul	glx	gpr					useitem				corruption	100		21	21	move1	100		8	12																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	8		3	amul	glx	gpr					useitem				corruption	100		21	21	mag%	100		20	35																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	10		3	amul	glx	gpr					useitem				corruption	100		21	21	block	100		5	9																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	12		3	amul	glx	gpr					useitem				corruption	100		21	21	dmg%	100		30	40																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	14		3	amul	glx	gpr					useitem				corruption	100		21	21	heal-kill	100		3	4																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	16		3	amul	glx	gpr					useitem				corruption	100		21	21	balance2	100		10	14																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	17		3	amul	glx	gpr					useitem				corruption	100		21	21	str	100		4	8	dex	100		4	8	vit	100		4	8	enr	100		4	8																																																											0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	18		3	amul	glx	gpr					useitem				corruption	100		21	21	pierce	100		12	15																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	19		3	amul	glx	gpr					useitem				corruption	100		21	21	res-all	100		5	10																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	amul	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 AMULETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Amulet Corruption Tracker	1			100	16	361	0		3	"amul"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Amulet + Glyph -> Random Rare	1			100	16	361	5		3	"amul"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	6		3	"amul"	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	8		3	"amul"	glx	gpb					useitem				corruption	100		21	21	mag%	100		20	35																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	10		3	"amul"	glx	gpb					useitem				corruption	100		21	21	regen	100		20	25																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	12		3	"amul"	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		20	25																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	14		3	"amul"	glx	gpb					useitem				corruption	100		21	21	mana-kill	100		3	4																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	16		3	"amul"	glx	gpb					useitem				corruption	100		21	21	res-fire-max	100		2	2	res-ltng-max	100		2	2	res-cold-max	100		2	2																																																																0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	17		3	"amul"	glx	gpb					useitem				corruption	100		21	21	balance2	100		10	14																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	18		3	"amul"	glx	gpb					useitem				corruption	100		21	21	str	100		4	8	dex	100		4	8	vit	100		4	8	enr	100		4	8																																																											0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	19		3	"amul"	glx	gpb					useitem				corruption	100		21	21	res-all	100		5	10																																																																										0
-Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	"amul"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
+Amulet Corruption Tracker	1			100	16	361	0		3	amul	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
+Amulet + Glyph -> Random Rare	1			100	16	361	5		3	amul	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	6		3	amul	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	8		3	amul	glx	gpb					useitem				corruption	100		21	21	mag%	100		20	35																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	10		3	amul	glx	gpb					useitem				corruption	100		21	21	regen	100		20	25																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	12		3	amul	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		20	25																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	14		3	amul	glx	gpb					useitem				corruption	100		21	21	mana-kill	100		3	4																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	16		3	amul	glx	gpb					useitem				corruption	100		21	21	res-fire-max	100		2	2	res-ltng-max	100		2	2	res-cold-max	100		2	2																																																																0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	17		3	amul	glx	gpb					useitem				corruption	100		21	21	balance2	100		10	14																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	18		3	amul	glx	gpb					useitem				corruption	100		21	21	str	100		4	8	dex	100		4	8	vit	100		4	8	enr	100		4	8																																																											0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	19		3	amul	glx	gpb					useitem				corruption	100		21	21	res-all	100		5	10																																																																										0
+Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	amul	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 CHARM INFUSION RECIPES	0																																																																																																							0
 PERSONALIZED VALORS	0																																																																																																							0
 Personal --> Ama valor	1			100					2	cc0	gpy						cc1																													gpy																																																										0
@@ -1790,9 +1790,9 @@ Heatproof Bidding	1			100	16	368	59		2	cc1	mb3						useitem				infusion	100		6	6
 Chunky Bidding	1			100	16	368	59		2	cc1	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
 Crystal Bidding	1			100	16	368	59		2	cc1	nb2						useitem				infusion	100		6	6	levelreq			4	4	res-cold			6	6																																																																					0
 Diamond Bidding	1			100	16	368	59		2	cc1	nb3						useitem				infusion	100		6	6	levelreq			6	6	res-cold			9	9																																																																					0
-Grounded Bidding	1			100	16	368	59		2	cc1	ob1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
-Conductive Bidding	1			100	16	368	59		2	cc1	ob2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
-Arrested Bidding	1			100	16	368	59		2	cc1	ob3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
+Grounded Bidding	1			100	16	368	59		2	cc1	zb1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Conductive Bidding	1			100	16	368	59		2	cc1	zb2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
+Arrested Bidding	1			100	16	368	59		2	cc1	zb3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
 Neutralizing Bidding	1			100	16	368	59		2	cc1	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
 Antitoxic Bidding	1			100	16	368	59		2	cc1	pb2						useitem				infusion	100		6	6	levelreq			4	4	res-pois			6	6																																																																					0
 Remedying Bidding	1			100	16	368	59		2	cc1	pb3						useitem				infusion	100		6	6	levelreq			6	6	res-pois			9	9																																																																					0
@@ -1860,9 +1860,9 @@ Heatproof Bidding	1			100	16	368	59		2	cc2	mb3						useitem				infusion	100		6	6
 Chunky Bidding	1			100	16	368	59		2	cc2	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
 Crystal Bidding	1			100	16	368	59		2	cc2	nb2						useitem				infusion	100		6	6	levelreq			4	4	res-cold			6	6																																																																					0
 Diamond Bidding	1			100	16	368	59		2	cc2	nb3						useitem				infusion	100		6	6	levelreq			6	6	res-cold			9	9																																																																					0
-Grounded Bidding	1			100	16	368	59		2	cc2	ob1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
-Conductive Bidding	1			100	16	368	59		2	cc2	ob2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
-Arrested Bidding	1			100	16	368	59		2	cc2	ob3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
+Grounded Bidding	1			100	16	368	59		2	cc2	zb2						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Conductive Bidding	1			100	16	368	59		2	cc2	zb2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
+Arrested Bidding	1			100	16	368	59		2	cc2	zb3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
 Neutralizing Bidding	1			100	16	368	59		2	cc2	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
 Antitoxic Bidding	1			100	16	368	59		2	cc2	pb2						useitem				infusion	100		6	6	levelreq			4	4	res-pois			6	6																																																																					0
 Remedying Bidding	1			100	16	368	59		2	cc2	pb3						useitem				infusion	100		6	6	levelreq			6	6	res-pois			9	9																																																																					0
@@ -1930,9 +1930,9 @@ Heatproof Bidding	1			100	16	368	59		2	cc3	mb3						useitem				infusion	100		6	6
 Chunky Bidding	1			100	16	368	59		2	cc3	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
 Crystal Bidding	1			100	16	368	59		2	cc3	nb2						useitem				infusion	100		6	6	levelreq			4	4	res-cold			6	6																																																																					0
 Diamond Bidding	1			100	16	368	59		2	cc3	nb3						useitem				infusion	100		6	6	levelreq			6	6	res-cold			9	9																																																																					0
-Grounded Bidding	1			100	16	368	59		2	cc3	ob1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
-Conductive Bidding	1			100	16	368	59		2	cc3	ob2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
-Arrested Bidding	1			100	16	368	59		2	cc3	ob3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
+Grounded Bidding	1			100	16	368	59		2	cc3	zb1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Conductive Bidding	1			100	16	368	59		2	cc3	zb2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
+Arrested Bidding	1			100	16	368	59		2	cc3	zb3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
 Neutralizing Bidding	1			100	16	368	59		2	cc3	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
 Antitoxic Bidding	1			100	16	368	59		2	cc3	pb2						useitem				infusion	100		6	6	levelreq			4	4	res-pois			6	6																																																																					0
 Remedying Bidding	1			100	16	368	59		2	cc3	pb3						useitem				infusion	100		6	6	levelreq			6	6	res-pois			9	9																																																																					0
@@ -2000,9 +2000,9 @@ Heatproof Bidding	1			100	16	368	59		2	cc4	mb3						useitem				infusion	100		6	6
 Chunky Bidding	1			100	16	368	59		2	cc4	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
 Crystal Bidding	1			100	16	368	59		2	cc4	nb2						useitem				infusion	100		6	6	levelreq			4	4	res-cold			6	6																																																																					0
 Diamond Bidding	1			100	16	368	59		2	cc4	nb3						useitem				infusion	100		6	6	levelreq			6	6	res-cold			9	9																																																																					0
-Grounded Bidding	1			100	16	368	59		2	cc4	ob1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
-Conductive Bidding	1			100	16	368	59		2	cc4	ob2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
-Arrested Bidding	1			100	16	368	59		2	cc4	ob3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
+Grounded Bidding	1			100	16	368	59		2	cc4	zb1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Conductive Bidding	1			100	16	368	59		2	cc4	zb2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
+Arrested Bidding	1			100	16	368	59		2	cc4	zb3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
 Neutralizing Bidding	1			100	16	368	59		2	cc4	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
 Antitoxic Bidding	1			100	16	368	59		2	cc4	pb2						useitem				infusion	100		6	6	levelreq			4	4	res-pois			6	6																																																																					0
 Remedying Bidding	1			100	16	368	59		2	cc4	pb3						useitem				infusion	100		6	6	levelreq			6	6	res-pois			9	9																																																																					0
@@ -2070,9 +2070,9 @@ Heatproof Bidding	1			100	16	368	59		2	cc5	mb3						useitem				infusion	100		6	6
 Chunky Bidding	1			100	16	368	59		2	cc5	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
 Crystal Bidding	1			100	16	368	59		2	cc5	nb2						useitem				infusion	100		6	6	levelreq			4	4	res-cold			6	6																																																																					0
 Diamond Bidding	1			100	16	368	59		2	cc5	nb3						useitem				infusion	100		6	6	levelreq			6	6	res-cold			9	9																																																																					0
-Grounded Bidding	1			100	16	368	59		2	cc5	ob1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
-Conductive Bidding	1			100	16	368	59		2	cc5	ob2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
-Arrested Bidding	1			100	16	368	59		2	cc5	ob3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
+Grounded Bidding	1			100	16	368	59		2	cc5	zb1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Conductive Bidding	1			100	16	368	59		2	cc5	zb2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
+Arrested Bidding	1			100	16	368	59		2	cc5	zb3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
 Neutralizing Bidding	1			100	16	368	59		2	cc5	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
 Antitoxic Bidding	1			100	16	368	59		2	cc5	pb2						useitem				infusion	100		6	6	levelreq			4	4	res-pois			6	6																																																																					0
 Remedying Bidding	1			100	16	368	59		2	cc5	pb3						useitem				infusion	100		6	6	levelreq			6	6	res-pois			9	9																																																																					0
@@ -2140,9 +2140,9 @@ Heatproof Bidding	1			100	16	368	59		2	cc6	mb3						useitem				infusion	100		6	6
 Chunky Bidding	1			100	16	368	59		2	cc6	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
 Crystal Bidding	1			100	16	368	59		2	cc6	nb2						useitem				infusion	100		6	6	levelreq			4	4	res-cold			6	6																																																																					0
 Diamond Bidding	1			100	16	368	59		2	cc6	nb3						useitem				infusion	100		6	6	levelreq			6	6	res-cold			9	9																																																																					0
-Grounded Bidding	1			100	16	368	59		2	cc6	ob1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
-Conductive Bidding	1			100	16	368	59		2	cc6	ob2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
-Arrested Bidding	1			100	16	368	59		2	cc6	ob3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
+Grounded Bidding	1			100	16	368	59		2	cc6	zb1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Conductive Bidding	1			100	16	368	59		2	cc6	zb2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
+Arrested Bidding	1			100	16	368	59		2	cc6	zb3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
 Neutralizing Bidding	1			100	16	368	59		2	cc6	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
 Antitoxic Bidding	1			100	16	368	59		2	cc6	pb2						useitem				infusion	100		6	6	levelreq			4	4	res-pois			6	6																																																																					0
 Remedying Bidding	1			100	16	368	59		2	cc6	pb3						useitem				infusion	100		6	6	levelreq			6	6	res-pois			9	9																																																																					0
@@ -2210,9 +2210,9 @@ Heatproof Bidding	1			100	16	368	59		2	cc7	mb3						useitem				infusion	100		6	6
 Chunky Bidding	1			100	16	368	59		2	cc7	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
 Crystal Bidding	1			100	16	368	59		2	cc7	nb2						useitem				infusion	100		6	6	levelreq			4	4	res-cold			6	6																																																																					0
 Diamond Bidding	1			100	16	368	59		2	cc7	nb3						useitem				infusion	100		6	6	levelreq			6	6	res-cold			9	9																																																																					0
-Grounded Bidding	1			100	16	368	59		2	cc7	ob1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
-Conductive Bidding	1			100	16	368	59		2	cc7	ob2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
-Arrested Bidding	1			100	16	368	59		2	cc7	ob3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
+Grounded Bidding	1			100	16	368	59		2	cc7	zb1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Conductive Bidding	1			100	16	368	59		2	cc7	zb2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
+Arrested Bidding	1			100	16	368	59		2	cc7	zb3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
 Neutralizing Bidding	1			100	16	368	59		2	cc7	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
 Antitoxic Bidding	1			100	16	368	59		2	cc7	pb2						useitem				infusion	100		6	6	levelreq			4	4	res-pois			6	6																																																																					0
 Remedying Bidding	1			100	16	368	59		2	cc7	pb3						useitem				infusion	100		6	6	levelreq			6	6	res-pois			9	9																																																																					0
