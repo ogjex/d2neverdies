@@ -345,48 +345,48 @@ Act 4 (H) Miss B	9	80	1					95	gld	18	Act 4 (H) Equip B	13	Junk (H)	18	Act 4 (H)
 Act 5 (H) Miss A	9	81	1					95	gld	18	Act 5 (H) Equip A	13	Junk (H)	18	Act 5 (H) Good	4	Act 5 (H) Bow A	6	Ammo	3												0
 Act 5 (H) Miss B	9	83	1					95	gld	18	Act 5 (H) Equip B	13	Junk (H)	18	Act 5 (H) Good	4	Act 5 (H) Bow B	6	Ammo	3												0
 Act 5 (H) Miss C	9	85	1					95	gld	18	Act 5 (H) Equip C	13	Junk (H)	18	Act 5 (H) Good	4	Act 5 (H) Bow B	6	Ammo	3												0
-Act 1 Wraith A	10	0	1					195	Act 1 Good	4	Potion 0	25																				0
-Act 1 Wraith B	10	5	1					195	Act 1 Good	4	Potion 0	25																				0
-Act 1 Wraith C	10	9	1					195	Act 1 Good	4	Potion 0	25																				0
-Act 2 Wraith A	10	12	1					195	Act 2 Good	4	Potion 0	25																				0
-Act 2 Wraith B	10	15	1					195	Act 2 Good	4	Potion 0	25																				0
-Act 2 Wraith C	10	18	1					195	Act 3 Good	4	Potion 0	25																				0
-Act 3 Wraith A	10	20	1					195	Act 3 Good	4	Potion 0	25																				0
-Act 3 Wraith B	10	22	1					195	Act 3 Good	4	Potion 0	25																				0
-Act 3 Wraith C	10	24	1					195	Act 3 Good	4	Potion 0	25																				0
-Act 4 Wraith A	10	26	1					195	Act 4 Good	4	Potion 1	25																				0
-Act 4 Wraith B	10	29	1					195	Act 4 Good	4	Potion 1	25																				0
-Act 5 Wraith A	10	32	1					195	Act 5 Good	4	Potion 1	25																				0
-Act 5 Wraith B	10	34	1					195	Act 5 Good	4	Potion 1	25																				0
-Act 5 Wraith C	10	36	1					195	Act 5 Good	4	Potion 1	25																				0
-Act 1 (N) Wraith A	10	38	1					195	Act 1 (N) Good	4	Potion 2	25																				0
-Act 1 (N) Wraith B	10	40	1					195	Act 1 (N) Good	4	Potion 2	25																				0
-Act 1 (N) Wraith C	10	41	1					195	Act 1 (N) Good	4	Potion 2	25																				0
-Act 2 (N) Wraith A	10	42	1					195	Act 2 (N) Good	4	Potion 2	25																				0
-Act 2 (N) Wraith B	10	44	1					195	Act 2 (N) Good	4	Potion 2	25																				0
-Act 2 (N) Wraith C	10	45	1					195	Act 2 (N) Good	4	Potion 2	25																				0
-Act 3 (N) Wraith A	10	46	1					195	Act 3 (N) Good	4	Potion 2	25																				0
-Act 3 (N) Wraith B	10	48	1					195	Act 3 (N) Good	4	Potion 2	25																				0
-Act 3 (N) Wraith C	10	50	1					195	Act 3 (N) Good	4	Potion 2	25																				0
-Act 4 (N) Wraith A	10	51	1					195	Act 4 (N) Good	4	Potion 2	25																				0
-Act 4 (N) Wraith B	10	54	1					195	Act 4 (N) Good	4	Potion 2	25																				0
-Act 5 (N) Wraith A	10	57	1					195	Act 5 (N) Good	4	Potion 2	25																				0
-Act 5 (N) Wraith B	10	60	1					195	Act 5 (N) Good	4	Potion 2	25																				0
-Act 5 (N) Wraith C	10	62	1					195	Act 5 (N) Good	4	Potion 2	25																				0
-Act 1 (H) Wraith A	10	63	1					195	Act 1 (H) Good	4	Potion 2	25																				0
-Act 1 (H) Wraith B	10	66	1					195	Act 1 (H) Good	4	Potion 2	25																				0
-Act 1 (H) Wraith C	10	68	1					195	Act 1 (H) Good	4	Potion 2	25																				0
-Act 2 (H) Wraith A	10	69	1					195	Act 2 (H) Good	4	Potion 2	25																				0
-Act 2 (H) Wraith B	10	71	1					195	Act 2 (H) Good	4	Potion 2	25																				0
-Act 2 (H) Wraith C	10	72	1					195	Act 2 (H) Good	4	Potion 2	25																				0
-Act 3 (H) Wraith A	10	74	1					195	Act 3 (H) Good	4	Potion 2	25																				0
-Act 3 (H) Wraith B	10	75	1					195	Act 3 (H) Good	4	Potion 2	25																				0
-Act 3 (H) Wraith C	10	77	1					195	Act 3 (H) Good	4	Potion 2	25																				0
-Act 4 (H) Wraith A	10	78	1					195	Act 4 (H) Good	4	Potion 2	25																				0
-Act 4 (H) Wraith B	10	80	1					195	Act 4 (H) Good	4	Potion 2	25																				0
-Act 5 (H) Wraith A	10	81	1					195	Act 5 (H) Good	4	Potion 2	25																				0
-Act 5 (H) Wraith B	10	83	1					195	Act 5 (H) Good	4	Potion 2	25																				0
-Act 5 (H) Wraith C	10	85	1					195	Act 5 (H) Good	4	Potion 2	25																				0
+Act 1 Wraith A	10	0	1					75	Act 1 Good	4	Potion 0	25																				0
+Act 1 Wraith B	10	5	1					75	Act 1 Good	4	Potion 0	25																				0
+Act 1 Wraith C	10	9	1					75	Act 1 Good	4	Potion 0	25																				0
+Act 2 Wraith A	10	12	1					75	Act 2 Good	4	Potion 0	25																				0
+Act 2 Wraith B	10	15	1					75	Act 2 Good	4	Potion 0	25																				0
+Act 2 Wraith C	10	18	1					75	Act 3 Good	4	Potion 0	25																				0
+Act 3 Wraith A	10	20	1					75	Act 3 Good	4	Potion 0	25																				0
+Act 3 Wraith B	10	22	1					75	Act 3 Good	4	Potion 0	25																				0
+Act 3 Wraith C	10	24	1					75	Act 3 Good	4	Potion 0	25																				0
+Act 4 Wraith A	10	26	1					75	Act 4 Good	4	Potion 1	25																				0
+Act 4 Wraith B	10	29	1					75	Act 4 Good	4	Potion 1	25																				0
+Act 5 Wraith A	10	32	1					75	Act 5 Good	4	Potion 1	25																				0
+Act 5 Wraith B	10	34	1					75	Act 5 Good	4	Potion 1	25																				0
+Act 5 Wraith C	10	36	1					75	Act 5 Good	4	Potion 1	25																				0
+Act 1 (N) Wraith A	10	38	1					75	Act 1 (N) Good	4	Potion 2	25																				0
+Act 1 (N) Wraith B	10	40	1					75	Act 1 (N) Good	4	Potion 2	25																				0
+Act 1 (N) Wraith C	10	41	1					75	Act 1 (N) Good	4	Potion 2	25																				0
+Act 2 (N) Wraith A	10	42	1					75	Act 2 (N) Good	4	Potion 2	25																				0
+Act 2 (N) Wraith B	10	44	1					75	Act 2 (N) Good	4	Potion 2	25																				0
+Act 2 (N) Wraith C	10	45	1					75	Act 2 (N) Good	4	Potion 2	25																				0
+Act 3 (N) Wraith A	10	46	1					75	Act 3 (N) Good	4	Potion 2	25																				0
+Act 3 (N) Wraith B	10	48	1					75	Act 3 (N) Good	4	Potion 2	25																				0
+Act 3 (N) Wraith C	10	50	1					75	Act 3 (N) Good	4	Potion 2	25																				0
+Act 4 (N) Wraith A	10	51	1					75	Act 4 (N) Good	4	Potion 2	25																				0
+Act 4 (N) Wraith B	10	54	1					75	Act 4 (N) Good	4	Potion 2	25																				0
+Act 5 (N) Wraith A	10	57	1					75	Act 5 (N) Good	4	Potion 2	25																				0
+Act 5 (N) Wraith B	10	60	1					75	Act 5 (N) Good	4	Potion 2	25																				0
+Act 5 (N) Wraith C	10	62	1					75	Act 5 (N) Good	4	Potion 2	25																				0
+Act 1 (H) Wraith A	10	63	1					75	Act 1 (H) Good	4	Potion 2	25																				0
+Act 1 (H) Wraith B	10	66	1					75	Act 1 (H) Good	4	Potion 2	25																				0
+Act 1 (H) Wraith C	10	68	1					75	Act 1 (H) Good	4	Potion 2	25																				0
+Act 2 (H) Wraith A	10	69	1					75	Act 2 (H) Good	4	Potion 2	25																				0
+Act 2 (H) Wraith B	10	71	1					75	Act 2 (H) Good	4	Potion 2	25																				0
+Act 2 (H) Wraith C	10	72	1					75	Act 2 (H) Good	4	Potion 2	25																				0
+Act 3 (H) Wraith A	10	74	1					75	Act 3 (H) Good	4	Potion 2	25																				0
+Act 3 (H) Wraith B	10	75	1					75	Act 3 (H) Good	4	Potion 2	25																				0
+Act 3 (H) Wraith C	10	77	1					75	Act 3 (H) Good	4	Potion 2	25																				0
+Act 4 (H) Wraith A	10	78	1					75	Act 4 (H) Good	4	Potion 2	25																				0
+Act 4 (H) Wraith B	10	80	1					75	Act 4 (H) Good	4	Potion 2	25																				0
+Act 5 (H) Wraith A	10	81	1					75	Act 5 (H) Good	4	Potion 2	25																				0
+Act 5 (H) Wraith B	10	83	1					75	Act 5 (H) Good	4	Potion 2	25																				0
+Act 5 (H) Wraith C	10	85	1					75	Act 5 (H) Good	4	Potion 2	25																				0
 Act 1 Citem A	11	0	1	800	800	800	1024	0	gld,mul=1280	60	Act 1 Equip A	37	Act 1 Good	4																		0
 Act 1 Citem B	11	5	1	800	800	800	1024	0	gld,mul=1280	60	Act 1 Equip B	37	Act 1 Good	4																		0
 Act 1 Citem C	11	9	1	800	800	800	1024	0	gld,mul=1280	60	Act 1 Equip C	37	Act 1 Good	4																		0
@@ -514,93 +514,93 @@ Act 4 (H) Uitem B	14	80	1	800	800	800	1024	0	Act 4 (H) Equip B	58	Act 4 (H) Good
 Act 5 (H) Uitem A	14	81	1	800	800	800	1024	0	Act 5 (H) Equip A	58	Act 5 (H) Good	4																				0
 Act 5 (H) Uitem B	14	83	1	800	800	800	1024	0	Act 5 (H) Equip B	58	Act 5 (H) Good	4																				0
 Act 5 (H) Uitem C	14	85	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4																				0
-Act 1 Unique A	15	0	-3					0	Act 1 Uitem A	10	cc0	1																				0
-Act 1 Unique B	15	5	-3					0	Act 1 Uitem B	10	cc0	1																				0
-Act 1 Unique C	15	9	-3					0	Act 1 Uitem C	10	cc0	1																				0
-Act 2 Unique A	15	12	-3					0	Act 2 Uitem A	10	cc0	1																				0
-Act 2 Unique B	15	15	-3					0	Act 2 Uitem B	10	cc0	1																				0
-Act 2 Unique C	15	18	-3					0	Act 2 Uitem C	10	cc0	1																				0
-Act 3 Unique A	15	20	-3					0	Act 3 Uitem A	10	cc0	1																				0
-Act 3 Unique B	15	22	-3					0	Act 3 Uitem B	10	cc0	1																				0
-Act 3 Unique C	15	24	-3					0	Act 3 Uitem C	10	cc0	1																				0
-Act 4 Unique A	15	26	-3					0	Act 4 Uitem A	10	cc0	1																				0
-Act 4 Unique B	15	29	-3					0	Act 4 Uitem B	10	cc0	1																				0
-Act 5 Unique A	15	32	-3					0	Act 5 Uitem A	10	cc0	1																				0
-Act 5 Unique B	15	34	-3					0	Act 5 Uitem B	10	cc0	1																				0
-Act 5 Unique C	15	36	-3					0	Act 5 Uitem C	10	cc0	1																				0
-Act 1 (N) Unique A	15	38	-3					0	Act 1 (N) Uitem A	10	cc0	1																				0
-Act 1 (N) Unique B	15	40	-3					0	Act 1 (N) Uitem B	10	cc0	1																				0
-Act 1 (N) Unique C	15	41	-3					0	Act 1 (N) Uitem C	10	cc0	1																				0
-Act 2 (N) Unique A	15	42	-3					0	Act 2 (N) Uitem A	10	cc0	1																				0
-Act 2 (N) Unique B	15	44	-3					0	Act 2 (N) Uitem B	10	cc0	1																				0
-Act 2 (N) Unique C	15	45	-3					0	Act 2 (N) Uitem C	10	cc0	1																				0
-Act 3 (N) Unique A	15	46	-3					0	Act 3 (N) Uitem A	10	cc0	1																				0
-Act 3 (N) Unique B	15	48	-3					0	Act 3 (N) Uitem B	10	cc0	1																				0
-Act 3 (N) Unique C	15	50	-3					0	Act 3 (N) Uitem C	10	cc0	1																				0
-Act 4 (N) Unique A	15	51	-3					0	Act 4 (N) Uitem A	10	cc0	1																				0
-Act 4 (N) Unique B	15	54	-3					0	Act 4 (N) Uitem B	10	cc0	1																				0
-Act 5 (N) Unique A	15	57	-3					0	Act 5 (N) Uitem A	10	cc0	1																				0
-Act 5 (N) Unique B	15	60	-3					0	Act 5 (N) Uitem B	10	cc0	1																				0
-Act 5 (N) Unique C	15	62	-3					0	Act 5 (N) Uitem C	10	cc0	1																				0
-Act 1 (H) Unique A	15	63	-3					0	Act 1 (H) Uitem A	10	cc0	1																				0
-Act 1 (H) Unique B	15	66	-3					0	Act 1 (H) Uitem B	10	cc0	1																				0
-Act 1 (H) Unique C	15	68	-3					0	Act 1 (H) Uitem C	10	cc0	1																				0
-Act 2 (H) Unique A	15	69	-3					0	Act 2 (H) Uitem A	10	cc0	1																				0
-Act 2 (H) Unique B	15	71	-3					0	Act 2 (H) Uitem B	10	cc0	1																				0
-Act 2 (H) Unique C	15	72	-3					0	Act 2 (H) Uitem C	10	cc0	1																				0
-Act 3 (H) Unique A	15	74	-3					0	Act 3 (H) Uitem A	10	cc0	1																				0
-Act 3 (H) Unique B	15	75	-3					0	Act 3 (H) Uitem B	10	cc0	1																				0
-Act 3 (H) Unique C	15	77	-3					0	Act 3 (H) Uitem C	10	cc0	1																				0
-Act 4 (H) Unique A	15	78	-3					0	Act 4 (H) Uitem A	10	cc0	1																				0
-Act 4 (H) Unique B	15	80	-3					0	Act 4 (H) Uitem B	10	cc0	1																				0
-Act 5 (H) Unique A	15	81	-3					0	Act 5 (H) Uitem A	10	cc0	1																				0
-Act 5 (H) Unique B	15	83	-3					0	Act 5 (H) Uitem B	10	cc0	1																				0
-Act 5 (H) Unique C	15	85	-3					0	Act 5 (H) Uitem C	10	cc0	1																				0
-Quill 1	16	0	1					265	gld	19	Junk	19																				0
-Quill 2	16	4	1					265	gld	19	Junk	19																				0
-Quill 3	16	8	1					257	gld	19	Junk	19	Act 1 Good	4																		0
-Quill 4	16	12	1					257	gld	19	Junk	19	Act 1 Good	4																		0
-Quill 5	16	20	1					257	gld	19	Junk	19	Act 3 Good	4																		0
-Quill 1 (N)	16	32	1					265	gld	19	Junk (N)	19																				0
-Quill 2 (N)	16	35	1					257	gld	19	Junk (N)	19	Act 1 (N) Good	4																		0
-Quill 3 (N)	16	38	1					257	gld	19	Junk (N)	19	Act 1 (N) Good	4																		0
-Quill 4 (N)	16	40	1					257	gld	19	Junk (N)	19	Act 1 (N) Good	4																		0
-Quill 5 (N)	16	46	1					257	gld	19	Junk (N)	19	Act 3 (N) Good	4																		0
-Quill 1 (H)	16	60	1					265	gld	19	Junk (H)	19																				0
-Quill 2 (H)	16	62	1					242	gld	19	Junk (H)	19	Act 1 (H) Good	4																		0
-Quill 3 (H)	16	65	1					242	gld	19	Junk (H)	19	Act 1 (H) Good	4																		0
-Quill 4 (H)	16	68	1					242	gld	19	Junk (H)	19	Act 1 (H) Good	4																		0
-Quill 5 (H)	16	85	1					242	gld	19	Junk (H)	19	Act 3 (H) Good	4																		0
-Swarm 1	17	0	1					415	Potion 0	12	Misc 0	2	Act 2 Good	4																		0
-Swarm 2	17	20	1					415	Potion 1	12	Misc 0	2	Act 3 Good	4																		0
-Swarm 1 (N)	17	40	1					415	Potion 2	12	Misc 1	2	Act 2 (N) Good	4																		0
-Swarm 2 (N)	17	46	1					415	Potion 2	12	Misc 1	2	Act 3 (N) Good	4																		0
-Swarm 1 (H)	17	68	1					415	Potion 2	12	Misc 2	2	Act 2 (H) Good	4																		0
-Swarm 2 (H)	17	74	1					415	Potion 2	12	Misc 2	2	Act 3 (H) Good	4																		0
-Andariel			7	993	993	1024	1024	0	Act 2 Equip A	19	Act 2 Good	3																				0
-Andariel (N)			7	993	993	1024	1024	0	Act 2 (N) Equip A	19	Act 2 (N) Good	3																				0
-Andariel (H)			7	993	993	1024	1024	0	Act 2 (H) Equip A	19	Act 2 (H) Good	3	ses	1																		0
-Duriel - Base			7	993	993	1024	1024	0	Act 3 Equip A	19	Act 3 Good	3																				0
-Duriel (N) - Base			7	993	993	1024	1024	0	Act 3 (N) Equip A	19	Act 3 (N) Good	3																				0
-Duriel (H) - Base			7	993	993	1024	1024	0	Act 3 (H) Equip A	19	Act 3 (H) Good	3	ses	2																		0
-Radament			5	900	900	900	1024	0	gld,mul=1280	11	Act 3 Equip B	19	Act 3 Good	15																		0
-Radament (N)			5	900	900	900	1024	0	gld,mul=1536	11	Act 3 (N) Equip B	19	Act 3 (N) Good	15																		0
-Radament (H)			5	900	900	900	1024	0	gld,mul=2048	11	Act 3 (H) Equip C	19	Act 3 (H) Good	15	Junk (H)	3																0
+Act 1 Unique A	15	0	-3					0	Act 1 Uitem A	10	Junk	5																				0
+Act 1 Unique B	15	5	-3					0	Act 1 Uitem B	10	Junk	5																				0
+Act 1 Unique C	15	9	-3					0	Act 1 Uitem C	10	Junk	5																				0
+Act 2 Unique A	15	12	-3					0	Act 2 Uitem A	10	Junk	5																				0
+Act 2 Unique B	15	15	-3					0	Act 2 Uitem B	10	Junk	5																				0
+Act 2 Unique C	15	18	-3					0	Act 2 Uitem C	10	Junk	5																				0
+Act 3 Unique A	15	20	-3					0	Act 3 Uitem A	10	Junk	5																				0
+Act 3 Unique B	15	22	-3					0	Act 3 Uitem B	10	Junk	5																				0
+Act 3 Unique C	15	24	-3					0	Act 3 Uitem C	10	Junk	5																				0
+Act 4 Unique A	15	26	-3					0	Act 4 Uitem A	10	Junk	5																				0
+Act 4 Unique B	15	29	-3					0	Act 4 Uitem B	10	Junk	5																				0
+Act 5 Unique A	15	32	-3					0	Act 5 Uitem A	10	Junk	5																				0
+Act 5 Unique B	15	34	-3					0	Act 5 Uitem B	10	Junk	5																				0
+Act 5 Unique C	15	36	-3					0	Act 5 Uitem C	10	Junk	5																				0
+Act 1 (N) Unique A	15	38	-3					0	Act 1 (N) Uitem A	10	Junk (N)	5																				0
+Act 1 (N) Unique B	15	40	-3					0	Act 1 (N) Uitem B	10	Junk (N)	5																				0
+Act 1 (N) Unique C	15	41	-3					0	Act 1 (N) Uitem C	10	Junk (N)	5																				0
+Act 2 (N) Unique A	15	42	-3					0	Act 2 (N) Uitem A	10	Junk (N)	5																				0
+Act 2 (N) Unique B	15	44	-3					0	Act 2 (N) Uitem B	10	Junk (N)	5																				0
+Act 2 (N) Unique C	15	45	-3					0	Act 2 (N) Uitem C	10	Junk (N)	5																				0
+Act 3 (N) Unique A	15	46	-3					0	Act 3 (N) Uitem A	10	Junk (N)	5																				0
+Act 3 (N) Unique B	15	48	-3					0	Act 3 (N) Uitem B	10	Junk (N)	5																				0
+Act 3 (N) Unique C	15	50	-3					0	Act 3 (N) Uitem C	10	Junk (N)	5																				0
+Act 4 (N) Unique A	15	51	-3					0	Act 4 (N) Uitem A	10	Junk (N)	5																				0
+Act 4 (N) Unique B	15	54	-3					0	Act 4 (N) Uitem B	10	Junk (N)	5																				0
+Act 5 (N) Unique A	15	57	-3					0	Act 5 (N) Uitem A	10	Junk (N)	5																				0
+Act 5 (N) Unique B	15	60	-3					0	Act 5 (N) Uitem B	10	Junk (N)	5																				0
+Act 5 (N) Unique C	15	62	-3					0	Act 5 (N) Uitem C	10	Junk (N)	5																				0
+Act 1 (H) Unique A	15	63	-3					0	Act 1 (H) Uitem A	10	Junk (H)	5																				0
+Act 1 (H) Unique B	15	66	-3					0	Act 1 (H) Uitem B	10	Junk (H)	5																				0
+Act 1 (H) Unique C	15	68	-3					0	Act 1 (H) Uitem C	10	Junk (H)	5																				0
+Act 2 (H) Unique A	15	69	-3					0	Act 2 (H) Uitem A	10	Junk (H)	5																				0
+Act 2 (H) Unique B	15	71	-3					0	Act 2 (H) Uitem B	10	Junk (H)	5																				0
+Act 2 (H) Unique C	15	72	-3					0	Act 2 (H) Uitem C	10	Junk (H)	5																				0
+Act 3 (H) Unique A	15	74	-3					0	Act 3 (H) Uitem A	10	Junk (H)	5																				0
+Act 3 (H) Unique B	15	75	-3					0	Act 3 (H) Uitem B	10	Junk (H)	5																				0
+Act 3 (H) Unique C	15	77	-3					0	Act 3 (H) Uitem C	10	Junk (H)	5																				0
+Act 4 (H) Unique A	15	78	-3					0	Act 4 (H) Uitem A	10	Junk (H)	5																				0
+Act 4 (H) Unique B	15	80	-3					0	Act 4 (H) Uitem B	10	Junk (H)	5																				0
+Act 5 (H) Unique A	15	81	-3					0	Act 5 (H) Uitem A	10	Junk (H)	5																				0
+Act 5 (H) Unique B	15	83	-3					0	Act 5 (H) Uitem B	10	Junk (H)	5																				0
+Act 5 (H) Unique C	15	85	-3					0	Act 5 (H) Uitem C	10	Junk (H)	5																				0
+Quill 1	16	0	1					125	gld	19	Junk	19																				0
+Quill 2	16	4	1					125	gld	19	Junk	19																				0
+Quill 3	16	8	1					125	gld	19	Junk	19	Act 1 Good	4																		0
+Quill 4	16	12	1					125	gld	19	Junk	19	Act 1 Good	4																		0
+Quill 5	16	20	1					125	gld	19	Junk	19	Act 3 Good	4																		0
+Quill 1 (N)	16	32	1					125	gld	19	Junk (N)	19																				0
+Quill 2 (N)	16	35	1					125	gld	19	Junk (N)	19	Act 1 (N) Good	4																		0
+Quill 3 (N)	16	38	1					125	gld	19	Junk (N)	19	Act 1 (N) Good	4																		0
+Quill 4 (N)	16	40	1					125	gld	19	Junk (N)	19	Act 1 (N) Good	4																		0
+Quill 5 (N)	16	46	1					125	gld	19	Junk (N)	19	Act 3 (N) Good	4																		0
+Quill 1 (H)	16	60	1					125	gld	19	Junk (H)	19																				0
+Quill 2 (H)	16	62	1					125	gld	19	Junk (H)	19	Act 1 (H) Good	4																		0
+Quill 3 (H)	16	65	1					125	gld	19	Junk (H)	19	Act 1 (H) Good	4																		0
+Quill 4 (H)	16	68	1					125	gld	19	Junk (H)	19	Act 1 (H) Good	4																		0
+Quill 5 (H)	16	85	1					125	gld	19	Junk (H)	19	Act 3 (H) Good	4																		0
+Swarm 1	17	0	1					125	Potion 0	12	Misc 0	2	Act 2 Good	4																		0
+Swarm 2	17	20	1					125	Potion 1	12	Misc 0	2	Act 3 Good	4																		0
+Swarm 1 (N)	17	40	1					125	Potion 2	12	Misc 1	2	Act 2 (N) Good	4																		0
+Swarm 2 (N)	17	46	1					125	Potion 2	12	Misc 1	2	Act 3 (N) Good	4																		0
+Swarm 1 (H)	17	68	1					125	Potion 2	12	Misc 2	2	Act 2 (H) Good	4																		0
+Swarm 2 (H)	17	74	1					125	Potion 2	12	Misc 2	2	Act 3 (H) Good	4																		0
+Andariel			7	993	993	1024	1024	10	Act 2 Equip A	19	Act 2 Good	3																				0
+Andariel (N)			7	993	993	1024	1024	10	Act 2 (N) Equip A	19	Act 2 (N) Good	3																				0
+Andariel (H)			7	993	993	1024	1024	10	Act 2 (H) Equip A	19	Act 2 (H) Good	3	ses	1																		0
+Duriel - Base			7	993	993	1024	1024	10	Act 3 Equip A	19	Act 3 Good	3																				0
+Duriel (N) - Base			7	993	993	1024	1024	10	Act 3 (N) Equip A	19	Act 3 (N) Good	3																				0
+Duriel (H) - Base			7	993	993	1024	1024	10	Act 3 (H) Equip A	19	Act 3 (H) Good	3	ses	2																		0
+Radament			5	900	900	900	1024	10	gld,mul=1280	11	Act 3 Equip B	19	Act 3 Good	15																		0
+Radament (N)			5	900	900	900	1024	10	gld,mul=1536	11	Act 3 (N) Equip B	19	Act 3 (N) Good	15																		0
+Radament (H)			5	900	900	900	1024	10	gld,mul=2048	11	Act 3 (H) Equip C	19	Act 3 (H) Good	15	Junk (H)	3																0
 Flying Scimitar			1					95	Act 2 Good	3	scm	57																				0
 Flying Scimitar (N)			1					95	Act 2 (N) Good	3	9sm	32																				0
 Flying Scimitar (H)			1					95	Act 2 (H) Good	3	7sm	32																				0
-Mephisto			7	993	993	1024	1024	0	Act 4 Equip A	52	Act 4 Good	3																				0
-Mephisto (N)			7	993	993	1024	1024	0	Act 4 (N) Equip A	52	Act 4 (N) Good	3																				0
-Mephisto (H)			7	993	993	1024	1024	0	Act 4 (H) Equip A	52	Act 4 (H) Good	3	seh	1																		0
-Diablo			7	993	993	1024	1024	0	Act 5 Equip A	52	Act 5 Good	3																				0
-Diablo (N)			7	993	993	1024	1024	0	Act 5 (N) Equip A	52	Act 5 (N) Good	3																				0
-Diablo (H)			7	993	993	1024	1024	0	Act 5 (H) Equip A	52	Act 5 (H) Good	3	set	1																		0
-Summoner			5	900	900	972	1024	0	gld,mul=1280	9	Act 2 Equip C	15	Act 2 Good	5																		0
-Summoner (N)			5	900	900	972	1024	0	gld,mul=1536	9	Act 2 (N) Equip C	15	Act 2 (N) Good	5																		0
-Summoner (H)			5	900	900	972	1024	0	gld,mul=2048	9	Act 2 (H) Equip C	15	Act 2 (H) Good	5	p2s	1																0
-Council			3	650	800	800	1024	4	gld,mul=1280	9	Act 4 Equip A	15	Act 4 Good	5																		0
-Council (N)			3	650	800	800	1024	4	gld,mul=1536	9	Act 4 (N) Equip A	15	Act 4 (N) Good	5																		0
-Council (H)			3	650	800	800	1024	4	gld,mul=2048	9	Act 4 (H) Equip A	15	Act 4 (H) Good	5	Junk (H)	3																0
+Mephisto			7	993	993	1024	1024	10	Act 4 Equip A	52	Act 4 Good	3																				0
+Mephisto (N)			7	993	993	1024	1024	10	Act 4 (N) Equip A	52	Act 4 (N) Good	3																				0
+Mephisto (H)			7	993	993	1024	1024	10	Act 4 (H) Equip A	52	Act 4 (H) Good	3	seh	1																		0
+Diablo			7	993	993	1024	1024	10	Act 5 Equip A	52	Act 5 Good	3																				0
+Diablo (N)			7	993	993	1024	1024	10	Act 5 (N) Equip A	52	Act 5 (N) Good	3																				0
+Diablo (H)			7	993	993	1024	1024	10	Act 5 (H) Equip A	52	Act 5 (H) Good	3	set	1																		0
+Summoner			5	900	900	972	1024	10	gld,mul=1280	9	Act 2 Equip C	15	Act 2 Good	5																		0
+Summoner (N)			5	900	900	972	1024	10	gld,mul=1536	9	Act 2 (N) Equip C	15	Act 2 (N) Good	5																		0
+Summoner (H)			5	900	900	972	1024	10	gld,mul=2048	9	Act 2 (H) Equip C	15	Act 2 (H) Good	5	p2s	1																0
+Council			3	650	800	800	1024	10	gld,mul=1280	9	Act 4 Equip A	15	Act 4 Good	5																		0
+Council (N)			3	650	800	800	1024	10	gld,mul=1536	9	Act 4 (N) Equip A	15	Act 4 (N) Good	5																		0
+Council (H)			3	650	800	800	1024	10	gld,mul=2048	9	Act 4 (H) Equip A	15	Act 4 (H) Good	5	Junk (H)	3																0
 Griswold			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Griswold (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Griswold (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
@@ -610,24 +610,24 @@ Cow (H)			1					95	gld	19	Act 5 (H) Equip B	19	Act 5 (H) Good	3	Junk (H)	3						
 Trapped Soul			1					95	gld	19	Act 4 Equip A	8	Junk	3																		0
 Trapped Soul (N)			1					95	gld	19	Act 4 (N) Equip A	8	Junk (N)	3																		0
 Trapped Soul (H)			1					95	gld	19	Act 4 (H) Equip A	8	Junk (H)	3																		0
-Haphesto			5	800	800	900	1024	0	gld,mul=1280	14	Act 5 Equip A	19	Act 5 Good	5																		0
-Haphesto (N)			5	800	800	900	1024	0	gld,mul=1536	14	Act 5 (N) Equip A	19	Act 5 (N) Good	5																		0
-Haphesto (H)			5	800	800	900	1024	0	gld,mul=2048	14	Act 5 (H) Equip A	19	Act 5 (H) Good	5	Junk (H)	3																0
-Nihlathak			5	900	900	900	1024	0	gld,mul=1280	14	Act 5 Equip B	19	Act 5 Good	3																		0
-Nihlathak (N)			5	900	900	900	1024	0	gld,mul=1536	14	Act 5 (N) Equip B	19	Act 5 (N) Good	3																		0
-Nihlathak (H)			5	900	900	900	1024	0	gld,mul=2048	14	Act 5 (H) Equip B	19	Act 5 (H) Good	3	p3s	1																0
-Baal			7	993	993	1024	1024	0	Act 1 (N) Equip A	52	Act 1 (N) Good	3																				0
-Baal (N)			7	993	993	1024	1024	0	Act 1 (H) Equip A	52	Act 1 (H) Good	3																				0
-Baal (H)			7	993	993	1024	1024	0	Act 5 (H) Equip B	52	Act 5 (H) Good	3	sed	1																		0
-Blood Raven			5	1010	1024	1024	1024	0	gld,mul=1280	14	Act 1 Equip B	19	Act 1 Good	5																		0
-Blood Raven (N)			5	800	800	972	1024	0	gld,mul=1536	14	Act 1 (N) Equip B	19	Act 1 (N) Good	5																		0
-Blood Raven (H)			5	800	800	972	1024	0	gld,mul=2048	14	Act 1 (H) Equip B	19	Act 1 (H) Good	5	Junk (H)	3																0
+Haphesto			5	800	800	900	1024	10	gld,mul=1280	14	Act 5 Equip A	19	Act 5 Good	5																		0
+Haphesto (N)			5	800	800	900	1024	10	gld,mul=1536	14	Act 5 (N) Equip A	19	Act 5 (N) Good	5																		0
+Haphesto (H)			5	800	800	900	1024	10	gld,mul=2048	14	Act 5 (H) Equip A	19	Act 5 (H) Good	5	Junk (H)	3																0
+Nihlathak			5	900	900	900	1024	10	gld,mul=1280	14	Act 5 Equip B	19	Act 5 Good	3																		0
+Nihlathak (N)			5	900	900	900	1024	10	gld,mul=1536	14	Act 5 (N) Equip B	19	Act 5 (N) Good	3																		0
+Nihlathak (H)			5	900	900	900	1024	10	gld,mul=2048	14	Act 5 (H) Equip B	19	Act 5 (H) Good	3	p3s	1																0
+Baal			7	993	993	1024	1024	10	Act 1 (N) Equip A	52	Act 1 (N) Good	3																				0
+Baal (N)			7	993	993	1024	1024	10	Act 1 (H) Equip A	52	Act 1 (H) Good	3																				0
+Baal (H)			7	993	993	1024	1024	10	Act 5 (H) Equip B	52	Act 5 (H) Good	3	sed	1																		0
+Blood Raven			5	1010	1024	1024	1024	10	gld,mul=1280	14	Act 1 Equip B	19	Act 1 Good	5																		0
+Blood Raven (N)			5	800	800	972	1024	10	gld,mul=1536	14	Act 1 (N) Equip B	19	Act 1 (N) Good	5																		0
+Blood Raven (H)			5	800	800	972	1024	10	gld,mul=2048	14	Act 1 (H) Equip B	19	Act 1 (H) Good	5	Junk (H)	3																0
 Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Smith (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Smith (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
-Izual			5	800	800	972	1024	0	gld,mul=1280	14	Act 4 Equip B	19	Act 4 Good	5																		0
-Izual (N)			5	800	800	972	1024	0	gld,mul=1536	14	Act 4 (N) Equip B	19	Act 4 (N) Good	5																		0
-Izual (H)			5	800	800	972	1024	0	gld,mul=2048	14	Act 4 (H) Equip B	19	Act 4 (H) Good	5	Junk (H)	3																0
+Izual			5	800	800	972	1024	10	gld,mul=1280	14	Act 4 Equip B	19	Act 4 Good	5																		0
+Izual (N)			5	800	800	972	1024	10	gld,mul=1536	14	Act 4 (N) Equip B	19	Act 4 (N) Good	5																		0
+Izual (H)			5	800	800	972	1024	10	gld,mul=2048	14	Act 4 (H) Equip B	19	Act 4 (H) Good	5	Junk (H)	3																0
 Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Potion 2	2																				0
 Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Potion 2	2																				0
 Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Potion 2	2																				0
@@ -727,9 +727,9 @@ Duriel (H)			5					0	Duriel (H) - Base	2																						0
 ROP			1	1024				0	Diablo	1																						0
 ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																				0
 ROP (H)			1	1024				0	Annihilus	1																						0
-Countess			3	883	883	883	1024	0	Runes 1	6	Runes 2	3	Runes 3	1																		0
-Countess (N)			3	883	883	983	1024	0	Runes 2	6	Runes 3	3	Runes 4	1																		0
-Countess (H)			3	883	883	983	1024	0	Runes 3	6	Runes 4	3	Runes 5	1	p1s	1																0
+Countess			3	883	883	883	1024	19	Runes 1	6	Runes 2	3	Runes 3	1																		0
+Countess (N)			3	883	883	983	1024	19	Runes 2	6	Runes 3	3	Runes 4	1																		0
+Countess (H)			3	883	883	983	1024	19	Runes 3	6	Runes 4	3	Runes 5	1	p1s	1																0
 Uber Andariel			1	1024				0	shn	1																						0
 Uber Duriel			1	1024				0	sey	1																						0
 Uber Izual			1	1024				0	sms	1																						0
