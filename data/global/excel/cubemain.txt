@@ -1300,13 +1300,19 @@ ELITE SET	0																																																																					
 1 Triple Elite Essence + Orb of Divination + Set Weapon -> Reroll Stats	1			100					3	e3l	"weap,eli,set"	ood					"usetype,set"		99	99																										ood																																																										0
 CORRUPTIONS	0																																																																																																							0
 WEAPONS - NORMAL 	0																																																																																																							0
-Corruption Tracker	1			100	16	361	0		2	"weap,nor,nos"	glx						useitem				corruption	100		1	20																					glx																																																										0
-Weapon + Glyph  -> Random Rare	1			100	16	361	5		2	"weap,nor,nos"	glx						"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
-Weapon + Glyph  -> Corrupted Unique Weapon With Sockets	1			100	16	361	20		2	"weap,nor,nos"	glx						useitem				sock	100		1	6	corruption	100		21	21																																																																										0
+Corruption Tracker	1			100	16	361	0		3	"weap,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
+Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Weapon + Glyph  -> Corrupted Weapon With Sockets	1			100	16	361	20		3	"weap,nor,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
+Corruption Tracker	1			100	16	361	0		3	"weap,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
+Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Weapon + Glyph  -> Corrupted Weapon With Sockets	1			100	16	361	20		3	"weap,nor,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 WEAPONS - SUPERIOR 	0																																																																																																							0
-Corruption Tracker	1			100	16	361	0		2	"weap,hiq,nos"	glx						useitem				corruption	100		1	20																					glx																																																										0
-Weapon + Glyph  -> Random Rare	1			100	16	361	5		2	"weap,hiq,nos"	glx						"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
-Weapon + Glyph  -> Corrupted Unique Weapon With Sockets	1			100	16	361	20		2	"weap,hiq,nos"	glx						useitem				sock	100		1	6	corruption	100		21	21																																																																										0
+Corruption Tracker	1			100	16	361	0		3	"weap,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
+Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Weapon + Glyph  -> Corrupted Weapon With Sockets	1			100	16	361	20		3	"weap,hiq,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
+Corruption Tracker	1			100	16	361	0		3	"weap,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
+Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Weapon + Glyph  -> Corrupted Weapon With Sockets	1			100	16	361	20		3	"weap,hiq,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 WEAPONS - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
 Weapon + Glyph + PRuby -> Corrupted Weapon	1			100	16	361	21		3	"weap,hiq,sock"	glx	gpr					useitem				corruption	100		21	21																																																																															0
 Weapon + Glyph + PRuby -> Corrupted Weapon	1			100	16	361	21		3	"weap,nor,sock"	glx	gpr					useitem				corruption	100		21	21																																																																															0
@@ -1314,7 +1320,7 @@ Weapon + Glyph + PSapph -> Corrupted Weapon	1			100	16	361	21		3	"weap,hiq,sock"
 Weapon + Glyph + PSapph -> Corrupted Weapon	1			100	16	361	21		3	"weap,nor,sock"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 WEAPONS - NO SOCKETS - MAGIC AND UP - COMBAT RECIPE	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"weap,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Weapon + Glyph  -> Corrupted Unique Weapon With Sockets	1			100	16	361	5		3	"weap,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
+Weapon + Glyph  -> Corrupted Weapon With Sockets	1			100	16	361	5		3	"weap,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 Weapon + Glyph  -> Random Rare	1			100	16	361	10		3	"weap,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	11		3	"weap,nos"	glx	gpr					useitem				corruption	100		21	21	dmg%	100		50	80																																																																										0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	12		3	"weap,nos"	glx	gpr					useitem				corruption	100		21	21	deadly	100		10	15																																																																										0
@@ -2238,8 +2244,8 @@ Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	leve
 Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
 Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							pik	200	200	200	sock	100	2	2																						hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							r03	200	200	200																										hp2																																																										0
+hp1 -> test item 1	1			100					1	hp1							gpb	200	200	200	sock	100	2	2																						hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							glx	200	200	200																										hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							r07	200	200	200																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							r12	200	200	200																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							"7br,uni"	200	200	200																										hp5																																																										0
