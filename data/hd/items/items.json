@@ -884,5 +884,12 @@
   { "lce": { "asset": "charm/charm_small" } },
   { "nue": { "asset": "charm/charm_small" } },
   { "eue": { "asset": "charm/charm_small" } },
-  { "lue": { "asset": "charm/charm_small" } }
+  { "lue": { "asset": "charm/charm_small" } },
+  { "nce": { "asset": "charm/charm_small" } },
+  { "ncc": { "asset": "charm/charm_small" } },
+  { "ecc": { "asset": "charm/charm_small" } },
+  { "lcc": { "asset": "charm/charm_small" } },
+  { "nuc": { "asset": "charm/charm_small" } },
+  { "euc": { "asset": "charm/charm_small" } },
+  { "luc": { "asset": "charm/charm_small" } }
 ]
