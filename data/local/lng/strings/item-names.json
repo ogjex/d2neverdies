@@ -27457,7 +27457,7 @@
   {
     "id": 40402,
     "Key": "ab1",
-    "enUS": "ÿc3Strong Bidding",
+    "enUS": "ÿc;Strong Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27474,7 +27474,7 @@
   {
     "id": 40403,
     "Key": "ab2",
-    "enUS": "ÿc3Sturdy Bidding",
+    "enUS": "ÿc;Sturdy Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27491,7 +27491,7 @@
   {
     "id": 40404,
     "Key": "ab3",
-    "enUS": "ÿc3Burly Bidding",
+    "enUS": "ÿc;Burly Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27508,7 +27508,7 @@
   {
     "id": 40405,
     "Key": "bb1",
-    "enUS": "ÿc3Agile Bidding",
+    "enUS": "ÿc;Agile Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27525,7 +27525,7 @@
   {
     "id": 40406,
     "Key": "bb2",
-    "enUS": "ÿc3Nimble Bidding",
+    "enUS": "ÿc;Nimble Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27542,7 +27542,7 @@
   {
     "id": 40407,
     "Key": "bb3",
-    "enUS": "ÿc3Dexterous Bidding",
+    "enUS": "ÿc;Dexterous Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27559,7 +27559,7 @@
   {
     "id": 40408,
     "Key": "cb1",
-    "enUS": "ÿc3Vital Bidding",
+    "enUS": "ÿc;Vital Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27576,7 +27576,7 @@
   {
     "id": 40409,
     "Key": "cb2",
-    "enUS": "ÿc3Vibrous Bidding",
+    "enUS": "ÿc;Vibrous Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27593,7 +27593,7 @@
   {
     "id": 40410,
     "Key": "cb3",
-    "enUS": "ÿc3Enduring Bidding",
+    "enUS": "ÿc;Enduring Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27610,7 +27610,7 @@
   {
     "id": 40411,
     "Key": "db1",
-    "enUS": "ÿc3Energetic Bidding",
+    "enUS": "ÿc;Energetic Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27627,7 +27627,7 @@
   {
     "id": 40412,
     "Key": "db2",
-    "enUS": "ÿc3Bright Bidding",
+    "enUS": "ÿc;Bright Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27644,7 +27644,7 @@
   {
     "id": 40413,
     "Key": "db3",
-    "enUS": "ÿc3Spirited Bidding",
+    "enUS": "ÿc;Spirited Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27661,7 +27661,7 @@
   {
     "id": 40414,
     "Key": "eb1",
-    "enUS": "ÿc3Lively Bidding",
+    "enUS": "ÿc;Lively Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27678,7 +27678,7 @@
   {
     "id": 40415,
     "Key": "eb2",
-    "enUS": "ÿc3Splendid Bidding",
+    "enUS": "ÿc;Splendid Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27695,7 +27695,7 @@
   {
     "id": 40416,
     "Key": "eb3",
-    "enUS": "ÿc3Vibrant Bidding",
+    "enUS": "ÿc;Vibrant Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27712,7 +27712,7 @@
   {
     "id": 40417,
     "Key": "fb1",
-    "enUS": "ÿc3Dashing Bidding",
+    "enUS": "ÿc;Dashing Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27729,7 +27729,7 @@
   {
     "id": 40418,
     "Key": "fb2",
-    "enUS": "ÿc3Passionate Bidding",
+    "enUS": "ÿc;Passionate Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27746,7 +27746,7 @@
   {
     "id": 40419,
     "Key": "fb3",
-    "enUS": "ÿc3Vidid Bidding",
+    "enUS": "ÿc;Vidid Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27763,7 +27763,7 @@
   {
     "id": 40420,
     "Key": "gb1",
-    "enUS": "ÿc3Lucky Bidding",
+    "enUS": "ÿc;Lucky Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27780,7 +27780,7 @@
   {
     "id": 40421,
     "Key": "gb2",
-    "enUS": "ÿc3Fortunate Bidding",
+    "enUS": "ÿc;Fortunate Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27797,7 +27797,7 @@
   {
     "id": 40422,
     "Key": "gb3",
-    "enUS": "ÿc3Blessed BIdding",
+    "enUS": "ÿc;Blessed BIdding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27814,7 +27814,7 @@
   {
     "id": 40423,
     "Key": "hb1",
-    "enUS": "ÿc3Greedy Bidding",
+    "enUS": "ÿc;Greedy Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27831,7 +27831,7 @@
   {
     "id": 40424,
     "Key": "hb2",
-    "enUS": "ÿc3Gluttenous Bidding",
+    "enUS": "ÿc;Gluttenous Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27848,7 +27848,7 @@
   {
     "id": 40425,
     "Key": "hb3",
-    "enUS": "ÿc3Insatiable Bidding",
+    "enUS": "ÿc;Insatiable Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27865,7 +27865,7 @@
   {
     "id": 40426,
     "Key": "ib1",
-    "enUS": "ÿc3Accurate Bidding",
+    "enUS": "ÿc;Accurate Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27882,7 +27882,7 @@
   {
     "id": 40427,
     "Key": "ib2",
-    "enUS": "ÿc3Precise BIdding",
+    "enUS": "ÿc;Precise BIdding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27899,7 +27899,7 @@
   {
     "id": 40428,
     "Key": "ib3",
-    "enUS": "ÿc3Exact Bidding",
+    "enUS": "ÿc;Exact Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27916,7 +27916,7 @@
   {
     "id": 40429,
     "Key": "jb1",
-    "enUS": "ÿc3Powerful Bidding",
+    "enUS": "ÿc;Powerful Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27933,7 +27933,7 @@
   {
     "id": 40430,
     "Key": "jb2",
-    "enUS": "ÿc3Harmful Bidding",
+    "enUS": "ÿc;Harmful Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27950,7 +27950,7 @@
   {
     "id": 40431,
     "Key": "jb3",
-    "enUS": "ÿc3Forceful Bidding",
+    "enUS": "ÿc;Forceful Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27967,7 +27967,7 @@
   {
     "id": 40432,
     "Key": "kb1",
-    "enUS": "ÿc3Dodgy Bidding",
+    "enUS": "ÿc;Dodgy Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -27984,7 +27984,7 @@
   {
     "id": 40433,
     "Key": "kb2",
-    "enUS": "ÿc3Avoiding Bidding",
+    "enUS": "ÿc;Avoiding Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28001,7 +28001,7 @@
   {
     "id": 40434,
     "Key": "kb3",
-    "enUS": "ÿc3Evading Bidding",
+    "enUS": "ÿc;Evading Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28018,7 +28018,7 @@
   {
     "id": 40435,
     "Key": "lb1",
-    "enUS": "ÿc3Defending Bidding",
+    "enUS": "ÿc;Defending Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28035,7 +28035,7 @@
   {
     "id": 40436,
     "Key": "lb2",
-    "enUS": "ÿc3Guarding Bidding",
+    "enUS": "ÿc;Guarding Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28052,7 +28052,7 @@
   {
     "id": 40437,
     "Key": "lb3",
-    "enUS": "ÿc3Shielding Bidding",
+    "enUS": "ÿc;Shielding Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28069,7 +28069,7 @@
   {
     "id": 40438,
     "Key": "mb1",
-    "enUS": "ÿc3Insulating Bidding",
+    "enUS": "ÿc;Insulating Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28086,7 +28086,7 @@
   {
     "id": 40439,
     "Key": "mb2",
-    "enUS": "ÿc3Enclosed Bidding",
+    "enUS": "ÿc;Enclosed Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28103,7 +28103,7 @@
   {
     "id": 40440,
     "Key": "mb3",
-    "enUS": "ÿc3Heatproof Bidding",
+    "enUS": "ÿc;Heatproof Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28120,7 +28120,7 @@
   {
     "id": 40441,
     "Key": "nb1",
-    "enUS": "ÿc3Chunky Bidding",
+    "enUS": "ÿc;Chunky Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28137,7 +28137,7 @@
   {
     "id": 40442,
     "Key": "nb2",
-    "enUS": "ÿc3Crystal Bidding",
+    "enUS": "ÿc;Crystal Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28154,7 +28154,7 @@
   {
     "id": 40443,
     "Key": "nb3",
-    "enUS": "ÿc3Diamond Bidding",
+    "enUS": "ÿc;Diamond Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28171,7 +28171,7 @@
   {
     "id": 40444,
     "Key": "zb1",
-    "enUS": "ÿc3Grounded Bidding",
+    "enUS": "ÿc;Grounded Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28188,7 +28188,7 @@
   {
     "id": 40445,
     "Key": "zb2",
-    "enUS": "ÿc3Conductive Bidding",
+    "enUS": "ÿc;Conductive Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28205,7 +28205,7 @@
   {
     "id": 40446,
     "Key": "zb3",
-    "enUS": "ÿc3Arrested Bidding",
+    "enUS": "ÿc;Arrested Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28222,7 +28222,7 @@
   {
     "id": 40447,
     "Key": "pb1",
-    "enUS": "ÿc3Neutralizing Bidding",
+    "enUS": "ÿc;Neutralizing Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28239,7 +28239,7 @@
   {
     "id": 40448,
     "Key": "pb2",
-    "enUS": "ÿc3Antitoxic Bidding",
+    "enUS": "ÿc;Antitoxic Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28256,7 +28256,7 @@
   {
     "id": 40449,
     "Key": "pb3",
-    "enUS": "ÿc3Remedying Bidding",
+    "enUS": "ÿc;Remedying Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28273,7 +28273,7 @@
   {
     "id": 40450,
     "Key": "qb1",
-    "enUS": "ÿc3Scintillating Bidding",
+    "enUS": "ÿc;Scintillating Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28290,7 +28290,7 @@
   {
     "id": 40451,
     "Key": "qb2",
-    "enUS": "ÿc3Prismatic Bidding",
+    "enUS": "ÿc;Prismatic Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28307,7 +28307,7 @@
   {
     "id": 40452,
     "Key": "qb3",
-    "enUS": "ÿc3Chromatic Bidding",
+    "enUS": "ÿc;Chromatic Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28324,7 +28324,7 @@
   {
     "id": 40453,
     "Key": "rb1",
-    "enUS": "ÿc3Quick Bidding",
+    "enUS": "ÿc;Quick Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28341,7 +28341,7 @@
   {
     "id": 40454,
     "Key": "rb2",
-    "enUS": "ÿc3Swift Bidding",
+    "enUS": "ÿc;Swift Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28358,7 +28358,7 @@
   {
     "id": 40455,
     "Key": "rb3",
-    "enUS": "ÿc3Speedy Bidding",
+    "enUS": "ÿc;Speedy Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28375,7 +28375,7 @@
   {
     "id": 40456,
     "Key": "sb1",
-    "enUS": "ÿc3Warm Bidding",
+    "enUS": "ÿc;Warm Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28392,7 +28392,7 @@
   {
     "id": 40457,
     "Key": "sb2",
-    "enUS": "ÿc3Hot Bidding",
+    "enUS": "ÿc;Hot Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28409,7 +28409,7 @@
   {
     "id": 40458,
     "Key": "sb3",
-    "enUS": "ÿc3Scalding Bidding",
+    "enUS": "ÿc;Scalding Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28426,7 +28426,7 @@
   {
     "id": 40459,
     "Key": "tb1",
-    "enUS": "ÿc3Cold Bidding",
+    "enUS": "ÿc;Cold Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28443,7 +28443,7 @@
   {
     "id": 40460,
     "Key": "tb2",
-    "enUS": "ÿc3Icy Bidding",
+    "enUS": "ÿc;Icy Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28460,7 +28460,7 @@
   {
     "id": 40461,
     "Key": "tb3",
-    "enUS": "ÿc3Freezing Bidding",
+    "enUS": "ÿc;Freezing Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28477,7 +28477,7 @@
   {
     "id": 40462,
     "Key": "ub1",
-    "enUS": "ÿc3Noisy Bidding",
+    "enUS": "ÿc;Noisy Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28494,7 +28494,7 @@
   {
     "id": 40463,
     "Key": "ub2",
-    "enUS": "ÿc3Eerie Bidding",
+    "enUS": "ÿc;Eerie Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28511,7 +28511,7 @@
   {
     "id": 40464,
     "Key": "ub3",
-    "enUS": "ÿc3Electrical Bidding",
+    "enUS": "ÿc;Electrical Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28528,7 +28528,7 @@
   {
     "id": 40465,
     "Key": "vb1",
-    "enUS": "ÿc3Uneasy Bidding",
+    "enUS": "ÿc;Uneasy Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28545,7 +28545,7 @@
   {
     "id": 40466,
     "Key": "vb2",
-    "enUS": "ÿc3Sick Bidding",
+    "enUS": "ÿc;Sick Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28562,7 +28562,7 @@
   {
     "id": 40467,
     "Key": "vb3",
-    "enUS": "ÿc3Nauseating Bidding",
+    "enUS": "ÿc;Nauseating Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28579,7 +28579,7 @@
   {
     "id": 40468,
     "Key": "aa0",
-    "enUS": "ÿc3Skillful Bidding",
+    "enUS": "ÿc;Skillful Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28596,7 +28596,7 @@
   {
     "id": 40469,
     "Key": "aa1",
-    "enUS": "ÿc3Javelin Bidding",
+    "enUS": "ÿc;Javelin Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28613,7 +28613,7 @@
   {
     "id": 40470,
     "Key": "aa2",
-    "enUS": "ÿc3Bow Bidding",
+    "enUS": "ÿc;Bow Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28630,7 +28630,7 @@
   {
     "id": 40471,
     "Key": "aa3",
-    "enUS": "ÿc3Passive Bidding",
+    "enUS": "ÿc;Passive Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28647,7 +28647,7 @@
   {
     "id": 40472,
     "Key": "aa4",
-    "enUS": "ÿc3Traps Bidding",
+    "enUS": "ÿc;Traps Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28664,7 +28664,7 @@
   {
     "id": 40473,
     "Key": "aa5",
-    "enUS": "ÿc3Martial Arts Bidding",
+    "enUS": "ÿc;Martial Arts Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28681,7 +28681,7 @@
   {
     "id": 40474,
     "Key": "aa6",
-    "enUS": "ÿc3Shadow Bidding",
+    "enUS": "ÿc;Shadow Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28698,7 +28698,7 @@
   {
     "id": 40475,
     "Key": "aa7",
-    "enUS": "ÿc3Combat Bidding",
+    "enUS": "ÿc;Combat Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28715,7 +28715,7 @@
   {
     "id": 40476,
     "Key": "aa8",
-    "enUS": "ÿc3Mastery Bidding",
+    "enUS": "ÿc;Mastery Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28732,7 +28732,7 @@
   {
     "id": 40477,
     "Key": "aa9",
-    "enUS": "ÿc3Warcry Bidding",
+    "enUS": "ÿc;Warcry Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28749,7 +28749,7 @@
   {
     "id": 40478,
     "Key": "ac1",
-    "enUS": "ÿc3Elemtal Bidding",
+    "enUS": "ÿc;Elemtal Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28766,7 +28766,7 @@
   {
     "id": 40479,
     "Key": "ac2",
-    "enUS": "ÿc3Summon Bidding",
+    "enUS": "ÿc;Summon Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28783,7 +28783,7 @@
   {
     "id": 40480,
     "Key": "ac3",
-    "enUS": "ÿc3Shapeshifter Bidding",
+    "enUS": "ÿc;Shapeshifter Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28800,7 +28800,7 @@
   {
     "id": 40481,
     "Key": "ac4",
-    "enUS": "ÿc3Summon Bidding",
+    "enUS": "ÿc;Summon Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28817,7 +28817,7 @@
   {
     "id": 40482,
     "Key": "ac5",
-    "enUS": "ÿc3Bone Bidding",
+    "enUS": "ÿc;Bone Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28834,7 +28834,7 @@
   {
     "id": 40483,
     "Key": "ac6",
-    "enUS": "ÿc3Curse Bidding",
+    "enUS": "ÿc;Curse Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28851,7 +28851,7 @@
   {
     "id": 40484,
     "Key": "ac7",
-    "enUS": "ÿc3Combat Bidding",
+    "enUS": "ÿc;Combat Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28868,7 +28868,7 @@
   {
     "id": 40485,
     "Key": "ac8",
-    "enUS": "ÿc3Defensive Bidding",
+    "enUS": "ÿc;Defensive Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28885,7 +28885,7 @@
   {
     "id": 40486,
     "Key": "ac9",
-    "enUS": "ÿc3Offensive Bidding",
+    "enUS": "ÿc;Offensive Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28902,7 +28902,7 @@
   {
     "id": 40487,
     "Key": "ad1",
-    "enUS": "ÿc3Fire Bidding",
+    "enUS": "ÿc;Fire Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28919,7 +28919,7 @@
   {
     "id": 40488,
     "Key": "ad2",
-    "enUS": "ÿc3Lightning Bidding",
+    "enUS": "ÿc;Lightning Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -28936,7 +28936,7 @@
   {
     "id": 40489,
     "Key": "ad3",
-    "enUS": "ÿc3Cold Bidding",
+    "enUS": "ÿc;Cold Bidding",
     "zhTW": "",
     "deDE": "",
     "esES": "",
