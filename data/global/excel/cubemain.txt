@@ -173,38 +173,38 @@ RUNE DOWNGRADE	0																																																																
 1 Cham Rune + 1 Key -> Jah Rune	0			100					2	r32	key						useitem																													r31																													key																													0
 1 Zod  Rune + 1 Key -> Cham Rune	0			100					2	r33	key						useitem																													r32																													key																													0
 RUNE STACK UPTIER	0																																																																																																							0
-Full stack of El -> stack of Eld x 17	1			100	18	70	50		2	s1	ood						"s02,qty=17"																																																																																							0
-Full stack of Eld -> stack of Tir x 17	1			0	18	70	50		2	s2	ood						"s03,qty=17"																																																																																							0
-Full stack of Tir -> stack of Nef x 17	1			0	18	70	50		2	s3	ood						"s04,qty=17"																																																																																							0
-Full stack of Nef -> stack of Eth x 17	1			0	18	70	50		2	s4	ood						"s05,qty=17"																																																																																							0
-Full stack of Eth -> stack of Ith x 17	1			0	18	70	50		2	s5	ood						"s06,qty=17"																																																																																							0
-Full stack of Ith -> stack of Tal x 17	1			0	18	70	50		2	s6	ood						"s07,qty=17"																																																																																							0
-Full stack of Tal -> stack of Ral x 17	1			0	18	70	50		2	s7	ood						"s08,qty=17"																																																																																							0
-Full stack of Ral -> stack of Ort x 17	1			0	18	70	50		2	s8	ood						"s09,qty=17"																																																																																							0
-Full stack of Ort -> stack of Thul x 17	1			0	18	70	50		2	s9	ood						"s010,qty=17"																																																																																							0
-Full stack of Thul -> stack of Amn x 17	1			0	18	70	50		2	s10	ood						"s11,qty=17"																																																																																							0
-Full stack of Amn -> stack of Sol x 17	1			0	18	70	50		2	s11	ood						"s12,qty=17"																																																																																							0
-Full stack of Sol -> stack of Shael x 17	1			0	18	70	50		2	s12	ood						"s13,qty=17"																																																																																							0
-Full stack of Shael -> stack of Dol x 17	1			0	18	70	50		2	s13	ood						"s14,qty=17"																																																																																							0
-Full stack of Dol -> stack of Hel x 17	1			0	18	70	50		2	s14	ood						"s15,qty=17"																																																																																							0
-Full stack of Hel -> stack of Io x 17	1			0	18	70	50		2	s15	ood						"s16,qty=17"																																																																																							0
-Full stack of Io -> stack of Lum x 17	1			0	18	70	50		2	s16	ood						"s17,qty=17"																																																																																							0
-Full stack of Lum -> stack of Ko x 17	1			0	18	70	50		2	s17	ood						"s18,qty=17"																																																																																							0
-Full stack of Ko -> stack of Fal x 17	1			0	18	70	50		2	s18	ood						"s19,qty=17"																																																																																							0
-Full stack of Fal -> stack of Lem x 17	1			0	18	70	50		2	s19	ood						"s20,qty=17"																																																																																							0
-Full stack of Lem -> stack of Pul x 17	1			0	18	70	50		2	s20	ood						"s21,qty=17"																																																																																							0
-Full stack of Pul -> stack of Um x 26	1			0	18	70	50		2	s21	ood						"s22,qty=26"																																																																																							0
-Full stack of Um -> stack of Mal x 26	1			0	18	70	50		2	s22	ood						"s23,qty=26"																																																																																							0
-Full stack of Mal -> stack of Ist x 26	1			0	18	70	50		2	s23	ood						"s24,qty=26"																																																																																							0
-Full stack of Ist -> stack of Gul x 26	1			0	18	70	50		2	s24	ood						"s25,qty=26"																																																																																							0
-Full stack of Gul -> stack of Vex x 26	1			0	18	70	50		2	s25	ood						"s26,qty=26"																																																																																							0
-Full stack of Vex -> stack of Ohm x 26	1			0	18	70	50		2	s26	ood						"s27,qty=26"																																																																																							0
-Full stack of Ohm -> stack of Lo x 26	1			0	18	70	50		2	s27	ood						"s28,qty=26"																																																																																							0
-Full stack of Lo -> stack of Sur x 26	1			0	18	70	50		2	s28	ood						"s29,qty=26"																																																																																							0
-Full stack of Sur -> stack of Ber x 26	1			0	18	70	50		2	s29	ood						"s30,qty=26"																																																																																							0
-Full stack of Ber -> stack of Jah x 26	1			0	18	70	50		2	s30	ood						"s31,qty=26"																																																																																							0
-Full stack of Jah -> stack of Cham x 26	1			0	18	70	50		2	s31	ood						"s32,qty=26"																																																																																							0
-Full stack of Cham -> stack of Zod x 26	1			0	18	70	50		2	s32	ood						"s33,qty=26"																																																																																							0
+Full stack of El -> stack of Eld x 17	1			100	18	70	50		2	s01	ood						"s02,qty=17"																																																																																							0
+Full stack of Eld -> stack of Tir x 17	1			100	18	70	50		2	s02	ood						"s03,qty=17"																																																																																							0
+Full stack of Tir -> stack of Nef x 17	1			100	18	70	50		2	s03	ood						"s04,qty=17"																																																																																							0
+Full stack of Nef -> stack of Eth x 17	1			100	18	70	50		2	s04	ood						"s05,qty=17"																																																																																							0
+Full stack of Eth -> stack of Ith x 17	1			100	18	70	50		2	s05	ood						"s06,qty=17"																																																																																							0
+Full stack of Ith -> stack of Tal x 17	1			100	18	70	50		2	s06	ood						"s07,qty=17"																																																																																							0
+Full stack of Tal -> stack of Ral x 17	1			100	18	70	50		2	s07	ood						"s08,qty=17"																																																																																							0
+Full stack of Ral -> stack of Ort x 17	1			100	18	70	50		2	s08	ood						"s09,qty=17"																																																																																							0
+Full stack of Ort -> stack of Thul x 17	1			100	18	70	50		2	s09	ood						"s10,qty=17"																																																																																							0
+Full stack of Thul -> stack of Amn x 17	1			100	18	70	50		2	s10	ood						"s11,qty=17"																																																																																							0
+Full stack of Amn -> stack of Sol x 17	1			100	18	70	50		2	s11	ood						"s12,qty=17"																																																																																							0
+Full stack of Sol -> stack of Shael x 17	1			100	18	70	50		2	s12	ood						"s13,qty=17"																																																																																							0
+Full stack of Shael -> stack of Dol x 17	1			100	18	70	50		2	s13	ood						"s14,qty=17"																																																																																							0
+Full stack of Dol -> stack of Hel x 17	1			100	18	70	50		2	s14	ood						"s15,qty=17"																																																																																							0
+Full stack of Hel -> stack of Io x 17	1			100	18	70	50		2	s15	ood						"s16,qty=17"																																																																																							0
+Full stack of Io -> stack of Lum x 17	1			100	18	70	50		2	s16	ood						"s17,qty=17"																																																																																							0
+Full stack of Lum -> stack of Ko x 17	1			100	18	70	50		2	s17	ood						"s18,qty=17"																																																																																							0
+Full stack of Ko -> stack of Fal x 17	1			100	18	70	50		2	s18	ood						"s19,qty=17"																																																																																							0
+Full stack of Fal -> stack of Lem x 17	1			100	18	70	50		2	s19	ood						"s20,qty=17"																																																																																							0
+Full stack of Lem -> stack of Pul x 17	1			100	18	70	50		2	s20	ood						"s21,qty=17"																																																																																							0
+Full stack of Pul -> stack of Um x 26	1			100	18	70	50		2	s21	ood						"s22,qty=26"																																																																																							0
+Full stack of Um -> stack of Mal x 26	1			100	18	70	50		2	s22	ood						"s23,qty=26"																																																																																							0
+Full stack of Mal -> stack of Ist x 26	1			100	18	70	50		2	s23	ood						"s24,qty=26"																																																																																							0
+Full stack of Ist -> stack of Gul x 26	1			100	18	70	50		2	s24	ood						"s25,qty=26"																																																																																							0
+Full stack of Gul -> stack of Vex x 26	1			100	18	70	50		2	s25	ood						"s26,qty=26"																																																																																							0
+Full stack of Vex -> stack of Ohm x 26	1			100	18	70	50		2	s26	ood						"s27,qty=26"																																																																																							0
+Full stack of Ohm -> stack of Lo x 26	1			100	18	70	50		2	s27	ood						"s28,qty=26"																																																																																							0
+Full stack of Lo -> stack of Sur x 26	1			100	18	70	50		2	s28	ood						"s29,qty=26"																																																																																							0
+Full stack of Sur -> stack of Ber x 26	1			100	18	70	50		2	s29	ood						"s30,qty=26"																																																																																							0
+Full stack of Ber -> stack of Jah x 26	1			100	18	70	50		2	s30	ood						"s31,qty=26"																																																																																							0
+Full stack of Jah -> stack of Cham x 26	1			100	18	70	50		2	s31	ood						"s32,qty=26"																																																																																							0
+Full stack of Cham -> stack of Zod x 26	1			100	18	70	50		2	s32	ood						"s33,qty=26"																																																																																							0
 GEMS STACKING	0																																																																																																							0
 Chipped Amethyst Unstack	0			0	18	70	1		1	8ca							gcv																																																																																							0
 Chipped Amethyst Stack	0			0					1	gcv							8ca																																																																																							0
