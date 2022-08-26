@@ -4088,9 +4088,9 @@ Dexterous Bidding	1			100	16	368	59		2	cc7	bb3						useitem				infusion	100		3	3
 Vital Bidding	1			100	16	368	59		2	cc7	cb1						useitem				infusion	100		2	2	levelreq			1	1	vit			2	2																																																																					0
 Vibrous Bidding	1			100	16	368	59		2	cc7	cb2						useitem				infusion	100		3	3	levelreq			4	4	vit			4	4																																																																					0
 Enduring Bidding	1			100	16	368	59		2	cc7	cb3						useitem				infusion	100		3	3	levelreq			6	6	vit			6	6																																																																					0
-Energetic Bidding	1			100	16	368	59		2	cc7	db1						useitem				infusion	100		2	2	levelreq			1	1	enr			2	2																																																																					0
-Bright Bidding	1			100	16	368	59		2	cc7	db2						useitem				infusion	100		3	3	levelreq			4	4	enr			4	4																																																																					0
-Spirited Bidding	1			100	16	368	59		2	cc7	db3						useitem				infusion	100		3	3	levelreq			6	6	enr			6	6																																																																					0
+Energetic Bidding	1			100	16	368	59		2	cc7	db1						useitem				infusion	100		2	2	levelreq			1	1	enr			4	4																																																																					0
+Bright Bidding	1			100	16	368	59		2	cc7	db2						useitem				infusion	100		3	3	levelreq			4	4	enr			8	8																																																																					0
+Spirited Bidding	1			100	16	368	59		2	cc7	db3						useitem				infusion	100		3	3	levelreq			6	6	enr			12	12																																																																					0
 Lively Bidding	1			100	16	368	59		2	cc7	eb1						useitem				infusion	100		2	2	levelreq			1	1	hp			10	10																																																																					0
 Splendid Bidding	1			100	16	368	59		2	cc7	eb2						useitem				infusion	100		3	3	levelreq			4	4	hp			20	20																																																																					0
 Vibrant Bidding	1			100	16	368	59		2	cc7	eb3						useitem				infusion	100		3	3	levelreq			6	6	hp			30	30																																																																					0
