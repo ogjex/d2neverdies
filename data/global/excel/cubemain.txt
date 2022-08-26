@@ -2,7 +2,7 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 QUEST	0																																																																																																							0
 Staff of Kings + Amulet of the Viper -> Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
 Khalim's Flail + Khalim's Heart + Khalim's Eye + Khalim's Brain -> Khalim's Will	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
-Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	0			0	28				2	leg	tbk						Cow Portal																																																																																							0
+Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
 Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				1	tbk							Cow Portal																																																																																							0
 1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
 1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	0			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
@@ -2850,6 +2850,10 @@ Elite Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"an
 Normal Unique + Orb of Extraction -> Extract Normal Essence	1			100					2	"any,uni,bas"	oex						nue	50	100																																																																																					0
 Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1			100					2	"any,uni,exc"	oex						eue	50	100																																																																																					0
 Elite Unique + Orb of Extraction -> Extract Elite Essence	1			100					2	"any,uni,eli"	oex						lue	50	100																																																																																					0
+Exceptional Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"rin,uni"	oex						nce	50	100																																																																																					0
+Exceptional Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"amu,uni"	oex						nce	50	100																																																																																					0
+Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1			100					2	"rin,set"	oex						nue	50	100																																																																																					0
+Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1			100					2	"amu,set"	oex						nue	50	100																																																																																					0
 ESSENCE CHARGING	0																																																																																																							0
 NORMAL COMPOUND ESSENCE --> CHARGE	0																																																																																																							0
 Stack of 5 (Normal Compound Essence Cube) -> Stack-5 + Target Output	1			0	18	70	5		2	nce	oex						ncc																																																																																							0
