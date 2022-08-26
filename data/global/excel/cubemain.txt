@@ -2850,10 +2850,10 @@ Elite Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"an
 Normal Unique + Orb of Extraction -> Extract Normal Essence	1			100					2	"any,uni,bas"	oex						nue	50	100																																																																																					0
 Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1			100					2	"any,uni,exc"	oex						eue	50	100																																																																																					0
 Elite Unique + Orb of Extraction -> Extract Elite Essence	1			100					2	"any,uni,eli"	oex						lue	50	100																																																																																					0
-Exceptional Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"rin,uni"	oex						nce	50	100																																																																																					0
-Exceptional Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"amu,uni"	oex						nce	50	100																																																																																					0
-Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1			100					2	"rin,set"	oex						nue	50	100																																																																																					0
-Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1			100					2	"amu,set"	oex						nue	50	100																																																																																					0
+Set ring + Orb of Extraction -> Extract Compound Essence	1			100					2	"rin,set"	oex						nce	50	100																																																																																					0
+Set amu + Orb of Extraction -> Extract Compound Essence	1			100					2	"amu,set"	oex						nce	50	100																																																																																					0
+Unique ring + Orb of Extraction -> Extract unique Essence	1			100					2	"rin,uni"	oex						nue	50	100																																																																																					0
+Unique amu + Orb of Extraction -> Extract unique Essence	1			100					2	"amu,uni"	oex						nue	50	100																																																																																					0
 ESSENCE CHARGING	0																																																																																																							0
 NORMAL COMPOUND ESSENCE --> CHARGE	0																																																																																																							0
 Stack of 5 (Normal Compound Essence Cube) -> Stack-5 + Target Output	1			0	18	70	5		2	nce	oex						ncc																																																																																							0
