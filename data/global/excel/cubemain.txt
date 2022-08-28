@@ -3514,7 +3514,7 @@ Superior Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,hiq"	glx	
 Low quality Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,low"	glx	gpr					useitem				corruption	100		21	21																																																																															0
 Low quality Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,low"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 GLOVES - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Gloves Corruption Tracker	1			100	16	361	0		3	glov	glx	gpr					useitem				corruption	100		1	20																																																		gpr																													0
+Gloves Corruption Tracker	1			100	16	361	0		3	glov	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Gloves + Glyph -> Random Rare	1			100	16	361	5		3	glov	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	6		3	glov	glx	gpr					useitem				corruption	100		21	21	swing1	100		10	10																																																																										0
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	8		3	glov	glx	gpr					useitem				corruption	100		21	21	deadly	100		6	12																																																																										0
@@ -3540,12 +3540,12 @@ Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	18		3	glov	gl
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	19		3	glov	glx	gpb					useitem				corruption	100		21	21	vit	100		10	15																																																																										0
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	20		3	glov	glx	gpb					useitem				corruption	100		21	21	str	100		10	15																																																																										0
 BELTS - NORMAL CATCHER	0																																																																																																							0
-Normal Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,nor"	glx	gpr					useitem				corruption	100		21	21																					glx																																																										0
-Normal Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,nor"	glx	gpb					useitem				corruption	100		21	21																					glx																																																										0
-Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,hiq"	glx	gpr					useitem				corruption	100		21	21																					glx																																																										0
-Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,hiq"	glx	gpb					useitem				corruption	100		21	21																					glx																																																										0
-Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,low"	glx	gpr					useitem				corruption	100		21	21																					glx																																																										0
-Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,low"	glx	gpb					useitem				corruption	100		21	21																					glx																																																										0
+Normal Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,nor"	glx	gpr					useitem				corruption	100		21	21																																																																															0
+Normal Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,nor"	glx	gpb					useitem				corruption	100		21	21																																																																															0
+Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,hiq"	glx	gpr					useitem				corruption	100		21	21																																																																															0
+Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,hiq"	glx	gpb					useitem				corruption	100		21	21																																																																															0
+Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,low"	glx	gpr					useitem				corruption	100		21	21																																																																															0
+Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,low"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 BELTS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
 Belt Corruption Tracker	1			100	16	361	0		3	belt	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Belt + Glyph -> Random Rare	1			100	16	361	5		3	belt	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
@@ -3775,7 +3775,7 @@ Heatproof Bidding	1			100	16	368	59		2	cc2	mb3						useitem				infusion	100		6	6
 Chunky Bidding	1			100	16	368	59		2	cc2	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
 Crystal Bidding	1			100	16	368	59		2	cc2	nb2						useitem				infusion	100		6	6	levelreq			4	4	res-cold			6	6																																																																					0
 Diamond Bidding	1			100	16	368	59		2	cc2	nb3						useitem				infusion	100		6	6	levelreq			6	6	res-cold			9	9																																																																					0
-Grounded Bidding	1			100	16	368	59		2	cc2	zb2						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Grounded Bidding	1			100	16	368	59		2	cc2	zb1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
 Conductive Bidding	1			100	16	368	59		2	cc2	zb2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
 Arrested Bidding	1			100	16	368	59		2	cc2	zb3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
 Neutralizing Bidding	1			100	16	368	59		2	cc2	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
@@ -4125,7 +4125,7 @@ Heatproof Bidding	1			100	16	368	59		2	cc7	mb3						useitem				infusion	100		6	6
 Chunky Bidding	1			100	16	368	59		2	cc7	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
 Crystal Bidding	1			100	16	368	59		2	cc7	nb2						useitem				infusion	100		6	6	levelreq			4	4	res-cold			6	6																																																																					0
 Diamond Bidding	1			100	16	368	59		2	cc7	nb3						useitem				infusion	100		6	6	levelreq			6	6	res-cold			9	9																																																																					0
-Grounded Bidding	1			100	16	368	59		2	cc7	zb1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Grounded Bidding	1			100	16	368	59		2	cc7	*						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
 Conductive Bidding	1			100	16	368	59		2	cc7	zb2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
 Arrested Bidding	1			100	16	368	59		2	cc7	zb3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
 Neutralizing Bidding	1			100	16	368	59		2	cc7	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
