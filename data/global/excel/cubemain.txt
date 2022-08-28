@@ -3474,12 +3474,12 @@ Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	18		3	"shld,s
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,sock"	glx	gpb					useitem				corruption	100		21	21	curse-res	100		10	10																																																																										0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	20		3	"shld,sock"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 BOOTS - NORMAL BOOT CATCHER	0																																																																																																							0
-Normal Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,nor"	glx	gpr					useitem				corruption	100		21	21																					glx																													gpb																													0
-Normal Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,nor"	glx	gpb					useitem				corruption	100		21	21																					glx																													gpr																													0
-Superior Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,hiq"	glx	gpr					useitem				corruption	100		21	21																					glx																													gpb																													0
-Superior Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,hiq"	glx	gpb					useitem				corruption	100		21	21																					glx																													gpr																													0
-Low quality Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,low"	glx	gpr					useitem				corruption	100		21	21																					glx																													gpb																													0
-Low quality Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,low"	glx	gpb					useitem				corruption	100		21	21																					glx																																																										0
+Normal Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,nor"	glx	gpr					useitem				corruption	100		21	21																																																																															0
+Normal Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,nor"	glx	gpb					useitem				corruption	100		21	21																																																																															0
+Superior Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,hiq"	glx	gpr					useitem				corruption	100		21	21																																																																															0
+Superior Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,hiq"	glx	gpb					useitem				corruption	100		21	21																																																																															0
+Low quality Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,low"	glx	gpr					useitem				corruption	100		21	21																																																																															0
+Low quality Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,low"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 BOOTS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
 Boots Corruption Tracker	1			100	16	361	0		3	boot	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Boots + Glyph -> Random Rare	1			100	16	361	5		3	boot	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
@@ -3507,12 +3507,12 @@ Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	18		3	boot	glx	
 Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	19		3	boot	glx	gpb					useitem				corruption	100		21	21	move1	100		10	15																																																																										0
 Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	20		3	boot	glx	gpb					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
 GLOVES - NORMAL GLOVE CATCHER	0																																																																																																							0
-Normal Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,nor"	glx	gpr					useitem				corruption	100		21	21																					glx																													gpb																													0
-Normal Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,nor"	glx	gpb					useitem				corruption	100		21	21																					glx																													gpr																													0
-Superior Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,hiq"	glx	gpr					useitem				corruption	100		21	21																					glx																													gpb																													0
-Superior Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,hiq"	glx	gpb					useitem				corruption	100		21	21																					glx																													gpr																													0
-Low quality Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,low"	glx	gpr					useitem				corruption	100		21	21																					glx																													gpb																													0
-Low quality Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,low"	glx	gpb					useitem				corruption	100		21	21																					glx																																																										0
+Normal Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,nor"	glx	gpr					useitem				corruption	100		21	21																																																																															0
+Normal Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,nor"	glx	gpb					useitem				corruption	100		21	21																																																																															0
+Superior Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,hiq"	glx	gpr					useitem				corruption	100		21	21																																																																															0
+Superior Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,hiq"	glx	gpb					useitem				corruption	100		21	21																																																																															0
+Low quality Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,low"	glx	gpr					useitem				corruption	100		21	21																																																																															0
+Low quality Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,low"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 GLOVES - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
 Gloves Corruption Tracker	1			100	16	361	0		3	glov	glx	gpr					useitem				corruption	100		1	20																																																		gpr																													0
 Gloves + Glyph -> Random Rare	1			100	16	361	5		3	glov	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
@@ -3539,12 +3539,12 @@ Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	17		3	glov	gl
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	18		3	glov	glx	gpb					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100		3	6																																																											0
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	19		3	glov	glx	gpb					useitem				corruption	100		21	21	vit	100		10	15																																																																										0
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	20		3	glov	glx	gpb					useitem				corruption	100		21	21	str	100		10	15																																																																										0
-BELTS - NORMAL CATCHER	0																																																																										gpr																													0
-Normal Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,nor"	glx	gpr					useitem				corruption	100		21	21																					glx																													gpb																													0
-Normal Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,nor"	glx	gpb					useitem				corruption	100		21	21																					glx																													gpr																													0
-Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,hiq"	glx	gpr					useitem				corruption	100		21	21																					glx																													gpb																													0
-Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,hiq"	glx	gpb					useitem				corruption	100		21	21																					glx																													gpr																													0
-Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,low"	glx	gpr					useitem				corruption	100		21	21																					glx																													gpb																													0
+BELTS - NORMAL CATCHER	0																																																																																																							0
+Normal Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,nor"	glx	gpr					useitem				corruption	100		21	21																					glx																																																										0
+Normal Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,nor"	glx	gpb					useitem				corruption	100		21	21																					glx																																																										0
+Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,hiq"	glx	gpr					useitem				corruption	100		21	21																					glx																																																										0
+Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,hiq"	glx	gpb					useitem				corruption	100		21	21																					glx																																																										0
+Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,low"	glx	gpr					useitem				corruption	100		21	21																					glx																																																										0
 Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,low"	glx	gpb					useitem				corruption	100		21	21																					glx																																																										0
 BELTS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
 Belt Corruption Tracker	1			100	16	361	0		3	belt	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
