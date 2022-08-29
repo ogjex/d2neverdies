@@ -6037,7 +6037,7 @@
   {
     "id": 40532,
     "Key": "StrBidDesc",
-    "enUS": "Cube with Valor Charm to infuse",
+    "enUS": "Cube with ÿc4Valor Charm ÿc0to infuse",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6071,7 +6071,7 @@
   {
     "id": 40534,
     "Key": "StrGlyphDesc",
-    "enUS": "ÿc125% Chance ÿc0to Brick Item \n ÿc3P. Sapphire ÿc0= Caster Corruptions\n ÿc1P. Ruby ÿc0= Combat Corruptions \n Cube with Any Item to add random Corruption: \n Transmute in Cube to Stack and Unstack",
+    "enUS": "ÿc120% Chance ÿc0to Brick Item \n ÿc3P. Sapphire ÿc0= Caster Corruptions\n ÿc1P. Ruby ÿc0= Combat Corruptions \n Cube with Any Item to add random Corruption: \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6139,7 +6139,7 @@
   {
     "id": 40538,
     "Key": "StrOrbCombDesc",
-    "enUS": "Cube with ÿc4Unique ÿc0and ÿc2Compound Essence Charges + a Rare item to build new set items",
+    "enUS": "ÿc0Cube with ÿc4Unique ÿc0and ÿc2Compound Essence Charges ÿc0+ an uncorrupted ÿc9Rare item ÿc0to build new ÿc2Set items",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6156,7 +6156,7 @@
   {
     "id": 40539,
     "Key": "StrOrbExtDesc",
-    "enUS": "Cube with ÿc4Unique ÿc0and ÿc2Set ÿc0items to Extract Essences",
+    "enUS": "Cube with ÿc4Unique ÿc0and ÿc2Set ÿc0items to extract Essence Cubes",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6224,7 +6224,7 @@
   {
     "id": 40543,
     "Key": "StrChaNorSetDesc",
-    "enUS": "\n 1 x Orb of Combination + 2 x ÿc2 Compound Normal Essence Charges ÿc0= new Normal ÿc2 Set item ÿc0 \n 1 x Orb of Divination + 2 x ÿc2 Compound Normal Essence Charges ÿc0= reroll Normal ÿc2 Set item ÿc0 ",
+    "enUS": "ÿc0\n 1 x ÿc4Orb of Combination ÿc0+ 2 x ÿc2Compound Normal Essence Charges ÿc0= new Normal ÿc2Set item ÿc0\n 1 x ÿc4Orb of Divination ÿc0+ 1 x ÿc2Compound Normal Essence Charges ÿc0= reroll Normal ÿc2Set itemÿc0",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6241,7 +6241,7 @@
   {
     "id": 40544,
     "Key": "StrChaExcSetDesc",
-    "enUS": "\n 1 x Orb of Combination + 1 x ÿc2 Compound Exceptional Essence Charges ÿc0= new Exceptional ÿc2 Set item ÿc0 \n 1 x Orb of Divination + 1 x ÿc2 Compound Exceptional Essence Charges ÿc0= reroll Exceptional ÿc2 Set item ÿc0",
+    "enUS": "ÿc0\n 1 x ÿc4Orb of Combination ÿc0+ 1 x ÿc2Compound Exceptional Essence Charges ÿc0= new Exceptional ÿc2Set item ÿc0\n 1 x ÿc4Orb of Divination ÿc0+ 1 x ÿc2Compound Exceptional Essence Charges ÿc0= reroll Exceptional ÿc2Set itemÿc0",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6258,7 +6258,7 @@
   {
     "id": 40545,
     "Key": "StrChaEliSetDesc",
-    "enUS": "\n 1 x Orb of Combination + 1 x ÿc2 Compound Elite Essence Charges ÿc0= new Elite ÿc2 Set item ÿc0 \n 1 x Orb of Divination + 1 x ÿc2 Compound Elite Essence Charges ÿc0= reroll Elite ÿc2 Set item ÿc0 ",
+    "enUS": "ÿc0\n 1 x ÿc4Orb of Combination ÿc0+ 1 x ÿc2Compound Elite Essence Charges ÿc0= new Elite ÿc2Set item ÿc0\n 1 x ÿc4Orb of Divination ÿc0+ 1 x ÿc2Compound Elite Essence Charges ÿc0= reroll Elite ÿc2Set itemÿc0",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6275,7 +6275,7 @@
   {
     "id": 40546,
     "Key": "StrChaNorUniDesc",
-    "enUS": "\n 1 x Orb of Combination + 2 x ÿc4 Unique Normal Essence Charges ÿc0= new Normal ÿc4 Unique item ÿc0 \n 1 x Orb of Divination + 2 x ÿc4 Unique Normal Essence Charges ÿc0= reroll Normal ÿc4 Unique item ÿc0",
+    "enUS": "ÿc0\n 1 x ÿc4Orb of Combination ÿc0+ 2 x ÿc4Unique Normal Essence Charges ÿc0= new Normal ÿc4Unique itemÿc0\n 1 x ÿc4Orb of Divination ÿc0+ 1 x ÿc4Unique Normal Essence Charges ÿc0= reroll Normal ÿc4Unique itemÿc0",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6292,7 +6292,7 @@
   {
     "id": 40547,
     "Key": "StrChaExcUniDesc",
-    "enUS": "\n 1 x Orb of Combination + 1 x ÿc4 Unique Exceptional Essence Charges ÿc0= new Exceptional ÿc4 Unique item ÿc0 \n 1 x Orb of Divination + 1 x ÿc4 Unique Exceptional Essence Charges ÿc0= reroll Exceptional ÿc4 Unique item ÿc0",
+    "enUS": "ÿc0\n 1 x ÿc4Orb of Combination ÿc0+ 1 x ÿc4Unique Exceptional Essence Charges ÿc0= new Exceptional ÿc4Unique itemÿc0\n 1 x ÿc4Orb of Divination ÿc0+ 1 x ÿc4Unique Exceptional Essence Charges ÿc0= reroll Exceptional ÿc4Unique itemÿc0",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6309,7 +6309,7 @@
   {
     "id": 40548,
     "Key": "StrChaEliUniDesc",
-    "enUS": "\n 1 x Orb of Combination + 1 x ÿc4 Unique Elite Essence Charges ÿc0= new Elite ÿc4 Unique item ÿc0 \n 1 x Orb of Divination + 1 x ÿc4 Unique Elite Essence Charges ÿc0= reroll Elite ÿc4 Unique item ÿc0 ",
+    "enUS": "ÿc0\n 1 x ÿc4Orb of Combination ÿc0+ 1 x ÿc4Unique Elite Essence Charges ÿc0= new Elite ÿc4Unique itemÿc0\n 1 x ÿc4Orb of Divination ÿc0+ 1 x ÿc4Unique Elite Essence Charges ÿc0= reroll Elite ÿc4Unique itemÿc0",
     "zhTW": "",
     "deDE": "",
     "esES": "",
