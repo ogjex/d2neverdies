@@ -885,10 +885,10 @@
   { "nue": { "asset": "cube/cube_unique_normal" } },
   { "eue": { "asset": "cube/cube_unique_exc" } },
   { "lue": { "asset": "cube/cube_unique_eli" } },
-  { "ncc": { "asset": "cube/charm_small" } },
-  { "ecc": { "asset": "cube/charm_small" } },
-  { "lcc": { "asset": "cube/charm_small" } },
-  { "nuc": { "asset": "cube/charm_small" } },
-  { "euc": { "asset": "cube/charm_small" } },
-  { "luc": { "asset": "cube/charm_small" } }
+  { "ncc": { "asset": "cube/charge_compound_nor" } },
+  { "ecc": { "asset": "cube/charge_compound_exc" } },
+  { "lcc": { "asset": "cube/charge_compound_eli" } },
+  { "nuc": { "asset": "cube/charge_unique_nor" } },
+  { "euc": { "asset": "cube/charge_unique_exc" } },
+  { "luc": { "asset": "cube/charge_unique_eli" } }
 ]
