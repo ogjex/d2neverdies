@@ -158,9 +158,9 @@ Burly Bidding	100	1	1							1	347	str		6	6	infusion-cost		3	3	lvl-cost		6	6		snb
 Agile Bidding	100	1	1							1	348	dex		2	2	infusion-cost		2	2	lvl-cost		1	1		dxb1	bidd											0	0
 Nimble Bidding	100	1	1							1	349	dex		4	4	infusion-cost		3	3	lvl-cost		4	4		dxb2	bidd											0	0
 Dexterous Bidding	100	1	1							1	350	dex		6	6	infusion-cost		3	3	lvl-cost		6	6		dxb3	bidd											0	0
-Vital Bidding	100	1	1							1	351	vit		2	2	infusion-cost		2	2	lvl-cost		1	1		vib1	bidd											0	0
+Vital Bidding	100	1	1							1	351	vit		6	6	infusion-cost		2	2	lvl-cost		1	1		vib1	bidd											0	0
 Vibrous Bidding	100	1	1							1	352	vit		4	4	infusion-cost		3	3	lvl-cost		4	4		vib2	bidd											0	0
-Enduring Bidding	100	1	1							1	353	vit		6	6	infusion-cost		3	3	lvl-cost		6	6		vib3	bidd											0	0
+Enduring Bidding	100	1	1							1	353	vit		8	8	infusion-cost		3	3	lvl-cost		6	6		vib3	bidd											0	0
 Energetic Bidding	100	1	1							1	354	enr		4	4	infusion-cost		2	2	lvl-cost		1	1		enb1	bidd											0	0
 Bright Bidding	100	1	1							1	355	enr		8	8	infusion-cost		3	3	lvl-cost		4	4		enb2	bidd											0	0
 Spirited Bidding	100	1	1							1	356	enr		12	12	infusion-cost		3	3	lvl-cost		6	6		enb3	bidd											0	0
@@ -185,9 +185,9 @@ Forceful Bidding	100	1	1							1	374	dmg-max		10	10	infusion-cost		3	3	lvl-cost	
 Dodgy Bidding	100	1	1							1	375	balance2		4	4	infusion-cost		2	2	lvl-cost		1	1		hrb1	bidd											0	0
 Avoiding Bidding	100	1	1							1	376	balance2		8	8	infusion-cost		3	3	lvl-cost		4	4		hrb2	bidd											0	0
 Evading Bidding	100	1	1							1	377	balance2		12	12	infusion-cost		3	3	lvl-cost		6	6		hrb3	bidd											0	0
-Defending Bidding	100	1	1							1	378	ac%		10	10	infusion-cost		2	2	lvl-cost		1	1		acb1	bidd											0	0
-Guarding Bidding	100	1	1							1	379	ac%		20	20	infusion-cost		3	3	lvl-cost		4	4		acb2	bidd											0	0
-Shielding Bidding	100	1	1							1	380	ac%		30	30	infusion-cost		3	3	lvl-cost		6	6		acb3	bidd											0	0
+Defending Bidding	100	1	1							1	378	ac%		30	30	infusion-cost		2	2	lvl-cost		1	1		acb1	bidd											0	0
+Guarding Bidding	100	1	1							1	379	ac%		60	60	infusion-cost		3	3	lvl-cost		4	4		acb2	bidd											0	0
+Shielding Bidding	100	1	1							1	380	ac%		90	90	infusion-cost		3	3	lvl-cost		6	6		acb3	bidd											0	0
 Insulating Bidding	100	1	1							1	381	res-fire		3	3	infusion-cost		4	4	lvl-cost		1	1		rfb1	bidd											0	0
 Enclosed Bidding	100	1	1							1	382	res-fire		6	6	infusion-cost		6	6	lvl-cost		4	4		rfb2	bidd											0	0
 Heatproof Bidding	100	1	1							1	383	res-fire		9	9	infusion-cost		6	6	lvl-cost		6	6		rfb3	bidd											0	0
