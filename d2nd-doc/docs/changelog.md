@@ -1,23 +1,3 @@
-# Welcome to D2 Never Dies Mod (d2nd)
-A Diablo II Resurrected Mod
-![d2 never dies](./d2-nd-007.jpg)  
-[Theme song](https://www.youtube.com/watch?v=rwDUWnOVf0c)
-
-The purpose of this mod is to provide sorely needed Quality of Life changes to Diablo 2 Ressurected, and providing a joyful Single Player experience for the casual gamer with only 3-6 hours of game time available during the week.
-
-The mod has been balanced with Single Player Hardcore gaming in mind, and for the player who enjoys playing through the game, creating several characters and builds simultaneously. 
-Most less-used skills and item types have been balanced and buffed to enable new builds and viable play styles. 
-
-In this mod you will find powerful rare items and craft even stronger items that can take you to endgame. You can also build and create your own unique items and set items once you venture further into the game and focus on specific builds. 
-
-## Developed by:
-
-OGJeX (Discord: JeX#1706)
-
-Duits (Discord: Swoosh#7712)
-
-Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
-
 # Features
 
 ## Corruptions:
@@ -320,63 +300,4 @@ Pairofdocs (Discord: Thrugg_aka_Trogg#1949)
 
 The Paladin, Druid, Sorceress and Necro have not yet been playtested and will come in later releases.
 
-# Future releases
 
-- New endgame areas and maps with even stronger enemies
-- New Red Portal system that teleport the player to even more difficult areas 
-- Mercenary only items and runewords for merc armors and helmets only
-- Increased Hell difficulty
-- Introducing character specific lesser teleport skills (Necro, Druid, Paladin)
-
-# Credits:
-
-Big thanks to the Phrozen Keep community! 
-
-A special thanks to Bonesy for his patience, help, and guidance with the Bidding system as well as the Mercenary Equip system.
-
-## Melee Weapon Splash
-Credits:
-
-## Corruptions
-Credits: 
-- https://d2mods.info/forum/viewtopic.php?t=66710
-- https://d2mods.info/forum/viewtopic.php?t=66886
-- https://d2mods.info/forum/kb/viewarticle?a=284
-
-
-## Graphics
-Credits: [the South Korean graphics mods]
-
-## Red Portals
-Enabled in D2R by text edits to Cubemain.txt  
-Credits: Eezstreet on D2R Modding discord
-
-## Mercenary Equip
-Credits: PureRage from https://d2mods.info/forum/viewtopic.php?f=4&t=56363  
-https://www.reddit.com/r/Diablo/comments/nc98xf/equip_mod_for_merc_d2r_and_lod/
-
-Bonesy from https://www.d2rmodding.com/ and https://www.nexusmods.com/diablo2resurrected/mods/13?tab=files
-
-## Mercenary only items
-
-Credits: Nefarius from Phrozen Keep: https://d2mods.info/forum/kb/viewarticle?a=374
-
-## Monster Difficulty Hell
-
-Credits: BTNeanderthal: https://github.com/BTNeandertha1/BTDiablo and https://www.youtube.com/c/BTNeanderthal
-
-# Installing the Mod
-One method is using the D2R launch parameters `-mod` and `-txt`.  
-Create a new folder called `d2-nd.mpq` in your D2R install location, inside the mods folder, inside `d2-nd` (like `D2R/mods/d2-nd/d2-nd.mpq`) and place the `modinfo.json` file and the folder `data/` from this repository into `mods/d2-nd/d2-nd.mpq/`.  
-Then start `D2R.exe - Shortcut` with the launch options `-mod d2-nd -txt` (instead of `-direct -txt`).  
-NOTE: Saved characters for this mod will be in your `Saved Games\Diablo II Resurrected\mods\d2-nd\` folder, not the default `Saved Games\Diablo II Resurrected\` folder.
-
-# Background and resources
-
-## D2R's txt file guide
-https://d2r-txt-guide.github.io/  
-Extracted from D2R's casc storage `data/global/excel/` and converted to HTML.  (The html file guide is also available in this repo in `docs/`)
-
-## Resources
-How to mod D2R https://www.reddit.com/r/Diablo/comments/pv8pot/d2r_modding_guide/  
-and video by HighTechLowIQ https://www.youtube.com/watch?v=tLMppJOOO0o  
