@@ -1,5 +1,10 @@
 site_name: Diablo 2 Never Dies
 site_url: https://diablo2neverdies.com/
+theme: windmill-dark
 nav:
-  - Home: index.md
-  - About: about.md
+  - Home: about.md
+  - Full change log: changelog.md
+  - Recent patch changes: recent.md
+  - Detailed changes: detailed.md
+  - Why is it fun to play: fun.md
+  - Support: support.md
