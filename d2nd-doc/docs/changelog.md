@@ -1,66 +1,9 @@
-# Features
+# Recipes
+- Added corruption recipes
+- Added 2 new crafting types and updated old crafting recipes
+- Added set and unique rerolling and building 
 
-## Corruptions:
-
-- Collect Glyphs to corrupt and imbue items with sockets, additional properties at the chance of ruining the item
-- Two different types of corruptions: combat-oriented (Perfect Ruby) and caster-oriented (Perfect Sapphires)
-- Collect Larzuk's Gimlets to roll sockets on any weapon or armor
-
-![Corruption Example 1](./d2-nd-corruption1.png)
-
-![Corruption Example 2](./d2-nd-corruption2.png)
-
-![Larzuk's Gimlet](./d2-nd-gimlet.png)
-
-## Crafting:
-
-- Completely rebalanced crafting to make every recipe viable
-- Added Skulls for leech crafting and topaz for magic find crafting recipes
-
-![Crafting Example 1](./d2-nd-crafting1.png)
-
-![Crafting Example 2](./d2-nd-crafting2.png)
-
-![Crafting Overview](./d2-nd-crafting_overview.png)
-
-## Rerolling items:
-
-- Use Orbs of Extraction to extract essences from uniques and set items 
-- Use Orbs of Divination to reroll unique items for greater reusability
-
-![Reroll Example 1](./d2-nd-reroll_unique.png)
-
-![Reroll Example 2](./d2-nd-reroll_set.png)
-
-## Building set and unique items:
-
-- Use new Orbs of Combination with Essences to build new unique and set items 
-
-![Building Example 1_1](./d2-nd-building1_1.png)
-
-![Building Example 1_2](./d2-nd-building1_2.png)
-
-![Building Example 2_1](./d2-nd-building2_1.png)
-
-![Building Example 2_2](./d2-nd-building2_2.png)
-
-## New Valor Charm:
-
-- Each new character now starts with a personalized "Valor" charm; these can also be bought from vendors
-- With a single charm, your character now has more room for loot
-- New Valor charms can be infused using new Biddings, with similar attributes as old charms
-- Valors can only be upgraded 30-40 times, so use the infusions well!
-- Use the Valor charms to completely tailor-make your character build and use them as leveling devices
-
-![Valor in the Rough](./d2-nd-valor_in_the_rough.png)
-
-![Character Valor Empty](./d2-nd-valor0.png)
-
-![Character Valor Half](./d2-nd-valor1.png)
-
-![Character Valor Full](./d2-nd-valor2.png)
-
-## Areas
+# Areas
 
 - Area density buffed across the board: doubled in playthrough areas on Normal, quadrupled in lvl 85 areas in Hell
 - Increased number of monster uniques across the board: doubled in most of Normal, small increases in NM and Hell
@@ -72,7 +15,7 @@
 	- Claw viper temple level 2
 	- Maggot Lair lvl 1 and 2
 
-## Monsters:
+# Monsters:
 
 - Mephisto is now flying (no more moat trick)
 - Undead skeletons now leech a little bit 
@@ -90,14 +33,19 @@
     - Ismail Vilehand is now Always Aura Enchanted (Travincal)
     - Bremm Sparkfist is now always Cursed (Durance of Hate Level 3)
 
-## Runewords:
+# Runewords:
 
 - Updated all Runewords to create better balance
 - Buffed starter runewords: Steel, Strength, Nadir, Edge, Zephyr with enhanced damage, pierce, crushing blow etc.
 - Delirium: removed ctc delirium
 
-## Items
-
+# Items
+- Added Glyphs of Xiansai
+- Added Larzuk's Gimlets
+- Added Orbs of Extraction, Divination and Combination for sale at Akara's
+- Added new Valor charms for each new character
+- Added Unique and Compound (Set item) Essence Cubes
+- Added Unique and Compound Charges
 - Added stronger and more frequent rare rolls 
 - Necro shields (exceptional and elite) can now have 3 sockets
 - All weapons can now have minimum of 2 sockets
@@ -112,12 +60,12 @@
 - Edited low level sets and set items (Isenhart's Lightbrand now a javelin, Clegclaws Tooth and Claw now katars, Tancred's Weird now a Gothic Axe)
 - Bolts and Arrows can now be magic and rare
 
-## Drops
+# Drops
 - Removed Chipped, Flawed, Standard gems from dropping (they will be used for other things later)
 - Increased Rare, Set and Unique drops overall
 - All Act Bosses now drop Quest drops as their normal drops
 
-## QoL
+# QoL
 
 - All characters now walk close to as fast as running - better defense bonus
 - Increased chances of gambling rares, sets and unique items (unique being the smallest increase)
@@ -138,47 +86,9 @@
 - Players can have multiple shrines active
 - Battle cry is no longer a curse and can be applied simultaneously with curses and other progs
 
-![Inventory M/K](./d2-nd-inventoryMK.png)
+# Amazon Skill changes:
 
-![Inventory Controller](./d2-nd-inventoryController.png)
-
-![Horadric Cube M/K](./d2-nd-cubeMK.png)
-
-![Horadric Cube Controller](./d2-nd-cubeController.png)
-
-![Area Attack](./d2-nd-inventoryMK.png)
-
-![Automagic Armor Light](./d2-nd-light.png)
-
-![Automagic Armor Caster](./d2-nd-caster.png)
-
-![Automagic Armor Heavy](./d2-nd-heavy.png)
-
-![Automagic Throwing Knife](./d2-nd-throwing_knife.png)
-
-![Automagic Dagger](./d2-nd-dagger.png)
-
-![Automagic Shield](./d2-nd-shield.png)
-
-![Rare example](./d2-nd-rare1.png)
-
-![Isenhart's Javelin](./d2-nd-isenharts.png)
-
-![Clegclaw's set](./d2-nd-clegclaws.png)
-
-![Unique Essence](./d2-nd-unique.png)
-
-![Compound Essence](./d2-nd-compound.png)
-
-![Orb of Combination](./d2-nd-combination.png)
-
-![Orb of Divination](./d2-nd-divination.png)
-
-![Orb of Extraction](./d2-nd-extraction.png)
-
-## Amazon Skill changes:
-
-### Javelin and spear skills:
+## Javelin and spear skills:
 - Jab: unchanged
 - Poison Javelin: added poison pierce, poison duration set to 2 seconds
 - Impale: unchanged
@@ -190,7 +100,7 @@
 - Lightning Strike: unchanged
 - Lightning Fury: set base number of bolts to 11
 
-### Passive and magic skills:
+## Passive and magic skills:
 - Inner Sight:  unchanged
 - Critical Strike: unchanged 
 - Evade: added faster run walk
@@ -202,7 +112,7 @@
 - Penetrate: added minus monster defense [per 10 base levels]
 - Valkyrie: rmoved dependency to evade, added additional Valkyries per 10 base levels 
 
-### Bow and Crossbow:
+## Bow and Crossbow:
 - Magic Arrow: added additional arrows based on base level, magic arrow now takes 50% conversion from physical from base level 1
 - Multiple Shot: unchanged 
 - Fire Arrow: buffed fire damage, velocity increased, always pierces target, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage
@@ -214,9 +124,9 @@
 - Immolation Arrow: fire pierce for 2 seconds, buffed damage, increase burn area as skill levels up, explosion radius now increases with Explosion Arrow synergy 
 - Freezing Arrow: buffed damage 
 
-## Assassin skill changes 
+# Assassin skill changes 
 
-### Martial Arts
+## Martial Arts
 
 - Tiger Strike: unchanged 
 - Dragon Talon: unchanged 
@@ -229,7 +139,7 @@
 - Blades of Ice: increased damage
 - Phoenix Strike: removed dependency to Cobra Strike
 
-### Shadow Disciplines:
+## Shadow Disciplines:
 
 - Claw Mastery: renamed to Claw and Dagger Mastery, added Daggers and Throwing Knifes to bonus 
 - Psychic Hammer: unchanged
@@ -242,7 +152,7 @@
 - Shadow Master: decreased max resistances 
 - Venom: increased duration, increased damage, added base -enemy poison res
 
-### Traps
+## Traps
 
 - Fire Blast: unchanged
 - Shock Web: removed next delay so it can actually hit monsters now
@@ -255,9 +165,9 @@
 - Wake of Inferno: unchanged
 - Death Sentry: is now a fire skill, removed lightning sentry skill function
 
-## Barbarian skill changes
+# Barbarian skill changes
 
-### Warcries:
+## Warcries:
 
 - Howl: unchanged 
 - Find Potion: unchanged 
@@ -270,7 +180,7 @@
 - Battle Command: set to fixed duration of 300 seconds, added damage multiplier, added +3 skills at base level 20
 - Battle Cry: added damage to monsters to reduce immunities 
 
-### Masteries:
+## Masteries:
 
 - Blade Mastery: added inceased attack speed
 - Axe Mastery: added demon damage, Open Wounds
@@ -283,7 +193,7 @@
 - Increased Speed: added faster hit recovery 
 - Natural Resistance: added reduced poison duration, and reduce curse duration
 
-### Combat skills:
+## Combat skills:
 
 - Bash: Added crushing blow
 - Double Swing: added damage multiplier
@@ -296,7 +206,7 @@
 - Berserk: unchanged 
 - Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames
 
-## Paladin, Druid, Necro, Sorceress
+# Paladin, Druid, Necro, Sorceress
 
 The Paladin, Druid, Sorceress and Necro have not yet been playtested and will come in later releases.
 
