@@ -6,5 +6,7 @@ nav:
   - Full change log: changelog.md
   - Recent patch changes: recent.md
   - Detailed changes: detailed.md
+  - Planned changes: roadmap.md
+  - Known bugs: bugreport.md
   - Why is it fun to play: fun.md
   - Support: support.md
