@@ -2844,9 +2844,9 @@ Larzuk's Gimlet + 2H weapon -> 2H Weapon with 1-4 Sockets	1			100					2	"weap,no
 Larzuk's Gimlet + Torso -> 1-2 Sockets	1			100					2	"tors,nos"	"lzg,qty=1"						useitem			50	sock	100		1	2																																																																															0
 ESSENCE RECIPES	0																																																																																																							0
 ESSENCE EXTRACTION RECIPES	0																																																																																																							0
-Normal Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"any,set"	oex						nce	50	100																																																																																					0
-Exceptional Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"any,set"	oex						ece	50	100																																																																																					0
-Elite Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"any,set"	oex						lce	50	100																																																																																					0
+Normal Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"any,set,bas"	oex						nce	50	100																																																																																					0
+Exceptional Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"any,set,exc"	oex						ece	50	100																																																																																					0
+Elite Set Item + Orb of Extraction -> Extract Compound Essence	1			100					2	"any,set,eli"	oex						lce	50	100																																																																																					0
 Normal Unique + Orb of Extraction -> Extract Normal Essence	1			100					2	"any,uni,bas"	oex						nue	50	100																																																																																					0
 Exceptional Unique + Orb of Extraction -> Extract Exceptional Essence	1			100					2	"any,uni,exc"	oex						eue	50	100																																																																																					0
 Elite Unique + Orb of Extraction -> Extract Elite Essence	1			100					2	"any,uni,eli"	oex						lue	50	100																																																																																					0
