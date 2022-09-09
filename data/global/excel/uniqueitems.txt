@@ -130,7 +130,7 @@ KhalimFlail	127	0	1		1	1	0	0	qf1	Flail		5	5000	dblu							ltng-min		1	1	ltng-max
 SuperKhalimFlail	128	0	1		1	1	0	0	qf2	Flail		5	5000	dblu							ltng-min		1	1	ltng-max		40	40	swing3		50	50	att		40	40	manasteal		6	6	lifesteal		6	6			0	0																	splash	370	100	1		0
 Expansion																																																																						0
 Coldkill	129	100	1		1	1	44	36	9ha	Hatchet		5	5000	cblu	cblu		invhaxu				dmg-cold	50	160	240	res-cold		15	15	res-cold-max		15	15	swing3		30	30	hit-skill	45	10	18	gethit-skill	44	10	5	dmg%		150	190																	splash	370	100	1		0
-Butcher's Pupil	130	100	1		1	1	47	39	9ax	Cleaver		5	5000	cblu	cblu		invaxeu				deadly		35	35	openwounds		25	25	dmg%		150	200	rep-dur	20			swing3		30	30	dmg-norm		30	50																					splash	370	100	1		0
+Butcher's Pupil	130	100	1		1	1	47	39	9ax	Cleaver		5	5000	cblu	cblu		invaxeu				deadly		35	35	openwounds		25	25	dmg%		150	200	rep-dur	10			swing3		30	30	dmg-norm		30	50																					splash	370	100	1		0
 Islestrike	131	100	1		1	1	51	43	92a	Twin Axe		5	5000								dru		2	2	str		10	10	dex		10	10	vit		10	10	enr		10	10	swing3		50	50	crush		25	25	dmg%		170	190	skill	233	3	4	skill	248	3	4					splash	370	100	1		0
 Pompe's Wrath	132	100	1		1	1	53	45	9mp	Crowbill		5	5000	cred	cred		invmpiu				hit-skill	229	8	22	slow		10	10	dmg-fire		70	185	dmg%		170	200	swing2		20	20																									splash	370	100	1		0
 Guardian Naga	133	100	1		1	1	56	48	9wa	Naga		5	5000								hit-skill	92	5	14	thorns		75	150	res-pois		30	30	dmg%		150	180	dmg-pois	50	1280	1280	dmg-max		20	20																					splash	370	100	1		0
