@@ -6122,7 +6122,7 @@
   {
     "id": 40537,
     "Key": "StrEssDesc",
-    "enUS": "Cube with a ÿc8Orb of Extraction ÿc0to extract 5 Essences into an Essence Charge",
+    "enUS": "ÿc0extract 5 Essences into an Essence Charge\nCube with a ÿc8Orb of Extraction ÿc0to\n",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6173,7 +6173,7 @@
   {
     "id": 40540,
     "Key": "StrOrbDivDesc",
-    "enUS": "Cube with Normal, Exceptional and Elite Essences to reroll ÿc4Unique ÿc0and ÿc2Set ÿc0items", 
+    "enUS": "to reroll ÿc4Unique ÿc0and ÿc2Set ÿc0items\nÿc0Cube with Normal, Exceptional and Elite Essences", 
     "zhTW": "",
     "deDE": "",
     "esES": "",
