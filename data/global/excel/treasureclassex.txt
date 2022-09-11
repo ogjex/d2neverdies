@@ -1,4 +1,4 @@
-Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	*ItemProbSum	*ItemProbTotal	*TreasureClassDropChance	*eol
+mffe	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	*ItemProbSum	*ItemProbTotal	*TreasureClassDropChance	*eol
 Gold			1						gld	1																						0
 Jewelry A			1						rin	16	amu	8	jew	4	c80	2																0
 Jewelry B			1						rin	16	amu	8	jew	4	c80	2																0
@@ -33,12 +33,12 @@ Potion 2			1						hp5	24	mp5	12	rvs	8	rvl	2																0
 Runes 1			1						s01	3	s02	3	s03	2	s04	2																0
 Runes 2			1						s05	3	s06	3	s07	2	s08	2	Runes 1	24														0
 Runes 3			1						s09	3	s10	3	s11	2	s12	2	Runes 2	50														0
-Runes 4			1						s13	3	s14	3	s15	2	s16	2	Runes 3	150														0
-Runes 5			1						s17	3	s18	3	s19	2	s20	2	Runes 4	200														0
-Runes 6			1						s21	3	s22	3	s23	2	s24	2	Runes 5	250														0
-Runes 7			1						s25	3	s26	3	s27	2	s28	2	Runes 6	300	lzg	1												0
-Runes 8			1						s29	3	s30	3	s31	2	s32	2	Runes 7	350														0
-Runes 9			1						s33	1	Runes 8	600																				0
+Runes 4			1						s13	3	s14	3	s15	2	s16	2	Runes 3	100														0
+Runes 5			1						s17	3	s18	3	s19	2	s20	2	Runes 4	150														0
+Runes 6			1						s21	3	s22	3	s23	2	s24	2	Runes 5	200														0
+Runes 7			1						s25	3	s26	3	s27	2	s28	2	Runes 6	250	lzg	1												0
+Runes 8			1						s29	3	s30	3	s31	2	s32	2	Runes 7	300														0
+Runes 9			1						s33	1	Runes 8	400																				0
 Token			1						soa	1																						0
 Junk			1						Potion 0	30	Misc 0	18	Ammo	18																		0
 Junk (N)			1						Potion 1	30	Misc 0	18	Ammo	18																		0
