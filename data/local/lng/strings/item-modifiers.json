@@ -6018,7 +6018,7 @@
     "zhCN": ""
   },
   {
-    "id": 40531,
+    "id": 40532,
     "Key": "StrStackDesc",
     "enUS": "See detailed recipes in unstacked version\nTransmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6035,7 +6035,7 @@
     "zhCN": ""
   }, 
   {
-    "id": 40532,
+    "id": 40533,
     "Key": "StrBidDesc",
     "enUS": "Cube with ÿc4Valor Charm ÿc0to infuse",
     "zhTW": "",
@@ -6052,7 +6052,7 @@
     "zhCN": ""
   },
   {
-    "id": 40533,
+    "id": 40534,
     "Key": "StrBidSkillDesc",
     "enUS": "ÿc3P. Sapphire ÿc0= Sorceress +1 Skill Tab \n ÿc;P. Amethyst ÿc0= Paladin +1 Skill Tab \n ÿc5P. Skull ÿc0= Necromancer +1 Skill Tab \n ÿc2P. Emerald ÿc0= Druid +1 Skill Tab \n ÿc1P. Ruby ÿc0= Barbarian +1 Skill Tab \n ÿc0P. Diamond ÿc0= Assassin +1 Skill Tab \n ÿc9P. Topaz ÿc0= Amazon +1 Skill Tab \n ÿc0Cube to transmute into:",
     "zhTW": "",
@@ -6069,7 +6069,7 @@
     "zhCN": ""
   },
   {
-    "id": 40534,
+    "id": 40535,
     "Key": "StrGlyphDesc",
     "enUS": "ÿc120% Chance ÿc0to Brick Item \n ÿc3P. Sapphire ÿc0= Caster Corruptions\n ÿc1P. Ruby ÿc0= Combat Corruptions \n Cube with Any Item to add random Corruption: \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6086,7 +6086,7 @@
     "zhCN": ""
   },
   {
-    "id": 40535,
+    "id": 40536,
     "Key": "StrGimletDesc",
     "enUS": "ÿc7Torso > +1-2 Sockets\n2H Wep > +1-4 Sockets\n1H Wep > +1-2 Sockets \n ÿc0Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6103,7 +6103,7 @@
     "zhCN": ""
   },
   {
-    "id": 40536,
+    "id": 40537,
     "Key": "StrValorDesc",
     "enUS": "ÿc3P. Sapphire ÿc0= Sorceress' Valor \n ÿc;P. Amethyst ÿc0= Paladin's Valor \n ÿc5P. Skull ÿc0= Necromancer's Valor \n ÿc2P. Emerald ÿc0= Druid's Valor \n ÿc1P. Ruby ÿc0= Barbarian's Valor \n ÿc0P. Diamond ÿc0= Assassin's Valor \n ÿc9P. Topaz ÿc0= Amazon's Valor \n ÿc0Cube to transmute into:",
     "zhTW": "",
@@ -6120,9 +6120,9 @@
     "zhCN": ""
   },
   {
-    "id": 40537,
+    "id": 40538,
     "Key": "StrEssDesc",
-    "enUS": "ÿc0extract 5 Essences into an Essence Charge\nCube with a ÿc8Orb of Extraction ÿc0to\n",
+    "enUS": "ÿc0extract 5 Essences into an Essence Charge\nCube with a ÿc8Orb of Extraction ÿc0to",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6137,7 +6137,7 @@
     "zhCN": ""
   },
   {
-    "id": 40538,
+    "id": 40539,
     "Key": "StrOrbCombDesc",
     "enUS": "ÿc0Cube with ÿc4Unique ÿc0and ÿc2Compound Essence Charges ÿc0+ an uncorrupted ÿc9Rare item ÿc0to build new ÿc2Set items",
     "zhTW": "",
@@ -6154,7 +6154,7 @@
     "zhCN": ""
   },
   {
-    "id": 40539,
+    "id": 40540,
     "Key": "StrOrbExtDesc",
     "enUS": "Cube with ÿc4Unique ÿc0and ÿc2Set ÿc0items to extract Essence Cubes",
     "zhTW": "",
@@ -6171,7 +6171,7 @@
     "zhCN": ""
   },
   {
-    "id": 40540,
+    "id": 40541,
     "Key": "StrOrbDivDesc",
     "enUS": "to reroll ÿc4Unique ÿc0and ÿc2Set ÿc0items\nÿc0Cube with Normal, Exceptional and Elite Essences", 
     "zhTW": "",
@@ -6188,7 +6188,7 @@
     "zhCN": ""
   },
   {
-    "id": 40541,
+    "id": 40542,
     "Key": "StrFragDesc",
     "enUS": "Used in Crafting Recipes\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6205,7 +6205,7 @@
     "zhCN": ""
   },
   {
-    "id": 40542,
+    "id": 40543,
     "Key": "StrJewelDesc",
     "enUS": "Cube to make a stackable ÿc8Jewel Fragment ÿc0for crafting",
     "zhTW": "",
@@ -6222,7 +6222,7 @@
     "zhCN": ""
   },
   {
-    "id": 40543,
+    "id": 40544,
     "Key": "StrChaNorSetDesc",
     "enUS": "ÿc0\n 1 x ÿc8Orb of Combination ÿc0+ 2 x ÿc2Compound Normal Essence Charges ÿc0= new Normal ÿc2Set item ÿc0\n 1 x ÿc8Orb of Divination ÿc0+ 1 x ÿc2Compound Normal Essence Charges ÿc0= reroll Normal ÿc2Set itemÿc0",
     "zhTW": "",
@@ -6239,7 +6239,7 @@
     "zhCN": ""
   },
   {
-    "id": 40544,
+    "id": 40545,
     "Key": "StrChaExcSetDesc",
     "enUS": "ÿc0\n 1 x ÿc8Orb of Combination ÿc0+ 1 x ÿc2Compound Exceptional Essence Charges ÿc0= new Exceptional ÿc2Set item ÿc0\n 1 x ÿc8Orb of Divination ÿc0+ 1 x ÿc2Compound Exceptional Essence Charges ÿc0= reroll Exceptional ÿc2Set itemÿc0",
     "zhTW": "",
@@ -6256,7 +6256,7 @@
     "zhCN": ""
   },
   {
-    "id": 40545,
+    "id": 40546,
     "Key": "StrChaEliSetDesc",
     "enUS": "ÿc0\n 1 x ÿc8Orb of Combination ÿc0+ 1 x ÿc2Compound Elite Essence Charges ÿc0= new Elite ÿc2Set item ÿc0\n 1 x ÿc8Orb of Divination ÿc0+ 1 x ÿc2Compound Elite Essence Charges ÿc0= reroll Elite ÿc2Set itemÿc0",
     "zhTW": "",
@@ -6273,7 +6273,7 @@
     "zhCN": ""
   },
   {
-    "id": 40546,
+    "id": 40547,
     "Key": "StrChaNorUniDesc",
     "enUS": "ÿc0\n 1 x ÿc8Orb of Combination ÿc0+ 2 x ÿc4Unique Normal Essence Charges ÿc0= new Normal ÿc4Unique itemÿc0\n 1 x ÿc8Orb of Divination ÿc0+ 1 x ÿc4Unique Normal Essence Charges ÿc0= reroll Normal ÿc4Unique itemÿc0",
     "zhTW": "",
@@ -6290,7 +6290,7 @@
     "zhCN": ""
   },
   {
-    "id": 40547,
+    "id": 40548,
     "Key": "StrChaExcUniDesc",
     "enUS": "ÿc0\n 1 x ÿc8Orb of Combination ÿc0+ 1 x ÿc4Unique Exceptional Essence Charges ÿc0= new Exceptional ÿc4Unique itemÿc0\n 1 x ÿc8Orb of Divination ÿc0+ 1 x ÿc4Unique Exceptional Essence Charges ÿc0= reroll Exceptional ÿc4Unique itemÿc0",
     "zhTW": "",
@@ -6307,7 +6307,7 @@
     "zhCN": ""
   },
   {
-    "id": 40548,
+    "id": 40549,
     "Key": "StrChaEliUniDesc",
     "enUS": "ÿc0\n 1 x ÿc8Orb of Combination ÿc0+ 1 x ÿc4Unique Elite Essence Charges ÿc0= new Elite ÿc4Unique itemÿc0\n 1 x ÿc8Orb of Divination ÿc0+ 1 x ÿc4Unique Elite Essence Charges ÿc0= reroll Elite ÿc4Unique itemÿc0",
     "zhTW": "",
