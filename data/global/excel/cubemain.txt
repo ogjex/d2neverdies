@@ -3152,8 +3152,8 @@ Exceptional Unique Weapon: Rare Weapon + Exceptional Unique Charge + Orb of Comb
 Exceptional Unique Armor: Rare Armor + Exceptional Unique Charge + Orb of Combination	1			100	16	361	0		3	"armo,rar,exc"	euc	ooc					"usetype,uni"	200	200	200																																																																																				0
 Elite Unique Weapon: Rare Weapon + Elite Unique Charge + Orb of Combination	1			100	16	361	0		3	"weap,rar,eli"	luc	ooc					"usetype,uni"	200	200	200																																																																																				0
 Elite Unique Armor: Rare Armor + Unique Elite Charge + Orb of Combination	1			100	16	361	0		3	"armo,rar,eli"	luc	ooc					"usetype,uni"	200	200	200																																																																																				0
-Unique Ring: Rare Ring + Exceptional Unique Charge + Orb of Combination	1			100	16	361	0		3	"ring,rar"	euc	ooc					"usetype,uni"	200	200	200																																																																																				0
-Unique Amulet: Rare Amulet + Exceptional Unique Charge + Orb of Combination	1			100	16	361	0		3	"amul,rar"	euc	ooc					"usetype,uni"	200	200	200																																																																																				0
+Unique Ring: Rare Ring + Elite Unique Charge + Orb of Combination	1			100	16	361	0		3	"ring,rar"	luc	ooc					"usetype,uni"	200	200	200																																																																																				0
+Unique Amulet: Rare Amulet + Elite Unique Charge + Orb of Combination	1			100	16	361	0		3	"amul,rar"	luc	ooc					"usetype,uni"	200	200	200																																																																																				0
 SET REROLL	0																																																																																																							0
 JEWELRY	0																																																																																																							0
 1  Exceptional Compound Charge + Orb of Divination + Set Ring	1			100					3	"ring,set"	ecc	ood					"usetype,set"		99	99																										ood																																																										0
