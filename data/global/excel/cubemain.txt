@@ -3156,30 +3156,30 @@ Unique Ring: Rare Ring + Elite Unique Charge + Orb of Combination	1			100	16	361
 Unique Amulet: Rare Amulet + Elite Unique Charge + Orb of Combination	1			100	16	361	0		3	"amul,rar"	luc	ooc					"usetype,uni"	200	200	200																																																																																				0
 SET REROLL	0																																																																																																							0
 JEWELRY	0																																																																																																							0
-1  Exceptional Compound Charge + Orb of Divination + Set Ring	1			100					3	"ring,set"	ecc	ood					"usetype,set"		99	99																										ood																																																										0
-1  Exceptional Compound Charge + Orb of Divination + Set Amulet	1			100					3	"amul,set"	ecc	ood					"usetype,set"		99	99																										ood																																																										0
+1  Exceptional Compound Charge + Orb of Divination + Set Ring	1			100					3	"ring,set"	ecc	ood					"usetype,set"		99	99																																																																																				0
+1  Exceptional Compound Charge + Orb of Divination + Set Amulet	1			100					3	"amul,set"	ecc	ood					"usetype,set"		99	99																																																																																				0
 NORMAL SET	0																																																																																																							0
-1  Normal Compound Charge + Orb of Divination + Set Armor	1			100					3	"armo,bas,set"	ncc	ood					"usetype,set"		99	99																										ood																																																										0
-1  Normal Compound Charge + Orb of Divination + Set Weapon	1			100					3	"weap,bas,set"	ncc	ood					"usetype,set"		99	99																										ood																																																										0
+1  Normal Compound Charge + Orb of Divination + Set Armor	1			100					3	"armo,bas,set"	ncc	ood					"usetype,set"		99	99																																																																																				0
+1  Normal Compound Charge + Orb of Divination + Set Weapon	1			100					3	"weap,bas,set"	ncc	ood					"usetype,set"		99	99																																																																																				0
 EXCEPTIONAL SET	0																																																																																																							0
-1  Exceptional Compound Charge + Orb of Divination + Set Armor	1			100					3	"armo,exc,set"	ecc	ood					"usetype,set"		99	99																										ood																																																										0
-1  Exceptional Compound Charge + Orb of Divination + Set Weapon	1			100					3	"weap,exc,set"	ecc	ood					"usetype,set"		99	99																										ood																																																										0
+1  Exceptional Compound Charge + Orb of Divination + Set Armor	1			100					3	"armo,exc,set"	ecc	ood					"usetype,set"		99	99																																																																																				0
+1  Exceptional Compound Charge + Orb of Divination + Set Weapon	1			100					3	"weap,exc,set"	ecc	ood					"usetype,set"		99	99																																																																																				0
 ELITE SET	0																																																																																																							0
-1  Elite Compound Charge + Orb of Divination + Set Armor	1			100					3	"armo,eli,set"	lcc	ood					"usetype,set"		99	99																										ood																																																										0
-1  Elite Compound Charge + Orb of Divination + Set Weapon	1			100					3	"weap,eli,set"	lcc	ood					"usetype,set"		99	99																										ood																																																										0
+1  Elite Compound Charge + Orb of Divination + Set Armor	1			100					3	"armo,eli,set"	lcc	ood					"usetype,set"		99	99																																																																																				0
+1  Elite Compound Charge + Orb of Divination + Set Weapon	1			100					3	"weap,eli,set"	lcc	ood					"usetype,set"		99	99																																																																																				0
 UNIQUE REROLL	0																																																																																																							0
 JEWELRY	0																																																																																																							0
-1  Exceptional Unique Charge + Orb of Divination + Unique Ring	1			100					3	"ring,uni"	euc	ood					"usetype,uni"		99	99																										ood																																																										0
-1  Exceptional Unique Charge + Orb of Divination + Unique Amulet	1			100					3	"amul,uni"	euc	ood					"usetype,uni"		99	99																										ood																																																										0
+1  Exceptional Unique Charge + Orb of Divination + Unique Ring	1			100					3	"ring,uni"	euc	ood					"usetype,uni"		99	99																																																																																				0
+1  Exceptional Unique Charge + Orb of Divination + Unique Amulet	1			100					3	"amul,uni"	euc	ood					"usetype,uni"		99	99																																																																																				0
 NORMAL UNIQUE	0																																																																																																							0
-1  Normal Unique Charge + Orb of Divination + Unique Armor	1			100					3	"armo,bas,uni"	nuc	ood					"usetype,uni"		99	99																										ood																																																										0
-1  Normal Unique Charge + Orb of Divination + Unique Weapon	1			100					3	"weap,bas,uni"	nuc	ood					"usetype,uni"		99	99																										ood																																																										0
+1  Normal Unique Charge + Orb of Divination + Unique Armor	1			100					3	"armo,bas,uni"	nuc	ood					"usetype,uni"		99	99																																																																																				0
+1  Normal Unique Charge + Orb of Divination + Unique Weapon	1			100					3	"weap,bas,uni"	nuc	ood					"usetype,uni"		99	99																																																																																				0
 EXCEPTIONAL UNIQUE	0																																																																																																							0
-1  Exceptional Unique Charge + Orb of Divination + Unique Armor	1			100					3	"armo,exc,uni"	euc	ood					"usetype,uni"		99	99																										ood																																																										0
-1  Exceptional Unique Charge + Orb of Divination + Unique Weapon	1			100					3	"weap,exc,uni"	euc	ood					"usetype,uni"		99	99																										ood																																																										0
+1  Exceptional Unique Charge + Orb of Divination + Unique Armor	1			100					3	"armo,exc,uni"	euc	ood					"usetype,uni"		99	99																																																																																				0
+1  Exceptional Unique Charge + Orb of Divination + Unique Weapon	1			100					3	"weap,exc,uni"	euc	ood					"usetype,uni"		99	99																																																																																				0
 ELITE UNIQUE	0																																																																																																							0
-1  Elite Unique Charge + Orb of Divination + Unique Armor	1			100					3	"armo,eli,uni"	luc	ood					"usetype,uni"		99	99																										ood																																																										0
-1  Elite Unique Charge + Orb of Divination + Unique Weapon	1			100					3	"weap,eli,uni"	luc	ood					"usetype,uni"		99	99																										ood																																																										0
+1  Elite Unique Charge + Orb of Divination + Unique Armor	1			100					3	"armo,eli,uni"	luc	ood					"usetype,uni"		99	99																																																																																				0
+1  Elite Unique Charge + Orb of Divination + Unique Weapon	1			100					3	"weap,eli,uni"	luc	ood					"usetype,uni"		99	99																																																																																				0
 CORRUPTIONS	0																																																																																																							0
 WEAPONS - NORMAL 	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"weap,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
