@@ -279,3 +279,4 @@ noconsume	1	1	item_noconsume																											+# to not Consume Quantit
 infusion	1	1	item_isinfused																																0
 infusion-cost	1	1	item_infuse_cost																																0
 lvl-cost	1	1	item_lvl_cost																																0
+forged	1	1	item_isforged																																0
