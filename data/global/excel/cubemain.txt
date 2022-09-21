@@ -4157,7 +4157,7 @@ hp1 -> test item 1	1			100					1	hp1							nuc	200	200	200																						
 hp2 -> test item 2	1			100					1	hp2							"hax,uni"	200	200	200																										hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							ood	200	200	200																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							ooc	200	200	200																										hp4																																																										0
-hp5-> test item 5	1			100					1	hp5							gpr	200	200	200	sock	100	2	2																						hp5																																																										0
+hp5-> test item 5	1			100					1	hp5							"hax,rar"	200	200	200	sock	100	2	2																						hp5																																																										0
 mp1 -> test item 6	1			100					2	"weap,any"	mp1						useitem	200	200	200	splash	100	370	100	1																					mp1																																																										0
 mp2 -> test item 7	1			100					1	mp2							"uhg,uni"	200	200	200																										mp2																																																										0
 mp3 -> test item 8	1			100					1	mp3							ac8	200	200	200																										mp3																																																										0
