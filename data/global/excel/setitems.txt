@@ -36,7 +36,7 @@ Tancred's Weird	33	Tancred's Battlegear	amu	Amulet	7	27	20	dgld	dgld						5	2500
 Tancred's Skull	34	Tancred's Battlegear	bhm	Bone Helm	7	27	20	dgld	dgld						5	2500	2	dmg%		20	30	att		80	80																													res-all		10	10																																						0
 Sigon's Gage	35	Sigon's Complete Steel	hgl	Gauntlets	7	9	6	whit	whit						5	2500	2	str		10	10	att		20	20																													swing3		30	30																																						0
 Sigon's Visor	36	Sigon's Complete Steel	ghm	Great Helm	7	9	6	whit	whit						5	2500	2	mana		30	30	ac		25	25																													att/lvl	16																																								0
-Sigon's Shelter	37	Sigon's Complete Steel	gth	Gothic Plate	7	9	6	whit	whit						5	2500	2	ac%		25	25	res-ltng		30	30																													thorns		200	200																																						0
+Sigon's Shelter	37	Sigon's Complete Steel	gth	Gothic Plate	7	9	6	whit	whit						5	2500	2	ac%		25	25	res-ltng		30	30																													thorns/lvl	32																																								0
 Sigon's Sabot	38	Sigon's Complete Steel	hbt	Greaves	7	9	6	whit	whit						5	2500	2	move2		20	20	res-cold		40	40																													att		50	50					mag%		50	50																														0
 Sigon's Wrap	39	Sigon's Complete Steel	hbl	Plated Belt	7	9	6	whit	whit						5	2500	2	res-fire		20	20	hp		20	20																													ac/lvl	16																																								0
 Sigon's Guard	40	Sigon's Complete Steel	tow	Tower Shield	7	9	6	whit	whit						5	2500	2	allskills		1	1	block		20	20	res-cold		30	30																																																																		0
