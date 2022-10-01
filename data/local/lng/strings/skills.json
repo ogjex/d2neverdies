@@ -35735,7 +35735,7 @@
     "zhCN": "%s: 每等级几率 %+d%%"
   },
   {
-    "id": 28003,
+    "id": 100001,
     "Key": "StrFasterHitRec",
     "enUS": "%+d%% Faster Hit Recovery",
     "zhTW": "",
@@ -35752,7 +35752,7 @@
     "zhCN": ""
   },
   {
-    "id": 28004,
+    "id": 100002,
     "Key": "AOEDamplev",
     "enUS": "%s: %+d%% Area Attack Damage per Level",
     "zhTW": "",
@@ -35767,5 +35767,5 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": ""
-  },
+  }
 ]
