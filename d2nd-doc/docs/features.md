@@ -30,9 +30,9 @@
 
 ![Reroll Example 2](./d2-nd-reroll_set.png)
 
-# Building set and unique items:
+# Forging set and unique items:
 
-- Use new Orbs of Combination with Essences to build new unique and set items 
+- Use new Orbs of Combination with Essences to forge new unique and set items. The items will be denoted "Forged by Hand" and have slightly penalized attributes. Very useful if you want to try out a build or just want to get started. 
 
 ![Building Example 1_1](./d2-nd-building1_1.png)
 

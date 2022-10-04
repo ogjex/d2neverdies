@@ -1,6 +1,8 @@
 site_name: Diablo 2 Never Dies
 site_url: https://diablo2neverdies.com/
 theme: windmill-dark
+extra:
+  logo: assets/D2ND_icon.png
 nav:
   - Home: index.md
   - Full change log: changelog.md

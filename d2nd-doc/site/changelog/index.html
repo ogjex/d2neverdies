@@ -114,7 +114,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <ul>
 <li>Added corruption recipes</li>
 <li>Added 2 new crafting types and updated old crafting recipes</li>
-<li>Added set and unique rerolling and building </li>
+<li>Added set and unique rerolling and forging </li>
 </ul>
 <h1 id="areas">Areas</h1>
 <ul>
@@ -196,7 +196,10 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Added more item slots to mercenaries</li>
 <li>Added more weapon viability for mercs:<ul>
 <li>act 1 merc can now use bows and xbows</li>
+<li>act 1 merc now never fires normal arrows but always skills</li>
+<li>act 2 merc is now considered a paladin and benefits from +pala skills</li>
 <li>act 3 merc can now use orbs, wands, scepters and swords</li>
+<li>act 3 merc is now considered a Sorc and benefits from +sorc skills</li>
 <li>act 5 mercs can now use hammers, axes and mauls as well as swords</li>
 </ul>
 </li>
@@ -214,7 +217,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Poison Javelin: added poison pierce, poison duration set to 2 seconds</li>
 <li>Impale: unchanged</li>
 <li>Power Strike: unchanged</li>
-<li>Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage, always pierces target</li>
+<li>Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage</li>
 <li>Fend: reduced strikes to 3</li>
 <li>Charged Strike: removed dependency to lightning bolt</li>
 <li>Plague Javelin: removed delay, poison duration set to 2 seconds</li>
@@ -364,7 +367,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 </div>
 
 <footer class="col-md-12 wm-page-content">
-  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="">Windmill Dark</a> theme by None (noraj).</p>
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="None">Windmill Dark</a> theme by None (noraj).</p>
 </footer>
 
 </body>

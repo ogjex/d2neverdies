@@ -1,7 +1,7 @@
 # Recipes
 - Added corruption recipes
 - Added 2 new crafting types and updated old crafting recipes
-- Added set and unique rerolling and building 
+- Added set and unique rerolling and forging 
 
 # Areas
 
@@ -76,10 +76,15 @@
 - Increased inventory and horadric cube sizes
 - Added more item slots to mercenaries
 - Added more weapon viability for mercs:
-	- act 1 merc can now use bows and xbows
+	- act 1 merc can now use bows and xbows, and quivers
+    - act 1 merc now never fires normal arrows but always skills
+    - act 2 merc is now considered a paladin and benefits from +pala skills
 	- act 3 merc can now use orbs, wands, scepters and swords
+    - act 3 merc is now considered a Sorc and benefits from +sorc skills
 	- act 5 mercs can now use hammers, axes and mauls as well as swords
 - Added Stacking to gems, runes, and most misc items
+- All stacks pop off a non-stacked item
+- Stacks of 50 runes can be upgraded to a stack of 13 next tier runes
 - Added Jewel Fragments that can be cubed from regular Jewels (and stacked!)
 - Added Descriptions to all items to help with crafting, corruptions, and more!
 - Removed useless shrines: stamina, exploding, poison
@@ -93,7 +98,7 @@
 - Poison Javelin: added poison pierce, poison duration set to 2 seconds
 - Impale: unchanged
 - Power Strike: unchanged
-- Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage, always pierces target
+- Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage
 - Fend: reduced strikes to 3
 - Charged Strike: removed dependency to lightning bolt
 - Plague Javelin: removed delay, poison duration set to 2 seconds
