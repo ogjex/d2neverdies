@@ -1,7 +1,7 @@
 # Recipes
 - Added corruption recipes
 - Added 2 new crafting types and updated old crafting recipes
-- Added set and unique rerolling and building 
+- Added set and unique rerolling and forging 
 
 # Areas
 
@@ -93,7 +93,7 @@
 - Poison Javelin: added poison pierce, poison duration set to 2 seconds
 - Impale: unchanged
 - Power Strike: unchanged
-- Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage, always pierces target
+- Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage
 - Fend: reduced strikes to 3
 - Charged Strike: removed dependency to lightning bolt
 - Plague Javelin: removed delay, poison duration set to 2 seconds
