@@ -76,13 +76,15 @@
 - Increased inventory and horadric cube sizes
 - Added more item slots to mercenaries
 - Added more weapon viability for mercs:
-	- act 1 merc can now use bows and xbows
+	- act 1 merc can now use bows and xbows, and quivers
     - act 1 merc now never fires normal arrows but always skills
     - act 2 merc is now considered a paladin and benefits from +pala skills
 	- act 3 merc can now use orbs, wands, scepters and swords
     - act 3 merc is now considered a Sorc and benefits from +sorc skills
 	- act 5 mercs can now use hammers, axes and mauls as well as swords
 - Added Stacking to gems, runes, and most misc items
+- All stacks pop off a non-stacked item
+- Stacks of 50 runes can be upgraded to a stack of 13 next tier runes
 - Added Jewel Fragments that can be cubed from regular Jewels (and stacked!)
 - Added Descriptions to all items to help with crafting, corruptions, and more!
 - Removed useless shrines: stamina, exploding, poison
