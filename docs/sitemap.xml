@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://diablo2neverdies.com/bugreport/</loc>
+         <lastmod>2022-10-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://diablo2neverdies.com/changelog/</loc>
          <lastmod>2022-10-06</lastmod>
          <changefreq>daily</changefreq>
@@ -22,11 +27,6 @@
     </url>
     <url>
          <loc>https://diablo2neverdies.com/features/</loc>
-         <lastmod>2022-10-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://diablo2neverdies.com/fun/</loc>
          <lastmod>2022-10-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
