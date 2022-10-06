@@ -1,7 +1,6 @@
-# Welcome to D2 Never Dies Mod (d2nd)
+# Welcome to D2 Never Dies Mod (D2ND)
 A Diablo II Resurrected Mod
-![d2 never dies](./d2-nd-007.jpg)  
-[Theme song](https://www.youtube.com/watch?v=rwDUWnOVf0c)
+![d2 never dies](assets/d2-nd-007.jpg)
 
 The purpose of this mod is to provide sorely needed Quality of Life changes to Diablo 2 Ressurected, and providing a joyful Single Player experience for the casual gamer with only 3-6 hours of game time available during the week.
 
