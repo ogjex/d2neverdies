@@ -27,6 +27,14 @@ MAGIC JEWELRY CRAFTING	0																																																								
 1 Magic Shield + 1 Spiked Club + 2 Perfect Skulls -> Magic Shield of Spikes	1			0					4	"shld,mag"	"skz,qty=2"	spc					"usetype,mag,suf=162"	30		60																																																																																				0
 4 Healing Potions (Any) + 1 Perfect Ruby + 1 Magic Sword -> Sword of the Leech	1			0					6	"swor,mag"	gpr	"hpot,qty=4"					"usetype,mag,suf=352"	30		60																																																																																				0
 1 Perfect Diamond + 1 Kris + 1 Staff + 1 Belt -> Savage Polearm	1			0					4	kri	gpw	staf	belt				"pole,mag,pre=191"	50		60																																																																																				0
+FLAWLESS SWITCH																																																																																																								0
+Personal --> Ama valor	1			100					1	gzv							gly																													gpy																																																										0
+Personal --> Ass valor	1			100					1	gly							glb																													gpw																																																										0
+Personal --> Barb valor	1			100					1	glb							glg																													gpr																																																										0
+Personal --> Dru valor	1			100					1	glg							glr																													gpg																																																										0
+Personal --> Nec valor	1			100					1	glr							glw																													skz																																																										0
+Personal --> Pal valor	1			100					1	glw							skl																													gpv																																																										0
+Personal --> Sorc valor	1			100					1	skl							gzv																													gpb																																																										0
 REROLL MAGIC	0																																																																																																							0
 3 Magic Rings -> Magic Amulet	1			0					3	"rin,mag,qty=3"							"amu,mag"		75																																																																																					0
 3 Magic Amulets -> Magic Ring	1			0					3	"amu,mag,qty=3"							"rin,mag"		75																																																																																					0
