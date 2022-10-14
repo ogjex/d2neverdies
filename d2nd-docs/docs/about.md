@@ -1,4 +1,4 @@
-# Developed by:
+# Developed by
 
 OGJeX (Discord: JeX#1706)
 

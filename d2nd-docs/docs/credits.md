@@ -1,4 +1,4 @@
-# Credits:
+# Credits
 
 Big thanks to the Phrozen Keep community! 
 
@@ -18,7 +18,7 @@ Credits:
 Credits: [the South Korean graphics mods]
 
 ## Red Portals
-Enabled in D2R by text edits to Cubemain.txt  
+Do be enabled in D2R by text edits to Cubemain.txt  
 Credits: Eezstreet on D2R Modding discord
 
 ## Mercenary Equip

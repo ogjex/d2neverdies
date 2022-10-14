@@ -15,7 +15,7 @@
 	- Claw viper temple level 2
 	- Maggot Lair lvl 1 and 2
 
-# Monsters:
+# Monsters
 
 - Mephisto is now flying (no more moat trick)
 - Undead skeletons now leech a little bit 
@@ -24,7 +24,7 @@
 - From BTDiablo mod:
     - Increased monster reaction times in Hell
     - 2x Aura Range
-    - Removed: Holy Fire, Holy Shock, Blessed Aim
+    - Removed: Holy Fire, Holy Shock
     - Added Vigor, Concentration, Higher chance for Fanatacism
     - Multishot much more common
     - Aura Enchanted more common 
@@ -34,8 +34,7 @@
     - Ismail Vilehand is now Always Aura Enchanted (Travincal)
     - Bremm Sparkfist is now always Cursed (Durance of Hate Level 3)
 
-# Runewords:
-
+# Runewords
 - Updated all Runewords to create better balance
 - Buffed starter runewords: Steel, Strength, Nadir, Edge, Zephyr with enhanced damage, pierce, crushing blow etc.
 - Delirium: removed ctc delirium
@@ -93,9 +92,9 @@
 - Battle cry is no longer a curse and can be applied simultaneously with curses and other progs
 - All delays on offensive skills have been removed 
 
-# Amazon Skill changes:
+# Amazon Skill changes
 
-## Javelin and spear skills:
+## Javelin and spear skills
 - Jab: unchanged
 - Poison Javelin: added poison pierce, poison duration set to 2 seconds
 - Impale: unchanged
@@ -107,7 +106,7 @@
 - Lightning Strike: unchanged
 - Lightning Fury: set base number of bolts to 11
 
-## Passive and magic skills:
+## Passive and magic skills
 - Inner Sight:  unchanged
 - Critical Strike: unchanged 
 - Evade: added faster run walk
@@ -119,7 +118,7 @@
 - Penetrate: added minus monster defense [per 10 base levels]
 - Valkyrie: rmoved dependency to evade, added additional Valkyries per 10 base levels 
 
-## Bow and Crossbow:
+## Bow and Crossbow
 - Magic Arrow: added additional arrows based on base level, magic arrow now takes 50% conversion from physical from base level 1
 - Multiple Shot: unchanged 
 - Fire Arrow: buffed fire damage, velocity increased, always pierces target, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage
@@ -146,7 +145,7 @@
 - Blades of Ice: increased damage
 - Phoenix Strike: removed dependency to Cobra Strike
 
-## Shadow Disciplines:
+## Shadow Disciplines
 
 - Claw Mastery: renamed to Claw and Dagger Mastery, added Daggers and Throwing Knifes to bonus 
 - Psychic Hammer: unchanged
@@ -174,7 +173,7 @@
 
 # Barbarian skill changes
 
-## Warcries:
+## Warcries
 
 - Howl: unchanged 
 - Find Potion: unchanged 
@@ -187,7 +186,7 @@
 - Battle Command: set to fixed duration of 300 seconds, added damage multiplier, added +3 skills at base level 20
 - Battle Cry: added damage to monsters to reduce immunities 
 
-## Masteries:
+## Masteries
 
 - Blade Mastery: added inceased attack speed
 - Axe Mastery: added demon damage, Open Wounds
@@ -200,7 +199,7 @@
 - Increased Speed: added faster hit recovery 
 - Natural Resistance: added reduced poison duration, and reduce curse duration
 
-## Combat skills:
+## Combat skills
 
 - Bash: Added crushing blow
 - Double Swing: added damage multiplier
