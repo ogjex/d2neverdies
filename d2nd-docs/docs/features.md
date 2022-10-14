@@ -17,7 +17,7 @@
 - Completely rebalanced crafting to make every recipe viable
 - Added Skulls for leech crafting and topaz for magic find crafting recipes
 
-![Crafting Example 1](assets/crafting1.png)
+![Crafting Example Cornucopia's](assets/cornucopia-helm.png)
 
 ![Crafting Example 2](assets/crafting2.png)
 
@@ -47,27 +47,31 @@
 
 - Use new Orbs of Combination with Essences to forge new unique and set items. The items will be denoted "Forged by Hand" and have slightly penalized attributes. Very useful if you want to try out a build or just want to get started. 
 
-![Forging Example 1_1](asset/forging1_1.png)
+![Forging Example 1](asset/forging-1.png)
 
-![Forging Example 1_2](assets/forging1_2.png)
+![Forging Example 2](assets/forging-2.png)
 
-![Forging Example 2_1](assets/forging2_1.png)
+![Forging Example 3](assets/forging-3.png)
 
-![Forging Example 2_2](assets/forging2_2.png)
+![Forging Example 4](assets/forging-4.png)
 
 ## New Valor Charm
 
 - Each new character now starts with a personalized "Valor" charm; these can also be bought from vendors
 - With a single charm, your character now has more room for loot
-- New Valor charms can be infused using new Biddings, with similar attributes as old charms
-- Valors can only be upgraded 30-40 times, so use the infusions well!
-- Use the Valor charms to completely tailor-make your character build and use them as leveling devices
-
 ![Valor in the Rough](assets/valor-rough.png)
 
 ![Character Valor Empty](assets/valor-0.png)
-
 ![Character Valor Half](assets/valor-1.png)
+
+
+- New Valor charms can be infused using new Biddings, with similar attributes as old charms
+![Low-level Bidding](assets/bidding-1.png)
+![Medium-level Bidding](assets/bidding-2.png)
+![High-level Bidding](assets/bidding-3.png)
+
+- Valors can only be upgraded 30-40 times, so use the infusions well!
+- Use the Valor charms to completely tailor-make your character build and use them as leveling devices
 
 ![Character Valor Full](assets/valor-2.png)
 
@@ -97,15 +101,15 @@
 ## New inventory, stash and Horadric Cube
 
 - Increased Inventory size and updated to 8 shared tabs. 
+![Inventory M/K](assets/inventory-stash-mk.png)
+
+![Inventory Controller](assets/inventory-stash-controller.png)
+
 - Horadric Cube size has been increased
 
-![Inventory M/K](assets/inventoryMK.png)
+![Horadric Cube M/K](assets/horadric-mk.png)
 
-![Inventory Controller](assets/inventoryController.png)
-
-![Horadric Cube M/K](assets/cubeMK.png)
-
-![Horadric Cube Controller](assets/cubeController.png)
+![Horadric Cube Controller](assets/horadric-controller.png)
 
 ## New set attributes and changed around lower set items 
 
@@ -120,7 +124,13 @@
 - Melee items now deal Area Attack (splash) based on base item damage (for easier melee leveling)
 ![Area Attack](assets/aoe.png)
 
+- Jewels can be be cubed into minor Jewel Fragments, and they stack!
+![Jewel Fragment Stack](assets/jewel-fragment.png)
+
+
 - Rare items increase number of affixes
+![Rare Tomahawk](assets/rare-tomahawk.png)
+
 - Descriptions on gems, runes and other stackables for ease of access
 ![Gem Descriptions](assets/gem-desc.png)
 

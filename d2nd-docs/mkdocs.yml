@@ -9,6 +9,8 @@ nav:
   - Feature presentation: features.md
   - Recent patch changes: recent.md
   - Planned changes: roadmap.md
+  - Crafting: crafting.md
+  - Recipes: recipes.md
   - Known bugs: bugreport.md
   - Installation guide: installation.md
   - Support: support.md
