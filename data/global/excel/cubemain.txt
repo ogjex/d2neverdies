@@ -3209,7 +3209,7 @@ Weapon + Glyph + PRuby -> Corrupted Weapon	1			100	16	361	21		3	"weap,nor,sock"	
 Weapon + Glyph + PSapph -> Corrupted Weapon	1			100	16	361	21		3	"weap,hiq,sock"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 Weapon + Glyph + PSapph -> Corrupted Weapon	1			100	16	361	21		3	"weap,nor,sock"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 WEAPONS - NO SOCKETS - MAGIC AND UP - COMBAT RECIPE	0																																																																																																							0
-Corruption Tracker	1			100	16	361	0		3	"weap,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"weap,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Weapon + Glyph  -> Corrupted Weapon With Sockets	1			100	16	361	5		3	"weap,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 Weapon + Glyph  -> Random Rare	1			100	16	361	10		3	"weap,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	11		3	"weap,nos"	glx	gpr					useitem				corruption	100		21	21	dmg%	100		50	80																																																																										0
@@ -3223,7 +3223,7 @@ Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	18		3	"weap,
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	19		3	"weap,nos"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	20		3	"weap,nos"	glx	gpr					useitem				corruption	100		21	21	dmg%	100		80	120	swing1			10	20																																																																					0
 WEAPONS - W SOCKETS - MAGIC AND UP - COMBAT RECIPE	0																															100																																																																								0
-Corruption Tracker	1			100	16	361	0		3	"weap,sock"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"weap,sock"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,sock"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	6		3	"weap,sock"	glx	gpr					useitem				corruption	100		21	21	dmg%	100		50	80																																																																										0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	8		3	"weap,sock"	glx	gpr					useitem				corruption	100		21	21	deadly	100		10	15																																																																										0
@@ -3236,7 +3236,7 @@ Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	18		3	"weap,
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	19		3	"weap,sock"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	20		3	"weap,sock"	glx	gpr					useitem				corruption	100		21	21	dmg%	100		80	120	swing1	100		10	20																																																																					0
 WEAPONS - NO SOCKETS - MAGIC AND UP - CASTER RECIPE	0																																																																																																							0
-Corruption Tracker	1			100	16	361	0		3	"weap,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"weap,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Weapon + Glyph  -> Corrupted Unique Weapon With Sockets	1			100	16	361	5		3	"weap,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 Weapon + Glyph  -> Random Rare	1			100	16	361	10		3	"weap,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	11		3	"weap,nos"	glx	gpb					useitem				corruption	100		21	21	cast1	100		5	10																																																																										0
@@ -3250,7 +3250,7 @@ Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	18		3	"weap,
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	19		3	"weap,nos"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	20		3	"weap,nos"	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10	extra-fire	100		2	2	extra-cold	100		2	2	extra-ltng	100		2	2																																																											0
 WEAPONS - W SOCKETS - MAGIC AND UP - CASTER RECIPE	0																																																																																																							0
-Corruption Tracker	1			100	16	361	0		3	"weap,sock"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"weap,sock"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,sock"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	6		3	"weap,sock"	glx	gpb					useitem				corruption	100		21	21	cast1	100		5	10																																																																										0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	8		3	"weap,sock"	glx	gpb					useitem				corruption	100		21	21	mana-kill	100		3	5																																																																										0
@@ -3263,17 +3263,17 @@ Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	18		3	"weap,
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	19		3	"weap,sock"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	20		3	"weap,sock"	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10	extra-fire	100		2	2	extra-cold	100		2	2	extra-ltng	100		2	2																																																											0
 TORSO - NORMAL	0																																																																																																							0
-Corruption Tracker	1			100	16	361	0		3	"tors,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"tors,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Armor + Glyph  -> Corrupted Armor With Sockets	1			100	16	361	20		3	"tors,nor,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
-Corruption Tracker	1			100	16	361	0		3	"tors,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"tors,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Armor + Glyph  -> Corrupted Armor With Sockets	1			100	16	361	20		3	"tors,nor,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 TORSO - SUPERIOR																																																																																																								0
-Corruption Tracker	1			100	16	361	0		3	"tors,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"tors,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Armor + Glyph  -> Corrupted Armor With Sockets	1			100	16	361	20		3	"tors,hiq,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
-Corruption Tracker	1			100	16	361	0		3	"tors,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"tors,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Armor + Glyph  -> Corrupted Armor With Sockets	1			100	16	361	20		3	"tors,hiq,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 TORSO - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
@@ -3282,7 +3282,7 @@ Armor + Glyph + PRuby -> Corrupted Armor	1			100	16	361	21		3	"tors,nor,sock"	gl
 Armor + Glyph + PSapph -> Corrupted Armor	1			100	16	361	21		3	"tors,hiq,sock"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 Armor + Glyph + PSapph -> Corrupted Armor	1			100	16	361	21		3	"tors,nor,sock"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 TORSO - NO SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Armor Corruption Tracker	1			100	16	361	0		3	"tors,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Armor Corruption Tracker	1			100	16	361	0		3	"tors,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Armor + Glyph -> Corrupted Armor With Sockets	1			100	16	361	5		3	"tors,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 Armor + Glyph  -> Random Rare	1			100	16	361	10		3	"tors,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	11		3	"tors,nos"	glx	gpr					useitem				corruption	100		21	21	ac%	100		80	100	indestruct	100	1	1																																																																						0
@@ -3296,7 +3296,7 @@ Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	18		3	"tors,nos
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	19		3	"tors,nos"	glx	gpr					useitem				corruption	100		21	21	red-dmg%	100		5	10																																																																										0
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	20		3	"tors,nos"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 TORSO - W SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Armor Corruption Tracker	1			100	16	361	0		3	"tors,sock"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Armor Corruption Tracker	1			100	16	361	0		3	"tors,sock"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,sock"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	6		3	"tors,sock"	glx	gpr					useitem				corruption	100		21	21	ac%	100		80	100	indestruct	100	1	1																																																																						0
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	8		3	"tors,sock"	glx	gpr					useitem				corruption	100		21	21	hp	100		80	100																																																																										0
@@ -3309,7 +3309,7 @@ Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	18		3	"tors,soc
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	19		3	"tors,sock"	glx	gpr					useitem				corruption	100		21	21	red-dmg%	100		5	10																																																																										0
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	20		3	"tors,sock"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 TORSO - NO SOCKETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Armor Corruption Tracker	1			100	16	361	0		3	"tors,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Armor Corruption Tracker	1			100	16	361	0		3	"tors,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Armor + Glyph -> Corrupted Armor With Sockets	1			100	16	361	5		3	"tors,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 Armor + Glyph  -> Random Rare	1			100	16	361	10		3	"tors,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	11		3	"tors,nos"	glx	gpb					useitem				corruption	100		21	21	hp	100		80	100																																																																										0
@@ -3323,7 +3323,7 @@ Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	18		3	"tors,nos
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	19		3	"tors,nos"	glx	gpb					useitem				corruption	100		21	21	red-dmg%	100		5	10																																																																										0
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	20		3	"tors,nos"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 TORSO - W SOCKETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Armor Corruption Tracker	1			100	16	361	0		3	"tors,sock"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Armor Corruption Tracker	1			100	16	361	0		3	"tors,sock"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,sock"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	6		3	"tors,sock"	glx	gpb					useitem				corruption	100		21	21	hp	100		80	100																																																																										0
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	8		3	"tors,sock"	glx	gpb					useitem				corruption	100		21	21	mana	100		80	100																																																																										0
@@ -3336,17 +3336,17 @@ Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	18		3	"tors,soc
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	19		3	"tors,sock"	glx	gpb					useitem				corruption	100		21	21	red-dmg%	100		5	10																																																																										0
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	20		3	"tors,sock"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 HELM - NORMAL	0																																																																																																							0
-Corruption Tracker	1			100	16	361	0		3	"helm,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"helm,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Helmet + Glyph  -> Corrupted Helmet With Sockets	1			100	16	361	20		3	"helm,nor,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
-Corruption Tracker	1			100	16	361	0		3	"helm,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"helm,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Helmet + Glyph  -> Corrupted Helmet With Sockets	1			100	16	361	20		3	"helm,nor,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 HELM - SUPERIOR	0																																																																																																							0
-Corruption Tracker	1			100	16	361	0		3	"helm,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"helm,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Helmet + Glyph  -> Corrupted Helmet With Sockets	1			100	16	361	20		3	"helm,hiq,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
-Corruption Tracker	1			100	16	361	0		3	"helm,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"helm,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Helmet + Glyph  -> Corrupted Helmet With Sockets	1			100	16	361	20		3	"helm,hiq,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 HELMS - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
@@ -3355,7 +3355,7 @@ Helmet + Glyph + PRuby -> Corrupted Helmet	1			100	16	361	21		3	"helm,nor,sock"	
 Helmet + Glyph + PSapph -> Corrupted Helmet	1			100	16	361	21		3	"helm,hiq,sock"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 Helmet + Glyph + PSapph -> Corrupted Helmet	1			100	16	361	21		3	"helm,nor,sock"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 HELM - NO SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Helmet Corruption Tracker	1			100	16	361	0		3	"helm,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Helmet Corruption Tracker	1			100	16	361	0		3	"helm,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Helmet + Glyph -> Corrupted Helmet With Sockets	1			100	16	361	5		3	"helm,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 Helmet + Glyph -> Random Rare	1			100	16	361	10		3	"helm,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	11		3	"helm,nos"	glx	gpr					useitem				corruption	100		21	21	manasteal	100		3	5																																																																										0
@@ -3369,7 +3369,7 @@ Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	18		3	"helm,n
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,nos"	glx	gpr					useitem				corruption	100		21	21	curse-res	100		10	10																																																																										0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	20		3	"helm,nos"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 HELM - W SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Helmet Corruption Tracker	1			100	16	361	0		3	"helm,sock"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Helmet Corruption Tracker	1			100	16	361	0		3	"helm,sock"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Helmet + Glyph -> Random Rare	1			100	16	361	5		3	"helm,sock"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	6		3	"helm,sock"	glx	gpr					useitem				corruption	100		21	21	manasteal	100		3	5																																																																										0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	8		3	"helm,sock"	glx	gpr					useitem				corruption	100		21	21	lifesteal	100		3	5																																																																										0
@@ -3382,7 +3382,7 @@ Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	18		3	"helm,s
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,sock"	glx	gpr					useitem				corruption	100		21	21	curse-res	100		10	10																																																																										0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	20		3	"helm,sock"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 HELM - NO SOCKETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Helmet Corruption Tracker	1			100	16	361	0		3	"helm,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Helmet Corruption Tracker	1			100	16	361	0		3	"helm,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Helmet + Glyph -> Corrupted Helmet With Sockets	1			100	16	361	5		3	"helm,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 Helmet + Glyph -> Random Rare	1			100	16	361	10		3	"helm,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	11		3	"helm,nos"	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		20	25																																																																										0
@@ -3396,7 +3396,7 @@ Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	18		3	"helm,n
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,nos"	glx	gpb					useitem				corruption	100		21	21	curse-res	100		10	10																																																																										0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	20		3	"helm,nos"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 HELM - W SOCKETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Helmet Corruption Tracker	1			100	16	361	0		3	"helm,sock"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Helmet Corruption Tracker	1			100	16	361	0		3	"helm,sock"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Helmet + Glyph -> Random Rare	1			100	16	361	5		3	"helm,sock"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	6		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		20	25																																																																										0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	8		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	mag%	100		20	30																																																																										0
@@ -3409,17 +3409,17 @@ Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	18		3	"helm,s
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	curse-res	100		10	10																																																																										0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	20		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 SHIELD - NORMAL	0																																																																																																							0
-Corruption Tracker	1			100	16	361	0		3	"shld,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"shld,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,nor,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
-Corruption Tracker	1			100	16	361	0		3	"shld,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"shld,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,nor,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 SHIELD - SUPERIOR	0																																																																																																							0
-Corruption Tracker	1			100	16	361	0		3	"shld,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"shld,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,hiq,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
-Corruption Tracker	1			100	16	361	0		3	"shld,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Corruption Tracker	1			100	16	361	0		3	"shld,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,hiq,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 SHIELDS - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
@@ -3428,7 +3428,7 @@ Shield + Glyph + PRuby -> Corrupted Shield	1			100	16	361	21		3	"shld,nor,sock"	
 Shield + Glyph + PSapph -> Corrupted Shield	1			100	16	361	21		3	"shld,hiq,sock"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 Shield + Glyph + PSapph -> Corrupted Shield	1			100	16	361	21		3	"shld,nor,sock"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 SHIELD - NO SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Shield Corruption Tracker	1			100	16	361	0		3	"shld,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Shield Corruption Tracker	1			100	16	361	0		3	"shld,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Shield + Glyph -> Corrupted Shield With Sockets	1			100	16	361	5		3	"shld,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 Shield + Glyph -> Random Rare	1			100	16	361	10		3	"shld,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	11		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	ac%	100		50	80	indestruct	100		1	1																																																																					0
@@ -3442,7 +3442,7 @@ Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	18		3	"shld,n
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	curse-res	100		10	10																																																																										0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	20		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 SHIELD - W SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Shield Corruption Tracker	1			100	16	361	0		3	"shld,sock"	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Shield Corruption Tracker	1			100	16	361	0		3	"shld,sock"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Shield + Glyph -> Random Rare	1			100	16	361	5		3	"shld,sock"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	6		3	"shld,sock"	glx	gpr					useitem				corruption	100		21	21	ac%	100		50	80	indestruct	100		1	1																																																																					0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	8		3	"shld,sock"	glx	gpr					useitem				corruption	100		21	21	regen	100		25	30																																																																										0
@@ -3455,7 +3455,7 @@ Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	18		3	"shld,s
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,sock"	glx	gpr					useitem				corruption	100		21	21	curse-res	100		10	10																																																																										0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	20		3	"shld,sock"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 SHIELD - NO SOCKETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Shield Corruption Tracker	1			100	16	361	0		3	"shld,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Shield Corruption Tracker	1			100	16	361	0		3	"shld,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Shield + Glyph -> Corrupted Shield With Sockets	1			100	16	361	5		3	"shld,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 Shield + Glyph -> Random Rare	1			100	16	361	10		3	"shld,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	11		3	"shld,nos"	glx	gpb					useitem				corruption	100		21	21	ac%	100		50	80	indestruct	100		1	1																																																																					0
@@ -3469,7 +3469,7 @@ Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	18		3	"shld,n
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,nos"	glx	gpb					useitem				corruption	100		21	21	curse-res	100		10	10																																																																										0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	20		3	"shld,nos"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 SHIELD - W SOCKETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Shield Corruption Tracker	1			100	16	361	0		3	"shld,sock"	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Shield Corruption Tracker	1			100	16	361	0		3	"shld,sock"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Shield + Glyph -> Random Rare	1			100	16	361	5		3	"shld,sock"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	6		3	"shld,sock"	glx	gpb					useitem				corruption	100		21	21	ac%	100		50	80	indestruct	100		1	1																																																																					0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	8		3	"shld,sock"	glx	gpb					useitem				corruption	100		21	21	regen	100		25	30																																																																										0
@@ -3489,7 +3489,7 @@ Superior Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,hiq"	glx	gp
 Low quality Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,low"	glx	gpr					useitem				corruption	100		21	21																																																																															0
 Low quality Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,low"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 BOOTS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Boots Corruption Tracker	1			100	16	361	0		3	boot	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Boots Corruption Tracker	1			100	16	361	0		3	boot	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Boots + Glyph -> Random Rare	1			100	16	361	5		3	boot	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	6		3	boot	glx	gpr					useitem				corruption	100		21	21	dex	100		15	20																																																																										0
 Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	8		3	boot	glx	gpr					useitem				corruption	100		21	21	mag%	100		10	20																																																																										0
@@ -3502,7 +3502,7 @@ Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	18		3	boot	glx	
 Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	19		3	boot	glx	gpr					useitem				corruption	100		21	21	move1	100		10	15																																																																										0
 Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	20		3	boot	glx	gpr					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
 BOOTS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Boots Corruption Tracker	1			100	16	361	0		3	boot	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Boots Corruption Tracker	1			100	16	361	0		3	boot	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Boots + Glyph -> Random Rare	1			100	16	361	5		3	boot	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	6		3	boot	glx	gpb					useitem				corruption	100		21	21	mana-kill	100		2	4																																																																										0
 Boots + Glyph -> Corrupted Boots With Useful Stat	1			100	16	361	8		3	boot	glx	gpb					useitem				corruption	100		21	21	mag%	100		10	20																																																																										0
@@ -3522,7 +3522,7 @@ Superior Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,hiq"	glx	
 Low quality Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,low"	glx	gpr					useitem				corruption	100		21	21																																																																															0
 Low quality Gloves + Glyph -> Corrupted Gloves	1			100	16	361	20		3	"glov,low"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 GLOVES - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Gloves Corruption Tracker	1			100	16	361	0		3	glov	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Gloves Corruption Tracker	1			100	16	361	0		3	glov	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Gloves + Glyph -> Random Rare	1			100	16	361	5		3	glov	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	6		3	glov	glx	gpr					useitem				corruption	100		21	21	swing1	100		10	10																																																																										0
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	8		3	glov	glx	gpr					useitem				corruption	100		21	21	deadly	100		6	12																																																																										0
@@ -3535,7 +3535,7 @@ Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	18		3	glov	gl
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	19		3	glov	glx	gpr					useitem				corruption	100		21	21	dex	100		10	15																																																																										0
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	20		3	glov	glx	gpr					useitem				corruption	100		21	21	str	100		10	15																																																																										0
 GLOVES - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Gloves Corruption Tracker	1			100	16	361	0		3	glov	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Gloves Corruption Tracker	1			100	16	361	0		3	glov	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Gloves + Glyph -> Random Rare	1			100	16	361	5		3	glov	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	6		3	glov	glx	gpb					useitem				corruption	100		21	21	cast1	100		5	10																																																																										0
 Gloves + Glyph -> Corrupted Gloves With Useful Stat	1			100	16	361	8		3	glov	glx	gpb					useitem				corruption	100		21	21	manakill	100		3	5																																																																										0
@@ -3555,7 +3555,7 @@ Superior Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,hiq"	glx	gpb	
 Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,low"	glx	gpr					useitem				corruption	100		21	21																																																																															0
 Low quality Belt + Glyph -> Corrupted Belt	1			100	16	361	20		3	"belt,low"	glx	gpb					useitem				corruption	100		21	21																																																																															0
 BELTS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Belt Corruption Tracker	1			100	16	361	0		3	belt	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Belt Corruption Tracker	1			100	16	361	0		3	belt	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Belt + Glyph -> Random Rare	1			100	16	361	5		3	belt	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	6		3	belt	glx	gpr					useitem				corruption	100		21	21	pierce	100		10	15																																																																										0
 Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	8		3	belt	glx	gpr					useitem				corruption	100		21	21	swing1	100		10	10																																																																										0
@@ -3568,7 +3568,7 @@ Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	18		3	belt	glx	gp
 Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	19		3	belt	glx	gpr					useitem				corruption	100		21	21	res-all	100		4	4																																																																										0
 Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	20		3	belt	glx	gpr					useitem				corruption	100		21	21	red-dmg%	100		2	4																																																																										0
 BELTS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Belt Corruption Tracker	1			100	16	361	0		3	belt	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Belt Corruption Tracker	1			100	16	361	0		3	belt	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Belt + Glyph -> Random Rare	1			100	16	361	5		3	belt	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	6		3	belt	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10																																																																										0
 Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	8		3	belt	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		20	30																																																																										0
@@ -3581,7 +3581,7 @@ Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	18		3	belt	glx	gp
 Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	19		3	belt	glx	gpb					useitem				corruption	100		21	21	res-all	100		5	5																																																																										0
 Belt + Glyph -> Corrupted Belt With Useful Stat	1			100	16	361	20		3	belt	glx	gpb					useitem				corruption	100		21	21	red-dmg%	100		2	4																																																																										0
 RINGS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Ring Corruption Tracker	1			100	16	361	0		3	rin	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Ring Corruption Tracker	1			100	16	361	0		3	rin	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Ring + Glyph -> Random Rare	1			100	16	361	5		3	rin	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	6		3	rin	glx	gpr					useitem				corruption	100		21	21	dex	100		8	15																																																																										0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	8		3	rin	glx	gpr					useitem				corruption	100		21	21	lifesteal	100		3	4																																																																										0
@@ -3594,7 +3594,7 @@ Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	18		3	rin	glx	gpr
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	19		3	rin	glx	gpr					useitem				corruption	100		21	21	str	100		8	15																																																																										0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	20		3	rin	glx	gpr					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
 RINGS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Ring Corruption Tracker	1			100	16	361	0		3	rin	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Ring Corruption Tracker	1			100	16	361	0		3	rin	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Ring + Glyph -> Random Rare	1			100	16	361	5		3	rin	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	6		3	rin	glx	gpb					useitem				corruption	100		21	21	enr	100		10	20																																																																										0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	8		3	rin	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		15	20																																																																										0
@@ -3607,7 +3607,7 @@ Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	18		3	rin	glx	gpb
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	19		3	rin	glx	gpb					useitem				corruption	100		21	21	str	100		8	15																																																																										0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	20		3	rin	glx	gpb					useitem				corruption	100		21	21	res-all	100		4	8																																																																										0
 AMULETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
-Amulet Corruption Tracker	1			100	16	361	0		3	amu	glx	gpr					useitem				corruption	100		1	20																					glx																													"glr,qty=2"																													0
+Amulet Corruption Tracker	1			100	16	361	0		3	amu	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Amulet + Glyph -> Random Rare	1			100	16	361	5		3	amu	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	6		3	amu	glx	gpr					useitem				corruption	100		21	21	move1	100		8	12																																																																										0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	8		3	amu	glx	gpr					useitem				corruption	100		21	21	mag%	100		20	35																																																																										0
@@ -3620,7 +3620,7 @@ Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	18		3	amu	glx
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	19		3	amu	glx	gpr					useitem				corruption	100		21	21	res-all	100		5	10																																																																										0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	20		3	amu	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																																																																										0
 AMULETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
-Amulet Corruption Tracker	1			100	16	361	0		3	amu	glx	gpb					useitem				corruption	100		1	20																					glx																													"glb,qty=2"																													0
+Amulet Corruption Tracker	1			100	16	361	0		3	amu	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Amulet + Glyph -> Random Rare	1			100	16	361	5		3	amu	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	6		3	amu	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10																																																																										0
 Amulet + Glyph -> Corrupted Amulet With Useful Stat	1			100	16	361	8		3	amu	glx	gpb					useitem				corruption	100		21	21	mag%	100		20	35																																																																										0
