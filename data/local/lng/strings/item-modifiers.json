@@ -6258,7 +6258,7 @@
   {
     "id": 40539,
     "Key": "StrOrbCombDesc",
-    "enUS": "\nÿc0 an uncorrupted ÿc9Rare item ÿc0to build new ÿc2Set items\nÿc0Cube with ÿc4Unique ÿc0and ÿc2Compound Essence Charges +",
+    "enUS": "ÿc0an uncorrupted ÿc9Rare item ÿc0to ÿc1Forge ÿc0new ÿc2Set items\nÿc0Cube with ÿc4Unique ÿc0and ÿc2Compound Essence Charges +",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6275,7 +6275,7 @@
   {
     "id": 40540,
     "Key": "StrOrbExtDesc",
-    "enUS": "Cube with ÿc4Unique ÿc0and ÿc2Set ÿc0items to extract Essence Cubes",
+    "enUS": "ÿc2Set ÿc0items to extract Essence Cubes\nCube with ÿc4Unique ÿc0and",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6377,7 +6377,7 @@
   {
     "id": 40546,
     "Key": "StrChaEliSetDesc",
-    "enUS": "reroll Elite ÿc2Set itemÿc0 \nÿc2Compound Elite Essence Charges= ÿc0\n 1 x ÿc8Orb of Divination ÿc0+ 1 x \nÿc2Compound Elite Essence Charges ÿc0= new Elite ÿc2Set item \nÿc0 1 x ÿc8Orb of Combination½ ÿc0+ 1 x ",
+    "enUS": "reroll Elite ÿc2Set itemÿc0 \nÿc2Compound Elite Essence Charges= ÿc0\n 1 x ÿc8Orb of Divination ÿc0+ 1 x \nÿc2Compound Elite Essence Charges ÿc0= new Elite ÿc2Set item \nÿc0 1 x ÿc8Orb of Combination ÿc0+ 1 x ",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6394,7 +6394,7 @@
   {
     "id": 40547,
     "Key": "StrChaNorUniDesc",
-    "enUS": "reroll Normal ÿc4Unique item\nÿc4Unique Normal Essence Charges ÿc0=\n ÿc8Orb of Divination ÿc0+ 1 x \n new Normal ÿc4Unique itemÿc0\n 1 x \n ÿc4Unique Normal Essence Charges ÿc0=\n 1 x ÿc8Orb of Combination ÿc0+ 2 x ",
+    "enUS": "2 x ÿc4Unique Normal Essence Charges ÿc0\nÿc8Orb of Combination ÿc0+\nReroll Normal ÿc4Unique item:\n\nÿc4Unique Normal Essence Charge ÿc0\nÿc8Orb of Divination ÿc0+\nÿc1Forged ÿc0Normal ÿc4Unique itemÿc0:",
     "zhTW": "",
     "deDE": "",
     "esES": "",
