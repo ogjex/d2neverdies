@@ -6343,7 +6343,7 @@
   {
     "id": 40544,
     "Key": "StrChaNorSetDesc",
-    "enUS": "1 x ÿc2Compound Normal Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nReroll Normal ÿc2Set itemÿc0:\n\nÿc2Compound Normal Essence Charges ÿc0=\nÿc8Orb of Combination ÿc0+ 1 x \nÿc1Forged Normal ÿc2Set itemÿc0:",
+    "enUS": "ÿc2Compound Normal Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nReroll Normal ÿc2Set itemÿc0:\n\nÿc02 x ÿc2Compound Normal Essence Charges ÿc0\nÿc8Orb of Combination ÿc0+\nÿc1Forged ÿc0Normal ÿc2Set itemÿc0:",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6360,7 +6360,7 @@
   {
     "id": 40545,
     "Key": "StrChaExcSetDesc",
-    "enUS": "1 x ÿc2Compound Exceptional Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nReroll Exceptional ÿc2Set item and jewelryÿc0:\n\nÿc2Compound Exceptional Essence Charges ÿc0=\nÿc8Orb of Combination ÿc0+ 1 x \nÿc1Forged Exceptional ÿc2Set item and jewelryÿc0:",
+    "enUS": "ÿc2Compound Exceptional Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nReroll Exceptional ÿc2Set item ÿc0and ÿc2jewelryÿc0:\n\nÿc2Compound Exceptional Essence Charge ÿc0\nÿc8Orb of Combination ÿc0+\nÿc1Forged ÿc0Exceptional ÿc2Set item and jewelryÿc0:",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6377,7 +6377,7 @@
   {
     "id": 40546,
     "Key": "StrChaEliSetDesc",
-    "enUS": "1 x ÿc2Compound Elite Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nReroll Elite ÿc2Set itemÿc0:\n\nÿc2Compound Elite Essence Charges ÿc0=\nÿc8Orb of Combination ÿc0+ 1 x \nÿc1Forged Elite ÿc2Set itemÿc0:",
+    "enUS": "ÿc2Compound Elite Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nReroll Elite ÿc2Set itemÿc0:\n\nÿc2Compound Elite Essence Charge ÿc0\nÿc8Orb of Combination ÿc0+\nÿc1Forged ÿc0Elite ÿc2Set itemÿc0:",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6394,7 +6394,7 @@
   {
     "id": 40547,
     "Key": "StrChaNorUniDesc",
-    "enUS": "2 x ÿc4Unique Normal Essence Chargesÿc0\nÿc8Orb of Combination ÿc0+\nReroll Normal ÿc4Unique item:\n\nÿc4Unique Normal Essence Charge ÿc0\nÿc8Orb of Divination ÿc0+\nÿc1Forged ÿc0Normal ÿc4Unique itemÿc0:",
+    "enUS": "ÿc4Unique Normal Essence Chargeÿc0\nÿc8Orb of Combination ÿc0+\nReroll Normal ÿc4Unique item:\n\nÿc02 x ÿc4Unique Normal Essence Charges ÿc0\nÿc8Orb of Divination ÿc0+\nÿc1Forged ÿc0Normal ÿc4Unique itemÿc0:",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6411,7 +6411,7 @@
   {
     "id": 40548,
     "Key": "StrChaExcUniDesc",
-    "enUS": "2 x ÿc4Unique Exceptional Essence Charges ÿc0\nÿc8Orb of Combination ÿc0+\nReroll Exceptional ÿc4Unique item and jewelry:\n\nÿc4Unique Exceptional Essence Charge ÿc0\nÿc8Orb of Divination ÿc0+\nÿc1Forged ÿc0Exceptional ÿc4Unique item and jewelryÿc0:",
+    "enUS": "ÿc4Unique Exceptional Essence Charge ÿc0\nÿc8Orb of Combination ÿc0+\nReroll Exceptional ÿc4Unique item and jewelry:\n\nÿc4Unique Exceptional Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nÿc1Forged ÿc0Exceptional ÿc4Unique item ÿc0and ÿc4jewelryÿc0:",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6428,7 +6428,7 @@
   {
     "id": 40549,
     "Key": "StrChaEliUniDesc",
-    "enUS": "2 x ÿc4Unique Elite Essence Charges ÿc0\nÿc8Orb of Combination ÿc0+\nReroll Elite ÿc4Unique item:\n\nÿc4Unique Elite Essence Charge ÿc0\nÿc8Orb of Divination ÿc0+\nÿc1Forged ÿc0Elite ÿc4Unique itemÿc0:",
+    "enUS": "ÿc4Unique Elite Essence Charge ÿc0\nÿc8Orb of Combination ÿc0+\nReroll Elite ÿc4Unique item:\n\nÿc4Unique Elite Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nÿc1Forged ÿc0Elite ÿc4Unique itemÿc0:",
     "zhTW": "",
     "deDE": "",
     "esES": "",
