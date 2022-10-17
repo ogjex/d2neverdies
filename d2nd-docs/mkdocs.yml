@@ -5,6 +5,7 @@ extra:
   logo: assets/D2ND_icon.png
 nav:
   - Home: index.md
+  - About: about.md
   - Full change log: changelog.md
   - Feature presentation: features.md
   - Recent patch changes: recent.md
@@ -16,3 +17,4 @@ nav:
   - FAQ: faq.md
   - Support: support.md
   - Resources: resources.md
+  - Credits: credits.md
