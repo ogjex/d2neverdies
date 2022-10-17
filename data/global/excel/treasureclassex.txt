@@ -597,7 +597,7 @@ Diablo (N)			7	993	993	1024	1024	10	Act 5 (N) Equip A	52	Act 5 (N) Good	3							
 Diablo (H)			7	993	993	1024	1024	10	Act 5 (H) Equip A	52	Act 5 (H) Good	3	set	1																			0
 Summoner			5	900	900	972	1024	10	gld,mul=1280	9	Act 2 Equip C	15	Act 2 Good	5																			0
 Summoner (N)			5	900	900	972	1024	10	gld,mul=1536	9	Act 2 (N) Equip C	15	Act 2 (N) Good	5																			0
-Summoner (H)			5	900	900	972	1024	10	gld,mul=2048	9	Act 2 (H) Equip C	15	Act 2 (H) Good	5	p2s	1																	0
+Summoner (H)			5	900	900	972	1024	10	gld,mul=2048	9	Act 2 (H) Equip C	15	Act 2 (H) Good	5	p2s	15																	0
 Council			3	650	800	800	1024	10	gld,mul=1280	9	Act 4 Equip A	15	Act 4 Good	5																			0
 Council (N)			3	650	800	800	1024	10	gld,mul=1536	9	Act 4 (N) Equip A	15	Act 4 (N) Good	5																			0
 Council (H)			3	650	800	800	1024	10	gld,mul=2048	9	Act 4 (H) Equip A	15	Act 4 (H) Good	5	Junk (H)	3																	0
@@ -615,7 +615,7 @@ Haphesto (N)			5	800	800	900	1024	10	gld,mul=1536	14	Act 5 (N) Equip A	19	Act 5 
 Haphesto (H)			5	800	800	900	1024	10	gld,mul=2048	14	Act 5 (H) Equip A	19	Act 5 (H) Good	5	Junk (H)	3																	0
 Nihlathak			5	900	900	900	1024	10	gld,mul=1280	14	Act 5 Equip B	19	Act 5 Good	3																			0
 Nihlathak (N)			5	900	900	900	1024	10	gld,mul=1536	14	Act 5 (N) Equip B	19	Act 5 (N) Good	3																			0
-Nihlathak (H)			5	900	900	900	1024	10	gld,mul=2048	14	Act 5 (H) Equip B	19	Act 5 (H) Good	3	p3s	1																	0
+Nihlathak (H)			5	900	900	900	1024	10	gld,mul=2048	14	Act 5 (H) Equip B	19	Act 5 (H) Good	3	p3s	15																	0
 Baal			7	993	993	1024	1024	10	Act 1 (N) Equip A	52	Act 1 (N) Good	3																					0
 Baal (N)			7	993	993	1024	1024	10	Act 1 (H) Equip A	52	Act 1 (H) Good	3																					0
 Baal (H)			7	993	993	1024	1024	10	Act 5 (H) Equip B	52	Act 5 (H) Good	3	sed	1																			0
@@ -729,7 +729,7 @@ ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																					0
 ROP (H)			1	1024				0	Annihilus	1																							0
 Countess			3	883	883	883	1024	19	Runes 1	6	Runes 2	3	Runes 3	1																			0
 Countess (N)			3	883	883	983	1024	19	Runes 2	6	Runes 3	3	Runes 4	1																			0
-Countess (H)			3	883	883	983	1024	19	Runes 3	6	Runes 4	3	Runes 5	1	p1s	1																	0
+Countess (H)			5	883	883	983	1024	19	Runes 3	6	Runes 4	3	Runes 5	1	p1s	15																	0
 Uber Andariel			1	1024				0	shn	1																							0
 Uber Duriel			1	1024				0	sey	1																							0
 Uber Izual			1	1024				0	sms	1																							0
