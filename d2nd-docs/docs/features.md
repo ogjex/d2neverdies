@@ -40,7 +40,10 @@
 
 ![Unique Essence](assets/essence-cubes.png)
 
-![Unique Charge](assets/charges.png)
+![Unique Normal Charge](assets/charge-nor-uni.png)
+
+![Set Exceptional Charge](assets/charge-ex-com.png)
+
 
 ## Forging set and unique items
 
@@ -48,9 +51,9 @@
 
 ![Forging Example 1](assets/forging-1.png)
 
-![Forging Example 2](assets/forging-2.png)
+<!--- ![Forging Example 2](assets/forging-2.png) --->
 
-![Forging Example 3](assets/forging-3.png)
+<!--- ![Forging Example 3](assets/forging-3.png) --->
 
 ## New Valor Charm
 
@@ -61,6 +64,7 @@
 ![Character Valor Half](assets/valor-1.png)
 
 - New Valor charms can be infused using new Biddings, with similar attributes as old charms
+
 ![Low-level Bidding](assets/bidding-1.png)
 ![Medium-level Bidding](assets/bidding-2.png)
 
