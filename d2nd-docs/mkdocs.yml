@@ -1,6 +1,9 @@
 site_name: Diablo 2 Never Dies
 site_url: https://diablo2neverdies.com/
-theme: windmill-dark
+theme:
+    name: windmill-dark
+    include_search_page: true
+    search_index_only: true
 extra:
   logo: assets/D2ND_icon.png
 nav:
