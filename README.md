@@ -1,7 +1,7 @@
 # Welcome to D2 Never Dies Mod (d2nd)
 A Diablo II Resurrected Mod
 
-Please [visit our official website](www.diablo2neverdies.com)
+Please [visit our official website](https://diablo2neverdies.com/)
 
 The purpose of this mod is to provide sorely needed Quality of Life changes to Diablo 2 Ressurected, and providing a joyful Single Player experience for the casual gamer with only 3-6 hours of game time available during the week.
 
