@@ -726,10 +726,16 @@ Duriel (N)			5					0	Duriel (N) - Base	2																							0
 Duriel (H)			5					0	Duriel (H) - Base	2																							0
 ROP			1	1024				0	Diablo	1																							0
 ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																					0
+Countess Rune			3					10	Runes 3	20																							0
+Countess Rune (N)			3					10	Runes 4	20																							0
+Countess Rune (H)			3					10	Runes 5	30																							0
+Countess Item			5					1	"gld,mul=1280"	50	Act 1 Equip C	50	Act 2 Junk	50	Act 2 Good	25																	0
+Countess Item (N)			5					1	"gld,mul=1536"	50	Act 1 (N) Equip C	50	Act 2 (N) Junk	50	Act 2 (N) Good	25																	0
+Countess Item (H)			5					1	"gld,mul=2048"	50	Act 1 (H) Equip C	50	p1s	20	Act 2 (H) Good	25																	0
 ROP (H)			1	1024				0	Annihilus	1																							0
-Countess			3	883	883	883	1024	19	Runes 1	6	Runes 2	3	Runes 3	1																			0
-Countess (N)			3	883	883	983	1024	19	Runes 2	6	Runes 3	3	Runes 4	1																			0
-Countess (H)			5	883	883	983	1024	19	Runes 3	6	Runes 4	3	Runes 5	1	p1s	15																	0
+Countess			-2	883	883	883	1024		Countess Rune	1	Countess Item	1																					0
+Countess (N)			-2	883	883	983	1024		Countess Rune (N)	1	Countess Item (N)	1																					0
+Countess (H)			-2	883	883	983	1024		Countess Rune (H)	1	Countess Item (H)	1																					0
 Uber Andariel			1	1024				0	shn	1																							0
 Uber Duriel			1	1024				0	sey	1																							0
 Uber Izual			1	1024				0	sms	1																							0
