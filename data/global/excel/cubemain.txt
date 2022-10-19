@@ -3191,17 +3191,17 @@ ELITE UNIQUE	0																																																																		
 CORRUPTIONS	0																																																																																																							0
 WEAPONS - NORMAL 	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"weap,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Weapon + Glyph  -> Corrupted Weapon With Sockets	1			100	16	361	20		3	"weap,nor,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Corruption Tracker	1			100	16	361	0		3	"weap,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Weapon + Glyph  -> Corrupted Weapon With Sockets	1			100	16	361	20		3	"weap,nor,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																glb																													glb																													0
 WEAPONS - SUPERIOR 	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"weap,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Weapon + Glyph  -> Corrupted Weapon With Sockets	1			100	16	361	20		3	"weap,hiq,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Corruption Tracker	1			100	16	361	0		3	"weap,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Weapon + Glyph  -> Random Rare	1			100	16	361	5		3	"weap,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Weapon + Glyph  -> Corrupted Weapon With Sockets	1			100	16	361	20		3	"weap,hiq,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																glb																													glb																													0
 WEAPONS - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
 Weapon + Glyph + PRuby -> Corrupted Weapon	1			100	16	361	21		3	"weap,hiq,sock"	glx	gpr					useitem				corruption	100		21	21																					glr																													glr																													0
@@ -3264,17 +3264,17 @@ Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	19		3	"weap,
 Weapon + Glyph  -> Corrupted Weapon With Useful Stat	1			100	16	361	20		3	"weap,sock"	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10	extra-fire	100		2	2	extra-cold	100		2	2	extra-ltng	100		2	2	glb																													glb																													0
 TORSO - NORMAL	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"tors,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Armor + Glyph  -> Corrupted Armor With Sockets	1			100	16	361	20		3	"tors,nor,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Corruption Tracker	1			100	16	361	0		3	"tors,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Armor + Glyph  -> Corrupted Armor With Sockets	1			100	16	361	20		3	"tors,nor,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																glb																													glb																													0
 TORSO - SUPERIOR																																																																																																								0
 Corruption Tracker	1			100	16	361	0		3	"tors,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Armor + Glyph  -> Corrupted Armor With Sockets	1			100	16	361	20		3	"tors,hiq,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Corruption Tracker	1			100	16	361	0		3	"tors,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Armor + Glyph  -> Random Rare	1			100	16	361	5		3	"tors,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Armor + Glyph  -> Corrupted Armor With Sockets	1			100	16	361	20		3	"tors,hiq,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																glb																													glb																													0
 TORSO - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
 Armor + Glyph + PRuby -> Corrupted Armor	1			100	16	361	21		3	"tors,hiq,sock"	glx	gpr					useitem				corruption	100		21	21																					glr																													glr																													0
@@ -3337,17 +3337,17 @@ Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	19		3	"tors,soc
 Armor + Glyph -> Corrupted Armor With Useful Stat	1			100	16	361	20		3	"tors,sock"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																glb																													glb																													0
 HELM - NORMAL	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"helm,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Helmet + Glyph  -> Corrupted Helmet With Sockets	1			100	16	361	20		3	"helm,nor,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Corruption Tracker	1			100	16	361	0		3	"helm,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Helmet + Glyph  -> Corrupted Helmet With Sockets	1			100	16	361	20		3	"helm,nor,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																glb																													glb																													0
 HELM - SUPERIOR	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"helm,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Helmet + Glyph  -> Corrupted Helmet With Sockets	1			100	16	361	20		3	"helm,hiq,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Corruption Tracker	1			100	16	361	0		3	"helm,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Helmet + Glyph  -> Random Rare	1			100	16	361	5		3	"helm,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Helmet + Glyph  -> Corrupted Helmet With Sockets	1			100	16	361	20		3	"helm,hiq,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																glb																													glb																													0
 HELMS - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
 Helmet + Glyph + PRuby -> Corrupted Helmet	1			100	16	361	21		3	"helm,hiq,sock"	glx	gpr					useitem				corruption	100		21	21																					glr																													glr																													0
