@@ -3410,17 +3410,17 @@ Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,s
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	20		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																glb																													glb																													0
 SHIELD - NORMAL	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"shld,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,nor,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,nor,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Corruption Tracker	1			100	16	361	0		3	"shld,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,nor,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 SHIELD - SUPERIOR	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"shld,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,hiq,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Corruption Tracker	1			100	16	361	0		3	"shld,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
-Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21	corruption	100		21	21																																																																										0
+Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,hiq,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
 SHIELDS - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
 Shield + Glyph + PRuby -> Corrupted Shield	1			100	16	361	21		3	"shld,hiq,sock"	glx	gpr					useitem				corruption	100		21	21																					glr																													glr																													0
