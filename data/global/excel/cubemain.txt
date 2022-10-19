@@ -4133,7 +4133,7 @@ Heatproof Bidding	1			100	16	368	59		2	cc7	mb3						useitem				infusion	100		6	6
 Chunky Bidding	1			100	16	368	59		2	cc7	nb1						useitem				infusion	100		4	4	levelreq			1	1	res-cold			3	3																																																																					0
 Crystal Bidding	1			100	16	368	59		2	cc7	nb2						useitem				infusion	100		6	6	levelreq			4	4	res-cold			6	6																																																																					0
 Diamond Bidding	1			100	16	368	59		2	cc7	nb3						useitem				infusion	100		6	6	levelreq			6	6	res-cold			9	9																																																																					0
-Grounded Bidding	1			100	16	368	59		2	cc7	*						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
+Grounded Bidding	1			100	16	368	59		2	cc7	zb1						useitem				infusion	100		4	4	levelreq			1	1	res-ltng			3	3																																																																					0
 Conductive Bidding	1			100	16	368	59		2	cc7	zb2						useitem				infusion	100		6	6	levelreq			4	4	res-ltng			6	6																																																																					0
 Arrested Bidding	1			100	16	368	59		2	cc7	zb3						useitem				infusion	100		6	6	levelreq			6	6	res-ltng			9	9																																																																					0
 Neutralizing Bidding	1			100	16	368	59		2	cc7	pb1						useitem				infusion	100		4	4	levelreq			1	1	res-pois			3	3																																																																					0
