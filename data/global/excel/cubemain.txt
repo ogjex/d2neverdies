@@ -4161,17 +4161,17 @@ Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	leve
 Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
 Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							glx	200	200	200																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							gpr	200	200	200																										hp2																																																										0
-hp3 -> test item 3	1			100					1	hp3							nuc	200	200	200																										hp3																																																										0
-hp4 -> test item 4	1			100					1	hp4							euc	200	200	200																										hp4																																																										0
-hp5-> test item 5	1			100					1	hp5							luc	200	200	200																										hp5																																																										0
-mp1 -> test item 6	1			100					1	mp1							ooc	200	200	200																										mp1																																																										0
-mp2 -> test item 7	1			100					1	mp2							oex	200	200	200																										mp2																																																										0
-mp3 -> test item 8	1			100					1	mp3							ood	200	200	200																										mp3																																																										0
-mp4 -> test item 9	1			100					1	mp4							ac9	200	200	200																										mp4																																																										0
-mp5 -> test item 10	1			100					1	mp5							ad1	200	200	200																										mp5																																																										0
-id scroll -> test item	1			100					1	isc							cc0	200	200	200																										isc																																																										0
-tp scroll -> crf-wep	1			100					1	tsc							ooc	200	200	200																										tsc																																																										0
-nos wep -> test	0			100					1	"weap,nos"							useitem	200	200	200	corruption	100		10	10																																																																															0
-nos armo -> sock	0			100					1	"armo,nos"							"useitem,add"				sock			6	6																																																																															0
+hp1 -> test item 1	1			100					2	"weap,nos"	hp1						useitem	200	200	200	corruption	100		11	11																					hp1																																																										0
+hp2 -> test item 2	1			100					2	"weap,nos"	hp2						useitem	200	200	200	corruption	100		12	12																					hp2																																																										0
+hp3 -> test item 3	1			100					2	"weap,nos"	hp3						useitem	200	200	200	corruption	100		13	13																					hp3																																																										0
+hp4 -> test item 4	1			100					2	"weap,nos"	hp4						useitem	200	200	200	corruption	100		14	14																					hp4																																																										0
+hp5-> test item 5	1			100					2	"weap,nos"	hp5						useitem	200	200	200	corruption	100		15	15																					hp5																																																										0
+mp1 -> test item 6	1			100					2	"weap,nos"	mp1						useitem	200	200	200	corruption	100		16	16																					mp1																																																										0
+mp2 -> test item 7	1			100					2	"weap,nos"	mp2						useitem	200	200	200	corruption	100		17	17																					mp2																																																										0
+mp3 -> test item 8	1			100					2	"weap,nos"	mp3						useitem	200	200	200	corruption	100		18	18																					mp3																																																										0
+mp4 -> test item 9	1			100					2	"weap,nos"	mp4						useitem	200	200	200	corruption	100		19	19																					mp4																																																										0
+mp5 -> test item 10	1			100					2	"weap,nos"	mp5						useitem	200	200	200	corruption	100		20	20																					mp5																																																										0
+id scroll -> test item	1			100					1	isc							glx	200	200	200																										isc																																																										0
+tp scroll -> crf-wep	1			100					1	tsc							gpr	200	200	200																										tsc																																																										0
+nos wep -> test	1			100					1	"weap,nos"							useitem	200	200	200	corruption	100		10	10																																																																															0
+nos armo -> sock	1			100					2	any	isc						"useitem,set"	200	200	200																										isc																																																										0
