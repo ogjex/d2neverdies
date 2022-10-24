@@ -3366,7 +3366,7 @@ Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	15		3	"helm,n
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	16		3	"helm,nos"	glx	gpr					useitem				corruption	100		21	21	res-all	100		10	15																glr																													glr																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	17		3	"helm,nos"	glx	gpr					useitem				corruption	100		21	21	nofreeze	100		1	1																glr																													glr																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	18		3	"helm,nos"	glx	gpr					useitem				corruption	100		21	21	red-dmg%	100		5	10																glr																													glr																													0
-Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,nos"	glx	gpr					useitem				corruption	100		21	21	curse-res	100		10	10																glr																													glr																													0
+Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,nos"	glx	gpr					useitem				corruption	100		21	21	res-pois-len	100		50	50																glr																													glr																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	20		3	"helm,nos"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																glr																													glr																													0
 HELM - W SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
 Helmet Corruption Tracker	1			100	16	361	0		3	"helm,sock"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
@@ -3379,7 +3379,7 @@ Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	14		3	"helm,s
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	16		3	"helm,sock"	glx	gpr					useitem				corruption	100		21	21	res-all	100		10	15																glr																													glr																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	17		3	"helm,sock"	glx	gpr					useitem				corruption	100		21	21	nofreeze	100		1	1																glr																													glr																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	18		3	"helm,sock"	glx	gpr					useitem				corruption	100		21	21	red-dmg%	100		5	10																glr																													glr																													0
-Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,sock"	glx	gpr					useitem				corruption	100		21	21	curse-res	100		10	10																glr																													glr																													0
+Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,sock"	glx	gpr					useitem				corruption	100		21	21	res-pois-len	100		50	50																glr																													glr																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	20		3	"helm,sock"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																glr																													glr																													0
 HELM - NO SOCKETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
 Helmet Corruption Tracker	1			100	16	361	0		3	"helm,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
@@ -3393,7 +3393,7 @@ Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	15		3	"helm,n
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	16		3	"helm,nos"	glx	gpb					useitem				corruption	100		21	21	res-all	100		10	15																glb																													glb																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	17		3	"helm,nos"	glx	gpb					useitem				corruption	100		21	21	nofreeze	100		1	1																glb																													glb																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	18		3	"helm,nos"	glx	gpb					useitem				corruption	100		21	21	red-dmg%	100		5	10																glb																													glb																													0
-Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,nos"	glx	gpb					useitem				corruption	100		21	21	curse-res	100		10	10																glb																													glb																													0
+Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,nos"	glx	gpb					useitem				corruption	100		21	21	res-pois-len	100		50	50																glb																													glb																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	20		3	"helm,nos"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																glb																													glb																													0
 HELM - W SOCKETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
 Helmet Corruption Tracker	1			100	16	361	0		3	"helm,sock"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
@@ -3406,7 +3406,7 @@ Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	14		3	"helm,s
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	16		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	res-all	100		10	15																glb																													glb																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	17		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	nofreeze	100		1	1																glb																													glb																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	18		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	red-dmg%	100		5	10																glb																													glb																													0
-Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	curse-res	100		10	10																glb																													glb																													0
+Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	19		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	res-pois-len	100		50	50																glb																													glb																													0
 Helmet + Glyph -> Corrupted Helmet With Useful Stat	1			100	16	361	20		3	"helm,sock"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																glb																													glb																													0
 SHIELD - NORMAL	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"shld,nor,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
@@ -3439,7 +3439,7 @@ Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	15		3	"shld,n
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	16		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	balance2	100		20	30																glr																													glr																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	17		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	nofreeze	100		1	1																glr																													glr																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	18		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	red-dmg%	100		5	10																glr																													glr																													0
-Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	curse-res	100		10	10																glr																													glr																													0
+Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	res-pois-len	100		50	50																glr																													glr																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	20		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																glr																													glr																													0
 SHIELD - W SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
 Shield Corruption Tracker	1			100	16	361	0		3	"shld,sock"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
@@ -3452,7 +3452,7 @@ Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	14		3	"shld,s
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	16		3	"shld,sock"	glx	gpr					useitem				corruption	100		21	21	balance2	100		20	30																glr																													glr																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	17		3	"shld,sock"	glx	gpr					useitem				corruption	100		21	21	nofreeze	100		1	1																glr																													glr																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	18		3	"shld,sock"	glx	gpr					useitem				corruption	100		21	21	red-dmg%	100		5	10																glr																													glr																													0
-Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,sock"	glx	gpr					useitem				corruption	100		21	21	curse-res	100		10	10																glr																													glr																													0
+Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,sock"	glx	gpr					useitem				corruption	100		21	21	res-pois-len	100		50	50																glr																													glr																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	20		3	"shld,sock"	glx	gpr					useitem				corruption	100		21	21	allskills	100		1	1																glr																													glr																													0
 SHIELD - NO SOCKETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
 Shield Corruption Tracker	1			100	16	361	0		3	"shld,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
@@ -3466,7 +3466,7 @@ Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	15		3	"shld,n
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	16		3	"shld,nos"	glx	gpb					useitem				corruption	100		21	21	balance2	100		20	30																glb																													glb																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	17		3	"shld,nos"	glx	gpb					useitem				corruption	100		21	21	nofreeze	100		1	1																glb																													glb																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	18		3	"shld,nos"	glx	gpb					useitem				corruption	100		21	21	red-dmg%	100		5	10																glb																													glb																													0
-Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,nos"	glx	gpb					useitem				corruption	100		21	21	curse-res	100		10	10																glb																													glb																													0
+Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,nos"	glx	gpb					useitem				corruption	100		21	21	res-pois-len	100		50	50																glb																													glb																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	20		3	"shld,nos"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																glb																													glb																													0
 SHIELD - W SOCKETS - MAGIC AND UP CASTER RECIPE	0																																																																																																							0
 Shield Corruption Tracker	1			100	16	361	0		3	"shld,sock"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
@@ -3479,7 +3479,7 @@ Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	14		3	"shld,s
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	16		3	"shld,sock"	glx	gpb					useitem				corruption	100		21	21	balance2	100		20	30																glb																													glb																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	17		3	"shld,sock"	glx	gpb					useitem				corruption	100		21	21	nofreeze	100		1	1																glb																													glb																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	18		3	"shld,sock"	glx	gpb					useitem				corruption	100		21	21	red-dmg%	100		5	10																glb																													glb																													0
-Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,sock"	glx	gpb					useitem				corruption	100		21	21	curse-res	100		10	10																glb																													glb																													0
+Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	19		3	"shld,sock"	glx	gpb					useitem				corruption	100		21	21	res-pois-len	100		50	50																glb																													glb																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	20		3	"shld,sock"	glx	gpb					useitem				corruption	100		21	21	allskills	100		1	1																glb																													glb																													0
 BOOTS - NORMAL BOOT CATCHER	0																																																																																																							0
 Normal Boots + Glyph -> Corrupted Boots	1			100	16	361	20		3	"boot,nor"	glx	gpr					useitem				corruption	100		21	21																					glr																													glr																													0
@@ -4161,17 +4161,19 @@ Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	leve
 Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
 Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					2	"weap,nos"	hp1						useitem	200	200	200	corruption	100		11	11																					hp1																																																										0
-hp2 -> test item 2	1			100					2	"weap,nos"	hp2						useitem	200	200	200	corruption	100		12	12																					hp2																																																										0
-hp3 -> test item 3	1			100					2	"weap,nos"	hp3						useitem	200	200	200	corruption	100		13	13																					hp3																																																										0
-hp4 -> test item 4	1			100					2	"weap,nos"	hp4						useitem	200	200	200	corruption	100		14	14																					hp4																																																										0
-hp5-> test item 5	1			100					2	"weap,nos"	hp5						useitem	200	200	200	corruption	100		15	15																					hp5																																																										0
-mp1 -> test item 6	1			100					2	"weap,nos"	mp1						useitem	200	200	200	corruption	100		16	16																					mp1																																																										0
-mp2 -> test item 7	1			100					2	"weap,nos"	mp2						useitem	200	200	200	corruption	100		17	17																					mp2																																																										0
-mp3 -> test item 8	1			100					2	"weap,nos"	mp3						useitem	200	200	200	corruption	100		18	18																					mp3																																																										0
-mp4 -> test item 9	1			100					2	"weap,nos"	mp4						useitem	200	200	200	corruption	100		19	19																					mp4																																																										0
-mp5 -> test item 10	1			100					2	"weap,nos"	mp5						useitem	200	200	200	corruption	100		20	20																					mp5																																																										0
+hp1 -> test item 1	1			100					2	"msk,set"	hp1						useitem	200	200	200	corruption	100		1	1																					hp1																																																										0
+hp2 -> test item 2	1			100					2	"msk,set"	hp2						useitem	200	200	200	corruption	100		2	2																					hp2																																																										0
+hp3 -> test item 3	1			100					2	"msk,set"	hp3						useitem	200	200	200	corruption	100		3	3																					hp3																																																										0
+hp4 -> test item 4	1			100					2	"msk,set"	hp4						useitem	200	200	200	corruption	100		4	4																					hp4																																																										0
+hp5-> test item 5	1			100					2	"msk,set"	hp5						useitem	200	200	200	corruption	100		5	5																					hp5																																																										0
+mp1 -> test item 6	1			100					2	"msk,set"	mp1						useitem	200	200	200	corruption	100		6	6																					mp1																																																										0
+mp2 -> test item 7	1			100					2	"msk,set"	mp2						useitem	200	200	200	corruption	100		7	7																					mp2																																																										0
+mp3 -> test item 8	1			100					2	"msk,set"	mp3						useitem	200	200	200	corruption	100		8	8																					mp3																																																										0
+mp4 -> test item 9	1			100					2	"msk,set"	mp4						useitem	200	200	200	corruption	100		9	9																					mp4																																																										0
+mp5 -> test item 10	1			100					2	"msk,set"	mp5						useitem	200	200	200	corruption	100		19	19																					mp5																																																										0
 id scroll -> test item	1			100					1	isc							glx	200	200	200																										isc																																																										0
 tp scroll -> crf-wep	1			100					1	tsc							gpr	200	200	200																										tsc																																																										0
-nos wep -> test	1			100					1	"weap,nos"							useitem	200	200	200	corruption	100		10	10																																																																															0
-nos armo -> sock	1			100					2	any	isc						"useitem,set"	200	200	200																										isc																																																										0
+nos wep -> test	1			100					3	armo	isc	tsc					"chn,set"	200	200	200																										isc																																																										0
+nos armo -> sock	1			100					2	amul	isc						"amu,set"	200	200	200																										isc																																																										0
+nos wep -> test	1			100					2	"msk,set"	tsc						useitem	200	200	200	corruption	100		9	9																					isc																																																										0
+nos armo -> sock	1			100					2	armo	isc						"msk,set"	200	200	200																										isc																																																										0
