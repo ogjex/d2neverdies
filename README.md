@@ -30,4 +30,4 @@ Available at www.diablo2neverdies.com
 - Place the `modinfo.json` file and the folder `data/` from this repository into `mods/d2nd/d2nd.mpq/`.  
 - Start `D2R.exe - Shortcut` with the launch options `-mod d2nd -txt` (instead of `-direct -txt`).  
 
-NOTE: Saved characters for this mod will be in your `Saved Games\Diablo II Resurrected\mods\d2-nd\` folder, not the default `Saved Games\Diablo II Resurrected\` folder.
+NOTE: Saved characters for this mod will be in your `Saved Games\Diablo II Resurrected\mods\d2nd\` folder, not the default `Saved Games\Diablo II Resurrected\` folder.
