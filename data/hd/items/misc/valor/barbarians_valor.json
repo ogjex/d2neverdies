@@ -3,7 +3,7 @@
     "particles": [],
     "models": [
       {
-        "path": "data/hd/items/misc/charm/barbarians_valor/barbarians_valor.model"
+        "path": "data/hd/items/misc/valor/barbarians_valor/barbarians_valor.model"
       }
     ],
     "skeletons": [
@@ -14,13 +14,13 @@
     "animations": [],
     "textures": [
       {
-        "path": "data/hd/items/misc/charm/barbarians_valor/barbarians_valor_ALB.texture"
+        "path": "data/hd/items/misc/valor/barbarians_valor/barbarians_valor_ALB.texture"
       },
       {
-        "path": "data/hd/items/misc/charm/barbarians_valor/barbarians_valor_NRM.texture"
+        "path": "data/hd/items/misc/valor/barbarians_valor/barbarians_valor_NRM.texture"
       },
       {
-        "path": "data/hd/items/misc/charm/barbarians_valor/barbarians_valor_ORM.texture"
+        "path": "data/hd/items/misc/valor/barbarians_valor/barbarians_valor_ORM.texture"
       }
     ],
     "physics": [],
