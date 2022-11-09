@@ -11,17 +11,17 @@ Perfect Gem			1						8pa	3	8pd	3	8pe	3	8pr	3	8ps	3	8pt	3	8pk	3											0
 Bidding A			1						ab1	10	bb1	10	cb1	10	db1	10	eb1	10	fb1	10													0
 Bidding B			1						gb1	10	hb1	10	ib1	10	jb1	10	kb1	10	lb1	10													0
 Bidding C			1						mb1	10	nb1	10	zb1	10	pb1	10	qb1	10															0
-Bidding D			1						rb1	10	sb1		tb1	10	ub1	10	vb1	10															0
+Bidding D			1						rb1	10	sb1	10	tb1	10	ub1	10	vb1	10															0
 Bidding E			1						Bidding A	35	Bidding B	25	Bidding C	25	Bidding D	15																	0
 Bidding A (N)			1						ab2	10	bb2	10	cb2	10	db2	10	eb2	10	fb2	10	Bidding A	50											0
 Bidding B (N)			1						gb2	10	hb2	10	ib2	10	jb2	10	kb2	10	lb2	10	Bidding B	50											0
 Bidding C (N)			1						mb2	10	nb2	10	zb2	10	pb2	10	qb2	10			Bidding C	50											0
 Bidding D (N)			1						rb2	10	sb2	10	tb2	10	ub2	10	vb2	10	aa0	10	Bidding D	50											0
 Bidding E (N)			1						Bidding A (N)	35	Bidding B (N)	25	Bidding C (N)	25	Bidding D (N)	15																	0
-Bidding A (H)			1						ab3	10	bb3	10	cb3	10	db3	10	eb3	10	fb3	10	Bidding A (N)	100											0
-Bidding B (H)			1						gb3	10	hb3	10	ib3	10	jb3	10	kb3	10	lb3	10	Bidding B (N)	100											0
-Bidding C (H)			1						mb3	10	nb3	10	zb3	10	pb3	10	qb3	10			Bidding C (N)	100											0
-Bidding D (H)			1						rb3	10	sb3	10	tb3	10	ub3	10	vb3	10	aa0	10	Bidding D (N)	100											0
+Bidding A (H)			1						ab3	10	bb3	10	cb3	10	db3	10	eb3	10	fb3	10	Bidding A (N)	50											0
+Bidding B (H)			1						gb3	10	hb3	10	ib3	10	jb3	10	kb3	10	lb3	10	Bidding B (N)	50											0
+Bidding C (H)			1						mb3	10	nb3	10	zb3	10	pb3	10	qb3	10			Bidding C (N)	50											0
+Bidding D (H)			1						rb3	10	sb3	10	tb3	10	ub3	10	vb3	10	aa0	10	Bidding D (N)	50											0
 Bidding E (H)			1						Bidding A (H)	35	Bidding B (H)	25	Bidding C (H)	25	Bidding D (H)	15																	0
 Ammo			1						aqv	1	cqv	1																					0
 Misc 0			1						key	3	tsc	3	isc	3																			0
