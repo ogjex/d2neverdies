@@ -3414,14 +3414,14 @@ Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,nor,nos"	glx	gpr					"u
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,nor,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Corruption Tracker	1			100	16	361	0		3	"shld,nor,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,nor,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,nor,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
+Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,nor,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																glb																													glb																													0
 SHIELD - SUPERIOR	0																																																																																																							0
 Corruption Tracker	1			100	16	361	0		3	"shld,hiq,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
 Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,hiq,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
 Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,hiq,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Corruption Tracker	1			100	16	361	0		3	"shld,hiq,nos"	glx	gpb					useitem				corruption	100		1	20																					glx																													gpb																													0
 Shield + Glyph  -> Random Rare	1			100	16	361	5		3	"shld,hiq,nos"	glx	gpb					"usetype,rar"		100	100	corruption	100		21	21																																																																															0
-Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,hiq,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
+Shield + Glyph  -> Corrupted Shield With Sockets	1			100	16	361	20		3	"shld,hiq,nos"	glx	gpb					useitem				sock	100		1	6	corruption	100		21	21																glb																													glb																													0
 SHIELDS - SUPERIOR AND NORMAL SOCKETED CATCHER	0																																																																																																							0
 Shield + Glyph + PRuby -> Corrupted Shield	1			100	16	361	21		3	"shld,hiq,sock"	glx	gpr					useitem				corruption	100		21	21																					glr																													glr																													0
 Shield + Glyph + PRuby -> Corrupted Shield	1			100	16	361	21		3	"shld,nor,sock"	glx	gpr					useitem				corruption	100		21	21																					glr																													glr																													0
@@ -3429,7 +3429,7 @@ Shield + Glyph + PSapph -> Corrupted Shield	1			100	16	361	21		3	"shld,hiq,sock"
 Shield + Glyph + PSapph -> Corrupted Shield	1			100	16	361	21		3	"shld,nor,sock"	glx	gpb					useitem				corruption	100		21	21																					glb																													glb																													0
 SHIELD - NO SOCKETS - MAGIC AND UP COMBAT RECIPE	0																																																																																																							0
 Shield Corruption Tracker	1			100	16	361	0		3	"shld,nos"	glx	gpr					useitem				corruption	100		1	20																					glx																													gpr																													0
-Shield + Glyph -> Corrupted Shield With Sockets	1			100	16	361	5		3	"shld,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																																																																										0
+Shield + Glyph -> Corrupted Shield With Sockets	1			100	16	361	5		3	"shld,nos"	glx	gpr					useitem				sock	100		1	6	corruption	100		21	21																glr																													glr																													0
 Shield + Glyph -> Random Rare	1			100	16	361	10		3	"shld,nos"	glx	gpr					"usetype,rar"		100	100	corruption	100		21	21																					glr																													glr																													0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	11		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	ac%	100		50	80	indestruct	100		1	1																																																																					0
 Shield + Glyph -> Corrupted Shield With Useful Stat	1			100	16	361	12		3	"shld,nos"	glx	gpr					useitem				corruption	100		21	21	regen	100		25	30																glr																													glr																													0
@@ -4161,8 +4161,8 @@ Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	leve
 Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
 Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					2	"amu,set"	hp1						useitem	200	200	200	corruption	100		1	1																					hp1																																																										0
-hp2 -> test item 2	1			100					2	"amu,set"	hp2						useitem	200	200	200	corruption	100		2	2																					hp2																																																										0
+hp1 -> test item 1	1			100					2	"weap,any"	hp1						useitem	200	200	200	indestruct	100		1	1																					hp1																																																										0
+hp2 -> test item 2	1			100					2	"weap,any"	hp2						useitem	200	200	200	indestruct	100		-1	-1																					hp2																																																										0
 hp3 -> test item 3	1			100					2	"amu,set"	hp3						useitem	200	200	200	corruption	100		3	3																					hp3																																																										0
 hp4 -> test item 4	1			100					2	"amu,set"	hp4						useitem	200	200	200	corruption	100		4	4																					hp4																																																										0
 hp5-> test item 5	1			100					2	"amu,set"	hp5						useitem	200	200	200	corruption	100		5	5																					hp5																																																										0
