@@ -1,5 +1,11 @@
 # Recent patch changes
 
+## v1.0.2
+Fix for the following issues:
+
+- Flawless gems transmuting to Perfect
+- Forging anything but set weapons and armor failed
+
 ## v1.0.1
 
 Minor update with fixes for:
