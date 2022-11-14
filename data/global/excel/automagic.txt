@@ -35,218 +35,218 @@ of Blight	100	1	1	1		3				3	305	pois-min		8	8	pois-max		24	24	pois-len		75	75		a
 of Venom	100	1	1	15		11				2	305	pois-min		16	16	pois-max		48	48	pois-len		75	75		armo	weap											0	0
 of Pestilence	100	1	1	25		18				2	305	pois-min		32	32	pois-max		72	72	pois-len		100	100		armo	weap											0	0
 of Anthrax	100	1		33		25				2	305	pois-min		64	64	pois-max		128	128	pois-len		100	100		armo	weap											0	0
-Splashing	100	1	1	1		1				1	306	splash	SplashDamage	100	1										armo	weap											0	0
-Base Staff	100	1	1	1		1				1	307	cast2		10	10	regen-mana		0	10	red-dmg		0	6		armo	weap											0	0
-Exceptional Staff	100	1	1	1		1				1	308	cast2		30	30	regen-mana		15	20	red-dmg		10	16		armo	weap											0	0
-Elite Staff	100	1	1	1		1				1	309	cast2		50	50	regen-mana		25	30	red-dmg		20	30		armo	weap											0	0
-Sharp Knife	100	1	1	1		1				1	310	deadly		20	20	splash	proc_SplashDamage	100	1						armo	weap											0	0
-Crushing Crossbow	100	1	1	1		1				1	311	crush		10	10	dmg%		50	50						armo	weap											0	0
-Shinobi Throwing Knife	100	1	1	1		1				1	312	deadly		20	20	rep-quant	60			pierce		20	20		armo	weap											0	0
-Replenish Quantity	100	1	1	1		1				1	313	rep-quant	60												weap												0	0
-Acrobat's Light Armor 1	100	1	1	10	30	5				4	330	move2		2	4	red-dmg		0	1						armo	weap											0	0
-Acrobat's Light Armor 2	100	1	1	18	42	13				3	330	move2		3	5	red-dmg		1	2						armo	weap											0	0
-Acrobat's Light Armor 3	100	1	1	30		23				2	330	move2		4	7	red-dmg		2	4						armo	weap											0	0
-Acrobat's Light Armor 4	100	1	1	42		34				2	330	move2		5	8	red-dmg		3	5						armo	weap											0	0
-Acrobat's Light Armor 5	100	1	1	50		42				1	330	move2		6	9	red-dmg		4	6						armo	weap											0	0
-Caster's Armor 1	100	1	1	10	30	5				4	330	cast2		2	5	red-mag		0	2						armo	weap											0	0
-Caster's Armor 2	100	1	1	18	42	13				3	330	cast2		3	7	red-mag		1	4						armo	weap											0	0
-Caster's Armor 3	100	1	1	30		23				2	330	cast2		4	8	red-mag		2	4						armo	weap											0	0
-Caster's Armor 4	100	1	1	42		34				2	330	cast2		5	10	red-mag		3	5						armo	weap											0	0
-Caster's Armor 5	100	1	1	50		42				1	330	cast2		7	12	red-mag		4	6						armo	weap											0	0
-Brawler's Armor 1	100	1	1	10	30	5				4	331	red-dmg%		0	2	red-dmg		1	2						armo	weap											0	0
-Brawler's Armor 2	100	1	1	18	42	13				3	331	red-dmg%		1	3	red-dmg		2	4						armo	weap											0	0
-Brawler's Armor 3	100	1	1	30		23				2	331	red-dmg%		2	4	red-dmg		3	6						armo	weap											0	0
-Brawler's Armor 4	100	1	1	42		34				2	331	red-dmg%		3	5	red-dmg		4	7						armo	weap											0	0
-Brawler's Armor 5	100	1	1	50		42				1	331	red-dmg%		4	6	red-dmg		5	8						armo	weap											0	0
-Battle Mage's Armor 1	100	1	1	10	30	5				4	332	cast2		2	5	red-dmg		1	2						armo	weap											0	0
-Battle Mage's Armor 2	100	1	1	18	42	13				3	332	cast2		3	7	red-dmg		2	4						armo	weap											0	0
-Battle Mage's Armor 3	100	1	1	30		23				2	332	cast2		4	8	red-dmg		3	6						armo	weap											0	0
-Battle Mage's Armor 4	100	1	1	42		34				2	332	cast2		5	10	red-dmg		4	7						armo	weap											0	0
-Battle Mage's Armor 5	100	1	1	50		42				1	332	cast2		7	12	red-dmg		5	8						armo	weap											0	0
-Battle Mage's Armor 6	100	1	1	10	30	5				4	332	red-dmg%		0	2	red-mag		0	2						armo	weap											0	0
-Battle Mage's Armor 7	100	1	1	18	42	13				3	332	red-dmg%		1	3	red-mag		1	4						armo	weap											0	0
-Battle Mage's Armor 8	100	1	1	30		23				2	332	red-dmg%		2	4	red-mag		2	4						armo	weap											0	0
-Battle Mage's Armor 9	100	1	1	42		34				2	332	red-dmg%		3	5	red-mag		3	5						armo	weap											0	0
-Battle Mage's Armor 10	100	1	1	50		42				1	332	red-dmg%		4	6	red-mag		4	6						armo	weap											0	0
-Acrobat's Boots 1	100	1	1	10	30	5				4	333	move2		1	4										armo	weap											0	0
-Acrobat's Boots 2	100	1	1	18	42	13				3	333	move2		2	6										armo	weap											0	0
-Acrobat's Boots 3	100	1	1	30		23				2	333	move2		3	7										armo	weap											0	0
-Acrobat's Boots 4	100	1	1	42		34				2	333	move2		4	8										armo	weap											0	0
-Acrobat's Boots 5	100	1	1	50		42				1	333	move2		5	10										armo	weap											0	0
-Caster's Boots 1	100	1	1	10	30	5				4	333	mana%		1	3										armo	weap											0	0
-Caster's Boots 2	100	1	1	18	42	13				3	333	mana%		2	4										armo	weap											0	0
-Caster's Boots 3	100	1	1	30		23				2	333	mana%		3	5										armo	weap											0	0
-Caster's Boots 4	100	1	1	42		34				2	333	mana%		4	7										armo	weap											0	0
-Caster's Boots 5	100	1	1	50		42				1	333	mana%		5	8										armo	weap											0	0
-Brawler's Boots 1	100	1	1	10	30	5				4	333	swing2		2	5										armo	weap											0	0
-Brawler's Boots 2	100	1	1	18	42	13				3	333	swing2		3	6										armo	weap											0	0
-Brawler's Boots 3	100	1	1	30		23				2	333	swing2		4	7										armo	weap											0	0
-Brawler's Boots 4	100	1	1	42		34				2	333	swing2		5	8										armo	weap											0	0
-Brawler's Boots 5	100	1	1	50		42				1	333	swing2		6	9										armo	weap											0	0
-Acrobat's Gloves 1	100	1	1	10	30	5				4	334	att		10	15										armo	weap											0	0
-Acrobat's Gloves 2	100	1	1	18	42	13				3	334	att		20	25										armo	weap											0	0
-Acrobat's Gloves 3	100	1	1	30		23				2	334	att		30	35										armo	weap											0	0
-Acrobat's Gloves 4	100	1	1	42		34				2	334	att		40	45										armo	weap											0	0
-Acrobat's Gloves 5	100	1	1	50		42				1	334	att		50	55										armo	weap											0	0
-Caster's Gloves 1	100	1	1	10	30	5				4	334	regen-mana		2	5										armo	weap											0	0
-Caster's Gloves 2	100	1	1	18	42	13				3	334	regen-mana		3	6										armo	weap											0	0
-Caster's Gloves 3	100	1	1	30		23				2	334	regen-mana		4	7										armo	weap											0	0
-Caster's Gloves 4	100	1	1	42		34				2	334	regen-mana		5	8										armo	weap											0	0
-Caster's Gloves 5	100	1	1	50		42				1	334	regen-mana		6	9										armo	weap											0	0
-Brawler's Gloves 1	100	1	1	10	30	5				4	334	dmg%		2	5										armo	weap											0	0
-Brawler's Gloves 2	100	1	1	18	42	13				3	334	dmg%		3	6										armo	weap											0	0
-Brawler's Gloves 3	100	1	1	30		23				2	334	dmg%		4	7										armo	weap											0	0
-Brawler's Gloves 4	100	1	1	42		34				2	334	dmg%		5	8										armo	weap											0	0
-Brawler's Gloves 5	100	1	1	50		42				1	334	dmg%		6	9										armo	weap											0	0
-Acrobat's Belt 1	100	1	1	10	30	5				4	335	balance2		2	5										armo	weap											0	0
-Acrobat's Belt 2	100	1	1	18	42	13				3	335	balance2		3	6										armo	weap											0	0
-Acrobat's Belt 3	100	1	1	30		23				2	335	balance2		4	7										armo	weap											0	0
-Acrobat's Belt 4	100	1	1	42		34				2	335	balance2		5	8										armo	weap											0	0
-Acrobat's Belt 5	100	1	1	50		42				1	335	balance2		6	9										armo	weap											0	0
-Caster's Belt 1	100	1	1	10	30	5				4	335	mana-kill		1	2										armo	weap											0	0
-Caster's Belt 2	100	1	1	18	42	13				3	335	mana-kill		2	2										armo	weap											0	0
-Caster's Belt 3	100	1	1	30		23				2	335	mana-kill		2	3										armo	weap											0	0
-Caster's Belt 4	100	1	1	42		34				2	335	mana-kill		3	3										armo	weap											0	0
-Caster's Belt 5	100	1	1	50		42				1	335	mana-kill		3	4										armo	weap											0	0
-Brawler's Belt 1	100	1	1	10	30	5				4	335	heal-kill		1	2										armo	weap											0	0
-Brawler's Belt 2	100	1	1	18	42	13				3	335	heal-kill		2	2										armo	weap											0	0
-Brawler's Belt 3	100	1	1	30		23				2	335	heal-kill		2	3										armo	weap											0	0
-Brawler's Belt 4	100	1	1	42		34				2	335	heal-kill		3	3										armo	weap											0	0
-Brawler's Belt 5	100	1	1	50		42				1	335	heal-kill		3	4										armo	weap											0	0
-Acrobat's Helmet 1	100	1	1	10	30	5				4	336	regen		1	2	ac-miss		10	15						armo	weap											0	0
-Acrobat's Helmet 2	100	1	1	18	42	13				3	336	regen		2	2	ac-miss		20	25						armo	weap											0	0
-Acrobat's Helmet 3	100	1	1	30		23				2	336	regen		2	3	ac-miss		30	35						armo	weap											0	0
-Acrobat's Helmet 4	100	1	1	42		34				2	336	regen		3	3	ac-miss		40	45						armo	weap											0	0
-Acrobat's Helmet 5	100	1	1	50		42				1	336	regen		3	4	ac-miss		50	55						armo	weap											0	0
-Caster's Helmet 1	100	1	1	10	30	5				4	336	dmg-to-mana		2	5										armo	weap											0	0
-Caster's Helmet 2	100	1	1	18	42	13				3	336	dmg-to-mana		3	6										armo	weap											0	0
-Caster's Helmet 3	100	1	1	30		23				2	336	dmg-to-mana		4	7										armo	weap											0	0
-Caster's Helmet 4	100	1	1	42		34				2	336	dmg-to-mana		5	8										armo	weap											0	0
-Caster's Helmet 5	100	1	1	50		42				1	336	dmg-to-mana		6	9										armo	weap											0	0
-Brawler's Helmet 1	100	1	1	10	30	5				4	336	ac%		10	15	ac-hth		10	15						armo	weap											0	0
-Brawler's Helmet 2	100	1	1	18	42	13				3	336	ac%		15	20	ac-hth		20	25						armo	weap											0	0
-Brawler's Helmet 3	100	1	1	30		23				2	336	ac%		20	25	ac-hth		30	35						armo	weap											0	0
-Brawler's Helmet 4	100	1	1	42		34				2	336	ac%		25	30	ac-hth		40	45						armo	weap											0	0
-Brawler's Helmet 5	100	1	1	50		42				1	336	ac%		28	30	ac-hth		50	55						armo	weap											0	0
-Swift Shield 1	100	1	1	18	42	13				4	337	block2		4	6										armo	weap											0	0
-Swift Shield 2	100	1	1	30		23				3	337	block2		6	8										armo	weap											0	0
-Swift Shield 3	100	1	1	42		34				2	337	block2		8	10										armo	weap											0	0
-Swift Shield 4	100	1	1	50		42				1	337	block2		10	12										armo	weap											0	0
-Barrier Shield 1	100	1	1	18	42	13				4	337	block		2	4										armo	weap											0	0
-Barrier Shield 2	100	1	1	30		23				3	337	block		4	6										armo	weap											0	0
-Barrier Shield 3	100	1	1	42		34				2	337	block		6	8										armo	weap											0	0
-Barrier Shield 4	100	1	1	50		42				1	337	block		8	10										armo	weap											0	0
-Swiftest Shield 1	100	1	1	18	42	13				4	338	block2		6	8										armo	weap											0	0
-Swiftest Shield 2	100	1	1	30		23				3	338	block2		8	10										armo	weap											0	0
-Swiftest Shield 3	100	1	1	42		34				2	338	block2		10	12										armo	weap											0	0
-Swiftest Shield 4	100	1	1	50		42				1	338	block2		12	15										armo	weap											0	0
-Caster's Shield 1	100	1	1	18	42	13				4	339	regen-mana		2	5	dmg-to-mana		2	5						armo	weap											0	0
-Caster's Shield 2	100	1	1	30		23				3	339	regen-mana		3	6	dmg-to-mana		3	6						armo	weap											0	0
-Caster's Shield 3	100	1	1	42		34				2	339	regen-mana		4	7	dmg-to-mana		4	7						armo	weap											0	0
-Caster's Shield 4	100	1	1	50		42				1	339	regen-mana		5	8	dmg-to-mana		5	8						armo	weap											0	0
-Reflecting Shield 1	100	1	1	18	42	13				4	340	thorns		6	9	att		10	15						armo	weap											0	0
-Reflecting Shield 2	100	1	1	30		23				3	340	thorns		20	30	att		20	25						armo	weap											0	0
-Reflecting Shield 3	100	1	1	42		34				2	340	thorns		30	50	att		30	35						armo	weap											0	0
-Reflecting Shield 4	100	1	1	50		42				1	340	thorns		50	60	att		40	45						armo	weap											0	0
-Splashing - Ranged	100	1	1	1		1				1	341	splash	proc_SplashDamage	100	1	rep-quant	60								armo	weap											0	0
-Splashing - Ama	100	1	1	1		1				1	342	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	1	1				armo	weap											0	0
-Splashing - Ama	100	1	1	1		1				1	343	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	2	2				armo	weap											0	0
-Splashing - Ama	100	1	1	1		1				1	344	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	3	3				armo	weap											0	0
-Strong Bidding	100	1	1							1	345	str		2	2	infusion-cost		2	2	lvl-cost		1	1		snb1	bidd											0	0
-Sturdy Bidding	100	1	1							1	346	str		4	4	infusion-cost		3	3	lvl-cost		4	4		snb2	bidd											0	0
-Burly Bidding	100	1	1							1	347	str		6	6	infusion-cost		3	3	lvl-cost		6	6		snb3	bidd											0	0
-Agile Bidding	100	1	1							1	348	dex		2	2	infusion-cost		2	2	lvl-cost		1	1		dxb1	bidd											0	0
-Nimble Bidding	100	1	1							1	349	dex		4	4	infusion-cost		3	3	lvl-cost		4	4		dxb2	bidd											0	0
-Dexterous Bidding	100	1	1							1	350	dex		6	6	infusion-cost		3	3	lvl-cost		6	6		dxb3	bidd											0	0
-Vital Bidding	100	1	1							1	351	vit		6	6	infusion-cost		2	2	lvl-cost		1	1		vib1	bidd											0	0
-Vibrous Bidding	100	1	1							1	352	vit		4	4	infusion-cost		3	3	lvl-cost		4	4		vib2	bidd											0	0
-Enduring Bidding	100	1	1							1	353	vit		8	8	infusion-cost		3	3	lvl-cost		6	6		vib3	bidd											0	0
-Energetic Bidding	100	1	1							1	354	enr		4	4	infusion-cost		2	2	lvl-cost		1	1		enb1	bidd											0	0
-Bright Bidding	100	1	1							1	355	enr		8	8	infusion-cost		3	3	lvl-cost		4	4		enb2	bidd											0	0
-Spirited Bidding	100	1	1							1	356	enr		12	12	infusion-cost		3	3	lvl-cost		6	6		enb3	bidd											0	0
-Lively Bidding	100	1	1							1	357	hp		10	10	infusion-cost		2	2	lvl-cost		1	1		lib1	bidd											0	0
-Splendid Bidding	100	1	1							1	358	hp		20	20	infusion-cost		3	3	lvl-cost		4	4		lib2	bidd											0	0
-Vibrant Bidding	100	1	1							1	359	hp		30	30	infusion-cost		3	3	lvl-cost		6	6		lib3	bidd											0	0
-Dashing Bidding	100	1	1							1	360	mana		10	10	infusion-cost		2	2	lvl-cost		1	1		mab1	bidd											0	0
-Passionate Bidding	100	1	1							1	361	mana		20	20	infusion-cost		3	3	lvl-cost		4	4		mab2	bidd											0	0
-Vidid Bidding	100	1	1							1	362	mana		30	30	infusion-cost		3	3	lvl-cost		6	6		mab3	bidd											0	0
-Lucky Bidding	100	1	1							1	363	mag%		5	5	infusion-cost		2	2	lvl-cost		1	1		mfb1	bidd											0	0
-Fortunate Bidding	100	1	1							1	364	mag%		15	15	infusion-cost		3	3	lvl-cost		4	4		mfb2	bidd											0	0
-Blessed BIdding	100	1	1							1	365	mag%		25	25	infusion-cost		3	3	lvl-cost		6	6		mfb3	bidd											0	0
-Greedy Bidding	100	1	1							1	366	gold%		20	20	infusion-cost		2	2	lvl-cost		1	1		gob1	bidd											0	0
-Gluttenous Bidding	100	1	1							1	367	gold%		40	40	infusion-cost		3	3	lvl-cost		4	4		gob2	bidd											0	0
-Insatiable Bidding	100	1	1							1	368	gold%		60	60	infusion-cost		3	3	lvl-cost		6	6		gob3	bidd											0	0
-Accurate Bidding	100	1	1							1	369	att		20	20	infusion-cost		2	2	lvl-cost		1	1		arb1	bidd											0	0
-Precise BIdding	100	1	1							1	370	att		40	40	infusion-cost		3	3	lvl-cost		4	4		arb2	bidd											0	0
-Exact Bidding	100	1	1							1	371	att		60	60	infusion-cost		3	3	lvl-cost		6	6		arb3	bidd											0	0
-Powerful Bidding	100	1	1							1	372	dmg-max		2	2	infusion-cost		2	2	lvl-cost		1	1		dmb1	bidd											0	0
-Harmful Bidding	100	1	1							1	373	dmg-max		5	5	infusion-cost		3	3	lvl-cost		4	4		dmb2	bidd											0	0
-Forceful Bidding	100	1	1							1	374	dmg-max		10	10	infusion-cost		3	3	lvl-cost		6	6		dmb3	bidd											0	0
-Dodgy Bidding	100	1	1							1	375	balance2		4	4	infusion-cost		2	2	lvl-cost		1	1		hrb1	bidd											0	0
-Avoiding Bidding	100	1	1							1	376	balance2		8	8	infusion-cost		3	3	lvl-cost		4	4		hrb2	bidd											0	0
-Evading Bidding	100	1	1							1	377	balance2		12	12	infusion-cost		3	3	lvl-cost		6	6		hrb3	bidd											0	0
-Defending Bidding	100	1	1							1	378	ac%		30	30	infusion-cost		2	2	lvl-cost		1	1		acb1	bidd											0	0
-Guarding Bidding	100	1	1							1	379	ac%		60	60	infusion-cost		3	3	lvl-cost		4	4		acb2	bidd											0	0
-Shielding Bidding	100	1	1							1	380	ac%		90	90	infusion-cost		3	3	lvl-cost		6	6		acb3	bidd											0	0
-Insulating Bidding	100	1	1							1	381	res-fire		3	3	infusion-cost		4	4	lvl-cost		1	1		rfb1	bidd											0	0
-Enclosed Bidding	100	1	1							1	382	res-fire		6	6	infusion-cost		6	6	lvl-cost		4	4		rfb2	bidd											0	0
-Heatproof Bidding	100	1	1							1	383	res-fire		9	9	infusion-cost		6	6	lvl-cost		6	6		rfb3	bidd											0	0
-Chunky Bidding	100	1	1							1	384	res-cold		3	3	infusion-cost		4	4	lvl-cost		1	1		rcb1	bidd											0	0
-Crystal Bidding	100	1	1							1	385	res-cold		6	6	infusion-cost		6	6	lvl-cost		4	4		rcb2	bidd											0	0
-Diamond Bidding	100	1	1							1	386	res-cold		9	9	infusion-cost		6	6	lvl-cost		6	6		rcb3	bidd											0	0
-Grounded Bidding	100	1	1							1	387	res-ltng		3	3	infusion-cost		4	4	lvl-cost		1	1		rlb1	bidd											0	0
-Conductive Bidding	100	1	1							1	388	res-ltng		6	6	infusion-cost		6	6	lvl-cost		4	4		rlb2	bidd											0	0
-Arrested Bidding	100	1	1							1	389	res-ltng		9	9	infusion-cost		6	6	lvl-cost		6	6		rlb3	bidd											0	0
-Neutralizing Bidding	100	1	1							1	390	res-pois		3	3	infusion-cost		4	4	lvl-cost		1	1		rpb1	bidd											0	0
-Antitoxic Bidding	100	1	1							1	391	res-pois		6	6	infusion-cost		6	6	lvl-cost		4	4		rpb2	bidd											0	0
-Remedying Bidding	100	1	1							1	392	res-pois		9	9	infusion-cost		6	6	lvl-cost		6	6		rpb3	bidd											0	0
-Scintillating Bidding	100	1	1							1	393	res-all		1	1	infusion-cost		4	4	lvl-cost		1	1		rab1	bidd											0	0
-Prismatic Bidding	100	1	1							1	394	res-all		3	3	infusion-cost		6	6	lvl-cost		4	4		rab2	bidd											0	0
-Chromatic Bidding	100	1	1							1	395	res-all		5	5	infusion-cost		6	6	lvl-cost		6	6		rab3	bidd											0	0
-Quick Bidding	100	1	1							1	396	move2		3	3	infusion-cost		4	4	lvl-cost		1	1		rwb1	bidd											0	0
-Swift Bidding	100	1	1							1	397	move2		6	6	infusion-cost		6	6	lvl-cost		4	4		rwb2	bidd											0	0
-Speedy Bidding	100	1	1							1	398	move2		9	9	infusion-cost		6	6	lvl-cost		6	6		rwb3	bidd											0	0
-Warm Bidding	100	1	1							1	399	dmg-fire		4	6	infusion-cost		2	2	lvl-cost		1	1		dfb1	bidd											0	0
-Hot Bidding	100	1	1							1	400	dmg-fire		12	16	infusion-cost		3	3	lvl-cost		4	4		dfb2	bidd											0	0
-Scalding Bidding	100	1	1							1	401	dmg-fire		32	46	infusion-cost		3	3	lvl-cost		6	6		dfb3	bidd											0	0
-Cold Bidding	100	1	1							1	402	dmg-cold		2	4	infusion-cost		2	2	lvl-cost		1	1		dcb1	bidd											0	0
-Icy Bidding	100	1	1							1	403	dmg-cold		8	16	infusion-cost		3	3	lvl-cost		4	4		dcb2	bidd											0	0
-Freezing Bidding	100	1	1							1	404	dmg-cold		18	36	infusion-cost		3	3	lvl-cost		6	6		dcb3	bidd											0	0
-Noisy Bidding	100	1	1							1	405	dmg-ltng		1	9	infusion-cost		2	2	lvl-cost		1	1		dlb1	bidd											0	0
-Eerie Bidding	100	1	1							1	406	dmg-ltng		1	18	infusion-cost		3	3	lvl-cost		4	4		dlb2	bidd											0	0
-Electrical Bidding	100	1	1							1	407	dmg-ltng		1	36	infusion-cost		3	3	lvl-cost		6	6		dlb3	bidd											0	0
-Uneasy Bidding	100	1	1							1	408	dmg-pois	75	16	16	infusion-cost		2	2	lvl-cost		1	1		dpb1	bidd											0	0
-Sick Bidding	100	1	1							1	409	dmg-pois	75	32	32	infusion-cost		3	3	lvl-cost		4	4		dpb2	bidd											0	0
-Nauseating Bidding	100	1	1							1	410	dmg-pois	75	64	64	infusion-cost		3	3	lvl-cost		6	6		dpb3	bidd											0	0
-Skillful Bidding	100	1	1							1	411														skbi	bidd											0	0
-Javelin Bidding	100	1	1							1	412	skilltab	2	1	1	infusion-cost		4	4	lvl-cost		4	4		nsbi	bidd											0	0
-Bow Bidding	100	1	1							1	413	skilltab	0	1	1	infusion-cost		4	4	lvl-cost		4	4		nbbi	bidd											0	0
-Passive Bidding	100	1	1							1	414	skilltab	1	1	1	infusion-cost		4	4	lvl-cost		4	4		ncbi	bidd											0	0
-Traps Bidding	100	1	1							1	415	skilltab	48	1	1	infusion-cost		4	4	lvl-cost		4	4		atbi	bidd											0	0
-Martial Arts Bidding	100	1	1							1	416	skilltab	50	1	1	infusion-cost		4	4	lvl-cost		4	4		ambi	bidd											0	0
-Shadow Bidding	100	1	1							1	417	skilltab	49	1	1	infusion-cost		4	4	lvl-cost		4	4		asbi	bidd											0	0
-Combat Bidding	100	1	1							1	418	skilltab	32	1	1	infusion-cost		4	4	lvl-cost		4	4		bcbi	bidd											0	0
-Mastery Bidding	100	1	1							1	419	skilltab	33	1	1	infusion-cost		4	4	lvl-cost		4	4		bmbi	bidd											0	0
-Warcry Bidding	100	1	1							1	420	skilltab	34	1	1	infusion-cost		4	4	lvl-cost		4	4		bwbi	bidd											0	0
-Elemental Bidding	100	1	1							1	421	skilltab	42	1	1	infusion-cost		4	4	lvl-cost		4	4		pcbi	bidd											0	0
-Summon Bidding	100	1	1							1	422	skilltab	40	1	1	infusion-cost		4	4	lvl-cost		4	4		pdbi	bidd											0	0
-Shapeshifter Bidding	100	1	1							1	423	skilltab	41	1	1	infusion-cost		4	4	lvl-cost		4	4		pobi	bidd											0	0
-Summon Bidding	100	1	1							1	424	skilltab	18	1	1	infusion-cost		4	4	lvl-cost		4	4		sfbi	bidd											0	0
-Bone Bidding	100	1	1							1	425	skilltab	17	1	1	infusion-cost		4	4	lvl-cost		4	4		slbi	bidd											0	0
-Curse Bidding	100	1	1							1	426	skilltab	16	1	1	infusion-cost		4	4	lvl-cost		4	4		scbi	bidd											0	0
-Combat Bidding	100	1	1							1	427	skilltab	24	1	1	infusion-cost		4	4	lvl-cost		4	4		debi	bidd											0	0
-Defensive Bidding	100	1	1							1	428	skilltab	26	1	1	infusion-cost		4	4	lvl-cost		4	4		dsbi	bidd											0	0
-Offensive Bidding	100	1	1							1	429	skilltab	25	1	1	infusion-cost		4	4	lvl-cost		4	4		dhbi	bidd											0	0
-Fire Bidding	100	1	1							1	430	skilltab	8	1	1	infusion-cost		4	4	lvl-cost		4	4		ajbi	bidd											0	0
-Lightning Bidding	100	1	1							1	431	skilltab	9	1	1	infusion-cost		4	4	lvl-cost		4	4		abbi	bidd											0	0
-Cold Bidding	100	1	1							1	432	skilltab	10	1	1	infusion-cost		4	4	lvl-cost		4	4		apbi	bidd											0	0
-Fence Apprentice	100	1	1							3	433	deadly		3	5	block2		2	4	splash	proc_SplashDamage	100	1		armo	weap												
-Fence Novice	100	1	1							2	433	deadly		5	8	block2		4	6	splash	proc_SplashDamage	100	1		armo	weap												
-Fence Master	100	1	1							1	433	deadly		8	12	block2		6	8	splash	proc_SplashDamage	100	1		armo	weap												
-Peasants	100	1	1							3	434	crush		3	5	openwounds		3	5	splash	proc_SplashDamage	100	1		armo	weap												
-Farmers	100	1	1							2	434	crush		5	8	openwounds		5	8	splash	proc_SplashDamage	100	1		armo	weap												
-Ranchers	100	1	1							1	434	crush		8	12	openwounds		8	12	splash	proc_SplashDamage	100	1		armo	weap												
-Necro Blight	100	1	1							3	435	pierce-pois		1	2										armo	weap												
-Necro Venom	100	1	1							3	435	pierce-pois		3	4										armo	weap												
-Necro Pestilence	100	1	1							2	435	pierce-pois		5	6										armo	weap												
-Necro Anthrax	100	1	1							1	435	pierce-pois		6	7										armo	weap												
+Splashing	100	1	1	1		1				1	506	splash	SplashDamage	100	1										armo	weap											0	0
+Base Staff	100	1	1	1		1				1	507	cast2		10	10	regen-mana		0	10	red-dmg		0	6		armo	weap											0	0
+Exceptional Staff	100	1	1	1		1				1	508	cast2		30	30	regen-mana		15	20	red-dmg		10	16		armo	weap											0	0
+Elite Staff	100	1	1	1		1				1	509	cast2		50	50	regen-mana		25	30	red-dmg		20	30		armo	weap											0	0
+Sharp Knife	100	1	1	1		1				1	510	deadly		20	20	splash	proc_SplashDamage	100	1						armo	weap											0	0
+Crushing Crossbow	100	1	1	1		1				1	511	crush		10	10	dmg%		50	50						armo	weap											0	0
+Shinobi Throwing Knife	100	1	1	1		1				1	512	deadly		20	20	rep-quant	60			pierce		20	20		armo	weap											0	0
+Replenish Quantity	100	1	1	1		1				1	513	rep-quant	60												weap												0	0
+Acrobat's Light Armor 1	100	1	1	10	30	5				4	530	move2		2	4	red-dmg		0	1						armo	weap											0	0
+Acrobat's Light Armor 2	100	1	1	18	42	13				3	530	move2		3	5	red-dmg		1	2						armo	weap											0	0
+Acrobat's Light Armor 3	100	1	1	30		23				2	530	move2		4	7	red-dmg		2	4						armo	weap											0	0
+Acrobat's Light Armor 4	100	1	1	42		34				2	530	move2		5	8	red-dmg		3	5						armo	weap											0	0
+Acrobat's Light Armor 5	100	1	1	50		42				1	530	move2		6	9	red-dmg		4	6						armo	weap											0	0
+Caster's Armor 1	100	1	1	10	30	5				4	530	cast2		2	5	red-mag		0	2						armo	weap											0	0
+Caster's Armor 2	100	1	1	18	42	13				3	530	cast2		3	7	red-mag		1	4						armo	weap											0	0
+Caster's Armor 3	100	1	1	30		23				2	530	cast2		4	8	red-mag		2	4						armo	weap											0	0
+Caster's Armor 4	100	1	1	42		34				2	530	cast2		5	10	red-mag		3	5						armo	weap											0	0
+Caster's Armor 5	100	1	1	50		42				1	530	cast2		7	12	red-mag		4	6						armo	weap											0	0
+Brawler's Armor 1	100	1	1	10	30	5				4	531	red-dmg%		0	2	red-dmg		1	2						armo	weap											0	0
+Brawler's Armor 2	100	1	1	18	42	13				3	531	red-dmg%		1	3	red-dmg		2	4						armo	weap											0	0
+Brawler's Armor 3	100	1	1	30		23				2	531	red-dmg%		2	4	red-dmg		3	6						armo	weap											0	0
+Brawler's Armor 4	100	1	1	42		34				2	531	red-dmg%		3	5	red-dmg		4	7						armo	weap											0	0
+Brawler's Armor 5	100	1	1	50		42				1	531	red-dmg%		4	6	red-dmg		5	8						armo	weap											0	0
+Battle Mage's Armor 1	100	1	1	10	30	5				4	532	cast2		2	5	red-dmg		1	2						armo	weap											0	0
+Battle Mage's Armor 2	100	1	1	18	42	13				3	532	cast2		3	7	red-dmg		2	4						armo	weap											0	0
+Battle Mage's Armor 3	100	1	1	30		23				2	532	cast2		4	8	red-dmg		3	6						armo	weap											0	0
+Battle Mage's Armor 4	100	1	1	42		34				2	532	cast2		5	10	red-dmg		4	7						armo	weap											0	0
+Battle Mage's Armor 5	100	1	1	50		42				1	532	cast2		7	12	red-dmg		5	8						armo	weap											0	0
+Battle Mage's Armor 6	100	1	1	10	30	5				4	532	red-dmg%		0	2	red-mag		0	2						armo	weap											0	0
+Battle Mage's Armor 7	100	1	1	18	42	13				3	532	red-dmg%		1	3	red-mag		1	4						armo	weap											0	0
+Battle Mage's Armor 8	100	1	1	30		23				2	532	red-dmg%		2	4	red-mag		2	4						armo	weap											0	0
+Battle Mage's Armor 9	100	1	1	42		34				2	532	red-dmg%		3	5	red-mag		3	5						armo	weap											0	0
+Battle Mage's Armor 10	100	1	1	50		42				1	532	red-dmg%		4	6	red-mag		4	6						armo	weap											0	0
+Acrobat's Boots 1	100	1	1	10	30	5				4	533	move2		1	4										armo	weap											0	0
+Acrobat's Boots 2	100	1	1	18	42	13				3	533	move2		2	6										armo	weap											0	0
+Acrobat's Boots 3	100	1	1	30		23				2	533	move2		3	7										armo	weap											0	0
+Acrobat's Boots 4	100	1	1	42		34				2	533	move2		4	8										armo	weap											0	0
+Acrobat's Boots 5	100	1	1	50		42				1	533	move2		5	10										armo	weap											0	0
+Caster's Boots 1	100	1	1	10	30	5				4	533	mana%		1	3										armo	weap											0	0
+Caster's Boots 2	100	1	1	18	42	13				3	533	mana%		2	4										armo	weap											0	0
+Caster's Boots 3	100	1	1	30		23				2	533	mana%		3	5										armo	weap											0	0
+Caster's Boots 4	100	1	1	42		34				2	533	mana%		4	7										armo	weap											0	0
+Caster's Boots 5	100	1	1	50		42				1	533	mana%		5	8										armo	weap											0	0
+Brawler's Boots 1	100	1	1	10	30	5				4	533	swing2		2	5										armo	weap											0	0
+Brawler's Boots 2	100	1	1	18	42	13				3	533	swing2		3	6										armo	weap											0	0
+Brawler's Boots 3	100	1	1	30		23				2	533	swing2		4	7										armo	weap											0	0
+Brawler's Boots 4	100	1	1	42		34				2	533	swing2		5	8										armo	weap											0	0
+Brawler's Boots 5	100	1	1	50		42				1	533	swing2		6	9										armo	weap											0	0
+Acrobat's Gloves 1	100	1	1	10	30	5				4	534	att		10	15										armo	weap											0	0
+Acrobat's Gloves 2	100	1	1	18	42	13				3	534	att		20	25										armo	weap											0	0
+Acrobat's Gloves 3	100	1	1	30		23				2	534	att		30	35										armo	weap											0	0
+Acrobat's Gloves 4	100	1	1	42		34				2	534	att		40	45										armo	weap											0	0
+Acrobat's Gloves 5	100	1	1	50		42				1	534	att		50	55										armo	weap											0	0
+Caster's Gloves 1	100	1	1	10	30	5				4	534	regen-mana		2	5										armo	weap											0	0
+Caster's Gloves 2	100	1	1	18	42	13				3	534	regen-mana		3	6										armo	weap											0	0
+Caster's Gloves 3	100	1	1	30		23				2	534	regen-mana		4	7										armo	weap											0	0
+Caster's Gloves 4	100	1	1	42		34				2	534	regen-mana		5	8										armo	weap											0	0
+Caster's Gloves 5	100	1	1	50		42				1	534	regen-mana		6	9										armo	weap											0	0
+Brawler's Gloves 1	100	1	1	10	30	5				4	534	dmg%		2	5										armo	weap											0	0
+Brawler's Gloves 2	100	1	1	18	42	13				3	534	dmg%		3	6										armo	weap											0	0
+Brawler's Gloves 3	100	1	1	30		23				2	534	dmg%		4	7										armo	weap											0	0
+Brawler's Gloves 4	100	1	1	42		34				2	534	dmg%		5	8										armo	weap											0	0
+Brawler's Gloves 5	100	1	1	50		42				1	534	dmg%		6	9										armo	weap											0	0
+Acrobat's Belt 1	100	1	1	10	30	5				4	535	balance2		2	5										armo	weap											0	0
+Acrobat's Belt 2	100	1	1	18	42	13				3	535	balance2		3	6										armo	weap											0	0
+Acrobat's Belt 3	100	1	1	30		23				2	535	balance2		4	7										armo	weap											0	0
+Acrobat's Belt 4	100	1	1	42		34				2	535	balance2		5	8										armo	weap											0	0
+Acrobat's Belt 5	100	1	1	50		42				1	535	balance2		6	9										armo	weap											0	0
+Caster's Belt 1	100	1	1	10	30	5				4	535	mana-kill		1	2										armo	weap											0	0
+Caster's Belt 2	100	1	1	18	42	13				3	535	mana-kill		2	2										armo	weap											0	0
+Caster's Belt 3	100	1	1	30		23				2	535	mana-kill		2	3										armo	weap											0	0
+Caster's Belt 4	100	1	1	42		34				2	535	mana-kill		3	3										armo	weap											0	0
+Caster's Belt 5	100	1	1	50		42				1	535	mana-kill		3	4										armo	weap											0	0
+Brawler's Belt 1	100	1	1	10	30	5				4	535	heal-kill		1	2										armo	weap											0	0
+Brawler's Belt 2	100	1	1	18	42	13				3	535	heal-kill		2	2										armo	weap											0	0
+Brawler's Belt 3	100	1	1	30		23				2	535	heal-kill		2	3										armo	weap											0	0
+Brawler's Belt 4	100	1	1	42		34				2	535	heal-kill		3	3										armo	weap											0	0
+Brawler's Belt 5	100	1	1	50		42				1	535	heal-kill		3	4										armo	weap											0	0
+Acrobat's Helmet 1	100	1	1	10	30	5				4	536	regen		1	2	ac-miss		10	15						armo	weap											0	0
+Acrobat's Helmet 2	100	1	1	18	42	13				3	536	regen		2	2	ac-miss		20	25						armo	weap											0	0
+Acrobat's Helmet 3	100	1	1	30		23				2	536	regen		2	3	ac-miss		30	35						armo	weap											0	0
+Acrobat's Helmet 4	100	1	1	42		34				2	536	regen		3	3	ac-miss		40	45						armo	weap											0	0
+Acrobat's Helmet 5	100	1	1	50		42				1	536	regen		3	4	ac-miss		50	55						armo	weap											0	0
+Caster's Helmet 1	100	1	1	10	30	5				4	536	dmg-to-mana		2	5										armo	weap											0	0
+Caster's Helmet 2	100	1	1	18	42	13				3	536	dmg-to-mana		3	6										armo	weap											0	0
+Caster's Helmet 3	100	1	1	30		23				2	536	dmg-to-mana		4	7										armo	weap											0	0
+Caster's Helmet 4	100	1	1	42		34				2	536	dmg-to-mana		5	8										armo	weap											0	0
+Caster's Helmet 5	100	1	1	50		42				1	536	dmg-to-mana		6	9										armo	weap											0	0
+Brawler's Helmet 1	100	1	1	10	30	5				4	536	ac%		10	15	ac-hth		10	15						armo	weap											0	0
+Brawler's Helmet 2	100	1	1	18	42	13				3	536	ac%		15	20	ac-hth		20	25						armo	weap											0	0
+Brawler's Helmet 3	100	1	1	30		23				2	536	ac%		20	25	ac-hth		30	35						armo	weap											0	0
+Brawler's Helmet 4	100	1	1	42		34				2	536	ac%		25	30	ac-hth		40	45						armo	weap											0	0
+Brawler's Helmet 5	100	1	1	50		42				1	536	ac%		28	30	ac-hth		50	55						armo	weap											0	0
+Swift Shield 1	100	1	1	18	42	13				4	537	block2		4	6										armo	weap											0	0
+Swift Shield 2	100	1	1	30		23				3	537	block2		6	8										armo	weap											0	0
+Swift Shield 3	100	1	1	42		34				2	537	block2		8	10										armo	weap											0	0
+Swift Shield 4	100	1	1	50		42				1	537	block2		10	12										armo	weap											0	0
+Barrier Shield 1	100	1	1	18	42	13				4	537	block		2	4										armo	weap											0	0
+Barrier Shield 2	100	1	1	30		23				3	537	block		4	6										armo	weap											0	0
+Barrier Shield 3	100	1	1	42		34				2	537	block		6	8										armo	weap											0	0
+Barrier Shield 4	100	1	1	50		42				1	537	block		8	10										armo	weap											0	0
+Swiftest Shield 1	100	1	1	18	42	13				4	538	block2		6	8										armo	weap											0	0
+Swiftest Shield 2	100	1	1	30		23				3	538	block2		8	10										armo	weap											0	0
+Swiftest Shield 3	100	1	1	42		34				2	538	block2		10	12										armo	weap											0	0
+Swiftest Shield 4	100	1	1	50		42				1	538	block2		12	15										armo	weap											0	0
+Caster's Shield 1	100	1	1	18	42	13				4	539	regen-mana		2	5	dmg-to-mana		2	5						armo	weap											0	0
+Caster's Shield 2	100	1	1	30		23				3	539	regen-mana		3	6	dmg-to-mana		3	6						armo	weap											0	0
+Caster's Shield 3	100	1	1	42		34				2	539	regen-mana		4	7	dmg-to-mana		4	7						armo	weap											0	0
+Caster's Shield 4	100	1	1	50		42				1	539	regen-mana		5	8	dmg-to-mana		5	8						armo	weap											0	0
+Reflecting Shield 1	100	1	1	18	42	13				4	540	thorns		6	9	att		10	15						armo	weap											0	0
+Reflecting Shield 2	100	1	1	30		23				3	540	thorns		20	30	att		20	25						armo	weap											0	0
+Reflecting Shield 3	100	1	1	42		34				2	540	thorns		30	50	att		30	35						armo	weap											0	0
+Reflecting Shield 4	100	1	1	50		42				1	540	thorns		50	60	att		40	45						armo	weap											0	0
+Splashing - Ranged	100	1	1	1		1				1	541	splash	proc_SplashDamage	100	1	rep-quant	60								armo	weap											0	0
+Splashing - Ama	100	1	1	1		1				1	542	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	1	1				armo	weap											0	0
+Splashing - Ama	100	1	1	1		1				1	543	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	2	2				armo	weap											0	0
+Splashing - Ama	100	1	1	1		1				1	544	splash	proc_SplashDamage	100	1	rep-quant	60	skilltab	2	3	3				armo	weap											0	0
+Strong Bidding	100	1	1							1	545	str		2	2	infusion-cost		2	2	lvl-cost		1	1		snb1	bidd											0	0
+Sturdy Bidding	100	1	1							1	546	str		4	4	infusion-cost		3	3	lvl-cost		4	4		snb2	bidd											0	0
+Burly Bidding	100	1	1							1	547	str		6	6	infusion-cost		3	3	lvl-cost		6	6		snb3	bidd											0	0
+Agile Bidding	100	1	1							1	548	dex		2	2	infusion-cost		2	2	lvl-cost		1	1		dxb1	bidd											0	0
+Nimble Bidding	100	1	1							1	549	dex		4	4	infusion-cost		3	3	lvl-cost		4	4		dxb2	bidd											0	0
+Dexterous Bidding	100	1	1							1	550	dex		6	6	infusion-cost		3	3	lvl-cost		6	6		dxb3	bidd											0	0
+Vital Bidding	100	1	1							1	551	vit		6	6	infusion-cost		2	2	lvl-cost		1	1		vib1	bidd											0	0
+Vibrous Bidding	100	1	1							1	552	vit		4	4	infusion-cost		3	3	lvl-cost		4	4		vib2	bidd											0	0
+Enduring Bidding	100	1	1							1	553	vit		8	8	infusion-cost		3	3	lvl-cost		6	6		vib3	bidd											0	0
+Energetic Bidding	100	1	1							1	554	enr		4	4	infusion-cost		2	2	lvl-cost		1	1		enb1	bidd											0	0
+Bright Bidding	100	1	1							1	555	enr		8	8	infusion-cost		3	3	lvl-cost		4	4		enb2	bidd											0	0
+Spirited Bidding	100	1	1							1	556	enr		12	12	infusion-cost		3	3	lvl-cost		6	6		enb3	bidd											0	0
+Lively Bidding	100	1	1							1	557	hp		10	10	infusion-cost		2	2	lvl-cost		1	1		lib1	bidd											0	0
+Splendid Bidding	100	1	1							1	558	hp		20	20	infusion-cost		3	3	lvl-cost		4	4		lib2	bidd											0	0
+Vibrant Bidding	100	1	1							1	559	hp		30	30	infusion-cost		3	3	lvl-cost		6	6		lib3	bidd											0	0
+Dashing Bidding	100	1	1							1	560	mana		10	10	infusion-cost		2	2	lvl-cost		1	1		mab1	bidd											0	0
+Passionate Bidding	100	1	1							1	561	mana		20	20	infusion-cost		3	3	lvl-cost		4	4		mab2	bidd											0	0
+Vidid Bidding	100	1	1							1	562	mana		30	30	infusion-cost		3	3	lvl-cost		6	6		mab3	bidd											0	0
+Lucky Bidding	100	1	1							1	563	mag%		5	5	infusion-cost		2	2	lvl-cost		1	1		mfb1	bidd											0	0
+Fortunate Bidding	100	1	1							1	564	mag%		15	15	infusion-cost		3	3	lvl-cost		4	4		mfb2	bidd											0	0
+Blessed BIdding	100	1	1							1	565	mag%		25	25	infusion-cost		3	3	lvl-cost		6	6		mfb3	bidd											0	0
+Greedy Bidding	100	1	1							1	566	gold%		20	20	infusion-cost		2	2	lvl-cost		1	1		gob1	bidd											0	0
+Gluttenous Bidding	100	1	1							1	567	gold%		40	40	infusion-cost		3	3	lvl-cost		4	4		gob2	bidd											0	0
+Insatiable Bidding	100	1	1							1	568	gold%		60	60	infusion-cost		3	3	lvl-cost		6	6		gob3	bidd											0	0
+Accurate Bidding	100	1	1							1	569	att		20	20	infusion-cost		2	2	lvl-cost		1	1		arb1	bidd											0	0
+Precise BIdding	100	1	1							1	570	att		40	40	infusion-cost		3	3	lvl-cost		4	4		arb2	bidd											0	0
+Exact Bidding	100	1	1							1	571	att		60	60	infusion-cost		3	3	lvl-cost		6	6		arb3	bidd											0	0
+Powerful Bidding	100	1	1							1	572	dmg-max		2	2	infusion-cost		2	2	lvl-cost		1	1		dmb1	bidd											0	0
+Harmful Bidding	100	1	1							1	573	dmg-max		5	5	infusion-cost		3	3	lvl-cost		4	4		dmb2	bidd											0	0
+Forceful Bidding	100	1	1							1	574	dmg-max		10	10	infusion-cost		3	3	lvl-cost		6	6		dmb3	bidd											0	0
+Dodgy Bidding	100	1	1							1	575	balance2		4	4	infusion-cost		2	2	lvl-cost		1	1		hrb1	bidd											0	0
+Avoiding Bidding	100	1	1							1	576	balance2		8	8	infusion-cost		3	3	lvl-cost		4	4		hrb2	bidd											0	0
+Evading Bidding	100	1	1							1	577	balance2		12	12	infusion-cost		3	3	lvl-cost		6	6		hrb3	bidd											0	0
+Defending Bidding	100	1	1							1	578	ac%		30	30	infusion-cost		2	2	lvl-cost		1	1		acb1	bidd											0	0
+Guarding Bidding	100	1	1							1	579	ac%		60	60	infusion-cost		3	3	lvl-cost		4	4		acb2	bidd											0	0
+Shielding Bidding	100	1	1							1	580	ac%		90	90	infusion-cost		3	3	lvl-cost		6	6		acb3	bidd											0	0
+Insulating Bidding	100	1	1							1	581	res-fire		3	3	infusion-cost		4	4	lvl-cost		1	1		rfb1	bidd											0	0
+Enclosed Bidding	100	1	1							1	582	res-fire		6	6	infusion-cost		6	6	lvl-cost		4	4		rfb2	bidd											0	0
+Heatproof Bidding	100	1	1							1	583	res-fire		9	9	infusion-cost		6	6	lvl-cost		6	6		rfb3	bidd											0	0
+Chunky Bidding	100	1	1							1	584	res-cold		3	3	infusion-cost		4	4	lvl-cost		1	1		rcb1	bidd											0	0
+Crystal Bidding	100	1	1							1	585	res-cold		6	6	infusion-cost		6	6	lvl-cost		4	4		rcb2	bidd											0	0
+Diamond Bidding	100	1	1							1	586	res-cold		9	9	infusion-cost		6	6	lvl-cost		6	6		rcb3	bidd											0	0
+Grounded Bidding	100	1	1							1	587	res-ltng		3	3	infusion-cost		4	4	lvl-cost		1	1		rlb1	bidd											0	0
+Conductive Bidding	100	1	1							1	588	res-ltng		6	6	infusion-cost		6	6	lvl-cost		4	4		rlb2	bidd											0	0
+Arrested Bidding	100	1	1							1	589	res-ltng		9	9	infusion-cost		6	6	lvl-cost		6	6		rlb3	bidd											0	0
+Neutralizing Bidding	100	1	1							1	590	res-pois		3	3	infusion-cost		4	4	lvl-cost		1	1		rpb1	bidd											0	0
+Antitoxic Bidding	100	1	1							1	591	res-pois		6	6	infusion-cost		6	6	lvl-cost		4	4		rpb2	bidd											0	0
+Remedying Bidding	100	1	1							1	592	res-pois		9	9	infusion-cost		6	6	lvl-cost		6	6		rpb3	bidd											0	0
+Scintillating Bidding	100	1	1							1	593	res-all		1	1	infusion-cost		4	4	lvl-cost		1	1		rab1	bidd											0	0
+Prismatic Bidding	100	1	1							1	594	res-all		3	3	infusion-cost		6	6	lvl-cost		4	4		rab2	bidd											0	0
+Chromatic Bidding	100	1	1							1	595	res-all		5	5	infusion-cost		6	6	lvl-cost		6	6		rab3	bidd											0	0
+Quick Bidding	100	1	1							1	596	move2		3	3	infusion-cost		4	4	lvl-cost		1	1		rwb1	bidd											0	0
+Swift Bidding	100	1	1							1	597	move2		6	6	infusion-cost		6	6	lvl-cost		4	4		rwb2	bidd											0	0
+Speedy Bidding	100	1	1							1	598	move2		9	9	infusion-cost		6	6	lvl-cost		6	6		rwb3	bidd											0	0
+Warm Bidding	100	1	1							1	599	dmg-fire		4	6	infusion-cost		2	2	lvl-cost		1	1		dfb1	bidd											0	0
+Hot Bidding	100	1	1							1	600	dmg-fire		12	16	infusion-cost		3	3	lvl-cost		4	4		dfb2	bidd											0	0
+Scalding Bidding	100	1	1							1	601	dmg-fire		32	46	infusion-cost		3	3	lvl-cost		6	6		dfb3	bidd											0	0
+Cold Bidding	100	1	1							1	602	dmg-cold		2	4	infusion-cost		2	2	lvl-cost		1	1		dcb1	bidd											0	0
+Icy Bidding	100	1	1							1	603	dmg-cold		8	16	infusion-cost		3	3	lvl-cost		4	4		dcb2	bidd											0	0
+Freezing Bidding	100	1	1							1	604	dmg-cold		18	36	infusion-cost		3	3	lvl-cost		6	6		dcb3	bidd											0	0
+Noisy Bidding	100	1	1							1	605	dmg-ltng		1	9	infusion-cost		2	2	lvl-cost		1	1		dlb1	bidd											0	0
+Eerie Bidding	100	1	1							1	606	dmg-ltng		1	18	infusion-cost		3	3	lvl-cost		4	4		dlb2	bidd											0	0
+Electrical Bidding	100	1	1							1	607	dmg-ltng		1	36	infusion-cost		3	3	lvl-cost		6	6		dlb3	bidd											0	0
+Uneasy Bidding	100	1	1							1	608	dmg-pois	75	16	16	infusion-cost		2	2	lvl-cost		1	1		dpb1	bidd											0	0
+Sick Bidding	100	1	1							1	609	dmg-pois	75	32	32	infusion-cost		3	3	lvl-cost		4	4		dpb2	bidd											0	0
+Nauseating Bidding	100	1	1							1	610	dmg-pois	75	64	64	infusion-cost		3	3	lvl-cost		6	6		dpb3	bidd											0	0
+Skillful Bidding	100	1	1							1	611														skbi	bidd											0	0
+Javelin Bidding	100	1	1							1	612	skilltab	2	1	1	infusion-cost		4	4	lvl-cost		4	4		nsbi	bidd											0	0
+Bow Bidding	100	1	1							1	613	skilltab	0	1	1	infusion-cost		4	4	lvl-cost		4	4		nbbi	bidd											0	0
+Passive Bidding	100	1	1							1	614	skilltab	1	1	1	infusion-cost		4	4	lvl-cost		4	4		ncbi	bidd											0	0
+Traps Bidding	100	1	1							1	615	skilltab	48	1	1	infusion-cost		4	4	lvl-cost		4	4		atbi	bidd											0	0
+Martial Arts Bidding	100	1	1							1	616	skilltab	50	1	1	infusion-cost		4	4	lvl-cost		4	4		ambi	bidd											0	0
+Shadow Bidding	100	1	1							1	617	skilltab	49	1	1	infusion-cost		4	4	lvl-cost		4	4		asbi	bidd											0	0
+Combat Bidding	100	1	1							1	618	skilltab	32	1	1	infusion-cost		4	4	lvl-cost		4	4		bcbi	bidd											0	0
+Mastery Bidding	100	1	1							1	619	skilltab	33	1	1	infusion-cost		4	4	lvl-cost		4	4		bmbi	bidd											0	0
+Warcry Bidding	100	1	1							1	620	skilltab	34	1	1	infusion-cost		4	4	lvl-cost		4	4		bwbi	bidd											0	0
+Elemental Bidding	100	1	1							1	621	skilltab	42	1	1	infusion-cost		4	4	lvl-cost		4	4		pcbi	bidd											0	0
+Summon Bidding	100	1	1							1	622	skilltab	40	1	1	infusion-cost		4	4	lvl-cost		4	4		pdbi	bidd											0	0
+Shapeshifter Bidding	100	1	1							1	623	skilltab	41	1	1	infusion-cost		4	4	lvl-cost		4	4		pobi	bidd											0	0
+Summon Bidding	100	1	1							1	624	skilltab	18	1	1	infusion-cost		4	4	lvl-cost		4	4		sfbi	bidd											0	0
+Bone Bidding	100	1	1							1	625	skilltab	17	1	1	infusion-cost		4	4	lvl-cost		4	4		slbi	bidd											0	0
+Curse Bidding	100	1	1							1	626	skilltab	16	1	1	infusion-cost		4	4	lvl-cost		4	4		scbi	bidd											0	0
+Combat Bidding	100	1	1							1	627	skilltab	24	1	1	infusion-cost		4	4	lvl-cost		4	4		debi	bidd											0	0
+Defensive Bidding	100	1	1							1	628	skilltab	26	1	1	infusion-cost		4	4	lvl-cost		4	4		dsbi	bidd											0	0
+Offensive Bidding	100	1	1							1	629	skilltab	25	1	1	infusion-cost		4	4	lvl-cost		4	4		dhbi	bidd											0	0
+Fire Bidding	100	1	1							1	630	skilltab	8	1	1	infusion-cost		4	4	lvl-cost		4	4		ajbi	bidd											0	0
+Lightning Bidding	100	1	1							1	631	skilltab	9	1	1	infusion-cost		4	4	lvl-cost		4	4		abbi	bidd											0	0
+Cold Bidding	100	1	1							1	632	skilltab	10	1	1	infusion-cost		4	4	lvl-cost		4	4		apbi	bidd											0	0
+Fence Apprentice	100	1	1							3	633	deadly		3	5	block2		2	4	splash	proc_SplashDamage	100	1		armo	weap												
+Fence Novice	100	1	1							2	633	deadly		5	8	block2		4	6	splash	proc_SplashDamage	100	1		armo	weap												
+Fence Master	100	1	1							1	633	deadly		8	12	block2		6	8	splash	proc_SplashDamage	100	1		armo	weap												
+Peasants	100	1	1							3	634	crush		3	5	openwounds		3	5	splash	proc_SplashDamage	100	1		armo	weap												
+Farmers	100	1	1							2	634	crush		5	8	openwounds		5	8	splash	proc_SplashDamage	100	1		armo	weap												
+Ranchers	100	1	1							1	634	crush		8	12	openwounds		8	12	splash	proc_SplashDamage	100	1		armo	weap												
+Necro Blight	100	1	1							3	635	pierce-pois		1	2										armo	weap												
+Necro Venom	100	1	1							3	635	pierce-pois		3	4										armo	weap												
+Necro Pestilence	100	1	1							2	635	pierce-pois		5	6										armo	weap												
+Necro Anthrax	100	1	1							1	635	pierce-pois		6	7										armo	weap												
