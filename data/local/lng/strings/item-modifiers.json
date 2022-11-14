@@ -5831,7 +5831,7 @@
     "zhCN": "伤害提高 %d%%"
   },
   {
-    "id": 40514,
+    "id": 50000,
     "Key": "splash",
     "enUS": "ÿc8Area Attack",
     "zhTW": "Area Attack",
@@ -5848,7 +5848,7 @@
     "zhCN": "Area Attack"
   },
   {
-    "id": 40515,
+    "id": 50001,
     "Key": "Splashing",
     "enUS": "Splashing",
     "zhTW": "Splashing",
@@ -5865,7 +5865,7 @@
     "zhCN": "Splashing"
    },
    {
-    "id": 40516,
+    "id": 50002,
     "Key": "corrupted",
   	"enUS": "ÿc1Corruptedÿc0",
     "zhTW": "ÿc1Corrupted",
@@ -5882,9 +5882,9 @@
     "zhCN": "ÿc1Corrupted"
   },
   {
-    "id": 40517,
+    "id": 50003,
     "Key": "ModStr3i_fire",
-    "enUS": " to Fire Skills",
+    "enUS": "to Fire Skills",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -5899,9 +5899,9 @@
     "zhCN": ""
   },
   {
-    "id": 40518,
+    "id": 50004,
     "Key": "ModStr3i_cold",
-    "enUS": " to Cold Skills",
+    "enUS": "to Cold Skills",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -5916,9 +5916,9 @@
     "zhCN": ""
   },
   { 
-	"id": 40519,
+	"id": 50005,
     "Key": "ModStr3i_light",
-    "enUS": " to Lightning Skills",
+    "enUS": "to Lightning Skills",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -5933,7 +5933,7 @@
     "zhCN": ""
   },    
   { 
-	"id": 40520,
+	"id": 50006,
     "Key": "ModStr3i_mag",
     "enUS": " to Magic Skills",
     "zhTW": "",
@@ -5950,7 +5950,7 @@
     "zhCN": ""
   },
   { 
-	"id": 40521,
+	"id": 50007,
     "Key": "ModStr3i_pois",
     "enUS": " to Poison Skills",
     "zhTW": "",
@@ -5967,9 +5967,9 @@
     "zhCN": ""
   },
   {
-    "id": 40522,
+    "id": 50008,
     "Key": "StrInfused",
-    "enUS": "Infused (out of 60)",
+    "enUS": "Spirits of Li-Ming Infused (out of 60)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -5984,9 +5984,26 @@
     "zhCN": ""
   },
   {
-    "id": 40523,
+    "id": 50009,
+    "Key": "StrInfusedHell",
+    "enUS": "Spirits of Nephalem Infused (out of 10)",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 50010,
     "Key": "StrInfCost",
-    "enUS": "Infusion Points Added",
+    "enUS": "Li-Ming Spirit Infusions Added",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6001,7 +6018,24 @@
     "zhCN": ""
   },
   {
-    "id": 40524,
+    "id": 50011,
+    "Key": "StrInfCostHell",
+    "enUS": "Nephalem Spirit Infusions Added",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 50012,
     "Key": "StrLvlCost",
     "enUS": "Additional Level(s) Required",
     "zhTW": "",
@@ -6018,7 +6052,7 @@
     "zhCN": ""
   },
   {
-    "id": 40525,
+    "id": 50013,
     "Key": "StrAmeCraft",
     "enUS": "ÿc3Bow/X-bowÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc;Fomenter'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6035,7 +6069,7 @@
     "zhCN": ""
   },
   {
-    "id": 40526,
+    "id": 50014,
     "Key": "StrTopCraft",
     "enUS": "ÿc3Weaponÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc9Cornucopia'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6052,7 +6086,7 @@
     "zhCN": ""
   },
   {
-    "id": 40527,
+    "id": 50014,
     "Key": "StrSapCraft",
     "enUS": "ÿc3Weaponÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Conjurer'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6069,7 +6103,7 @@
     "zhCN": ""
   },
   {
-    "id": 40528,
+    "id": 50015,
     "Key": "StrEmeCraft",
     "enUS": "ÿc3Weaponÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Rare Circletÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Amn Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc2Craven'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6086,7 +6120,7 @@
     "zhCN": ""
   },
   {
-    "id": 40529,
+    "id": 50016,
     "Key": "StrRubCraft",
     "enUS": "ÿc3Weaponÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc1Combatant'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6103,7 +6137,7 @@
     "zhCN": ""
   },
   {
-    "id": 40530,
+    "id": 50017,
     "Key": "StrDiaCraft",
     "enUS": "",
     "zhTW": "",
@@ -6120,7 +6154,7 @@
     "zhCN": ""
   },
   {
-    "id": 40531,
+    "id": 50018,
     "Key": "StrSkulCraft",
     "enUS": "ÿc3Weaponÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Lum Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc5Revenant'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6137,7 +6171,7 @@
     "zhCN": ""
   },
   {
-    "id": 40532,
+    "id": 50019,
     "Key": "StrStackDesc",
     "enUS": "See detailed recipes in unstacked version\nTransmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6154,9 +6188,9 @@
     "zhCN": ""
   }, 
   {
-    "id": 40533,
+    "id": 50020,
     "Key": "StrBidDesc",
-    "enUS": "Cube with ÿc4Valor Charm ÿc0to infuse",
+    "enUS": "Cube with ÿc4Valor Charm ÿc0to infuse with Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6171,7 +6205,7 @@
     "zhCN": ""
   },
   {
-    "id": 40534,
+    "id": 50021,
     "Key": "StrBidSkillDesc",
     "enUS": "ÿc3P. Sapphire ÿc0= Sorceress +1 Skill Tab \n ÿc;P. Amethyst ÿc0= Paladin +1 Skill Tab \n ÿc5P. Skull ÿc0= Necromancer +1 Skill Tab \n ÿc2P. Emerald ÿc0= Druid +1 Skill Tab \n ÿc1P. Ruby ÿc0= Barbarian +1 Skill Tab \n ÿc0P. Diamond ÿc0= Assassin +1 Skill Tab \n ÿc9P. Topaz ÿc0= Amazon +1 Skill Tab \n ÿc0Cube to transmute into:",
     "zhTW": "",
@@ -6188,7 +6222,7 @@
     "zhCN": ""
   },
   {
-    "id": 40535,
+    "id": 50022,
     "Key": "StrGlyphDesc",
     "enUS": "ÿc120% Chance ÿc0to Brick Item \n ÿc3P. Sapphire ÿc0= Caster Corruptions\n ÿc1P. Ruby ÿc0= Combat Corruptions \n Cube with Any Item to add random Corruption: \n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6205,7 +6239,7 @@
     "zhCN": ""
   },
   {
-    "id": 40536,
+    "id": 50023,
     "Key": "StrGimletDesc",
     "enUS": "ÿc7Torso > +1-2 Sockets\n2H Wep > +1-4 Sockets\n1H Wep > +1-2 Sockets \n ÿc0Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6222,7 +6256,7 @@
     "zhCN": ""
   },
   {
-    "id": 40537,
+    "id": 50024,
     "Key": "StrValorDesc",
     "enUS": "ÿc3P. Sapphire ÿc0= Sorceress' Valor \n ÿc;P. Amethyst ÿc0= Paladin's Valor \n ÿc5P. Skull ÿc0= Necromancer's Valor \n ÿc2P. Emerald ÿc0= Druid's Valor \n ÿc1P. Ruby ÿc0= Barbarian's Valor \n ÿc0P. Diamond ÿc0= Assassin's Valor \n ÿc9P. Topaz ÿc0= Amazon's Valor \n ÿc0Cube to transmute into:",
     "zhTW": "",
@@ -6239,7 +6273,7 @@
     "zhCN": ""
   },
   {
-    "id": 40538,
+    "id": 50025,
     "Key": "StrEssDesc",
     "enUS": "ÿc0extract 5 Essences into an Essence Charge\nCube with a ÿc8Orb of Extraction ÿc0to",
     "zhTW": "",
@@ -6256,7 +6290,7 @@
     "zhCN": ""
   },
   {
-    "id": 40539,
+    "id": 50026,
     "Key": "StrOrbCombDesc",
     "enUS": "ÿc0an uncorrupted ÿc9Rare item ÿc0to ÿc1Forge ÿc0new ÿc2Set items\nÿc0Cube with ÿc4Unique ÿc0and ÿc2Compound Essence Charges +",
     "zhTW": "",
@@ -6273,7 +6307,7 @@
     "zhCN": ""
   },
   {
-    "id": 40540,
+    "id": 50027,
     "Key": "StrOrbExtDesc",
     "enUS": "ÿc2Set ÿc0items to extract Essence Cubes\nCube with ÿc4Unique ÿc0and",
     "zhTW": "",
@@ -6290,7 +6324,7 @@
     "zhCN": ""
   },
   {
-    "id": 40541,
+    "id": 50028,
     "Key": "StrOrbDivDesc",
     "enUS": "to reroll ÿc4Unique ÿc0and ÿc2Set ÿc0items\nÿc0Cube with Normal, Exceptional and Elite Essences", 
     "zhTW": "",
@@ -6307,7 +6341,7 @@
     "zhCN": ""
   },
   {
-    "id": 40542,
+    "id": 50029,
     "Key": "StrFragDesc",
     "enUS": "Used in Crafting Recipes\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
@@ -6324,7 +6358,7 @@
     "zhCN": ""
   },
   {
-    "id": 40543,
+    "id": 50030,
     "Key": "StrJewelDesc",
     "enUS": "Cube to make a stackable ÿc8Jewel Fragment ÿc0for crafting",
     "zhTW": "",
@@ -6341,7 +6375,7 @@
     "zhCN": ""
   },
   {
-    "id": 40544,
+    "id": 50031,
     "Key": "StrChaNorSetDesc",
     "enUS": "ÿc2Compound Normal Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nReroll Normal ÿc2Set itemÿc0:\n\nÿc02 x ÿc2Compound Normal Essence Charges ÿc0\nÿc8Orb of Combination ÿc0+\nÿc1Forged ÿc0Normal ÿc2Set itemÿc0:",
     "zhTW": "",
@@ -6358,7 +6392,7 @@
     "zhCN": ""
   },
   {
-    "id": 40545,
+    "id": 50032,
     "Key": "StrChaExcSetDesc",
     "enUS": "ÿc2Compound Exceptional Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nReroll Exceptional ÿc2Set item ÿc0and ÿc2jewelryÿc0:\n\nÿc2Compound Exceptional Essence Charge ÿc0\nÿc8Orb of Combination ÿc0+\nÿc1Forged ÿc0Exceptional ÿc2Set item and jewelryÿc0:",
     "zhTW": "",
@@ -6375,7 +6409,7 @@
     "zhCN": ""
   },
   {
-    "id": 40546,
+    "id": 50033,
     "Key": "StrChaEliSetDesc",
     "enUS": "ÿc2Compound Elite Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nReroll Elite ÿc2Set itemÿc0:\n\nÿc2Compound Elite Essence Charge ÿc0\nÿc8Orb of Combination ÿc0+\nÿc1Forged ÿc0Elite ÿc2Set itemÿc0:",
     "zhTW": "",
@@ -6392,7 +6426,7 @@
     "zhCN": ""
   },
   {
-    "id": 40547,
+    "id": 50034,
     "Key": "StrChaNorUniDesc",
     "enUS": "ÿc4Unique Normal Essence Chargeÿc0\nÿc8Orb of Combination ÿc0+\nReroll Normal ÿc4Unique item:\n\nÿc02 x ÿc4Unique Normal Essence Charges ÿc0\nÿc8Orb of Divination ÿc0+\nÿc1Forged ÿc0Normal ÿc4Unique itemÿc0:",
     "zhTW": "",
@@ -6409,7 +6443,7 @@
     "zhCN": ""
   },
   {
-    "id": 40548,
+    "id": 50035,
     "Key": "StrChaExcUniDesc",
     "enUS": "ÿc4Unique Exceptional Essence Charge ÿc0\nÿc8Orb of Combination ÿc0+\nReroll Exceptional ÿc4Unique item and jewelry:\n\nÿc4Unique Exceptional Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nÿc1Forged ÿc0Exceptional ÿc4Unique item ÿc0and ÿc4jewelryÿc0:",
     "zhTW": "",
@@ -6426,7 +6460,7 @@
     "zhCN": ""
   },
   {
-    "id": 40549,
+    "id": 50036,
     "Key": "StrChaEliUniDesc",
     "enUS": "ÿc4Unique Elite Essence Charge ÿc0\nÿc8Orb of Combination ÿc0+\nReroll Elite ÿc4Unique item:\n\nÿc4Unique Elite Essence Chargeÿc0\nÿc8Orb of Divination ÿc0+\nÿc1Forged ÿc0Elite ÿc4Unique itemÿc0:",
     "zhTW": "",
@@ -6443,9 +6477,9 @@
     "zhCN": ""
   },
   {
-    "id": 40550,
+    "id": 50037,
     "Key": "StrForged",
-    "enUS": "ÿc1Forged by Hand",
+    "enUS": "ÿc1Forged by Will",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6460,7 +6494,7 @@
     "zhCN": ""
   },
   {
-    "id": 40551,
+    "id": 50038,
     "Key": "StrFlwlsCube",
     "enUS": "Cube to transmute into other Flawless Gem",
     "zhTW": "",
