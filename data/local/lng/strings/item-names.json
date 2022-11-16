@@ -26112,7 +26112,7 @@
     "zhCN": "漆黑裂痕"
   },
   {
-    "id": 70000,
+    "id": 40121,
     "Key": "ood",
     "enUS": "ÿc8Orb of Divination",
     "zhTW": "",
@@ -26129,7 +26129,7 @@
     "zhCN": ""
   },
   {
-    "id": 70001,
+    "id": 40122,
     "Key": "oex",
     "enUS": "ÿc8Orb of Extraction",
     "zhTW": "",
@@ -26146,7 +26146,7 @@
     "zhCN": ""
   },
   {
-    "id": 70002,
+    "id": 40123,
     "Key": "ooc",
     "enUS": "ÿc8Orb of Combination",
     "zhTW": "",
@@ -26163,7 +26163,7 @@
     "zhCN": ""
   },
   {
-    "id": 70003,
+    "id": 40130,
     "Key": "lzg",
     "enUS": "ÿc8Larzuk's Gimlet",
     "zhTW": "",
@@ -26180,7 +26180,7 @@
     "zhCN": ""
   },
   {
-    "id": 70004,
+    "id": 40131,
     "Key": "glx",
     "enUS": "ÿc8Glyph of Xiansai",
     "zhTW": "",
@@ -26197,7 +26197,7 @@
     "zhCN": ""
   },
   {
-    "id": 70005,
+    "id": 40132,
     "Key": "cgg",
     "enUS": "ÿc4Charsi's Great Gavel",
     "zhTW": "",
@@ -26214,7 +26214,7 @@
     "zhCN": ""
   },
   {
-    "id": 70006,
+    "id": 40133,
     "Key": "jfg",
     "enUS": "ÿc8Jewel Fragment",
     "zhTW": "",
@@ -26231,7 +26231,7 @@
     "zhCN": ""
   },
   {
-    "id": 70007,
+    "id": 40134,
     "Key": "8ca",
     "enUS": "ÿc;Chip Amethyst S",
     "zhTW": "",
@@ -26248,7 +26248,7 @@
     "zhCN": ""
   },
   {
-    "id": 70008,
+    "id": 40135,
     "Key": "8fa",
     "enUS": "ÿc;Flawed Amethyst S",
     "zhTW": "",
@@ -26265,7 +26265,7 @@
     "zhCN": ""
   },
   {
-    "id": 70009,
+    "id": 40136,
     "Key": "8na",
     "enUS": "ÿc;Amethyst S",
     "zhTW": "",
@@ -26282,7 +26282,7 @@
     "zhCN": ""
   },
   {
-    "id": 70010,
+    "id": 40137,
     "Key": "8la",
     "enUS": "ÿc;Flaw Amethyst S",
     "zhTW": "",
@@ -26299,7 +26299,7 @@
     "zhCN": ""
   },
   {
-    "id": 70011,
+    "id": 40138,
     "Key": "8pa",
     "enUS": "ÿc;P Amethyst S",
     "zhTW": "",
@@ -26316,7 +26316,7 @@
     "zhCN": ""
   },
   {
-    "id": 70012,
+    "id": 40139,
     "Key": "8cd",
     "enUS": "ÿc7Chip Diamond S",
     "zhTW": "",
@@ -26333,7 +26333,7 @@
     "zhCN": ""
   },
   {
-    "id": 70013,
+    "id": 40140,
     "Key": "8fd",
     "enUS": "ÿc7Flawed Diamond S",
     "zhTW": "",
@@ -26350,7 +26350,7 @@
     "zhCN": ""
   },
   {
-    "id": 70014,
+    "id": 40141,
     "Key": "8nd",
     "enUS": "ÿc7Diamond S",
     "zhTW": "",
@@ -26367,7 +26367,7 @@
     "zhCN": ""
   },
   {
-    "id": 70015,
+    "id": 40142,
     "Key": "8fd",
     "enUS": "ÿc7Flawed Diamond S",
     "zhTW": "",
@@ -26384,7 +26384,7 @@
     "zhCN": ""
   },
   {
-    "id": 70016,
+    "id": 40143,
     "Key": "8ld",
     "enUS": "ÿc7Flaw Diamond S",
     "zhTW": "",
@@ -26401,7 +26401,7 @@
     "zhCN": ""
   },
   {
-    "id": 70017,
+    "id": 40144,
     "Key": "8pd",
     "enUS": "ÿc7P Diamond S",
     "zhTW": "",
@@ -26418,7 +26418,7 @@
     "zhCN": ""
   },
   {
-    "id": 70018,
+    "id": 40145,
     "Key": "8ce",
     "enUS": "ÿc2Chip Emerald S",
     "zhTW": "",
@@ -26435,7 +26435,7 @@
     "zhCN": ""
   },
   {
-    "id": 70019,
+    "id": 40146,
     "Key": "8fe",
     "enUS": "ÿc2Flawed Emerald S",
     "zhTW": "",
@@ -26452,7 +26452,7 @@
     "zhCN": ""
   },
   {
-    "id": 70020,
+    "id": 40147,
     "Key": "8ne",
     "enUS": "ÿc2Emerald S",
     "zhTW": "",
@@ -26469,7 +26469,7 @@
     "zhCN": ""
   },
   {
-    "id": 70021,
+    "id": 40148,
     "Key": "8le",
     "enUS": "ÿc2Flaw Emerald S",
     "zhTW": "",
@@ -26486,7 +26486,7 @@
     "zhCN": ""
   },
   {
-    "id": 70022,
+    "id": 40149,
     "Key": "8pe",
     "enUS": "ÿc2P Emerald S",
     "zhTW": "",
@@ -26503,7 +26503,7 @@
     "zhCN": ""
   },
   {
-    "id": 70023,
+    "id": 40150,
     "Key": "8cr",
     "enUS": "ÿc1Chip Ruby S",
     "zhTW": "",
@@ -26520,7 +26520,7 @@
     "zhCN": ""
   },
   {
-    "id": 70024,
+    "id": 40151,
     "Key": "8fr",
     "enUS": "ÿc1Flawed Ruby S",
     "zhTW": "",
@@ -26537,7 +26537,7 @@
     "zhCN": ""
   },
   {
-    "id": 70025,
+    "id": 40152,
     "Key": "8nr",
     "enUS": "ÿc1Ruby S",
     "zhTW": "",
@@ -26554,7 +26554,7 @@
     "zhCN": ""
   },
   {
-    "id": 70026,
+    "id": 40153,
     "Key": "8lr",
     "enUS": "ÿc1Flaw Ruby S",
     "zhTW": "",
@@ -26571,7 +26571,7 @@
     "zhCN": ""
   },
   {
-    "id": 70027,
+    "id": 40154,
     "Key": "8pr",
     "enUS": "ÿc1P Ruby S",
     "zhTW": "",
@@ -26588,7 +26588,7 @@
     "zhCN": ""
   },
   {
-    "id": 70028,
+    "id": 40155,
     "Key": "8cp",
     "enUS": "ÿc3Chip Sapphire S",
     "zhTW": "",
@@ -26605,7 +26605,7 @@
     "zhCN": ""
   },
   {
-    "id": 70029,
+    "id": 40156,
     "Key": "8fs",
     "enUS": "ÿc3Flawed Sapphire S",
     "zhTW": "",
@@ -26622,7 +26622,7 @@
     "zhCN": ""
   },
   {
-    "id": 70030,
+    "id": 40157,
     "Key": "8ns",
     "enUS": "ÿc3Sapphire S",
     "zhTW": "",
@@ -26639,7 +26639,7 @@
     "zhCN": ""
   },
   {
-    "id": 70031,
+    "id": 40158,
     "Key": "8as",
     "enUS": "ÿc3Flaw Sapphire S",
     "zhTW": "",
@@ -26656,7 +26656,7 @@
     "zhCN": ""
   },
   {
-    "id": 70032,
+    "id": 40159,
     "Key": "8ps",
     "enUS": "ÿc3P Sapphire S",
     "zhTW": "",
@@ -26673,7 +26673,7 @@
     "zhCN": ""
   },
   {
-    "id": 70033,
+    "id": 40160,
     "Key": "8ck",
     "enUS": "ÿc0Chip Skull S",
     "zhTW": "",
@@ -26690,7 +26690,7 @@
     "zhCN": ""
   },
   {
-    "id": 70034,
+    "id": 40161,
     "Key": "8fk",
     "enUS": "ÿc0Flawed Skull S",
     "zhTW": "",
@@ -26707,7 +26707,7 @@
     "zhCN": ""
   },
   {
-    "id": 70035,
+    "id": 40162,
     "Key": "8nk",
     "enUS": "ÿc0Skull S",
     "zhTW": "",
@@ -26724,7 +26724,7 @@
     "zhCN": ""
   },
   {
-    "id": 70036,
+    "id": 40163,
     "Key": "8lk",
     "enUS": "ÿc0Flaw Skull S",
     "zhTW": "",
@@ -26741,7 +26741,7 @@
     "zhCN": ""
   },
   {
-    "id": 70037,
+    "id": 40164,
     "Key": "8pk",
     "enUS": "ÿc0P Skull S",
     "zhTW": "",
@@ -26758,7 +26758,7 @@
     "zhCN": ""
   },
   {
-    "id": 70038,
+    "id": 40165,
     "Key": "8ct",
     "enUS": "ÿc9Chip Topaz S",
     "zhTW": "",
@@ -26775,7 +26775,7 @@
     "zhCN": ""
   },
   {
-    "id": 70039,
+    "id": 40166,
     "Key": "8ft",
     "enUS": "ÿc9Flawed Topaz S",
     "zhTW": "",
@@ -26792,7 +26792,7 @@
     "zhCN": ""
   },
   {
-    "id": 70040,
+    "id": 40167,
     "Key": "8nt",
     "enUS": "ÿc9Topaz S",
     "zhTW": "",
@@ -26809,7 +26809,7 @@
     "zhCN": ""
   },
   {
-    "id": 70041,
+    "id": 40168,
     "Key": "8lt",
     "enUS": "ÿc9Flaw Topaz S",
     "zhTW": "",
@@ -26826,7 +26826,7 @@
     "zhCN": ""
   },
   {
-    "id": 70042,
+    "id": 40169,
     "Key": "8pt",
     "enUS": "ÿc9P Topaz S",
     "zhTW": "",
@@ -26843,7 +26843,7 @@
     "zhCN": ""
   },
   {
-    "id": 70043,
+    "id": 40170,
     "Key": "p1s",
     "enUS": "ÿc8Key of Terror S",
     "zhTW": "",
@@ -26860,7 +26860,7 @@
     "zhCN": ""
   },
   {
-    "id": 70044,
+    "id": 40171,
     "Key": "p2s",
     "enUS": "ÿc8Key of Hatred S",
     "zhTW": "",
@@ -26877,7 +26877,7 @@
     "zhCN": ""
   },
   {
-    "id": 70045,
+    "id": 40172,
     "Key": "p3s",
     "enUS": "ÿc8Key of Destruction S",
     "zhTW": "",
@@ -26894,7 +26894,7 @@
     "zhCN": ""
   },
   {
-    "id": 70046,
+    "id": 40173,
     "Key": "shn",
     "enUS": "ÿc8Diablo's Horn S",
     "zhTW": "",
@@ -26911,7 +26911,7 @@
     "zhCN": ""
   },
   {
-    "id": 70047,
+    "id": 40174,
     "Key": "sey",
     "enUS": "ÿc8Baal's Eye S",
     "zhTW": "",
@@ -26928,7 +26928,7 @@
     "zhCN": ""
   },
   {
-    "id": 70048,
+    "id": 40175,
     "Key": "bms",
     "enUS": "ÿc8Mephisto's Brain S",
     "zhTW": "",
@@ -26945,7 +26945,7 @@
     "zhCN": ""
   },
   {
-    "id": 70049,
+    "id": 40176,
     "Key": "soa",
     "enUS": "ÿc8Token of Absolution S",
     "zhTW": "",
@@ -26962,7 +26962,7 @@
     "zhCN": ""
   },
   {
-    "id": 70050,
+    "id": 40177,
     "Key": "ses",
     "enUS": "ÿc8Twisted Essence of Suffering S",
     "zhTW": "",
@@ -26979,7 +26979,7 @@
     "zhCN": ""
   },
   {
-    "id": 70051,
+    "id": 40178,
     "Key": "seh",
     "enUS": "ÿc8Charged Essence of Hatred S",
     "zhTW": "",
@@ -26996,7 +26996,7 @@
     "zhCN": ""
   },
   {
-    "id": 70052,
+    "id": 40179,
     "Key": "set",
     "enUS": "ÿc8Burning Essence of Terror S",
     "zhTW": "",
@@ -27013,7 +27013,7 @@
     "zhCN": ""
   },
   {
-    "id": 70053,
+    "id": 40180,
     "Key": "sed",
     "enUS": "ÿc8Festering Essence of Destruction S",
     "zhTW": "",
@@ -27030,7 +27030,7 @@
     "zhCN": ""
   },
   {
-    "id": 70054,
+    "id": 40181,
     "Key": "8sc",
     "enUS": "ÿc8Compound Essence S",
     "zhTW": "",
@@ -27047,7 +27047,7 @@
     "zhCN": ""
   },
   {
-    "id": 70055,
+    "id": 40182,
     "Key": "8sr",
     "enUS": "ÿc8Rare Essence S",
     "zhTW": "",
@@ -27064,7 +27064,7 @@
     "zhCN": ""
   },
   {
-    "id": 70056,
+    "id": 40183,
     "Key": "8su",
     "enUS": "ÿc8Unique Essence S",
     "zhTW": "",
@@ -27081,7 +27081,7 @@
     "zhCN": ""
   },
   {
-    "id": 70057,
+    "id": 40184,
     "Key": "8sn",
     "enUS": "ÿc8Normal Essence S",
     "zhTW": "",
@@ -27098,7 +27098,7 @@
     "zhCN": ""
   },
   {
-    "id": 70058,
+    "id": 40185,
     "Key": "8sx",
     "enUS": "ÿc8Exceptional Essence S",
     "zhTW": "",
@@ -27115,7 +27115,7 @@
     "zhCN": ""
   },
   {
-    "id": 70059,
+    "id": 40186,
     "Key": "8sl",
     "enUS": "ÿc8Elite Essence S",
     "zhTW": "",
@@ -27132,7 +27132,7 @@
     "zhCN": ""
   },
   {
-    "id": 70060,
+    "id": 40187,
     "Key": "8oc",
     "enUS": "ÿc8Orb of Combination S",
     "zhTW": "",
@@ -27149,7 +27149,7 @@
     "zhCN": ""
   },
   {
-    "id": 70061,
+    "id": 40188,
     "Key": "8ex",
     "enUS": "ÿc8Orb of Extraction S",
     "zhTW": "",
@@ -27166,7 +27166,7 @@
     "zhCN": ""
   },
   {
-    "id": 70062,
+    "id": 40189,
     "Key": "8od",
     "enUS": "ÿc8Orb of Divination S",
     "zhTW": "",
@@ -27183,7 +27183,7 @@
     "zhCN": ""
   },
   {
-    "id": 70063,
+    "id": 40190,
     "Key": "8zg",
     "enUS": "ÿc8Larzuk's Gimlet S",
     "zhTW": "",
@@ -27200,7 +27200,7 @@
     "zhCN": ""
   },
   {
-    "id": 70064,
+    "id": 40191,
     "Key": "8gx",
     "enUS": "ÿc8Glyph of Xiansai S",
     "zhTW": "",
@@ -27217,7 +27217,7 @@
     "zhCN": ""
   },
   {
-    "id": 70065,
+    "id": 40192,
     "Key": "8fg",
     "enUS": "ÿc8Jewel Fragment S",
     "zhTW": "",
@@ -27234,7 +27234,7 @@
     "zhCN": ""
   },
   {
-    "id": 70066,
+    "id": 40193,
     "Key": "cco",
     "enUS": "ÿc8Charm Core",
     "zhTW": "",
@@ -27251,7 +27251,7 @@
     "zhCN": ""
   },
   {
-    "id": 70067,
+    "id": 40194,
     "Key": "8co",
     "enUS": "ÿc8Charm Core S",
     "zhTW": "",
@@ -27268,7 +27268,7 @@
     "zhCN": ""
   },
   {
-    "id": 70068,
+    "id": 40195,
     "Key": "Nephalem's Admiration",
     "enUS": "Nephalem's Admiration",
     "zhTW": "",
@@ -27285,7 +27285,7 @@
     "zhCN": ""
   },
   {
-    "id": 70069,
+    "id": 40196,
     "Key": "cdm",
     "enUS": "Charsi's Great Gavel",
     "zhTW": "",
@@ -27302,7 +27302,7 @@
     "zhCN": ""
   },
   {
-    "id": 70070,
+    "id": 40197,
     "Key": "8vl",
     "enUS": "ÿc;100% S",
     "zhTW": "",
@@ -27319,7 +27319,7 @@
     "zhCN": ""
   },
   {
-    "id": 70071,
+    "id": 40198,
     "Key": "Amazon's Valor",
     "enUS": "Amazon's Valor",
     "zhTW": "",
@@ -27336,7 +27336,7 @@
     "zhCN": ""
   },
   {
-    "id": 70072,
+    "id": 40199,
     "Key": "Assassin's Valor",
     "enUS": "Assassin's Valor",
     "zhTW": "",
@@ -27353,7 +27353,7 @@
     "zhCN": ""
   },
   {
-    "id": 70073,
+    "id": 40200,
     "Key": "Barbarian's Valor",
     "enUS": "Barbarian's Valor",
     "zhTW": "",
@@ -27370,7 +27370,7 @@
     "zhCN": ""
   },
   {
-    "id": 70074,
+    "id": 40201,
     "Key": "Druid's Valor",
     "enUS": "Druid's Valor",
     "zhTW": "",
@@ -27387,7 +27387,7 @@
     "zhCN": ""
   },
   {
-    "id": 70075,
+    "id": 40202,
     "Key": "Necromancer's Valor",
     "enUS": "Necromancer's Valor",
     "zhTW": "",
@@ -27404,7 +27404,7 @@
     "zhCN": ""
   },
   {
-    "id": 70076,
+    "id": 40203,
     "Key": "Paladin's Valor",
     "enUS": "Paladin's Valor",
     "zhTW": "",
@@ -27421,7 +27421,7 @@
     "zhCN": ""
   },
   {
-    "id": 70077,
+    "id": 40204,
     "Key": "Sorceress's Valor",
     "enUS": "Sorceress's Valor",
     "zhTW": "",
@@ -27438,7 +27438,7 @@
     "zhCN": ""
   },
   {
-    "id": 70078,
+    "id": 40402,
     "Key": "ab1",
     "enUS": "ÿc;Strong Bidding of Li-Ming",
     "zhTW": "",
@@ -27455,7 +27455,7 @@
     "zhCN": ""
   },
   {
-    "id": 70079,
+    "id": 40403,
     "Key": "ab2",
     "enUS": "ÿc;Sturdy Bidding of Li-Ming",
     "zhTW": "",
@@ -27472,7 +27472,7 @@
     "zhCN": ""
   },
   {
-    "id": 70080,
+    "id": 40404,
     "Key": "ab3",
     "enUS": "ÿc;Burly Bidding of Li-Ming",
     "zhTW": "",
@@ -27489,7 +27489,7 @@
     "zhCN": ""
   },
   {
-    "id": 70081,
+    "id": 40405,
     "Key": "bb1",
     "enUS": "ÿc;Agile Bidding of Li-Ming",
     "zhTW": "",
@@ -27506,7 +27506,7 @@
     "zhCN": ""
   },
   {
-    "id": 70082,
+    "id": 40406,
     "Key": "bb2",
     "enUS": "ÿc;Nimble Bidding of Li-Ming",
     "zhTW": "",
@@ -27523,7 +27523,7 @@
     "zhCN": ""
   },
   {
-    "id": 70083,
+    "id": 40407,
     "Key": "bb3",
     "enUS": "ÿc;Dexterous Bidding of Li-Ming",
     "zhTW": "",
@@ -27540,7 +27540,7 @@
     "zhCN": ""
   },
   {
-    "id": 70084,
+    "id": 40408,
     "Key": "cb1",
     "enUS": "ÿc;Vital Bidding of Li-Ming",
     "zhTW": "",
@@ -27557,7 +27557,7 @@
     "zhCN": ""
   },
   {
-    "id": 70085,
+    "id": 40409,
     "Key": "cb2",
     "enUS": "ÿc;Vibrous Bidding of Li-Ming",
     "zhTW": "",
@@ -27574,7 +27574,7 @@
     "zhCN": ""
   },
   {
-    "id": 70086,
+    "id": 40410,
     "Key": "cb3",
     "enUS": "ÿc;Enduring Bidding of Li-Ming",
     "zhTW": "",
@@ -27591,7 +27591,7 @@
     "zhCN": ""
   },
   {
-    "id": 70087,
+    "id": 40411,
     "Key": "db1",
     "enUS": "ÿc;Energetic Bidding of Li-Ming",
     "zhTW": "",
@@ -27608,7 +27608,7 @@
     "zhCN": ""
   },
   {
-    "id": 70088,
+    "id": 40412,
     "Key": "db2",
     "enUS": "ÿc;Bright Bidding of Li-Ming",
     "zhTW": "",
@@ -27625,7 +27625,7 @@
     "zhCN": ""
   },
   {
-    "id": 70089,
+    "id": 40413,
     "Key": "db3",
     "enUS": "ÿc;Spirited Bidding of Li-Ming",
     "zhTW": "",
@@ -27642,7 +27642,7 @@
     "zhCN": ""
   },
   {
-    "id": 70090,
+    "id": 40414,
     "Key": "eb1",
     "enUS": "ÿc;Lively Bidding of Li-Ming",
     "zhTW": "",
@@ -27659,7 +27659,7 @@
     "zhCN": ""
   },
   {
-    "id": 70091,
+    "id": 40415,
     "Key": "eb2",
     "enUS": "ÿc;Splendid Bidding of Li-Ming",
     "zhTW": "",
@@ -27676,7 +27676,7 @@
     "zhCN": ""
   },
   {
-    "id": 70092,
+    "id": 40416,
     "Key": "eb3",
     "enUS": "ÿc;Vibrant Bidding of Li-Ming",
     "zhTW": "",
@@ -27693,7 +27693,7 @@
     "zhCN": ""
   },
   {
-    "id": 70093,
+    "id": 40417,
     "Key": "fb1",
     "enUS": "ÿc;Dashing Bidding of Li-Ming",
     "zhTW": "",
@@ -27710,7 +27710,7 @@
     "zhCN": ""
   },
   {
-    "id": 70094,
+    "id": 40418,
     "Key": "fb2",
     "enUS": "ÿc;Passionate Bidding of Li-Ming",
     "zhTW": "",
@@ -27727,7 +27727,7 @@
     "zhCN": ""
   },
   {
-    "id": 70095,
+    "id": 40419,
     "Key": "fb3",
     "enUS": "ÿc;Vidid Bidding of Li-Ming",
     "zhTW": "",
@@ -27744,7 +27744,7 @@
     "zhCN": ""
   },
   {
-    "id": 70096,
+    "id": 40420,
     "Key": "gb1",
     "enUS": "ÿc;Lucky Bidding of Li-Ming",
     "zhTW": "",
@@ -27761,7 +27761,7 @@
     "zhCN": ""
   },
   {
-    "id": 70097,
+    "id": 40421,
     "Key": "gb2",
     "enUS": "ÿc;Fortunate Bidding of Li-Ming",
     "zhTW": "",
@@ -27778,7 +27778,7 @@
     "zhCN": ""
   },
   {
-    "id": 70098,
+    "id": 40422,
     "Key": "gb3",
     "enUS": "ÿc;Blessed Bidding of Li-Ming",
     "zhTW": "",
@@ -27795,7 +27795,7 @@
     "zhCN": ""
   },
   {
-    "id": 70099,
+    "id": 40423,
     "Key": "hb1",
     "enUS": "ÿc;Greedy Bidding of Li-Ming",
     "zhTW": "",
@@ -27812,7 +27812,7 @@
     "zhCN": ""
   },
   {
-    "id": 70100,
+    "id": 40424,
     "Key": "hb2",
     "enUS": "ÿc;Gluttenous Bidding of Li-Ming",
     "zhTW": "",
@@ -27829,7 +27829,7 @@
     "zhCN": ""
   },
   {
-    "id": 70101,
+    "id": 40425,
     "Key": "hb3",
     "enUS": "ÿc;Insatiable Bidding of Li-Ming",
     "zhTW": "",
@@ -27846,7 +27846,7 @@
     "zhCN": ""
   },
   {
-    "id": 70102,
+    "id": 40426,
     "Key": "ib1",
     "enUS": "ÿc;Accurate Bidding of Li-Ming",
     "zhTW": "",
@@ -27863,7 +27863,7 @@
     "zhCN": ""
   },
   {
-    "id": 70103,
+    "id": 40427,
     "Key": "ib2",
     "enUS": "ÿc;Precise Bidding of Li-Ming",
     "zhTW": "",
@@ -27880,7 +27880,7 @@
     "zhCN": ""
   },
   {
-    "id": 70104,
+    "id": 40428,
     "Key": "ib3",
     "enUS": "ÿc;Exact Bidding of Li-Ming",
     "zhTW": "",
@@ -27897,7 +27897,7 @@
     "zhCN": ""
   },
   {
-    "id": 70105,
+    "id": 40429,
     "Key": "jb1",
     "enUS": "ÿc;Powerful Bidding of Li-Ming",
     "zhTW": "",
@@ -27914,7 +27914,7 @@
     "zhCN": ""
   },
   {
-    "id": 70106,
+    "id": 40430,
     "Key": "jb2",
     "enUS": "ÿc;Harmful Bidding of Li-Ming",
     "zhTW": "",
@@ -27931,7 +27931,7 @@
     "zhCN": ""
   },
   {
-    "id": 70107,
+    "id": 40431,
     "Key": "jb3",
     "enUS": "ÿc;Forceful Bidding of Li-Ming",
     "zhTW": "",
@@ -27948,7 +27948,7 @@
     "zhCN": ""
   },
   {
-    "id": 70108,
+    "id": 40432,
     "Key": "kb1",
     "enUS": "ÿc;Dodgy Bidding of Li-Ming",
     "zhTW": "",
@@ -27965,7 +27965,7 @@
     "zhCN": ""
   },
   {
-    "id": 70109,
+    "id": 40433,
     "Key": "kb2",
     "enUS": "ÿc;Avoiding Bidding of Li-Ming",
     "zhTW": "",
@@ -27982,7 +27982,7 @@
     "zhCN": ""
   },
   {
-    "id": 70110,
+    "id": 40434,
     "Key": "kb3",
     "enUS": "ÿc;Evading Bidding of Li-Ming",
     "zhTW": "",
@@ -27999,7 +27999,7 @@
     "zhCN": ""
   },
   {
-    "id": 70111,
+    "id": 40435,
     "Key": "lb1",
     "enUS": "ÿc;Defending Bidding of Li-Ming",
     "zhTW": "",
@@ -28016,7 +28016,7 @@
     "zhCN": ""
   },
   {
-    "id": 70112,
+    "id": 40436,
     "Key": "lb2",
     "enUS": "ÿc;Guarding Bidding of Li-Ming",
     "zhTW": "",
@@ -28033,7 +28033,7 @@
     "zhCN": ""
   },
   {
-    "id": 70113,
+    "id": 40437,
     "Key": "lb3",
     "enUS": "ÿc;Shielding Bidding of Li-Ming",
     "zhTW": "",
@@ -28050,7 +28050,7 @@
     "zhCN": ""
   },
   {
-    "id": 70114,
+    "id": 40438,
     "Key": "mb1",
     "enUS": "ÿc;Insulating Bidding of Li-Ming",
     "zhTW": "",
@@ -28067,7 +28067,7 @@
     "zhCN": ""
   },
   {
-    "id": 70115,
+    "id": 40439,
     "Key": "mb2",
     "enUS": "ÿc;Enclosed Bidding of Li-Ming",
     "zhTW": "",
@@ -28084,7 +28084,7 @@
     "zhCN": ""
   },
   {
-    "id": 70116,
+    "id": 40440,
     "Key": "mb3",
     "enUS": "ÿc;Heatproof Bidding of Li-Ming",
     "zhTW": "",
@@ -28101,7 +28101,7 @@
     "zhCN": ""
   },
   {
-    "id": 70117,
+    "id": 40441,
     "Key": "nb1",
     "enUS": "ÿc;Chunky Bidding of Li-Ming",
     "zhTW": "",
@@ -28118,7 +28118,7 @@
     "zhCN": ""
   },
   {
-    "id": 70118,
+    "id": 40442,
     "Key": "nb2",
     "enUS": "ÿc;Crystal Bidding of Li-Ming",
     "zhTW": "",
@@ -28135,7 +28135,7 @@
     "zhCN": ""
   },
   {
-    "id": 70119,
+    "id": 40443,
     "Key": "nb3",
     "enUS": "ÿc;Diamond Bidding of Li-Ming",
     "zhTW": "",
@@ -28152,7 +28152,7 @@
     "zhCN": ""
   },
   {
-    "id": 70120,
+    "id": 40444,
     "Key": "zb1",
     "enUS": "ÿc;Grounded Bidding of Li-Ming",
     "zhTW": "",
@@ -28169,7 +28169,7 @@
     "zhCN": ""
   },
   {
-    "id": 70121,
+    "id": 40445,
     "Key": "zb2",
     "enUS": "ÿc;Conductive Bidding of Li-Ming",
     "zhTW": "",
@@ -28186,7 +28186,7 @@
     "zhCN": ""
   },
   {
-    "id": 70122,
+    "id": 40446,
     "Key": "zb3",
     "enUS": "ÿc;Arrested Bidding of Li-Ming",
     "zhTW": "",
@@ -28203,7 +28203,7 @@
     "zhCN": ""
   },
   {
-    "id": 70123,
+    "id": 40447,
     "Key": "pb1",
     "enUS": "ÿc;Neutralizing Bidding of Li-Ming",
     "zhTW": "",
@@ -28220,7 +28220,7 @@
     "zhCN": ""
   },
   {
-    "id": 70124,
+    "id": 40448,
     "Key": "pb2",
     "enUS": "ÿc;Antitoxic Bidding of Li-Ming",
     "zhTW": "",
@@ -28237,7 +28237,7 @@
     "zhCN": ""
   },
   {
-    "id": 70125,
+    "id": 40449,
     "Key": "pb3",
     "enUS": "ÿc;Remedying Bidding of Li-Ming",
     "zhTW": "",
@@ -28254,7 +28254,7 @@
     "zhCN": ""
   },
   {
-    "id": 70126,
+    "id": 40450,
     "Key": "qb1",
     "enUS": "ÿc;Scintillating Bidding of Li-Ming",
     "zhTW": "",
@@ -28271,7 +28271,7 @@
     "zhCN": ""
   },
   {
-    "id": 70127,
+    "id": 40451,
     "Key": "qb2",
     "enUS": "ÿc;Prismatic Bidding of Li-Ming",
     "zhTW": "",
@@ -28288,7 +28288,7 @@
     "zhCN": ""
   },
   {
-    "id": 70128,
+    "id": 40452,
     "Key": "qb3",
     "enUS": "ÿc;Chromatic Bidding of Li-Ming",
     "zhTW": "",
@@ -28305,7 +28305,7 @@
     "zhCN": ""
   },
   {
-    "id": 70129,
+    "id": 40453,
     "Key": "rb1",
     "enUS": "ÿc;Quick Bidding of Li-Ming",
     "zhTW": "",
@@ -28322,7 +28322,7 @@
     "zhCN": ""
   },
   {
-    "id": 70130,
+    "id": 40454,
     "Key": "rb2",
     "enUS": "ÿc;Swift Bidding of Li-Ming",
     "zhTW": "",
@@ -28339,7 +28339,7 @@
     "zhCN": ""
   },
   {
-    "id": 70131,
+    "id": 40455,
     "Key": "rb3",
     "enUS": "ÿc;Speedy Bidding of Li-Ming",
     "zhTW": "",
@@ -28356,7 +28356,7 @@
     "zhCN": ""
   },
   {
-    "id": 70132,
+    "id": 40456,
     "Key": "sb1",
     "enUS": "ÿc;Warm Bidding of Li-Ming",
     "zhTW": "",
@@ -28373,7 +28373,7 @@
     "zhCN": ""
   },
   {
-    "id": 70133,
+    "id": 40457,
     "Key": "sb2",
     "enUS": "ÿc;Hot Bidding of Li-Ming",
     "zhTW": "",
@@ -28390,7 +28390,7 @@
     "zhCN": ""
   },
   {
-    "id": 70134,
+    "id": 40458,
     "Key": "sb3",
     "enUS": "ÿc;Scalding Bidding of Li-Ming",
     "zhTW": "",
@@ -28407,7 +28407,7 @@
     "zhCN": ""
   },
   {
-    "id": 70135,
+    "id": 40459,
     "Key": "tb1",
     "enUS": "ÿc;Cold Bidding of Li-Ming",
     "zhTW": "",
@@ -28424,7 +28424,7 @@
     "zhCN": ""
   },
   {
-    "id": 70136,
+    "id": 40460,
     "Key": "tb2",
     "enUS": "ÿc;Icy Bidding of Li-Ming",
     "zhTW": "",
@@ -28441,7 +28441,7 @@
     "zhCN": ""
   },
   {
-    "id": 70137,
+    "id": 40461,
     "Key": "tb3",
     "enUS": "ÿc;Freezing Bidding of Li-Ming",
     "zhTW": "",
@@ -28458,7 +28458,7 @@
     "zhCN": ""
   },
   {
-    "id": 70138,
+    "id": 40462,
     "Key": "ub1",
     "enUS": "ÿc;Noisy Bidding of Li-Ming",
     "zhTW": "",
@@ -28475,7 +28475,7 @@
     "zhCN": ""
   },
   {
-    "id": 70139,
+    "id": 40463,
     "Key": "ub2",
     "enUS": "ÿc;Eerie Bidding of Li-Ming",
     "zhTW": "",
@@ -28492,7 +28492,7 @@
     "zhCN": ""
   },
   {
-    "id": 70140,
+    "id": 40464,
     "Key": "ub3",
     "enUS": "ÿc;Electrical Bidding of Li-Ming",
     "zhTW": "",
@@ -28509,7 +28509,7 @@
     "zhCN": ""
   },
   {
-    "id": 70141,
+    "id": 40465,
     "Key": "vb1",
     "enUS": "ÿc;Uneasy Bidding of Li-Ming",
     "zhTW": "",
@@ -28526,7 +28526,7 @@
     "zhCN": ""
   },
   {
-    "id": 70142,
+    "id": 40466,
     "Key": "vb2",
     "enUS": "ÿc;Sick Bidding of Li-Ming",
     "zhTW": "",
@@ -28543,7 +28543,7 @@
     "zhCN": ""
   },
   {
-    "id": 70143,
+    "id": 40467,
     "Key": "vb3",
     "enUS": "ÿc;Nauseating Bidding of Li-Ming",
     "zhTW": "",
@@ -28560,7 +28560,7 @@
     "zhCN": ""
   },
   {
-    "id": 70144,
+    "id": 40468,
     "Key": "aa0",
     "enUS": "ÿc;Skillful Bidding of Li-Ming",
     "zhTW": "",
@@ -28577,7 +28577,7 @@
     "zhCN": ""
   },
   {
-    "id": 70145,
+    "id": 40469,
     "Key": "aa1",
     "enUS": "ÿc;Javelin Bidding of the Nephalem",
     "zhTW": "",
@@ -28594,7 +28594,7 @@
     "zhCN": ""
   },
   {
-    "id": 70146,
+    "id": 40470,
     "Key": "aa2",
     "enUS": "ÿc;Bow Bidding of the Nephalem",
     "zhTW": "",
@@ -28611,7 +28611,7 @@
     "zhCN": ""
   },
   {
-    "id": 70147,
+    "id": 40471,
     "Key": "aa3",
     "enUS": "ÿc;Passive Bidding of the Nephalem",
     "zhTW": "",
@@ -28628,7 +28628,7 @@
     "zhCN": ""
   },
   {
-    "id": 70148,
+    "id": 40472,
     "Key": "aa4",
     "enUS": "ÿc;Traps Bidding of the Nephalem",
     "zhTW": "",
@@ -28645,7 +28645,7 @@
     "zhCN": ""
   },
   {
-    "id": 70149,
+    "id": 40473,
     "Key": "aa5",
     "enUS": "ÿc;Martial Arts Bidding of the Nephalem",
     "zhTW": "",
@@ -28662,7 +28662,7 @@
     "zhCN": ""
   },
   {
-    "id": 70150,
+    "id": 40474,
     "Key": "aa6",
     "enUS": "ÿc;Shadow Bidding of the Nephalem",
     "zhTW": "",
@@ -28679,7 +28679,7 @@
     "zhCN": ""
   },
   {
-    "id": 70151,
+    "id": 40475,
     "Key": "aa7",
     "enUS": "ÿc;Combat Bidding of the Nephalem",
     "zhTW": "",
@@ -28696,7 +28696,7 @@
     "zhCN": ""
   },
   {
-    "id": 70152,
+    "id": 40476,
     "Key": "aa8",
     "enUS": "ÿc;Mastery Bidding of the Nephalem",
     "zhTW": "",
@@ -28713,7 +28713,7 @@
     "zhCN": ""
   },
   {
-    "id": 70153,
+    "id": 40477,
     "Key": "aa9",
     "enUS": "ÿc;Warcry Bidding of the Nephalem",
     "zhTW": "",
@@ -28730,7 +28730,7 @@
     "zhCN": ""
   },
   {
-    "id": 70154,
+    "id": 40478,
     "Key": "ac1",
     "enUS": "ÿc;Elemental Bidding of the Nephalem",
     "zhTW": "",
@@ -28747,7 +28747,7 @@
     "zhCN": ""
   },
   {
-    "id": 70155,
+    "id": 40479,
     "Key": "ac2",
     "enUS": "ÿc;Summon Bidding of the Nephalem",
     "zhTW": "",
@@ -28764,7 +28764,7 @@
     "zhCN": ""
   },
   {
-    "id": 70156,
+    "id": 40480,
     "Key": "ac3",
     "enUS": "ÿc;Shapeshifter Bidding of the Nephalem",
     "zhTW": "",
@@ -28781,7 +28781,7 @@
     "zhCN": ""
   },
   {
-    "id": 70157,
+    "id": 40481,
     "Key": "ac4",
     "enUS": "ÿc;Summon Bidding of the Nephalem",
     "zhTW": "",
@@ -28798,7 +28798,7 @@
     "zhCN": ""
   },
   {
-    "id": 70158,
+    "id": 40482,
     "Key": "ac5",
     "enUS": "ÿc;Bone Bidding of the Nephalem",
     "zhTW": "",
@@ -28815,7 +28815,7 @@
     "zhCN": ""
   },
   {
-    "id": 70159,
+    "id": 40483,
     "Key": "ac6",
     "enUS": "ÿc;Curse Bidding of the Nephalem",
     "zhTW": "",
@@ -28832,7 +28832,7 @@
     "zhCN": ""
   },
   {
-    "id": 70160,
+    "id": 40484,
     "Key": "ac7",
     "enUS": "ÿc;Combat Bidding of the Nephalem",
     "zhTW": "",
@@ -28849,7 +28849,7 @@
     "zhCN": ""
   },
   {
-    "id": 70161,
+    "id": 40485,
     "Key": "ac8",
     "enUS": "ÿc;Defensive Bidding of the Nephalem",
     "zhTW": "",
@@ -28866,7 +28866,7 @@
     "zhCN": ""
   },
   {
-    "id": 70162,
+    "id": 40486,
     "Key": "ac9",
     "enUS": "ÿc;Offensive Bidding of the Nephalem",
     "zhTW": "",
@@ -28883,7 +28883,7 @@
     "zhCN": ""
   },
   {
-    "id": 70163,
+    "id": 40487,
     "Key": "ad1",
     "enUS": "ÿc;Fire Bidding of the Nephalem",
     "zhTW": "",
@@ -28900,7 +28900,7 @@
     "zhCN": ""
   },
   {
-    "id": 70164,
+    "id": 40488,
     "Key": "ad2",
     "enUS": "ÿc;Lightning Bidding of the Nephalem",
     "zhTW": "",
@@ -28917,7 +28917,7 @@
     "zhCN": ""
   },
   {
-    "id": 70165,
+    "id": 40489,
     "Key": "ad3",
     "enUS": "ÿc;Cold Bidding of the Nephalem",
     "zhTW": "",
@@ -28934,7 +28934,7 @@
     "zhCN": ""
   },
   {
-    "id": 70166,
+    "id": 40490,
     "Key": "cc0",
     "enUS": "ÿc5Valor in the Rough",
     "zhTW": "",
@@ -28951,7 +28951,7 @@
     "zhCN": ""
   },
   {
-    "id": 70167,
+    "id": 40491,
     "Key": "nce",
     "enUS": "ÿc2Normal Compound Essence Cube",
     "zhTW": "",
@@ -28968,7 +28968,7 @@
     "zhCN": ""
   },
   {
-    "id": 70168,
+    "id": 40492,
     "Key": "ece",
     "enUS": "ÿc2Exceptional Compound Essence Cube",
     "zhTW": "",
@@ -28985,7 +28985,7 @@
     "zhCN": ""
   },
   {
-    "id": 70169,
+    "id": 40493,
     "Key": "lce",
     "enUS": "ÿc2Elite Compound Essence Cube",
     "zhTW": "",
@@ -29002,7 +29002,7 @@
     "zhCN": ""
   },
   {
-    "id": 70170,
+    "id": 40494,
     "Key": "nue",
     "enUS": "ÿc4Normal Unique Essence Cube",
     "zhTW": "",
@@ -29019,7 +29019,7 @@
     "zhCN": ""
   },
   {
-    "id": 70171,
+    "id": 40495,
     "Key": "eue",
     "enUS": "ÿc4Exceptional Unique Essence Cube",
     "zhTW": "",
@@ -29036,7 +29036,7 @@
     "zhCN": ""
   },
   {
-    "id": 70172,
+    "id": 40496,
     "Key": "lue",
     "enUS": "ÿc4Elite Unique Essence Cube",
     "zhTW": "",
@@ -29053,7 +29053,7 @@
     "zhCN": ""
   },
   {
-    "id": 70173,
+    "id": 40497,
     "Key": "ncc",
     "enUS": "ÿc2Normal Compound Charge",
     "zhTW": "",
@@ -29070,7 +29070,7 @@
     "zhCN": ""
   },
   {
-    "id": 70174,
+    "id": 40498,
     "Key": "ecc",
     "enUS": "ÿc2Exceptional Compound Charge",
     "zhTW": "",
@@ -29087,7 +29087,7 @@
     "zhCN": ""
   },
   {
-    "id": 70175,
+    "id": 40499,
     "Key": "lcc",
     "enUS": "ÿc2Elite Compound Charge",
     "zhTW": "",
@@ -29104,7 +29104,7 @@
     "zhCN": ""
   },
   {
-    "id": 70176,
+    "id": 40500,
     "Key": "nuc",
     "enUS": "ÿc4Normal Unique Charge",
     "zhTW": "",
@@ -29121,7 +29121,7 @@
     "zhCN": ""
   },
   {
-    "id": 70177,
+    "id": 40501,
     "Key": "euc",
     "enUS": "ÿc4Exceptional Unique Charge",
     "zhTW": "",
@@ -29138,7 +29138,7 @@
     "zhCN": ""
   },
   {
-    "id": 70178,
+    "id": 40502,
     "Key": "luc",
     "enUS": "ÿc4Elite Unique Charge",
     "zhTW": "",
