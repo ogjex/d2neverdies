@@ -2,7 +2,7 @@ index	name	version	PCode2a	PParam2a	PMin2a	PMax2a	PCode2b	PParam2b	PMin2b	PMax2b
 Civerb's Vestments	Civerb's Vestments	0	res-fire		25	25																													str	0	15	15	dmg-undead	0	200	200	res-ltng	0	25	25	att%	0	25	25	ac/lvl	32															0
 Hsarus' Defense	Hsarus' Defense	0	thorns		5	5																													dmg-max	0	5	5	nofreeze	0	1	1	res-ltng	0	25	25																					0
 Cleglaw's Brace	Cleglaw's Brace	0	ac		50	50																													ac	0	50	50	manasteal	0	6	6	crush	0	35	35	swing2		20	20																	0
-Iratha's Finery	Iratha's Finery	0	ac		50	50					move2		20	20	pierce		24	24																	res-all	0	20	20	res-fire-max	0	10	10	res-cold-max	0	10	10	res-ltng-max	0	10	10	res-pois-max	0	10	10	dex	0	15	15									0
+Iratha's Finery	Iratha's Finery	0	ac		50	50					move2		20	20	pierce		24	24																	res-all	0	5	5	res-fire-max	0	5	5	res-cold-max	0	5	5	res-ltng-max	0	5	5	res-pois-max	0	5	5	dex	0	15	15									0
 Isenhart's Armory	Isenhart's Armory	0	str		10	10					dex		10	10																					lifesteal	0	5	5	res-all	0	10	10	att%	0	35	35	block		30	30	move2		20	20													0
 Vidala's Rig	Vidala's Rig	0	att		75	75	manasteal		7	7	dex		15	15																					dmg-cold/lvl	12			freeze	0	1	1	pierce	0	50	50	str		10	10																	0
 Milabrega's Regalia	Milabrega's Regalia	0	att		75	75	dmg-ltng/lvl	16			att		125	125	nofreeze		1	1																	lifesteal	0	8	8	pal	0	2	2	manasteal	0	10	10	res-pois	0	15	15																	0
@@ -15,7 +15,7 @@ Death's Disguise	Death's Disguise	0	lifesteal		8	8																													a
 Angelical Raiment	Angelical Raiment	0	dex		10	10					mana		50	50																					res-all	0	25	25	half-freeze	0	1	1	mag%	0	40	40	regen-mana		8	8																	0
 Arctic Gear	Arctic Gear	0	str		5	5					hp		50	50																					dmg-cold/lvl	16			cold-len	0	100	100	nofreeze	0	1	1																					0
 Arcanna's Tricks	Arcanna's Tricks	0	mana		50	50					hp		50	50	regen-mana		12	12																	cast3	0	20	20	manasteal	0	5	5	mana	0	25	25	allskills		1	1																	0
-Expansion																																																																			
+Expansion																																																																			0
 Natalya's Odium	Natalya's Odium	100	red-mag		15	15					ac		200	200					res-pois		20	20													res-all		50	50	ass		3	3	ac		150	150	lifesteal		14	14	manasteal		14	14	red-dmg%		30	30	fade		1	1					0
 Aldur's Watchtower	Aldur's Watchtower	100	att%		150	150					mag%		50	50					lifesteal		10	10													res-all		50	50	dru		3	3	ac		150	150	manasteal		10	10	mana		150	150	dmg%		350	350	state	fullsetgeneric	1	1					0
 Immortal King	Immortal King	100	att		50	50					att		75	75					att		125	125					att		200	200					res-all		50	50	bar		3	3	hp		150	150	red-mag		10	10	state	fullsetgeneric	1	1													0
