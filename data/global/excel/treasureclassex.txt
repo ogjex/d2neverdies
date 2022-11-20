@@ -39,7 +39,7 @@ Runes 6			1						s21	3	s22	3	s23	2	s24	2	Runes 5	200															0
 Runes 7			1						s25	3	s26	3	s27	2	s28	2	Runes 6	250	lzg	1													0
 Runes 8			1						s29	3	s30	3	s31	2	s32	2	Runes 7	300															0
 Runes 9			1						s33	1	Runes 8	400																					0
-Token			1						soa	1																							0
+Token			1						ses	1	seh	1	set	1																			0
 Junk			1						Potion 0	30	Misc 0	18	Ammo	18																			0
 Junk (N)			1						Potion 1	30	Misc 0	18	Ammo	18																			0
 Junk (H)			1						Potion 2	90	Misc 0	54	Ammo	54	Token	1																	0
