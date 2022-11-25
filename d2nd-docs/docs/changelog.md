@@ -90,7 +90,8 @@
 - Removed useless shrines: stamina, exploding, poison
 - Players can have multiple shrines active
 - Battle cry is no longer a curse and can be applied simultaneously with curses and other progs
-- All delays on offensive skills have been removed 
+- All delays on (most) offensive skills have been removed 
+- Arrows and bolts drop magic and rare
 
 # Amazon Skill changes
 
