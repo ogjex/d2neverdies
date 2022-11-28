@@ -1,6 +1,6 @@
 # Recent patch changes
 
-/*## v1.0.4
+<!--## v1.0.4
 
 Fixes the following:
 
@@ -9,7 +9,7 @@ Fixes the following:
 Adding:
 - 
 
-*/
+-->
 
 ## v1.0.3
 
