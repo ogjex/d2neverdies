@@ -1,5 +1,16 @@
 # Recent patch changes
 
+/*## v1.0.4
+
+Fixes the following:
+
+- Defiance aura now actually provides 1% DR per 2 base points (also includes Act2 Defiance Merc)
+
+Adding:
+- 
+
+*/
+
 ## v1.0.3
 
 Fixes for the following issues:
