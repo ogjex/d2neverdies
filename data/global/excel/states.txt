@@ -194,3 +194,5 @@ coldpierce	191																																																																		
 firepierce	192																																																																						0
 lightningpierce	193																																																																						0
 poisonpierce	194																																																																						0
+coldprotect	195																																																																						0
+fireprotect	196																																																																						0
