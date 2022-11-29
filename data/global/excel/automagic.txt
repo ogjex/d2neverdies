@@ -240,13 +240,14 @@ Offensive Bidding	100	1	1							1	629	skilltab	25	1	1	infusion-cost		4	4	lvl-cos
 Fire Bidding	100	1	1							1	630	skilltab	8	1	1	infusion-cost		4	4	lvl-cost		4	4		ajbi	bidd											0	0
 Lightning Bidding	100	1	1							1	631	skilltab	9	1	1	infusion-cost		4	4	lvl-cost		4	4		abbi	bidd											0	0
 Cold Bidding	100	1	1							1	632	skilltab	10	1	1	infusion-cost		4	4	lvl-cost		4	4		apbi	bidd											0	0
-Fence Apprentice	100	1	1							3	633	deadly		3	5	block2		2	4	splash	SplashDamage	100	1		armo	weap												
-Fence Novice	100	1	1							2	633	deadly		5	8	block2		4	6	splash	SplashDamage	100	1		armo	weap												
-Fence Master	100	1	1							1	633	deadly		8	12	block2		6	8	splash	SplashDamage	100	1		armo	weap												
-Peasants	100	1	1							3	634	crush		3	5	openwounds		3	5	splash	SplashDamage	100	1		armo	weap												
-Farmers	100	1	1							2	634	crush		5	8	openwounds		5	8	splash	SplashDamage	100	1		armo	weap												
-Ranchers	100	1	1							1	634	crush		8	12	openwounds		8	12	splash	SplashDamage	100	1		armo	weap												
-Necro Blight	100	1	1							3	635	pierce-pois		1	2										armo	weap												
-Necro Venom	100	1	1							3	635	pierce-pois		3	4										armo	weap												
-Necro Pestilence	100	1	1							2	635	pierce-pois		5	6										armo	weap												
-Necro Anthrax	100	1	1							1	635	pierce-pois		6	7										armo	weap												
+Fence Apprentice	100	1	1							3	633	deadly		3	5	block2		2	4	splash	SplashDamage	100	1		armo	weap											0	0
+Fence Novice	100	1	1							2	633	deadly		5	8	block2		4	6	splash	SplashDamage	100	1		armo	weap											0	0
+Fence Master	100	1	1							1	633	deadly		8	12	block2		6	8	splash	SplashDamage	100	1		armo	weap											0	0
+Peasants	100	1	1							3	634	crush		3	5	openwounds		3	5	splash	SplashDamage	100	1		armo	weap											0	0
+Farmers	100	1	1							2	634	crush		5	8	openwounds		5	8	splash	SplashDamage	100	1		armo	weap											0	0
+Ranchers	100	1	1							1	634	crush		8	12	openwounds		8	12	splash	SplashDamage	100	1		armo	weap											0	0
+Necro Blight	100	1	1							3	635	pierce-pois		1	2										armo	weap											0	0
+Necro Venom	100	1	1							3	635	pierce-pois		3	4										armo	weap											0	0
+Necro Pestilence	100	1	1							2	635	pierce-pois		5	6										armo	weap											0	0
+Necro Anthrax	100	1	1							1	635	pierce-pois		6	 										armo	weap											0	0
+Quivers	100	1	1							1	636	rep-dur	1												misl												0	0
