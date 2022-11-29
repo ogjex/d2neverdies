@@ -4,10 +4,22 @@
 
 Fixes the following:
 
+- Fixed all issues with missing splash damage on weapons
 - Defiance aura now actually provides 1% DR per 2 base points (also includes Act2 Defiance Merc)
 
 Adding:
-- 
+
+- strafe now synergises with magic arrow
+- guided arrow now synergises with magic arrow
+- inner sight now provides -% to enemy AC
+- penetrate no longer provides -% to enemy AC
+- strafe is now for bows only
+- multiple shot is now for xbows only 
+- multiple shot now provides crushing blow
+- increased damage to multiple shot
+- removed some affixes from rare bolts and arrows so they only spawn on magic bolts and arrows
+
+
 
 -->
 
