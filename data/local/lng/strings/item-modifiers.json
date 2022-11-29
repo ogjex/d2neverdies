@@ -6509,5 +6509,23 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": ""
-  }
+  },
+  {
+    "id": 50039,
+    "Key": "CrushPLevel",
+    "enUS": "%+d%% Chance of Crushing Blow",
+    "zhTW": "%+d%% 機率造成粉碎打擊",
+    "deDE": "%+d%% Chance auf vernichtenden Schlag",
+    "esES": "%+d%% de probabilidad de ataque aplastante",
+    "frFR": "%+d%% de chances de coup écrasant",
+    "itIT": "Probabilità di colpo frantumante %+d%%",
+    "koKR": "강타 확률 %+d%%",
+    "plPL": "%+d%% do szansy na druzgocące uderzenie",
+    "esMX": "%+d%% de probabilidad de golpe aplastante",
+    "jaJP": "クラッシング・ブロー（%+d%%）",
+    "ptBR": "%+d%% de chance de Golpe Esmagador",
+    "ruRU": "%+d%% к вероятности нанести сокрушительный удар",
+    "zhCN": "%+d%% 几率粉碎打击"
+  },
+  
 ]
