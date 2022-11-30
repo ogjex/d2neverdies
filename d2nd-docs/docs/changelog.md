@@ -108,7 +108,7 @@
 - Lightning Fury: number of bolts now caps at 11 and scales with the number of skill points from first skill
 
 ## Passive and magic skills
-- Inner Sight:  unchanged
+- Inner Sight: changed to add -% defense to targets
 - Critical Strike: unchanged 
 - Evade: added faster run walk
 - Avoid: added defense vs. missile
@@ -120,14 +120,14 @@
 - Valkyrie: removed dependency to evade, added 1 additional Valkyries from level 20 and 30, respectively
 
 ## Bow and Crossbow
-- Magic Arrow: added additional arrows based on base level, magic arrow now takes 50% conversion from physical from base level 1
-- Multiple Shot: unchanged 
+- Magic Arrow: added additional arrows based on base level, magic arrow now takes 50% conversion from physical from base level 1 and increases per level
+- Multiple Shot: can now only be used with a Crossbow, base damage is now 100%, damage synergy with Guided Arrow, Crushing Blow % synergy from Magic Arrow 
 - Fire Arrow: buffed fire damage, velocity increased, always pierces target, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage
 - Cold Arrow: buffed cold damage, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage
 - Ice Arrow: buffed cold damage, velocity increased, cold pierce
-- Guided Arrow: removed dependency to cold arrow, enabled piercing 
+- Guided Arrow: removed dependency to cold arrow, enabled piercing, added synergy to Magic Arrow
 - Exploding Arrow: buffed damage to make it more viable
-- Strafe: removed local delay 
+- Strafe: removed local delay, added damage synergy to Magic Arrow and Guided Arrow
 - Immolation Arrow: fire pierce for 2 seconds, buffed damage, increase burn area as skill levels up, explosion radius now increases with Explosion Arrow synergy 
 - Freezing Arrow: buffed damage 
 
@@ -138,9 +138,9 @@
 - Tiger Strike: unchanged 
 - Dragon Talon: unchanged 
 - Dragon Claw: unchanged 
-- Fists of Fire: increased fire damage, added synergy from Wake of Inferno  and Fire Blast
-- Cobra Strike: now deals poison damange, synergy with Venom
-- Claws of Thunder: increased lightning damage, synergy from Charged Bolt Sentry and Shock Web
+- Fists of Fire: increased fire damage, added synergy to Wake of Inferno  and Fire Blast
+- Cobra Strike: now deals poison damange, synergy to Venom
+- Claws of Thunder: increased lightning damage, synergy to Charged Bolt Sentry and Shock Web
 - Dragon Tail: unchanged
 - Dragon Flight: reduce frame animation for Dragon Flight to 6 (from 16)
 - Blades of Ice: increased damage
@@ -225,7 +225,7 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 - Resist Cold: decreased max resistance
 - Resist Lightning: decreased max resistance
 - Defiance: added percentage damage reduction
-- Cleansing
+- Cleansing: unchanged
 - Vigor: [added faster run walk passive bonus]
 - Meditation: [add mana per kill passive bonus]
 - Redemption: unchanged
@@ -261,42 +261,45 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 ## Cold skills:
 
 - Ice Bolt
-- Cold Armor: [rename to Cold Defence, switch to passive, add CtC Frost Nova on hit, add defense and attack rating]
-- Frost Nova
-- Ice Blast
-- Shiver Armor
-- Glacial Spike
-- Chilling Armor
-- Blizzard
-- Frozen Orb
-- Cold Mastery:
+I - Frozen Armor: replaced with Deep Freeze Defence, is now a passive, that adds flat damage reduction, and flat defense bonus per level, moved to level 18 requirement
+- Frost Nova: no changes
+- Ice Blast: added 100% piercing (projectile continues through targets)
+- Shiver Armor: removed synergy to Frozen Armor, doubled synergy bonus to Shiver Armor, moved to level 1 requirement
+- Glacial Spike: no changes
+- Chilling Armor: removed synergy to Frozen Armor, doubled synergy bonus to Shiver Armor, moved to level 12 requirement
+- Blizzard: no changes
+- Frozen Orb: removed casting delay
+- Cold Mastery: no changes
 
 ## Lightning skills:
 
-- Charged Bolt
-- Telekinesis: increased damage, added synergies
-- Static Field
-- Nova
-- Lightning
-- Teleport
-- Chain Lightning
+- Charged Bolt: no changes
+I - Telekinesis: increased damage, added synergies to ?
+- Static Field: no changes
+- Nova: no changes
+- Lightning: no changes
+- Teleport: no changes
+- Chain Lightning: no changes
 - Thunder Storm: [increased damage and attack ticks]
-- Energy Shield: [add synergy from Energy stat
-- 10 Lightning Mastery
+- Energy Shield: no changes
+- Lightning Mastery: added lightning pierce
 
 ## Fire skills:
 
-1 Fire Bolt
-    2 Warmth
-    3 Inferno
-    4 Blaze
-    5 Fire Wall
-    6 Fire Ball
-    7 Enchant Fire
-    8 Meteor
-    9 Hydra: add fire pierce
-    10 Fire Mastery: add fire pierce
+- Fire Bolt: no changes
+- Warmth: no changes
+I - Inferno: replaced with Heat Stroke as a passive. Gains magic damage reduction and flat attack rating.
+- Blaze: no changes
+- Fire Wall: removed casting delay
+- Fire Ball: no changes
+I - Enchant Fire: add synergy to Heat Stroke (now adds 2% attack speed per base level)
+- Meteor: add physical damage to impact, remove casting delay
+- Hydra: add fire pierce
+- Fire Mastery: add fire pierce
 
+-->
+
+<!--
 # Druid
 
 # Necro
