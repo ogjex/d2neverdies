@@ -99,13 +99,13 @@
 - Jab: unchanged
 - Poison Javelin: added poison pierce, poison duration set to 2 seconds
 - Impale: unchanged
-- Power Strike: unchanged
+- Power Strike: Decrease base mana cost
 - Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage
 - Fend: reduced strikes to 3
 - Charged Strike: removed dependency to lightning bolt
 - Plague Javelin: removed delay, poison duration set to 2 seconds
 - Lightning Strike: unchanged
-- Lightning Fury: set base number of bolts to 11
+- Lightning Fury: number of bolts now caps at 11 and scales with the number of skill points from first skill
 
 ## Passive and magic skills
 - Inner Sight:  unchanged
@@ -117,7 +117,7 @@
 - Dodge: added faster hit recovery
 - Decoy: unchanged 
 - Penetrate: added minus monster defense [per 10 base levels]
-- Valkyrie: rmoved dependency to evade, added additional Valkyries per 10 base levels 
+- Valkyrie: removed dependency to evade, added 1 additional Valkyries from level 20 and 30, respectively
 
 ## Bow and Crossbow
 - Magic Arrow: added additional arrows based on base level, magic arrow now takes 50% conversion from physical from base level 1
@@ -208,13 +208,98 @@
 - Stun: unchanged
 - Concentrate: Added chance of deadly strike
 - Double Throw: set chance to not use quantity to 100%
-- Leap: unchanged 
-- Leap Attack: increased leap speed, reduced minimum frames to 8 on short leaps, doubled AoE damage, added synergy to AoE damage (Leap and Bash)
+- Leap: decrease mana cost 
+- Leap Attack: decrease mana cost, increased leap speed, reduced minimum frames to 8 on short leaps, doubled AoE damage, added synergy to AoE damage (Leap and Bash)
 - Berserk: unchanged 
 - Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames
 
 # Paladin, Druid, Necro, Sorceress
 
 The Paladin, Druid, Sorceress and Necro have not yet been playtested and will come in later releases.
+<!--
+# Paladin
+## Defensive auras:
+
+- Prayer: [add life per kill passive bonus]
+- Resist Fire: decreased max resistance
+- Resist Cold: decreased max resistance
+- Resist Lightning: decreased max resistance
+- Defiance: added percentage damage reduction
+- Cleansing
+- Vigor: [added faster run walk passive bonus]
+- Meditation: [add mana per kill passive bonus]
+- Redemption: unchanged
+- Salvation: decreased max resistance
+
+## Offensive auras:
+
+- Might: [add crushing blow]
+- Holy Fire: unchanged
+- Thorns: added flat attacker takes damage
+- Blessed Aim: added deadly strike bonus
+- Concentration: unchanged
+- Holy Freeze: unchanged
+- Holy Shock: unchanged
+- Sanctuary: changed to deal damage to all monsters, same tick rate as holy fire + shock [add damage synergy from Conversion and Salvation]
+- Fanaticism: unchanged
+- Conviction: unchanged
+
+## Combat skills:
+
+- Sacrifice: unchanged
+- Holy Bolt: [add additional missiles per 10 base levels]
+- Smite: unchanged
+- Zeal: reduced number of strikes to 3
+- Charge: unchanged
+- Vengeance: unchanged
+- Blessed Hammer: unchanged
+- Conversion: [add teleport attack, conversion attack AoE, synergy attack rating bonus from Holy Shield]
+- Fist of the Heavens: removed local delay
+- Holy Shield: unchanged
+
+# Sorceress
+## Cold skills:
+
+- Ice Bolt
+- Cold Armor: [rename to Cold Defence, switch to passive, add CtC Frost Nova on hit, add defense and attack rating]
+- Frost Nova
+- Ice Blast
+- Shiver Armor
+- Glacial Spike
+- Chilling Armor
+- Blizzard
+- Frozen Orb
+- Cold Mastery:
+
+## Lightning skills:
+
+- Charged Bolt
+- Telekinesis: increased damage, added synergies
+- Static Field
+- Nova
+- Lightning
+- Teleport
+- Chain Lightning
+- Thunder Storm: [increased damage and attack ticks]
+- Energy Shield: [add synergy from Energy stat
+- 10 Lightning Mastery
+
+## Fire skills:
+
+1 Fire Bolt
+    2 Warmth
+    3 Inferno
+    4 Blaze
+    5 Fire Wall
+    6 Fire Ball
+    7 Enchant Fire
+    8 Meteor
+    9 Hydra: add fire pierce
+    10 Fire Mastery: add fire pierce
+
+# Druid
+
+# Necro
 
 
+-->
