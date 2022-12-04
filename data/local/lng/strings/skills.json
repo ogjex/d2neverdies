@@ -35800,12 +35800,12 @@
     "jaJP": "",
     "ptBR": "",
     "ruRU": "",
-    "zhCN": "",
+    "zhCN": ""
   },
   {
     "id": 100005,
     "Key": "SkillDescDeepFreeze",
-    "enUS": "Siphons the Cold to reduce\n damage and enhance defenses",
+    "enUS": "reduces damage and enhances defenses",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -35817,7 +35817,7 @@
     "jaJP": "",
     "ptBR": "",
     "ruRU": "",
-    "zhCN": "",
+    "zhCN": ""
   },
   {
     "id": 100006,
@@ -35834,12 +35834,12 @@
     "jaJP": "",
     "ptBR": "",
     "ruRU": "",
-    "zhCN": "",
+    "zhCN": ""
   },
   {
     "id": 100007,
     "Key": "SkillDescHeatStroke",
-    "enUS": "Siphons the Flame to increase combat\n effectiveness and reduce magical damage",
+    "enUS": "increases combat effectiveness and reduces magical damage",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -35851,6 +35851,23 @@
     "jaJP": "",
     "ptBR": "",
     "ruRU": "",
-    "zhCN": "",
+    "zhCN": ""
+  },
+  {
+    "id": 100008,
+    "Key": "Shotplev4",
+    "enUS": "%s: %+d Shot per %d Levels and per %d Base Level",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
   }
 ]
