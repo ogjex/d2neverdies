@@ -35869,5 +35869,39 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": ""
+  },
+  {
+    "id": 100009,
+    "Key": "SkillNameDivBless",
+    "enUS": "Divine Blessing",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 100010,
+    "Key": "SkillDescDivBless",
+    "enUS": "converts monsters to your cause for a brief moment",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
   }
 ]
