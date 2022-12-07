@@ -35907,7 +35907,7 @@
   {
     "id": 100011,
     "Key": "Radiusplev",
-    "enUS": "%s: %+d yards of added radius per level",
+    "enUS": "%s: %+d yards to radius per level",
     "zhTW": "",
     "deDE": "",
     "esES": "",
