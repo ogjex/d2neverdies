@@ -563,7 +563,6 @@
     "baal_taunt_poison": "poison_sparks",
     "baal_spawn_monsters": "expansion_baalsummonmissile_2",
     "mindblast_hit": "expansion_mindblast",
-	"mindblast_hit2": "sanctuarybolt",
     "blade_shield_missile": "expansion_blade_shield_missile",
     "blade_shield_attachment": "null",
     "baal_inferno": "expansion_baalmissile",
@@ -589,8 +588,7 @@
     "highpriestlightning_2": "high_priest_lightning",
     "infernoflame_3": "flamethrower",
     "mindblast_center": "expansion_mindblast",
-	"mindblast_center2": "sanctuarybolt",
-    "armageddoncontrol": "null",
+	"armageddoncontrol": "null",
     "armageddonrock": "expansion_armageddon_rock",
     "armageddontail": "expansion_armageddon_fire",
     "armageddonexplosion": "exp_arrow_explode",
@@ -698,5 +696,9 @@
     "strafearrow": "arrow",
     "strafebolt": "x_bow_bolt",
     "recklessattacksmissile": "expansion_shockwave",
-    "leapattack": "b_a_yell_shock_wave_01"
+    "leapattack": "b_a_yell_shock_wave_01",
+	"clawfirestormmaker": "null",
+	"splashmisl": "null",
+	"divineblessinghit": "sanctuary",
+	"divineblessingcenter": "sanctuary"
 }
