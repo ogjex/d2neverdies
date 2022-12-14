@@ -240,7 +240,7 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 - Concentration: unchanged
 - Holy Freeze: unchanged
 - Holy Shock: unchanged
-- Sanctuary: changed to deal damage to all monsters, same tick rate as holy fire + shock [add damage synergy from Conversion and Salvation]
+- Sanctuary: changed to deal damage to all monsters, same tick rate as holy fire + shock, no longer stuns
 - Fanaticism: unchanged
 - Conviction: unchanged
 
@@ -253,7 +253,7 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 - Charge: unchanged
 - Vengeance: unchanged
 - Blessed Hammer: unchanged
-- Conversion: [add teleport attack, conversion attack AoE, synergy attack rating bonus from Holy Shield]
+- Conversion: renamed to Divine Blessing, is now a ranged casting skill with aoe, similar to Mind Blast
 - Fist of the Heavens: removed local delay
 - Holy Shield: unchanged
 
@@ -261,7 +261,7 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 ## Cold skills:
 
 - Ice Bolt
-I - Frozen Armor: replaced with Deep Freeze Defence, is now a passive, that adds flat damage reduction, and flat defense bonus per level, moved to level 18 requirement
+- Frozen Armor: replaced with Frozen Guard, is now a passive, adds flat damage reduction, and flat defense bonus per level, moved to level 18 requirement
 - Frost Nova: no changes
 - Ice Blast: added 100% piercing (projectile continues through targets)
 - Shiver Armor: removed synergy to Frozen Armor, doubled synergy bonus to Shiver Armor, moved to level 1 requirement
@@ -274,13 +274,13 @@ I - Frozen Armor: replaced with Deep Freeze Defence, is now a passive, that adds
 ## Lightning skills:
 
 - Charged Bolt: no changes
-I - Telekinesis: increased damage, added synergies to ?
+- Telekinesis: increased damage
 - Static Field: no changes
 - Nova: no changes
 - Lightning: no changes
 - Teleport: no changes
 - Chain Lightning: no changes
-- Thunder Storm: [increased damage and attack ticks]
+- Thunder Storm: increased attack ticks to 1 per second
 - Energy Shield: no changes
 - Lightning Mastery: added lightning pierce
 
@@ -288,7 +288,7 @@ I - Telekinesis: increased damage, added synergies to ?
 
 - Fire Bolt: no changes
 - Warmth: no changes
-I - Inferno: replaced with Heat Stroke as a passive. Gains magic damage reduction and flat attack rating.
+- Inferno: replaced with Heat Stroke as a passive. Gains magic damage reduction and flat attack rating.
 - Blaze: no changes
 - Fire Wall: removed casting delay
 - Fire Ball: no changes

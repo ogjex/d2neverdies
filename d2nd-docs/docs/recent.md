@@ -1,6 +1,6 @@
 # Recent patch changes
 
-<!--## v1.0.4
+<!--## v1.1.0
 
 Fixes the following:
 
@@ -16,10 +16,13 @@ Adding:
 - strafe is now for bows only
 - multiple shot is now for xbows only 
 - multiple shot now provides crushing blow
+- magic arrow: magic damage base conversion reduced, synergy added to guided arrow, synergy added to multiple shot
 - increased damage to multiple shot
 - removed some affixes from rare bolts and arrows so they only spawn on magic bolts and arrows
 
+Paladin and Sorceress skill changes:
 
+- see change log for details
 
 -->
 
