@@ -35992,7 +35992,7 @@
   {
     "id": 100016,
     "Key": "Arrowplev",
-    "enUS": "One additional arrow per %+d levels",
+    "enUS": "%s: One additional arrow per %+d base levels",
     "zhTW": "",
     "deDE": "",
     "esES": "",
