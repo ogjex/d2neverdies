@@ -233,7 +233,7 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 
 ## Offensive auras:
 
-- Might: [add crushing blow]
+- Might: unchanged
 - Holy Fire: unchanged
 - Thorns: added flat attacker takes damage
 - Blessed Aim: added deadly strike bonus
@@ -247,9 +247,9 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 ## Combat skills:
 
 - Sacrifice: unchanged
-- Holy Bolt: [add additional missiles per 10 base levels]
+- Holy Bolt: add multishot per baselevels
 - Smite: unchanged
-- Zeal: reduced number of strikes to 3
+- Zeal: reduced number of strikes to 4
 - Charge: unchanged
 - Vengeance: unchanged
 - Blessed Hammer: unchanged
@@ -286,13 +286,13 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 
 ## Fire skills:
 
-- Fire Bolt: no changes
+- Fire Bolt: now will multishot with additional points in Heat Stroke
 - Warmth: no changes
 - Inferno: replaced with Heat Stroke as a passive. Gains magic damage reduction and flat attack rating.
 - Blaze: no changes
-- Fire Wall: removed casting delay
+- Fire Wall: removed casting delay, synergises with Heat Stroke and Blaze
 - Fire Ball: no changes
-I - Enchant Fire: add synergy to Heat Stroke (now adds 2% attack speed per base level)
+- Enchant Fire: add synergy to Heat Stroke
 - Meteor: add physical damage to impact, remove casting delay
 - Hydra: add fire pierce
 - Fire Mastery: add fire pierce
