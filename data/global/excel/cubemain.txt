@@ -4213,16 +4213,16 @@ Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	leve
 Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
 Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							"am7,uni"	200	200	200																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							uar	200	200	200																										hp2																																																										0
-hp3 -> test item 3	1			100					2	"amu,set"	hp3						useitem	200	200	200	corruption	100		3	3																					hp3																																																										0
-hp4 -> test item 4	1			100					2	"amu,set"	hp4						useitem	200	200	200	corruption	100		4	4																					hp4																																																										0
-hp5-> test item 5	1			100					2	"amu,set"	hp5						useitem	200	200	200	corruption	100		5	5																					hp5																																																										0
-mp1 -> test item 6	1			100					2	"amu,set"	mp1						useitem	200	200	200	corruption	100		6	6																					mp1																																																										0
-mp2 -> test item 7	1			100					2	"amu,set"	mp2						useitem	200	200	200	corruption	100		7	7																					mp2																																																										0
-mp3 -> test item 8	1			100					2	"amu,set"	mp3						useitem	200	200	200	corruption	100		8	8																					mp3																																																										0
-mp4 -> test item 9	1			100					2	"amu,set"	mp4						useitem	200	200	200	corruption	100		9	9																					mp4																																																										0
-mp5 -> test item 10	1			100					2	"amu,set"	mp5						useitem	200	200	200	corruption	100		20	20																					mp5																																																										0
+hp1 -> test item 1	1			100					1	hp1							r15	200	200	200																										hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							r13	200	200	200																										hp2																																																										0
+hp3 -> test item 3	1			100					1	hp3							r10	200	200	200																										hp3																																																										0
+hp4 -> test item 4	1			100					1	hp4							r20	200	200	200																										hp4																																																										0
+hp5-> test item 5	1			100					1	hp5							useitem	200	200	200																										hp5																																																										0
+mp1 -> test item 6	1			100					1	mp1							useitem	200	200	200																										mp1																																																										0
+mp2 -> test item 7	1			100					1	mp2							useitem	200	200	200																										mp2																																																										0
+mp3 -> test item 8	1			100					1	mp3							useitem	200	200	200																										mp3																																																										0
+mp4 -> test item 9	1			100					1	mp4							useitem	200	200	200																										mp4																																																										0
+mp5 -> test item 10	1			100					1	mp5							useitem	200	200	200																										mp5																																																										0
 id scroll -> test item	1			100					1	isc							p1s	200	200	200																										isc																																																										0
 tp scroll -> crf-wep	1			100					1	tsc							cc0	200	200	200																										tsc																																																										0
 nos wep -> test	1			100					2	isc	tsc						"amu,set"	200	200	200																										isc																																																										0
