@@ -215,8 +215,8 @@
 
 # Paladin, Druid, Necro, Sorceress
 
-The Paladin, Druid, Sorceress and Necro have not yet been playtested and will come in later releases.
-<!--
+The Druid and Necro have not yet been playtested and will come in later releases.
+
 # Paladin
 ## Defensive auras:
 
@@ -233,7 +233,7 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 
 ## Offensive auras:
 
-- Might: unchanged
+- Might: Damage ED now starts at 100%
 - Holy Fire: unchanged
 - Thorns: added flat attacker takes damage
 - Blessed Aim: added deadly strike bonus
@@ -286,7 +286,7 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 
 ## Fire skills:
 
-- Fire Bolt: now will multishot with additional points in Heat Stroke
+- Fire Bolt: now will multishot with additional points to Heat Stroke
 - Warmth: no changes
 - Inferno: replaced with Heat Stroke as a passive. Gains magic damage reduction and flat attack rating.
 - Blaze: no changes
@@ -296,8 +296,6 @@ The Paladin, Druid, Sorceress and Necro have not yet been playtested and will co
 - Meteor: add physical damage to impact, remove casting delay
 - Hydra: add fire pierce
 - Fire Mastery: add fire pierce
-
--->
 
 <!--
 # Druid
