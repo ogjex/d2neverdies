@@ -63,6 +63,16 @@
           ]},
           {title: "Paladin, Druid, Necro, Sorceress", url: "#paladin-druid-necro-sorceress", children: [
           ]},
+          {title: "Paladin", url: "#paladin", children: [
+              {title: "Defensive auras:", url: "#defensive-auras" },
+              {title: "Offensive auras:", url: "#offensive-auras" },
+              {title: "Combat skills:", url: "#combat-skills_1" },
+          ]},
+          {title: "Sorceress", url: "#sorceress", children: [
+              {title: "Cold skills:", url: "#cold-skills" },
+              {title: "Lightning skills:", url: "#lightning-skills" },
+              {title: "Fire skills:", url: "#fire-skills" },
+          ]},
         ];
 
     </script>
@@ -220,17 +230,17 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Jab: unchanged</li>
 <li>Poison Javelin: added poison pierce, poison duration set to 2 seconds</li>
 <li>Impale: unchanged</li>
-<li>Power Strike: unchanged</li>
+<li>Power Strike: Decrease base mana cost</li>
 <li>Lightning Bolt: added lightning pierce, takes 100% conversion from physical damage</li>
 <li>Fend: reduced strikes to 3</li>
 <li>Charged Strike: removed dependency to lightning bolt</li>
 <li>Plague Javelin: removed delay, poison duration set to 2 seconds</li>
 <li>Lightning Strike: unchanged</li>
-<li>Lightning Fury: set base number of bolts to 11</li>
+<li>Lightning Fury: number of bolts now caps at 11 and scales with the number of skill points from first skill</li>
 </ul>
 <h2 id="passive-and-magic-skills">Passive and magic skills</h2>
 <ul>
-<li>Inner Sight:  unchanged</li>
+<li>Inner Sight: changed to add -% defense to targets</li>
 <li>Critical Strike: unchanged </li>
 <li>Evade: added faster run walk</li>
 <li>Avoid: added defense vs. missile</li>
@@ -239,18 +249,18 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Dodge: added faster hit recovery</li>
 <li>Decoy: unchanged </li>
 <li>Penetrate: added minus monster defense [per 10 base levels]</li>
-<li>Valkyrie: rmoved dependency to evade, added additional Valkyries per 10 base levels </li>
+<li>Valkyrie: removed dependency to evade, added 1 additional Valkyries from level 20 and 30, respectively</li>
 </ul>
 <h2 id="bow-and-crossbow">Bow and Crossbow</h2>
 <ul>
-<li>Magic Arrow: added additional arrows based on base level, magic arrow now takes 50% conversion from physical from base level 1</li>
-<li>Multiple Shot: unchanged </li>
+<li>Magic Arrow: added additional arrows based on base level, magic arrow now takes 50% conversion from physical from base level 1 and increases per level</li>
+<li>Multiple Shot: can now only be used with a Crossbow, base damage is now 100%, damage synergy with Guided Arrow, Crushing Blow % synergy from Magic Arrow </li>
 <li>Fire Arrow: buffed fire damage, velocity increased, always pierces target, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage</li>
 <li>Cold Arrow: buffed cold damage, synergy from multiple shot to add additional arrows, takes 100% conversion from physical damage</li>
 <li>Ice Arrow: buffed cold damage, velocity increased, cold pierce</li>
-<li>Guided Arrow: removed dependency to cold arrow, enabled piercing </li>
+<li>Guided Arrow: removed dependency to cold arrow, enabled piercing, added synergy to Magic Arrow</li>
 <li>Exploding Arrow: buffed damage to make it more viable</li>
-<li>Strafe: removed local delay </li>
+<li>Strafe: removed local delay, added damage synergy to Magic Arrow and Guided Arrow</li>
 <li>Immolation Arrow: fire pierce for 2 seconds, buffed damage, increase burn area as skill levels up, explosion radius now increases with Explosion Arrow synergy </li>
 <li>Freezing Arrow: buffed damage </li>
 </ul>
@@ -260,9 +270,9 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Tiger Strike: unchanged </li>
 <li>Dragon Talon: unchanged </li>
 <li>Dragon Claw: unchanged </li>
-<li>Fists of Fire: increased fire damage, added synergy from Wake of Inferno  and Fire Blast</li>
-<li>Cobra Strike: now deals poison damange, synergy with Venom</li>
-<li>Claws of Thunder: increased lightning damage, synergy from Charged Bolt Sentry and Shock Web</li>
+<li>Fists of Fire: increased fire damage, added synergy to Wake of Inferno  and Fire Blast</li>
+<li>Cobra Strike: now deals poison damange, synergy to Venom</li>
+<li>Claws of Thunder: increased lightning damage, synergy to Charged Bolt Sentry and Shock Web</li>
 <li>Dragon Tail: unchanged</li>
 <li>Dragon Flight: reduce frame animation for Dragon Flight to 6 (from 16)</li>
 <li>Blades of Ice: increased damage</li>
@@ -329,13 +339,100 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Stun: unchanged</li>
 <li>Concentrate: Added chance of deadly strike</li>
 <li>Double Throw: set chance to not use quantity to 100%</li>
-<li>Leap: unchanged </li>
-<li>Leap Attack: increased leap speed, reduced minimum frames to 8 on short leaps, doubled AoE damage, added synergy to AoE damage (Leap and Bash)</li>
+<li>Leap: decrease mana cost </li>
+<li>Leap Attack: decrease mana cost, increased leap speed, reduced minimum frames to 8 on short leaps, doubled AoE damage, added synergy to AoE damage (Leap and Bash)</li>
 <li>Berserk: unchanged </li>
 <li>Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames</li>
 </ul>
 <h1 id="paladin-druid-necro-sorceress">Paladin, Druid, Necro, Sorceress</h1>
-<p>The Paladin, Druid, Sorceress and Necro have not yet been playtested and will come in later releases.</p>
+<p>The Druid and Necro have not yet been playtested and will come in later releases.</p>
+<h1 id="paladin">Paladin</h1>
+<h2 id="defensive-auras">Defensive auras:</h2>
+<ul>
+<li>Prayer: [add life per kill passive bonus]</li>
+<li>Resist Fire: decreased max resistance</li>
+<li>Resist Cold: decreased max resistance</li>
+<li>Resist Lightning: decreased max resistance</li>
+<li>Defiance: added percentage damage reduction</li>
+<li>Cleansing: unchanged</li>
+<li>Vigor: [added faster run walk passive bonus]</li>
+<li>Meditation: [add mana per kill passive bonus]</li>
+<li>Redemption: unchanged</li>
+<li>Salvation: decreased max resistance</li>
+</ul>
+<h2 id="offensive-auras">Offensive auras:</h2>
+<ul>
+<li>Might: Damage ED now starts at 100%</li>
+<li>Holy Fire: unchanged</li>
+<li>Thorns: added flat attacker takes damage</li>
+<li>Blessed Aim: added deadly strike bonus</li>
+<li>Concentration: unchanged</li>
+<li>Holy Freeze: unchanged</li>
+<li>Holy Shock: unchanged</li>
+<li>Sanctuary: changed to deal damage to all monsters, same tick rate as holy fire + shock, no longer stuns</li>
+<li>Fanaticism: unchanged</li>
+<li>Conviction: unchanged</li>
+</ul>
+<h2 id="combat-skills_1">Combat skills:</h2>
+<ul>
+<li>Sacrifice: unchanged</li>
+<li>Holy Bolt: add multishot per baselevels</li>
+<li>Smite: unchanged</li>
+<li>Zeal: reduced number of strikes to 4</li>
+<li>Charge: unchanged</li>
+<li>Vengeance: unchanged</li>
+<li>Blessed Hammer: unchanged</li>
+<li>Conversion: renamed to Divine Blessing, is now a ranged casting skill with aoe, similar to Mind Blast</li>
+<li>Fist of the Heavens: removed local delay</li>
+<li>Holy Shield: unchanged</li>
+</ul>
+<h1 id="sorceress">Sorceress</h1>
+<h2 id="cold-skills">Cold skills:</h2>
+<ul>
+<li>Ice Bolt</li>
+<li>Frozen Armor: replaced with Frozen Guard, is now a passive, adds flat damage reduction, and flat defense bonus per level, moved to level 18 requirement</li>
+<li>Frost Nova: no changes</li>
+<li>Ice Blast: added 100% piercing (projectile continues through targets)</li>
+<li>Shiver Armor: removed synergy to Frozen Armor, doubled synergy bonus to Shiver Armor, moved to level 1 requirement</li>
+<li>Glacial Spike: no changes</li>
+<li>Chilling Armor: removed synergy to Frozen Armor, doubled synergy bonus to Shiver Armor, moved to level 12 requirement</li>
+<li>Blizzard: no changes</li>
+<li>Frozen Orb: removed casting delay</li>
+<li>Cold Mastery: no changes</li>
+</ul>
+<h2 id="lightning-skills">Lightning skills:</h2>
+<ul>
+<li>Charged Bolt: no changes</li>
+<li>Telekinesis: increased damage</li>
+<li>Static Field: no changes</li>
+<li>Nova: no changes</li>
+<li>Lightning: no changes</li>
+<li>Teleport: no changes</li>
+<li>Chain Lightning: no changes</li>
+<li>Thunder Storm: increased attack ticks to 1 per second</li>
+<li>Energy Shield: no changes</li>
+<li>Lightning Mastery: added lightning pierce</li>
+</ul>
+<h2 id="fire-skills">Fire skills:</h2>
+<ul>
+<li>Fire Bolt: now will multishot with additional points to Heat Stroke</li>
+<li>Warmth: no changes</li>
+<li>Inferno: replaced with Heat Stroke as a passive. Gains magic damage reduction and flat attack rating.</li>
+<li>Blaze: no changes</li>
+<li>Fire Wall: removed casting delay, synergises with Heat Stroke and Blaze</li>
+<li>Fire Ball: no changes</li>
+<li>Enchant Fire: add synergy to Heat Stroke</li>
+<li>Meteor: add physical damage to impact, remove casting delay</li>
+<li>Hydra: add fire pierce</li>
+<li>Fire Mastery: add fire pierce</li>
+</ul>
+<!--
+# Druid
+
+# Necro
+
+
+-->
 
   <br>
     
