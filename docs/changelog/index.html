@@ -61,8 +61,6 @@
               {title: "Masteries", url: "#masteries" },
               {title: "Combat skills", url: "#combat-skills" },
           ]},
-          {title: "Paladin, Druid, Necro, Sorceress", url: "#paladin-druid-necro-sorceress", children: [
-          ]},
           {title: "Paladin", url: "#paladin", children: [
               {title: "Defensive auras:", url: "#defensive-auras" },
               {title: "Offensive auras:", url: "#offensive-auras" },
@@ -72,6 +70,8 @@
               {title: "Cold skills:", url: "#cold-skills" },
               {title: "Lightning skills:", url: "#lightning-skills" },
               {title: "Fire skills:", url: "#fire-skills" },
+          ]},
+          {title: "Druid, Necro", url: "#druid-necro", children: [
           ]},
         ];
 
@@ -344,31 +344,29 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Berserk: unchanged </li>
 <li>Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames</li>
 </ul>
-<h1 id="paladin-druid-necro-sorceress">Paladin, Druid, Necro, Sorceress</h1>
-<p>The Druid and Necro have not yet been playtested and will come in later releases.</p>
 <h1 id="paladin">Paladin</h1>
 <h2 id="defensive-auras">Defensive auras:</h2>
 <ul>
-<li>Prayer: [add life per kill passive bonus]</li>
+<li>Prayer: unchanged</li>
 <li>Resist Fire: decreased max resistance</li>
 <li>Resist Cold: decreased max resistance</li>
 <li>Resist Lightning: decreased max resistance</li>
 <li>Defiance: added percentage damage reduction</li>
 <li>Cleansing: unchanged</li>
-<li>Vigor: [added faster run walk passive bonus]</li>
-<li>Meditation: [add mana per kill passive bonus]</li>
+<li>Vigor: unchanged</li>
+<li>Meditation: unchanged</li>
 <li>Redemption: unchanged</li>
 <li>Salvation: decreased max resistance</li>
 </ul>
 <h2 id="offensive-auras">Offensive auras:</h2>
 <ul>
 <li>Might: Damage ED now starts at 100%</li>
-<li>Holy Fire: unchanged</li>
+<li>Holy Fire: increased damage tick to each second</li>
 <li>Thorns: added flat attacker takes damage</li>
 <li>Blessed Aim: added deadly strike bonus</li>
 <li>Concentration: unchanged</li>
-<li>Holy Freeze: unchanged</li>
-<li>Holy Shock: unchanged</li>
+<li>Holy Freeze: increased damage tick to each second</li>
+<li>Holy Shock: increased damage tick to each second</li>
 <li>Sanctuary: changed to deal damage to all monsters, same tick rate as holy fire + shock, no longer stuns</li>
 <li>Fanaticism: unchanged</li>
 <li>Conviction: unchanged</li>
@@ -426,6 +424,8 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Hydra: add fire pierce</li>
 <li>Fire Mastery: add fire pierce</li>
 </ul>
+<h1 id="druid-necro">Druid, Necro</h1>
+<p>The Druid and Necro have not yet been playtested and will come in later releases.</p>
 <!--
 # Druid
 
