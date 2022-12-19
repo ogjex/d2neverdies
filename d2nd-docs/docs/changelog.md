@@ -213,33 +213,29 @@
 - Berserk: unchanged 
 - Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames
 
-# Paladin, Druid, Necro, Sorceress
-
-The Druid and Necro have not yet been playtested and will come in later releases.
-
 # Paladin
 ## Defensive auras:
 
-- Prayer: [add life per kill passive bonus]
+- Prayer: unchanged
 - Resist Fire: decreased max resistance
 - Resist Cold: decreased max resistance
 - Resist Lightning: decreased max resistance
 - Defiance: added percentage damage reduction
 - Cleansing: unchanged
-- Vigor: [added faster run walk passive bonus]
-- Meditation: [add mana per kill passive bonus]
+- Vigor: unchanged
+- Meditation: unchanged
 - Redemption: unchanged
 - Salvation: decreased max resistance
 
 ## Offensive auras:
 
 - Might: Damage ED now starts at 100%
-- Holy Fire: unchanged
+- Holy Fire: increased damage tick to each second
 - Thorns: added flat attacker takes damage
 - Blessed Aim: added deadly strike bonus
 - Concentration: unchanged
-- Holy Freeze: unchanged
-- Holy Shock: unchanged
+- Holy Freeze: increased damage tick to each second
+- Holy Shock: increased damage tick to each second
 - Sanctuary: changed to deal damage to all monsters, same tick rate as holy fire + shock, no longer stuns
 - Fanaticism: unchanged
 - Conviction: unchanged
@@ -296,6 +292,11 @@ The Druid and Necro have not yet been playtested and will come in later releases
 - Meteor: add physical damage to impact, remove casting delay
 - Hydra: add fire pierce
 - Fire Mastery: add fire pierce
+
+# Druid, Necro
+
+The Druid and Necro have not yet been playtested and will come in later releases.
+
 
 <!--
 # Druid

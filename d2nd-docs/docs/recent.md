@@ -32,7 +32,7 @@ Fixes for the following issues:
 - Experimental fix for crash twice (skilltab biddings id corrected)
 - Uber keys stacks no graphics
 - Fomenters crafted ring now requires Tal rune
-- Charges now has rare items in the description for forging
+- Charges now have rare items in the description for forging
 - Teleport charges now show on Spellsteel
 - Typo in Elemental Bidding text
 - Shield corruptions no longer returns flawless on bricking
