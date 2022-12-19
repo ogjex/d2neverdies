@@ -1,6 +1,6 @@
 # Recent patch changes
 
-<!--## v1.1.0
+## v1.1.0
 
 Fixes the following:
 
@@ -23,8 +23,6 @@ Adding:
 Paladin and Sorceress skill changes:
 
 - see change log for details
-
--->
 
 ## v1.0.3
 
