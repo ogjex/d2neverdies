@@ -214,7 +214,7 @@
 - Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames
 
 # Paladin
-## Defensive auras:
+## Defensive auras
 
 - Prayer: unchanged
 - Resist Fire: decreased max resistance
@@ -227,7 +227,7 @@
 - Redemption: unchanged
 - Salvation: decreased max resistance
 
-## Offensive auras:
+## Offensive auras
 
 - Might: Damage ED now starts at 100%
 - Holy Fire: increased damage tick to each second
@@ -240,7 +240,7 @@
 - Fanaticism: unchanged
 - Conviction: unchanged
 
-## Combat skills:
+## Combat skills
 
 - Sacrifice: unchanged
 - Holy Bolt: add multishot per baselevels
@@ -254,9 +254,10 @@
 - Holy Shield: unchanged
 
 # Sorceress
-## Cold skills:
 
-- Ice Bolt
+## Cold skills
+
+- Ice Bolt: unchanged
 - Frozen Armor: replaced with Frozen Guard, is now a passive, adds flat damage reduction, and flat defense bonus per level, moved to level 18 requirement
 - Frost Nova: no changes
 - Ice Blast: added 100% piercing (projectile continues through targets)
@@ -267,7 +268,7 @@
 - Frozen Orb: removed casting delay
 - Cold Mastery: no changes
 
-## Lightning skills:
+## Lightning skills
 
 - Charged Bolt: no changes
 - Telekinesis: increased damage
@@ -280,7 +281,7 @@
 - Energy Shield: no changes
 - Lightning Mastery: added lightning pierce
 
-## Fire skills:
+## Fire skills
 
 - Fire Bolt: now will multishot with additional points to Heat Stroke
 - Warmth: no changes
