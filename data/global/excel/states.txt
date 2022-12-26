@@ -196,3 +196,4 @@ lightningpierce	193																																																													
 poisonpierce	194																																																																						0
 coldprotect	195																																																																						0
 fireprotect	196																																																																						0
+backstab	197																																																																						0
