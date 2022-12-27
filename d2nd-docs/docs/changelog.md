@@ -300,9 +300,51 @@ The Druid and Necro have not yet been playtested and will come in later releases
 
 
 <!--
-# Druid
+# Necromancer
 
-# Necro
+## Summoning
+
+- Raise Skeleton Warrior: increased life, damage, reduced max number of warriors
+!- Skeleton Mastery: added resistances for all summons
+- Clay Golem: unchanged
+!- Raise Skeletal Mage: removed cold and poison mages, increased life, damage, reduced max number of mages
+- Golem Mastery: added additional golem summons per 5 base levels
+- Summon Resist: renamed to Undead Mastery
+!- Blood Golem: renamed to Bone Golem, added Sanctuary aura
+!- Iron Golem: increased flat attacker takes damage, increased defense
+!- Fire Golem: added Holy Shock aura, increased fire and lightning damage
+- Revive: [increase life and damage]
+
+## Poison and bone spells
+
+- Teeth: increase damaged, added piercing to all teeth
+- Poison Dagger: renamed to Poison Strike, can be used with all melee weapons, added Ignore Target Defense, Increased Defense, Increased Attack Speed
+! - Bone Armor: now synergises with Energy attribute, synergises with Poison Ward to absorb poison damage
+- Corpse Explosion: unchanged
+! - Bone Wall: now synergises with Energy attribute
+- Poison Explosion: renamed to Poison Ward, works like Grim Ward that decreases Enemy Poison Resistances, synergises with Decrepify to slow monsters
+- Bone Spear: unchanged
+! - Bone Prison: now synergises with Energy attribute
+! - Poison Nova: [add synergy damage from Poison Ward and Poison Strike]
+! - Bone Spirit: decreased velocity, added cast delay, added larger AoE attack (AoE synergises with Teeth), increased damage
+
+## Curses
+
+!- Amplify Damage: added increment of 5% amplify damage per level
+!- Dim Vision: further reduced attack rating, reduced monster attack speed
+!- Iron Maiden: can now be cast as an additional curse
+- Life Tap: unchanged
+- Terror: can now be cast as an additional curse, synergises with decrepify that adds monsters slowed
+- Weaken: monsters now have their base AC reduced 
+!- Confuse: can now be cast as an additional curse, synergises with Amp Damage to increase Monster Attack Speed
+- Attract: synergises with Iron Maiden that adds flat attacker takes damage
+- Decrepify: can now be cast as an additional curse, removed amplify damage, added slower cast rate
+- Lower Resist: unchanged
+
+-->
+
+<!-->
+# Druid
 
 
 -->

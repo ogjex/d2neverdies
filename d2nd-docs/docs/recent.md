@@ -1,5 +1,14 @@
 # Recent patch changes
 
+<!--
+## v1.1.0
+
+- Meteor and Firewall can now be cast continuously on controller
+- Holy Bolt no longer pierces
+
+
+-->
+
 ## v1.1.0
 
 Fixes the following:
