@@ -330,13 +330,13 @@ The Druid and Necro have not yet been playtested and will come in later releases
 
 ## Curses
 
-!- Amplify Damage: added increment of 5% amplify damage per level
-!- Dim Vision: further reduced attack rating, reduced monster attack speed
-!- Iron Maiden: can now be cast as an additional curse
+- Amplify Damage: added increment of 5% amplify damage per level
+- Dim Vision: further reduced attack rating
+- Iron Maiden: can now be cast as an additional curse
 - Life Tap: unchanged
-- Terror: can now be cast as an additional curse, synergises with decrepify that adds monsters slowed
+- Terror: can now be cast as an additional curse
 - Weaken: monsters now have their base AC reduced 
-!- Confuse: can now be cast as an additional curse, synergises with Amp Damage to increase Monster Attack Speed
+- Confuse: can now be cast as an additional curse, synergises with Amp Damage to increase Monster Damage
 - Attract: synergises with Iron Maiden that adds flat attacker takes damage
 - Decrepify: can now be cast as an additional curse, removed amplify damage, added slower cast rate
 - Lower Resist: unchanged
