@@ -36060,7 +36060,7 @@
   {
     "id": 100020,
     "Key": "SkillNamePoisonStrike",
-    "enUS": "Poison Strike",
+    "enUS": "Poison Wisp",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36077,7 +36077,7 @@
   {
     "id": 100021,
     "Key": "SkillDescPoisonStrike",
-    "enUS": "Attacks with a swift and devastating\n strike with any weapon",
+    "enUS": "casts a poison ball of that leaves a devastating\n wisp of poison in its wake",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36094,7 +36094,7 @@
   {
     "id": 100022,
     "Key": "SkillanPoisonStrike",
-    "enUS": "Psn Strike",
+    "enUS": "Psn Wisp",
     "zhTW": "",
     "deDE": "",
     "esES": "",
