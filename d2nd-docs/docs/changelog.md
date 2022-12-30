@@ -318,14 +318,14 @@ The Druid and Necro have not yet been playtested and will come in later releases
 ## Poison and bone spells
 
 - Teeth: increase damaged, added piercing to all teeth
-- Poison Dagger: renamed to Poison Strike, can be used with all melee weapons, added Ignore Target Defense, Increased Defense, Increased Attack Speed
+- Poison Dagger: renamed to Poison Wisp, now a casting skill that casts a poison bolt with a poison trail that pierces through its path, increased poison damage to be stronger than Poison Nova against single targets
 ! - Bone Armor: now synergises with Energy attribute, synergises with Poison Ward to absorb poison damage
 - Corpse Explosion: unchanged
 ! - Bone Wall: now synergises with Energy attribute
 - Poison Explosion: renamed to Poison Ward, works like Grim Ward that decreases Enemy Poison Resistances, synergises with Decrepify to slow monsters
 - Bone Spear: unchanged
 ! - Bone Prison: now synergises with Energy attribute
-! - Poison Nova: [add synergy damage from Poison Ward and Poison Strike]
+- Poison Nova: increased damage to be more useful, added synergy damage from Poison Ward and Poison Wisp
 ! - Bone Spirit: decreased velocity, added cast delay, added larger AoE attack (AoE synergises with Teeth), increased damage
 
 ## Curses
