@@ -36277,6 +36277,56 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": "" 
+  },
+  {
+    "id": 100033,
+    "Key": "SkillNameBloodDistort",
+    "enUS": "Blood Distort",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": "" 
+  },
+  {
+    "id": 100034,
+    "Key": "SkillDescBloodDistort",
+    "enUS": "distorts reality to move you\nand your summons to selected destination",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": "" 
+  },
+  {
+    "id": 100034,
+    "Key": "SkillanBloodDistort",
+    "enUS": "Blood Dst",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": "" 
   }
-
 ]
