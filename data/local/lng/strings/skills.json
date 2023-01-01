@@ -10934,7 +10934,7 @@
   {
     "id": 4649,
     "Key": "skillname69",
-    "enUS": "Skeleton Mastery",
+    "enUS": "Undead Mastery",
     "zhTW": "骷髏專精",
     "deDE": "Skelettbeherrschung",
     "esES": "Dominio de los esqueletos",
@@ -10968,7 +10968,7 @@
   {
     "id": 4651,
     "Key": "skillld69",
-    "enUS": "passive - increases life and damage\nof raised skeletons and revived creatures",
+    "enUS": "passive - increases life, damage, and speed\nof raised skeletons and revived creatures",
     "zhTW": "被動 - 提高你復生的骷髏和重生的生物的生命值與造成的傷害",
     "deDE": "Passiv - Erhöht Leben und Schaden\nvon erweckten Skeletten und\nreanimierten Kreaturen.",
     "esES": "Pasiva: Aumenta la vida y el daño\nde los esqueletos y de las criaturas resucitadas.",
@@ -10985,7 +10985,7 @@
   {
     "id": 4652,
     "Key": "skillan69",
-    "enUS": "Skeleton Mastery",
+    "enUS": "Undead Mastery",
     "zhTW": "骷髏專精",
     "deDE": "Skelettbeherrschung",
     "esES": "Dominio de los esqueletos",
