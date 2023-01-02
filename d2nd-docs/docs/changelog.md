@@ -310,7 +310,7 @@ The Druid and Necro have not yet been playtested and will come in later releases
 !- Raise Skeletal Mage: removed cold and poison mages, increased life, damage, reduced max number of mages
 - Golem Mastery: added additional golem summons per 5 base levels
 - Summon Resist: replaced with Blood Distort, now a Teleport skill with a casting delay
-!- Blood Golem: renamed to Bone Golem, added Sanctuary aura
+!- Blood Golem: renamed to Flesh and Bone Golem, added Prayer aura
 !- Iron Golem: increased flat attacker takes damage, increased defense
 !- Fire Golem: added Holy Shock aura, increased fire and lightning damage
 - Revive: [increase life and damage]
