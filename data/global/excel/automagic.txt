@@ -158,9 +158,9 @@ Burly Bidding	100	1	1							1	547	str		6	6	infusion-cost		3	3	lvl-cost		6	6		snb
 Agile Bidding	100	1	1							1	548	dex		2	2	infusion-cost		2	2	lvl-cost		1	1		dxb1	bidd											0	0
 Nimble Bidding	100	1	1							1	549	dex		4	4	infusion-cost		3	3	lvl-cost		4	4		dxb2	bidd											0	0
 Dexterous Bidding	100	1	1							1	550	dex		6	6	infusion-cost		3	3	lvl-cost		6	6		dxb3	bidd											0	0
-Vital Bidding	100	1	1							1	551	vit		6	6	infusion-cost		2	2	lvl-cost		1	1		vib1	bidd											0	0
-Vibrous Bidding	100	1	1							1	552	vit		4	4	infusion-cost		3	3	lvl-cost		4	4		vib2	bidd											0	0
-Enduring Bidding	100	1	1							1	553	vit		8	8	infusion-cost		3	3	lvl-cost		6	6		vib3	bidd											0	0
+Vital Bidding	100	1	1							1	551	vit		4	4	infusion-cost		2	2	lvl-cost		1	1		vib1	bidd											0	0
+Vibrous Bidding	100	1	1							1	552	vit		8	8	infusion-cost		3	3	lvl-cost		4	4		vib2	bidd											0	0
+Enduring Bidding	100	1	1							1	553	vit		12	12	infusion-cost		3	3	lvl-cost		6	6		vib3	bidd											0	0
 Energetic Bidding	100	1	1							1	554	enr		4	4	infusion-cost		2	2	lvl-cost		1	1		enb1	bidd											0	0
 Bright Bidding	100	1	1							1	555	enr		8	8	infusion-cost		3	3	lvl-cost		4	4		enb2	bidd											0	0
 Spirited Bidding	100	1	1							1	556	enr		12	12	infusion-cost		3	3	lvl-cost		6	6		enb3	bidd											0	0
