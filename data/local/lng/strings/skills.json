@@ -36332,7 +36332,7 @@
   {
     "id": 100035,
     "Key": "StrExtraGolem",
-    "enUS": "summons an additional golem per %+d base levels",
+    "enUS": "summons an additional golem per %d base levels",
     "zhTW": "",
     "deDE": "",
     "esES": "",
