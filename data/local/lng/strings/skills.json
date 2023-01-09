@@ -10900,7 +10900,7 @@
   {
     "id": 4647,
     "Key": "skillld68",
-    "enUS": "creates an orbiting shield of bone\nthat absorbs melee damage",
+    "enUS": "creates an orbiting shield of bone\nthat absorbs melee damage.\nReduces melee damage for all bone-based summons",
     "zhTW": "召喚骸骨護盾環繞在身旁，吸收近戰傷害",
     "deDE": "Erschafft einen kreisenden Schild\naus Knochen, der physischen\nSchaden absorbiert.",
     "esES": "Crea un escudo giratorio de hueso\nque absorbe el daño cuerpo a cuerpo.",
