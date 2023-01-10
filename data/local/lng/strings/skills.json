@@ -12056,7 +12056,7 @@
   {
     "id": 4715,
     "Key": "skillld85",
-    "enUS": "creates a golem that shares with you the life\nit steals",
+    "enUS": "creates a golem that shares with you the life\nit steals. \nHas Prayer aura.",
     "zhTW": "創造出一個會竊取生命值並且分享給你的魔像",
     "deDE": "Erschafft einen Golem mit Lebensdiebstahl,\nder gestohlenes Leben mit Euch teilt.",
     "esES": "Crea un gólem que comparte\ncontigo la vida que roba.",
