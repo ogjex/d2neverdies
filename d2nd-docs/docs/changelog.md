@@ -214,7 +214,7 @@
 - Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames
 
 # Paladin
-## Defensive auras:
+## Defensive auras
 
 - Prayer: unchanged
 - Resist Fire: decreased max resistance
@@ -227,7 +227,7 @@
 - Redemption: unchanged
 - Salvation: decreased max resistance
 
-## Offensive auras:
+## Offensive auras
 
 - Might: Damage ED now starts at 100%
 - Holy Fire: increased damage tick to each second
@@ -240,7 +240,7 @@
 - Fanaticism: unchanged
 - Conviction: unchanged
 
-## Combat skills:
+## Combat skills
 
 - Sacrifice: unchanged
 - Holy Bolt: add multishot per baselevels
@@ -254,9 +254,10 @@
 - Holy Shield: unchanged
 
 # Sorceress
-## Cold skills:
 
-- Ice Bolt
+## Cold skills
+
+- Ice Bolt: unchanged
 - Frozen Armor: replaced with Frozen Guard, is now a passive, adds flat damage reduction, and flat defense bonus per level, moved to level 18 requirement
 - Frost Nova: no changes
 - Ice Blast: added 100% piercing (projectile continues through targets)
@@ -267,7 +268,7 @@
 - Frozen Orb: removed casting delay
 - Cold Mastery: no changes
 
-## Lightning skills:
+## Lightning skills
 
 - Charged Bolt: no changes
 - Telekinesis: increased damage
@@ -280,7 +281,7 @@
 - Energy Shield: no changes
 - Lightning Mastery: added lightning pierce
 
-## Fire skills:
+## Fire skills
 
 - Fire Bolt: now will multishot with additional points to Heat Stroke
 - Warmth: no changes
@@ -299,9 +300,51 @@ The Druid and Necro have not yet been playtested and will come in later releases
 
 
 <!--
-# Druid
+# Necromancer
 
-# Necro
+## Summoning
+
+- Raise Skeleton Warrior: increased life, damage, reduced max number of warriors
+- Skeleton Mastery: renamed to Undead Mastery, all summons have auto buffed resistances
+- Clay Golem: unchanged
+!- Raise Skeletal Mage: removed cold and poison mages, increased life, damage, reduced max number of mages
+- Golem Mastery: added additional golem summons per 5 base levels
+- Summon Resist: replaced with Blood Distort, now a Teleport skill with a casting delay
+!- Blood Golem: renamed to Flesh and Bone Golem, added Prayer aura
+!- Iron Golem: increased flat attacker takes damage, increased defense
+!- Fire Golem: added Holy Shock aura, increased fire and lightning damage
+- Revive: [increase life and damage]
+
+## Poison and bone spells
+
+- Teeth: removed synergy from bone prison, increased synergy damage to 20, increased damaged, added piercing to all teeth
+- Poison Dagger: renamed to Poison Wisp, now a casting skill that casts a poison bolt with a poison trail that pierces through its path, increased poison damage to be stronger than Poison Nova against single targets
+- Bone Armor: now synergises with Energy attribute, synergises with Bone Wall (+) and Bone Prison (-) for damage reduction, synergises with Bone Prison (+) and Bone Wall (-) for magic damage reduction
+- Corpse Explosion: unchanged
+- Bone Wall: now synergises with Energy attribute, removed bone armor synergy
+- Poison Explosion: renamed to Poison Ward, works like Grim Ward that decreases Enemy Poison Resistances, synergises with Poison Wisp to decrease enemy poison resistance
+- Bone Spear: removed synergy from bone wall, increased synergy damage by 4
+- Bone Prison: now synergises with Energy attribute, removed bone armor synergy
+- Poison Nova: increased damage to be more useful, added synergy damage from Poison Ward and Poison Wisp
+- Bone Spirit: removed guided feature, added cast delay, added larger AoE attack that stuns
+
+## Curses
+
+- Amplify Damage: added increment of 5% amplify damage per level
+- Dim Vision: further reduced attack rating
+- Iron Maiden: can now be cast as an additional curse
+- Life Tap: unchanged
+- Terror: can now be cast as an additional curse
+- Weaken: monsters now have their base AC reduced 
+- Confuse: can now be cast as an additional curse, synergises with Amp Damage to increase Monster Damage
+- Attract: synergises with Iron Maiden that adds flat attacker takes damage
+- Decrepify: can now be cast as an additional curse, removed amplify damage, added slower cast rate
+- Lower Resist: unchanged
+
+-->
+
+<!-->
+# Druid
 
 
 -->
