@@ -12073,7 +12073,7 @@
   {
     "id": 4716,
     "Key": "skillan85",
-    "enUS": "Boneflesh Golem",
+    "enUS": "Bnflsh Glm",
     "zhTW": "鮮血魔像",
     "deDE": "Blutgolem",
     "esES": "Gólem sangriento",
@@ -36313,7 +36313,7 @@
     "zhCN": "" 
   },
   {
-    "id": 100034,
+    "id": 100035,
     "Key": "SkillanBloodDistort",
     "enUS": "Blood Distort",
     "zhTW": "",
@@ -36330,7 +36330,7 @@
     "zhCN": "" 
   },
   {
-    "id": 100035,
+    "id": 100036,
     "Key": "StrExtraGolem",
     "enUS": "summons an additional golem per %d base levels",
     "zhTW": "",
