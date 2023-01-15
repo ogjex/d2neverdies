@@ -12634,7 +12634,7 @@
   {
     "id": 4749,
     "Key": "skillname94",
-    "enUS": "Fire Golem",
+    "enUS": "Pyroshock Golem",
     "zhTW": "火焰魔像",
     "deDE": "Feuergolem",
     "esES": "Gólem de fuego",
@@ -12651,7 +12651,7 @@
   {
     "id": 4750,
     "Key": "skillsd94",
-    "enUS": "creates a golem of fire",
+    "enUS": "creates a golem of fire and electricity",
     "zhTW": "創造一個火焰魔像",
     "deDE": "Erschafft einen Golem aus Feuer.",
     "esES": "Crea un gólem de fuego.",
@@ -12668,7 +12668,7 @@
   {
     "id": 4751,
     "Key": "skillld94",
-    "enUS": "creates a golem that converts the damage\nit receives from fire into life",
+    "enUS": "creates a golem that converts the damage\nit receives from fire into life.\n Adds Holy Shock aura at 20 base levels",
     "zhTW": "創造一個可以吸收火焰傷害並且轉換成生命值的魔像",
     "deDE": "Erschafft einen Golem, der einen Teil des\nerlittenen Feuerschadens in Leben umwandelt.",
     "esES": "Crea un gólem que convierte en vida\nel daño de fuego que sufre.",
@@ -12685,7 +12685,7 @@
   {
     "id": 4752,
     "Key": "skillan94",
-    "enUS": "Fire Golem",
+    "enUS": "Pyroshck Golem",
     "zhTW": "火焰魔像",
     "deDE": "Feuergolem",
     "esES": "Gólem de fuego",
@@ -36345,5 +36345,22 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": "" 
+  },
+  {
+    "id": 100037,
+    "Key": "StrSkillHolyShockDamageRange",
+    "enUS": "Holy Shock: %d-%d",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": "",
   }
 ]
