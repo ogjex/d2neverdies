@@ -12670,7 +12670,7 @@
     "Key": "skillld94",
     "enUS": "creates a golem that converts the damage\nit receives from fire into life.\n Adds Holy Shock aura at 20 base levels",
     "zhTW": "創造一個可以吸收火焰傷害並且轉換成生命值的魔像",
-    "deDE": "Erschafft einen Golem, der einen Teil des\nerlittenen Feuerschadens in Leben umwandelt.",
+    "deDE": "Erschafft einen Golem, der einen Teil des\nerlittenen Feuerschadens in Leben umwandelt.",StrSkillCastingDelayPlural
     "esES": "Crea un gólem que convierte en vida\nel daño de fuego que sufre.",
     "frFR": "crée un golem qui convertit en points\nde vie les dégâts de Feu qu’il subit",
     "itIT": "Crea un golem che trasforma i danni\nda fuoco che subisce in vita",
@@ -36361,6 +36361,23 @@
     "jaJP": "",
     "ptBR": "",
     "ruRU": "",
-    "zhCN": "",
+    "zhCN": ""
+  },
+  {
+    "id": 10962,
+    "Key": "Convphy2magaltplev",
+    "enUS": "%s: Converts %d%% Physical Damage to Elemental Damage",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
   }
 ]
