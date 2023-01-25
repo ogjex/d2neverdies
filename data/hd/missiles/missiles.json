@@ -703,5 +703,7 @@
 	"divineblessingcenter": "sanctuary",
 	"poisonballs": "poison_nova",
 	"poisonwisp": "poison_nova",
-    "bonespiritexplodestun": "bone_spirit_explode"
+    "bonespiritexplodestun": "bone_spirit_explode",
+	"cleave": "expansion_shockwave",
+	"greatcleave": "warcry_shockwave"
 }
