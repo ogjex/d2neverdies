@@ -27,15 +27,15 @@ Scepter	scep	rod	swob	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	5	40	6	0	1	pal		0					
 Wand	wand	rod	swob	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	2	40	2	0	1	nec		0							weap	0
 Staff	staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	1	sor		0							weap	0
 Bow	bow	miss	bxbw	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	3			0							weap	0
-Axe	axe	1acs		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
-Club	club	blun	1acs	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3	dru		0							weap	0
-Sword	swor	blde	1acs	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Hammer	hamm	blun	1acs	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Axe	axe			1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
+Club	club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3	dru		0							weap	0
+Sword	swor	blde		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Hammer	hamm	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Knife	knif	blde		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	3			0							weap	0
 Spear	spea	sppl		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Polearm	pole	sppl		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Crossbow	xbow	miss	bxbw	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Mace	mace	blun	1acs	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Mace	mace	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Helm	merc			1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
 Missile Potion	tpot	thro		0	1	rarm	larm			1	1	1	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Quest	ques			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -68,7 +68,7 @@ Sorceress Item	sorc	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		sor	0								0
 Assassin Item	assn	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	2		ass	0								0
 Druid Item	drui	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		dru	0								0
 Hand to Hand	h2h	mele	assn	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	2	ass	ass	0							weap	0
-Orb	orb	weap	sorc	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	1	sor	sor	0							weap	0
+Orb	orb	swob	sorc	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	1	sor	sor	0							weap	0
 Voodoo Heads	head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	1	nec	nec	0							armo	0
 Auric Shields	ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	4	0	1		pal	0							armo	0
 Primal Helm	phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	3	0	1	bar	bar	0							armo	0
@@ -114,10 +114,16 @@ Skull	gemz	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Merc Equip	helm	armo	merc	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
 Swords and Knives	blde	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 Spears and Polearms	sppl	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-2H Axes, Clubs and Swords	2acs	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-1H Axes, Clubs and Swords	1acs	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 Bows and Xbows	bxbw	misl		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Scepters, swords, wands and Orbs	swob	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+2H Axes	2ha	2acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+2H Clubs	2hc	2acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+2H Swords	2hw	2acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+1H Axes	1ha	1acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+1H Clubs	1hc	1acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+1H Swords	1hs	1acs	swob	0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+2hacs	2acs	weap	mele	0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+1hacs	1acs	weap	mele	0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Scepters, swords, wands and Orbs	swob	mele	weap	0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 Orb cubing	orbx	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	1			0							misc	0
 Valor	rval	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	1			0							misc	0
 Gem Stack	gemx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
