@@ -772,7 +772,7 @@ of the Apprentice	1	1	1	25		29				4	9	cast1		10	10										glov	belt											
 of the Magus	1	1	1	25		29				2	9	cast3		20	20										tors	shld	ashd											0
 of the Squid	100	1	1	40		30				3	26	hp		61	80									cred	tors	belt	phlm	circ	shld									0
 of the Whale	100	1	1	50		37				3	26	hp		81	100									cred	tors	belt	phlm	circ	shld									0
-of the Kraken	100	1	1	20		1				1	41	hp/lvl	6											cred	tors	pelt	phlm	shld										0
+of the Kraken1	100	1	1	20		1				1	41	hp/lvl	6											cred	tors	pelt	phlm	shld										0
 of Clarity	1	1	1	25		21				1	25	light		4	4	att		60	120						rod	miss	amul	helm	tors	ring								0
 of Divinity	1	1	1	50		42				1	25	light		5	5	att		120	240						rod	miss	amul	tors										0
 of the Dawn	1	1	1	27		22				1	25	light		5	5	att%		10	10						rod	miss	glov	ring	amul	helm	tors							0
