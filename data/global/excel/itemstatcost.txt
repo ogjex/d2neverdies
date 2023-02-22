@@ -125,7 +125,7 @@ item_undeaddamage_percent	122		1	12											13	12		9	20	9	20											1					1
 item_demon_tohit	123		1	13											15	7		10	128	10	128											1					110	19		ModStr4j	ModStr4j										0
 item_undead_tohit	124		1	13											11	7		10	128	10	128											1					106	19		ModStr4k	ModStr4k										0
 item_throwable	125		1	2											82	1024		1	0	1	0																5	19		ModStr5a	ModStr5a										0
-item_elemskill	126		1	3	3						1				76	1024		4	0	3	0	3															1														0
+item_elemskill	126		1	3	3						1				76	1024		4	0	3	0	3															157	19		ModStr3i	ModStr3i										0
 item_allskills	127		1	8							1				15123	4096		3	0	3	0																158	19		ModStr3k	ModStr3k										0
 item_attackertakeslightdamage	128		1	6							1				4	102		5	0	5	0												damagedinmelee	10			14	19		ModStr3j	ModStr3j									2	0
 ironmaiden_level	129		1	10																																															0
@@ -165,7 +165,7 @@ skill_staminapercent	162		1	13																				1			maxstamina																
 skill_passive_staminapercent	163		1	12																				1			maxstamina																								0
 skill_concentration	164		1	12																																															0
 skill_enchant	165		1	12																																															0
-skill_pierce	166		1	12																																															0
+skill_pierce	166		1	12	16																																														0
 skill_conviction	167		1	12																																															0
 skill_chillingarmor	168		1	12																																															0
 skill_frenzy	169		1	12																																															0
@@ -182,31 +182,31 @@ attack_vs_montype	179			9	10										19	14		3	0	9		10										1					108	22		Mo
 damage_vs_montype	180			9	10										27	17		3	0	9		10										1					106	22		Moditemdamvsm	Moditemdamvsm										0
 fade	181	1		7														14	0	3																															0
 armor_override_percent	182	1	1	8														14	0																																0
-unused183	183																	14	0																																0
-unused184	184																	14	0																																0
-unused185	185																	14	0																																0
-unused186	186																	14	0																																0
-unused187	187																	14	0																																0
+lasthitreactframe	183																	14	0																																0
+create_season	184																	14	0																																0
+bonus_mindamage	185		1	12																8	0											1																			0
+bonus_maxdamage	186		1	12																8	0											1																			0
+item_pierce_cold_immunity	187			10											1432	513				10																	100	19		ModItemMonColdSunder	ModItemMonColdSunder									2	0
 item_addskill_tab	188		1	3	6						1				11042	768		10	0	3	0	16															151	14		StrSklTabItem1	StrSklTabItem1										0
-unused189	189																	10	0																																0
-unused190	190																	10	0																																0
-unused191	191																	10	0																																0
-unused192	192																	10	0																																0
-unused193	193																	10	0																																0
+item_pierce_fire_immunity	189			10											1432	513				10																	100	19		ModItemMonFireSunder	ModItemMonFireSunder									2	0
+item_pierce_light_immunity	190			10											1432	513				10																	100	19		ModItemMonLightSunder	ModItemMonLightSunder									2	0
+item_pierce_poison_immunity	191			10											1432	513				10																	100	19		ModItemMonPoisonSunder	ModItemMonPoisonSunder									2	0
+item_pierce_damage_immunity	192			10											1432	513				10																	100	19		ModItemMonPhysicalSunder	ModItemMonPhysicalSunder									2	0
+item_pierce_magic_immunity	193			10											1432	513				10																	100	19		ModItemMonMagicSunder	ModItemMonMagicSunder									2	0
 item_numsockets	194		1	4											38	170		4	0	4	0																														0
 item_skillonattack	195		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleeattack	20	domissileattack	20	160	15		ItemExpansiveChancX	ItemExpansiveChancX									2	0
 item_skillonkill	196		1	7	16						1			2	85	19		21	0	7	0	16										1	kill	20			160	15		ModitemskonKill	ModitemskonKill									2	0
 item_skillondeath	197		1	7	16						1			2	11	9		21	0	7	0	16											killed	30			160	15		Moditemskondeath	Moditemskondeath									2	0
 item_skillonhit	198		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20	domissiledamage	20	160	15		ItemExpansiveChanc1	ItemExpansiveChanc1									2	0
 item_skillonlevelup	199		1	7	16						1			2	7	6		21	0	7	0	16											levelup	30			160	15		ModitemskonLevel	ModitemskonLevel									2	0
-unused200	200																	21	0																																0
+item_charge_noconsume	200			7											106	256				7	0																159	19		ModStr6k	ModStr6k									2	0
 item_skillongethit	201		1	7	16						1			2	190	256		21	0	7	0	16											damagedinmelee	21	damagedbymissile	21	160	15		ItemExpansiveChanc2	ItemExpansiveChanc2									2	0
 unused202	202																	21	0																																0
 unused203	203																	21	0																																0
 item_charged_skill	204		1	30							1			3	401	256		30	0	16	0	16															1	24		ModStre10d	ModStre10d										0
-unused205	205		1	30										3	401	256		30	0																																0
-unused206	206		1	30										3	401	256		30	0																																0
-unused207	207		1	30										3	401	256		30	0																																0
+item_noconsume	205		1	7											106	256				7	0											1					4	19		ModStr6j	ModStr6j									2	0
+passive_mastery_noconsume	206		1	9	16															8	0																														0
+passive_mastery_replenish_oncrit	206		1	9	16															8	0																														0
 unused208	208		1	30										3	401	256		30	0																																0
 unused209	209		1	30										3	401	256		30	0																																0
 unused210	210		1	30										3	401	256		30	0																																0
@@ -331,8 +331,8 @@ pierce_idx	328		1	6																																															0
 passive_fire_mastery	329		1	12											1117	415		8	0	9	50																88	19		ModitemdamFiresk	ModitemdamFiresk									2	0
 passive_ltng_mastery	330		1	12											1054	408		8	0	9	50																88	19		ModitemdamLtngsk	ModitemdamLtngsk									2	0
 passive_cold_mastery	331		1	12											1295	379		8	0	9	50																88	19		ModitemdamColdsk	ModitemdamColdsk									2	0
-corrupted	332			10	10										54	204	1024		8	0	10	0	10														254	3	0	StrCorrupted	StrCorrupted										0
-corruptor	333			1	16											54	1024				12	0															253	0	0	StrCorruptNum	StrCorruptNum										0
+passive_pois_mastery	332		1	12											978	394		8	0	9	50																88	19		ModitemdamPoissk	ModitemdamPoissk									2	0
+passive_fire_pierce	333		1	9												2578		8	0	8	0																88	19		Moditemenresfiresk	Moditemenresfiresk									2	0
 passive_ltng_pierce	334		1	9												2493		8	0	8	0																88	19		Moditemenresltngsk	Moditemenresltngsk									2	0
 passive_cold_pierce	335		1	9												1984		8	0	8	0																88	19		Moditemenrescoldsk	Moditemenrescoldsk									2	0
 passive_pois_pierce	336		1	9												2345		8	0	8	0																88	19		Moditemenrespoissk	Moditemenrespoissk									2	0
@@ -358,7 +358,7 @@ shortparam1	355			16																																															0
 questitemdifficulty	356																			2	0																														0
 passive_mag_mastery	357		1	12											1211	431		8	0	9	50																														0
 passive_mag_pierce	358		1	9												2812		8	0	8	0																														0
-skill_cooldown	359			32	16																																														0
+skill_cooldown	359																																																		0
 skill_missile_damage_scale	360			32	16																																														0
 item_iscorrupted	561			11			1	0	10			1	1					7	32	7	32																255	3	0	corrupted	corrupted										0
 item_splashonhit	562		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20			160	15	0	splash	splash										0
