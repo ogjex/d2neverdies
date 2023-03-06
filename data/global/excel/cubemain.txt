@@ -3651,7 +3651,7 @@ Ring + Glyph -> Random Rare	1			100	16	361	5		3	rin	glx	gpb					"usetype,rar"		1
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	6		3	rin	glx	gpb					useitem				corruption	100		21	21	enr	100		10	20																glb																													glb																													0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	8		3	rin	glx	gpb					useitem				corruption	100		21	21	regen-mana	100		15	20																glb																													glb																													0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	10		3	rin	glx	gpb					useitem				corruption	100		21	21	mana-kill	100		3	5																glb																													glb																													0
-Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	12		3	rin	glx	gpb					useitem				corruption	100		21	21	life-kill	100		3	5																glb																													glb																													0
+Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	12		3	rin	glx	gpb					useitem				corruption	100		21	21	heal-kill	100		3	5																glb																													glb																													0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	14		3	rin	glx	gpb					useitem				corruption	100		21	21	cast1	100		10	10																glb																													glb																													0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	16		3	rin	glx	gpb					useitem				corruption	100		21	21	mag%	100		15	20																glb																													glb																													0
 Ring + Glyph -> Corrupted Ring With Useful Stat	1			100	16	361	17		3	rin	glx	gpb					useitem				corruption	100		21	21	str	100		3	6	dex	100		3	6	vit	100		3	6	enr	100				glb																													glb																													0
@@ -4226,6 +4226,6 @@ mp5 -> test item 10	1			100					1	mp5							useitem	200	200	200																	
 id scroll -> test item	1			100					1	isc							p1s	200	200	200																										isc																																																										0
 tp scroll -> crf-wep	1			100					1	tsc							cc0	200	200	200																										tsc																																																										0
 nos wep -> test	1			100					2	isc	tsc						"amu,set"	200	200	200																										isc																																																										0
-nos armo -> sock	1			100					2	"amu,mag"	hp5						useitem	200	200	200	curse-res	100		100	100																					isc																																																										0
+nos armo -> sock	1			100					2	"rng,mag"	hp5						useitem	200	200	200	heal-kill	100		3	5																					isc																																																										0
 nos wep -> test	1			100					2	"amu,mag"	isc						useitem	200	200	200	corruption	100		9	9																					isc																																																										0
 nos armo -> sock	1			100					2	armo	isc						"msk,set"	200	200	200																										isc																																																										0
