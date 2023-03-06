@@ -1,11 +1,33 @@
 # Recent patch changes
 
 <!--
-## v1.1.0
+## v1.2
 
+Fixes the following:
+- Corrupting rings with life after kill now correctly adds life after kill attribute
+- Amazon javelins and bows, and Sorc Orbs now spawn with their correct automods
+- Barb Battle Cry now correctly decreases enemy physical resistance (can also break immunities)
+- more fixes for weapon splashing
+
+Adding:
+
+- support for patch 2.6
+- support for Terror Zones
+
+Sorc:
 - Meteor and Firewall can now be cast continuously on controller
+
+Paladin:
 - Holy Bolt no longer pierces
 
+Barb:
+- removed Stun
+- removed Concentrate
+- added new lvl 12 skill: Great Cleave. Two-handed weapons only (not swords). Strikes a piercing wave through enemies on attack. 
+- added new lvl 18 skill: Cleave. 1-handed weapons only. Casts melee splash damage that arcs to multiple enemies close nearby.
+
+Necromancer:
+- complete revamp and balance of all skill trees (see Change log for full changes)
 
 -->
 
