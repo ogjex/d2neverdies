@@ -299,7 +299,7 @@
 The Druid and Necro have not yet been playtested and will come in later releases.
 
 
-<!--
+
 # Necromancer
 
 ## Summoning
@@ -307,13 +307,13 @@ The Druid and Necro have not yet been playtested and will come in later releases
 - Raise Skeleton Warrior: increased life, damage, reduced max number of warriors
 - Skeleton Mastery: renamed to Undead Mastery, all summons have auto buffed resistances
 - Clay Golem: unchanged
-!- Raise Skeletal Mage: removed cold and poison mages, increased life, damage, reduced max number of mages
+- Raise Skeletal Mage: removed cold and poison mages, increased life, damage, reduced max number of mages
 - Golem Mastery: added additional golem summons per 5 base levels
 - Summon Resist: replaced with Blood Distort, now a Teleport skill with a casting delay
-!- Blood Golem: renamed to Flesh and Bone Golem, added Prayer aura
-!- Iron Golem: increased flat attacker takes damage, increased defense
-!- Fire Golem: added Holy Shock aura, increased fire and lightning damage
-- Revive: [increase life and damage]
+- Blood Golem: renamed to BoneFlesh Golem, added Prayer aura
+- Iron Golem: increased flat attacker takes damage, increased defense
+- Fire Golem: renamed to PyrSchock Golem, added Holy Shock aura, increased fire and lightning damage
+- Revive: increased life and damage
 
 ## Poison and bone spells
 
@@ -341,7 +341,7 @@ The Druid and Necro have not yet been playtested and will come in later releases
 - Decrepify: can now be cast as an additional curse, removed amplify damage, added slower cast rate
 - Lower Resist: unchanged
 
--->
+
 
 <!-->
 # Druid
