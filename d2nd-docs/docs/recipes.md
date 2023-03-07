@@ -10,7 +10,7 @@ Fully Repaired and Recharged Armor: 1 Ral Rune + 1 Armor
 
 ## Uptiering
 
-### unique items 
+### Unique items 
 
 Basic Unique Weapon -> Exceptional Unique Weapon: 1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Basic Unique Weapon
 
@@ -20,7 +20,7 @@ Exceptional Unique Weapon -> Elite Unique Weapon: 1 Lum Rune + 1 Pul Rune + 1 Pe
 
 Exceptional Unique Armor -> Elite Unique Armor: 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Unique Armor
 
-### rare items 
+### Rare items 
 
 Basic Rare Weapon -> Exceptional Rare Weapon: 1 Ort Rune + 1 Amn Rune + 1 Perfect Sapphire + 1 Basic Rare Weapon
 
@@ -30,7 +30,7 @@ Basic Rare Armor -> Exceptional Rare Armor: 1 Ral Rune + 1 Thul Rune + 1 Perfect
 
 Exceptional Rare Armor -> Elite Rare Armor: 1 Ko Rune + 1 Pul Rune + 1 Perfect Amethyst + 1 Exceptional Rare Armor
 
-### crafted items
+### Crafted items
 
 Basic Crafted Weapon -> Exceptional Crafted Weapon: 1 Ort Rune + 1 Amn Rune + 1 Perfect Sapphire + 1 Basic Crafted Weapon
 
@@ -40,7 +40,7 @@ Exceptional Crafted Weapon -> Elite Crafted Weapon: 1 Fal Rune + 1 Um Rune + 1 P
 
 Exceptional Crafted Armor -> Elite Crafted Armor: 1 Ko Rune + 1 Pul Rune + 1 Perfect Amethyst + 1 Exceptional Crafted Armor
 
-### set items
+### Set items
 
 Basic Set Weapon -> Exceptional Set Weapon: 1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Basic Set Weapon
 
@@ -50,7 +50,7 @@ Exceptional Set Weapon -> Elite Set Weapon: 1 Lum Rune + 1 Pul Rune + 1 Perfect 
 
 Exceptional Set Armor -> Elite Set Armor: 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor 
 
-### runes
+### Runes
 
 El up to Pul rune: 3 x runes -> next rune
 
