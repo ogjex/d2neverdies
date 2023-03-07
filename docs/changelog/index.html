@@ -62,16 +62,21 @@
               {title: "Combat skills", url: "#combat-skills" },
           ]},
           {title: "Paladin", url: "#paladin", children: [
-              {title: "Defensive auras:", url: "#defensive-auras" },
-              {title: "Offensive auras:", url: "#offensive-auras" },
-              {title: "Combat skills:", url: "#combat-skills_1" },
+              {title: "Defensive auras", url: "#defensive-auras" },
+              {title: "Offensive auras", url: "#offensive-auras" },
+              {title: "Combat skills", url: "#combat-skills_1" },
           ]},
           {title: "Sorceress", url: "#sorceress", children: [
-              {title: "Cold skills:", url: "#cold-skills" },
-              {title: "Lightning skills:", url: "#lightning-skills" },
-              {title: "Fire skills:", url: "#fire-skills" },
+              {title: "Cold skills", url: "#cold-skills" },
+              {title: "Lightning skills", url: "#lightning-skills" },
+              {title: "Fire skills", url: "#fire-skills" },
           ]},
           {title: "Druid, Necro", url: "#druid-necro", children: [
+          ]},
+          {title: "Necromancer", url: "#necromancer", children: [
+              {title: "Summoning", url: "#summoning" },
+              {title: "Poison and bone spells", url: "#poison-and-bone-spells" },
+              {title: "Curses", url: "#curses" },
           ]},
         ];
 
@@ -345,7 +350,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames</li>
 </ul>
 <h1 id="paladin">Paladin</h1>
-<h2 id="defensive-auras">Defensive auras:</h2>
+<h2 id="defensive-auras">Defensive auras</h2>
 <ul>
 <li>Prayer: unchanged</li>
 <li>Resist Fire: decreased max resistance</li>
@@ -358,7 +363,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Redemption: unchanged</li>
 <li>Salvation: decreased max resistance</li>
 </ul>
-<h2 id="offensive-auras">Offensive auras:</h2>
+<h2 id="offensive-auras">Offensive auras</h2>
 <ul>
 <li>Might: Damage ED now starts at 100%</li>
 <li>Holy Fire: increased damage tick to each second</li>
@@ -371,7 +376,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Fanaticism: unchanged</li>
 <li>Conviction: unchanged</li>
 </ul>
-<h2 id="combat-skills_1">Combat skills:</h2>
+<h2 id="combat-skills_1">Combat skills</h2>
 <ul>
 <li>Sacrifice: unchanged</li>
 <li>Holy Bolt: add multishot per baselevels</li>
@@ -385,9 +390,9 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Holy Shield: unchanged</li>
 </ul>
 <h1 id="sorceress">Sorceress</h1>
-<h2 id="cold-skills">Cold skills:</h2>
+<h2 id="cold-skills">Cold skills</h2>
 <ul>
-<li>Ice Bolt</li>
+<li>Ice Bolt: unchanged</li>
 <li>Frozen Armor: replaced with Frozen Guard, is now a passive, adds flat damage reduction, and flat defense bonus per level, moved to level 18 requirement</li>
 <li>Frost Nova: no changes</li>
 <li>Ice Blast: added 100% piercing (projectile continues through targets)</li>
@@ -398,7 +403,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Frozen Orb: removed casting delay</li>
 <li>Cold Mastery: no changes</li>
 </ul>
-<h2 id="lightning-skills">Lightning skills:</h2>
+<h2 id="lightning-skills">Lightning skills</h2>
 <ul>
 <li>Charged Bolt: no changes</li>
 <li>Telekinesis: increased damage</li>
@@ -411,7 +416,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Energy Shield: no changes</li>
 <li>Lightning Mastery: added lightning pierce</li>
 </ul>
-<h2 id="fire-skills">Fire skills:</h2>
+<h2 id="fire-skills">Fire skills</h2>
 <ul>
 <li>Fire Bolt: now will multishot with additional points to Heat Stroke</li>
 <li>Warmth: no changes</li>
@@ -426,10 +431,48 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 </ul>
 <h1 id="druid-necro">Druid, Necro</h1>
 <p>The Druid and Necro have not yet been playtested and will come in later releases.</p>
-<!--
+<h1 id="necromancer">Necromancer</h1>
+<h2 id="summoning">Summoning</h2>
+<ul>
+<li>Raise Skeleton Warrior: increased life, damage, reduced max number of warriors</li>
+<li>Skeleton Mastery: renamed to Undead Mastery, all summons have auto buffed resistances</li>
+<li>Clay Golem: unchanged</li>
+<li>Raise Skeletal Mage: removed cold and poison mages, increased life, damage, reduced max number of mages</li>
+<li>Golem Mastery: added additional golem summons per 5 base levels</li>
+<li>Summon Resist: replaced with Blood Distort, now a Teleport skill with a casting delay</li>
+<li>Blood Golem: renamed to BoneFlesh Golem, added Prayer aura</li>
+<li>Iron Golem: increased flat attacker takes damage, increased defense</li>
+<li>Fire Golem: renamed to PyrSchock Golem, added Holy Shock aura, increased fire and lightning damage</li>
+<li>Revive: increased life and damage</li>
+</ul>
+<h2 id="poison-and-bone-spells">Poison and bone spells</h2>
+<ul>
+<li>Teeth: removed synergy from bone prison, increased synergy damage to 20, increased damaged, added piercing to all teeth</li>
+<li>Poison Dagger: renamed to Poison Wisp, now a casting skill that casts a poison bolt with a poison trail that pierces through its path, increased poison damage to be stronger than Poison Nova against single targets</li>
+<li>Bone Armor: now synergises with Energy attribute, synergises with Bone Wall (+) and Bone Prison (-) for damage reduction, synergises with Bone Prison (+) and Bone Wall (-) for magic damage reduction</li>
+<li>Corpse Explosion: unchanged</li>
+<li>Bone Wall: now synergises with Energy attribute, removed bone armor synergy</li>
+<li>Poison Explosion: renamed to Poison Ward, works like Grim Ward that decreases Enemy Poison Resistances, synergises with Poison Wisp to decrease enemy poison resistance</li>
+<li>Bone Spear: removed synergy from bone wall, increased synergy damage by 4</li>
+<li>Bone Prison: now synergises with Energy attribute, removed bone armor synergy</li>
+<li>Poison Nova: increased damage to be more useful, added synergy damage from Poison Ward and Poison Wisp</li>
+<li>Bone Spirit: removed guided feature, added cast delay, added larger AoE attack that stuns</li>
+</ul>
+<h2 id="curses">Curses</h2>
+<ul>
+<li>Amplify Damage: added increment of 5% amplify damage per level</li>
+<li>Dim Vision: further reduced attack rating</li>
+<li>Iron Maiden: can now be cast as an additional curse</li>
+<li>Life Tap: unchanged</li>
+<li>Terror: can now be cast as an additional curse</li>
+<li>Weaken: monsters now have their base AC reduced </li>
+<li>Confuse: can now be cast as an additional curse, synergises with Amp Damage to increase Monster Damage</li>
+<li>Attract: synergises with Iron Maiden that adds flat attacker takes damage</li>
+<li>Decrepify: can now be cast as an additional curse, removed amplify damage, added slower cast rate</li>
+<li>Lower Resist: unchanged</li>
+</ul>
+<!-->
 # Druid
-
-# Necro
 
 
 -->
