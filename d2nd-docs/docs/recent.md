@@ -8,6 +8,7 @@
 ## v1.2.0 - Pets and Peeves
 
 Fixes the following:
+
 - Corrupting rings with life after kill now correctly adds life after kill attribute
 - Amazon javelins and bows, and Sorc Orbs now spawn with their correct automods
 - Barb Battle Cry now correctly decreases enemy physical resistance (can also break immunities)
@@ -19,18 +20,22 @@ Adding:
 - support for Terror Zones
 
 Sorc:
+
 - Meteor and Firewall can now be cast continuously on controller
 
 Paladin:
+
 - Holy Bolt no longer pierces
 
 Barb:
+
 - removed Stun
 - removed Concentrate
 - added new lvl 12 skill: Great Cleave. Two-handed weapons only (not swords). Strikes a piercing wave through enemies on attack. 
 - added new lvl 18 skill: Cleave. 1-handed weapons only. Casts melee splash damage that arcs to multiple enemies close nearby.
 
 Necromancer:
+
 - complete revamp and balance of all skill trees, curses are enhanced, golems are now viable, and bone and poison skills all have their own niches 
 - see Change log for full changes
 

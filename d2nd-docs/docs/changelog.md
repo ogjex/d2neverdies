@@ -342,7 +342,7 @@ The Druid and Necro have not yet been playtested and will come in later releases
 - Lower Resist: unchanged
 
 # Druid
-Druid changes are currently being worked on an balanced.
+Druid changes are currently being worked on and balanced.
 
 <!--
 # Druid
