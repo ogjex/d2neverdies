@@ -341,9 +341,10 @@ The Druid and Necro have not yet been playtested and will come in later releases
 - Decrepify: can now be cast as an additional curse, removed amplify damage, added slower cast rate
 - Lower Resist: unchanged
 
+# Druid
+Druid changes are currently being worked on an balanced.
 
-
-<!-->
+<!--
 # Druid
 
 

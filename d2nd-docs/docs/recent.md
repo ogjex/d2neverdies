@@ -1,7 +1,11 @@
 # Recent patch changes
 
 <!--
-## v1.2
+1.3
+
+-->
+
+## v1.2.0 - Pets and Peeves
 
 Fixes the following:
 - Corrupting rings with life after kill now correctly adds life after kill attribute
@@ -27,11 +31,10 @@ Barb:
 - added new lvl 18 skill: Cleave. 1-handed weapons only. Casts melee splash damage that arcs to multiple enemies close nearby.
 
 Necromancer:
-- complete revamp and balance of all skill trees (see Change log for full changes)
+- complete revamp and balance of all skill trees, curses are enhanced, golems are now viable, and bone and poison skills all have their own niches 
+- see Change log for full changes
 
--->
-
-## v1.1.0
+## v1.1.0 - A Song of Ice and Fire: Electric Buggaloo
 
 Fixes the following:
 
