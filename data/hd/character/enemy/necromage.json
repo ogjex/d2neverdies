@@ -1,7 +1,7 @@
 {
     "dependencies": {
         "particles": [{
-                "path": "data/hd/vfx/particles/character/enemy/skmage_ltng1/vfx_skmage_ltng1_wrist.particles"
+                "path": "data/hd/vfx/particles/character/enemy/skmage_ltng1/vfx_skmage_ltng_wrist.particles"
             }, {
                 "path": "data/hd/vfx/particles/character/enemy/skmage_fire1/vfx_skmage_fire1_wrist.particles"
             }, {
@@ -656,7 +656,7 @@
                 }, {
                     "type": "VfxDefinitionComponent",
                     "name": "entity_special4_cld_VfxDefinition",
-                    "filename": "data/hd/vfx/particles/character/enemy/skmage_ltng1/vfx_skmage_ltng1_wrist.particles",
+                    "filename": "data/hd/vfx/particles/character/enemy/skmage_ltng1/vfx_skmage_ltng_wrist.particles",
                     "hardKillOnDestroy": true
                 }, {
                     "type": "TransformDefinitionComponent",
@@ -816,7 +816,7 @@
                 }, {
                     "type": "VfxDefinitionComponent",
                     "name": "entity_special5_cld_VfxDefinition",
-                    "filename": "data/hd/vfx/particles/character/enemy/skmage_ltng1/vfx_skmage_ltng1_wrist.particles",
+                    "filename": "data/hd/vfx/particles/character/enemy/skmage_ltng1/vfx_skmage_ltng_wrist.particles",
                     "hardKillOnDestroy": true
                 }, {
                     "type": "TransformDefinitionComponent",
