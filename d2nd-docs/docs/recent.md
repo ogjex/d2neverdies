@@ -1,8 +1,22 @@
 # Recent patch changes
 
 <!--
-1.3
 
+## 1.3.0 - Furs and Furries
+
+## 1.2.1
+Fixes the following:
+
+- skill tree panels now reflect correct prereqs for skills
+- removed Might from Holy Fire requirement
+- removed Amplify Damage from Weaken requirement
+- skeletal mages now correctly spawns with fire and lightning mages exclusively
+- Essences (burning, festering, hatred, etc) now unstack into unstacked versions
+- reduced distance for Force Cleave missile 
+- removed nexthit delay from: Multiple shot, Strafe, Tornado, Twister, Fissure, Volcano
+
+Adds the following:
+- 
 -->
 
 ## v1.2.0 - Pets and Peeves
