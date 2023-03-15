@@ -413,9 +413,9 @@ Magefist	409	0	1		2	1	31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20
 Magefist	410	0	1		2	1	31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20	20	regen-mana		15	25	ltngskill		1	1	dmg-ltng		1	48	ac		10	10	ac%		20	30																										0
 Magefist	411	0	1		2	1	31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20	20	regen-mana		15	25	poisskil		1	1	dmg-pois	50	50	100	ac		10	10	ac%		20	30																										0
 Magefist	412	0	1		3	1	31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20	20	regen-mana		15	25	magskill		1	1	dmg-elem		20	50	ac		10	10	ac%		20	30																										0
-Cold Rupture	413	100		2	2	1		69	75	cm3	charm		3	5000	lblu	lblu						pierce-immunity-cold		300	300	res-cold		-90	-70																																									0
-Flame Rift	414	100		2	2	1		69	75	cm3	charm		3	5000	lred	lred						pierce-immunity-fire		300	300	res-fire		-90	-70																																									0
-Crack of the Heavens	415	100		2	2	1		69	75	cm3	charm		3	5000	lyel	lyel						pierce-immunity-light		300	300	res-ltng		-90	-70																																									0
-Rotting Fissure	416	100		2	2	1		69	75	cm3	charm		3	5000	lgrn	lgrn						pierce-immunity-poison		300	300	res-pois		-90	-70																																									0
-Bone Break	417	100		2	2	1		69	75	cm3	charm		3	5000	whit	whit						pierce-immunity-damage		300	300	red-dmg%		-20	-10																																									0
-Black Cleft	418	100		2	2	1		69	75	cm3	charm		3	5000	lgry	lgry						pierce-immunity-magic		300	300	res-mag		-65	-45																																									0
+Cold Rupture	413	100	2	2	1		69	75	cm3	charm		3	5000	lblu	lblu						pierce-immunity-cold		300	300	res-cold		-90	-70																																										0
+Flame Rift	414	100	2	2	1		69	75	cm3	charm		3	5000	lred	lred						pierce-immunity-fire		300	300	res-fire		-90	-70																																										0
+Crack of the Heavens	415	100	2	2	1		69	75	cm3	charm		3	5000	lyel	lyel						pierce-immunity-light		300	300	res-ltng		-90	-70																																										0
+Rotting Fissure	416	100	2	2	1		69	75	cm3	charm		3	5000	lgrn	lgrn						pierce-immunity-poison		300	300	res-pois		-90	-70																																										0
+Bone Break	417	100	2	2	1		69	75	cm3	charm		3	5000	whit	whit						pierce-immunity-damage		300	300	red-dmg%		-20	-10																																										0
+Black Cleft	418	100	2	2	1		69	75	cm3	charm		3	5000	lgry	lgry						pierce-immunity-magic		300	300	res-mag		-65	-45																																										0
