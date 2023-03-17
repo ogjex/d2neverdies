@@ -6560,5 +6560,39 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": ""
-  }  
+  },
+  {
+    "id": 50040,
+    "Key": "StrGamble",
+    "enUS": "Cube with Slab of Faith to get a random luck attribute",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 50041,
+    "Key": "StrGambleCost",
+    "enUS": "Gambles of Faith (out of 3)",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  }    
 ]

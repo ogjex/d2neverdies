@@ -372,3 +372,4 @@ item_infuse_cost	569			11			1	0	10			1	1					7	32	7	32																255	3	1	St
 item_lvl_cost	570			11			1	0	10			1	1					7	32	7	32																255	3	1	StrLvlCost	StrLvlCost										0
 passive_fire_pierce	571		1	9												2578		8	0	8	0																88	19		Moditemenresfiresk	Moditemenresfiresk									2	0
 item_isforged	572			11			1	0	10			1	1					7	32	7	32																255	3	0	StrForged	StrInfused										0
+item_gamble_cost	573			11			1	0	10			1	1					7	32	7	32																255	3	1	StrGambleCost	StrGambleCost										0
