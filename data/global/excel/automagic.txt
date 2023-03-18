@@ -35,7 +35,7 @@ of Blight	100	1	1	1		3				3	305	pois-min		8	8	pois-max		24	24	pois-len		75	75		a
 of Venom	100	1	1	15		11				2	305	pois-min		16	16	pois-max		48	48	pois-len		75	75		armo	weap											0	0
 of Pestilence	100	1	1	25		18				2	305	pois-min		32	32	pois-max		72	72	pois-len		100	100		armo	weap											0	0
 of Anthrax	100	1		33		25				2	305	pois-min		64	64	pois-max		128	128	pois-len		100	100		armo	weap											0	0
-Splashing	100	1	1	1		1				1	506	splash	SplashDamage	100	1										armo	weap											0	0
+Splashing	100	1	1	1		1				1	506	splash		100	1										armo	weap											0	0
 Base Staff	100	1	1	1		1				1	507	cast2		10	10	regen-mana		0	10	red-dmg		0	6		armo	weap											0	0
 Exceptional Staff	100	1	1	1		1				1	508	cast2		30	30	regen-mana		15	20	red-dmg		10	16		armo	weap											0	0
 Elite Staff	100	1	1	1		1				1	509	cast2		50	50	regen-mana		25	30	red-dmg		20	30		armo	weap											0	0
@@ -148,10 +148,10 @@ Reflecting Shield 1	100	1	1	18	42	13				4	540	thorns		6	9	att		10	15						armo	w
 Reflecting Shield 2	100	1	1	30		23				3	540	thorns		20	30	att		20	25						armo	weap											0	0
 Reflecting Shield 3	100	1	1	42		34				2	540	thorns		30	50	att		30	35						armo	weap											0	0
 Reflecting Shield 4	100	1	1	50		42				1	540	thorns		50	60	att		40	45						armo	weap											0	0
-Splashing - Ranged	100	1	1	1		1				1	541	splash	SplashDamage	100	1	rep-quant	60								armo	weap											0	0
-Splashing - Ama	100	1	1	1		1				3	542	splash	SplashDamage	100	1	rep-quant	60	skilltab	2	1	1				armo	weap											0	0
-Splashing - Ama	100	1	1	1		1				2	542	splash	SplashDamage	100	1	rep-quant	60	skilltab	2	2	2				armo	weap											0	0
-Splashing - Ama	100	1	1	1		1				1	542	splash	SplashDamage	100	1	rep-quant	60	skilltab	2	3	3				armo	weap											0	0
+Splashing - Ranged	100	1	1	1		1				1	541	splash		100	1	rep-quant	60								armo	weap											0	0
+Splashing - Ama	100	1	1	1		1				3	542	splash		100	1	rep-quant	60	skilltab	2	1	1				armo	weap											0	0
+Splashing - Ama	100	1	1	1		1				2	542	splash		100	1	rep-quant	60	skilltab	2	2	2				armo	weap											0	0
+Splashing - Ama	100	1	1	1		1				1	542	splash		100	1	rep-quant	60	skilltab	2	3	3				armo	weap											0	0
 Strong Bidding	100	1	1							1	545	str		2	2	infusion-cost		2	2	lvl-cost		1	1		snb1	bidd											0	0
 Sturdy Bidding	100	1	1							1	546	str		4	4	infusion-cost		3	3	lvl-cost		4	4		snb2	bidd											0	0
 Burly Bidding	100	1	1							1	547	str		6	6	infusion-cost		3	3	lvl-cost		6	6		snb3	bidd											0	0
