@@ -4411,7 +4411,7 @@ Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	leve
 Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
 Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							"zhb,uni"	200	200	200																										hp1																																																										0
+hp1 -> test item 1	1			100					1	hp1							"7b8,uni"	200	200	200																										hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							"tgl,uni"	200	200	200																										hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							r10	200	200	200																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							r20	200	200	200																										hp4																																																										0
