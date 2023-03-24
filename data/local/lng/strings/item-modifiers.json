@@ -5918,7 +5918,7 @@
   {
     "id": 50003,
     "Key": "ModStr3i_fire",
-    "enUS": "to Fire Skills",
+    "enUS": "%+d to Fire Skills",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -5935,7 +5935,7 @@
   {
     "id": 50004,
     "Key": "ModStr3i_cold",
-    "enUS": "to Cold Skills",
+    "enUS": "%+d to Cold Skills",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -5952,7 +5952,7 @@
   { 
 	"id": 50005,
     "Key": "ModStr3i_light",
-    "enUS": "to Lightning Skills",
+    "enUS": "%+d to Lightning Skills",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -5969,7 +5969,7 @@
   { 
 	"id": 50006,
     "Key": "ModStr3i_mag",
-    "enUS": " to Magic Skills",
+    "enUS": "%+d to Magic Skills",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -5986,7 +5986,7 @@
   { 
 	"id": 50007,
     "Key": "ModStr3i_pois",
-    "enUS": " to Poison Skills",
+    "enUS": "%+d to Poison Skills",
     "zhTW": "",
     "deDE": "",
     "esES": "",
