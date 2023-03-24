@@ -280,10 +280,10 @@ curse-res	1	1	curse_resistance																																0
 splash	1	11	item_splashonhit	skill/chance/level																										splash	SplashDamage	100	1		0
 corruption	1	1	item_iscorrupted																															none	0
 cube_quantity	1	17	quantity																																0
-coldskill	1	21	item_elemskill		3																									+# to Cold Skills		Min #	Max #		0
-ltngskill	1	21	item_elemskill		2																									+# to Lightning Skills		Min #	Max #		0
-magskill	1	21	item_elemskill		4																									+# to Magic Skills		Min #	Max #		0
-poisskill	1	21	item_elemskill		5																									+# to Poison Skills		Min #	Max #		0
+coldskill	1	21	item_elemskill_cold	4	4	3																								+# to Cold Skills		Min #	Max #		0
+ltngskill	1	21	item_elemskill_light	2	2	3																								+# to Lightning Skills		Min #	Max #		0
+magskill	1	21	item_elemskill_mag	3	3	3																								+# to Magic Skills		Min #	Max #		0
+poisskill	1	21	item_elemskill_pois	5	5	3																								+# to Poison Skills		Min #	Max #		0
 infusion	1	1	item_isinfused																																0
 infusion-cost	1	1	item_infuse_cost																																0
 lvl-cost	1	1	item_lvl_cost																																0
