@@ -6665,7 +6665,7 @@
   },
   {
     "id": 50046,
-    "Key": "StrColdSunBid",
+    "Key": "StrPoisSunBid",
     "enUS": "ÿc43 x Rough Charm Coresÿc0\nÿc81 x Perfect Obsidianÿc0+\n ÿc0Cube to create ÿc;Poison Sunder Charmÿc0:",
     "zhTW": "",
     "deDE": "",
@@ -6682,7 +6682,7 @@
   },
   {
     "id": 50047,
-    "Key": "StrColdSunBid",
+    "Key": "StrPhysSunBid",
     "enUS": "ÿc43 x Rough Charm Coresÿc0\nÿc81 x Perfect Obsidianÿc0+\n ÿc0Cube to create ÿc;Physical Sunder Charmÿc0:",
     "zhTW": "",
     "deDE": "",
@@ -6699,7 +6699,7 @@
   },
   {
     "id": 50048,
-    "Key": "StrColdSunBid",
+    "Key": "StrMagSunBid",
     "enUS": "ÿc43 x Rough Charm Coresÿc0\nÿc81 x Perfect Obsidianÿc0+\n ÿc0Cube to create ÿc;Magic Sunder Charmÿc0:",
     "zhTW": "",
     "deDE": "",
