@@ -388,7 +388,7 @@ Nord's Tenderizer	384	100	1		1	1	76	68	7cl	truncheon		3	5000				invclbu				dmg%	
 Earthshifter	385	100	1		1	1	77	69	7gm	thunder maul		3	5000								dmg%		290	340	hit-skill	Eruption	25	28	crush		33	33	swing2		40	40	charged	Volcano	30	14	skilltab	17	7	7	cast2		60	60	ease		-25	-25													splash		100	1		0
 Wraithflight	386	100	1		1	1	84	70	7gl	ghost glaive		3	5000	dblu	dblu						dmg%		190	250	pierce		30	30	lifesteal		8	12	mana-kill		10	15	dmg-mag		100	150																									splash		100	1		0
 Bonehew	387	100	1		1	1	72	64	7o7	ogre axe		3	5000	bwht	bwht						dmg%		285	320	swing2		30	30	hit-skill	Corpse Explosion	20	14	hit-skill	Bone Spear	50	25	noheal		1	1	sock		1	4																					splash		100	1		0
-Ondal's Wisdom	388	100	1		1	1	74	66	6cs	elder staff		3	5000				invcstu				cast2		105	105	enr		40	50	allskills		3	4	ac		850	950	red-mag		12	16																									splash		100	1		0
+Ondal's Wisdom	388	100	1		1	1	74	66	6cs	elder staff		3	5000				invcstu				cast2		105	105	enr		40	50	allskills		3	5	ac		850	950	red-mag		12	16																									splash		100	1		0
 The Reedeemer	389	100	1		1	1	80	70	7sc	mighty scepter		3	5000								dmg%		270	300	dmg-demon		220	250	pal		2	2	ease		-60	-60	skill	Redemption	3	4	skill	Holy Bolt	3	4	light		3	3	reduce-ac		33	33	dmg		90	120	skill	119	2	4					splash		100	1		0
 Headhunter's Glory	390	100	1		1	1	83	70	ush	troll nest		3	5000				invbshu				ac		320	420	ac-miss		300	350	res-pois		30	40	sock		2	3	res-fire		20	30	heal-kill		5	7	att-skill	Amplify Damage	16	15	att		350	445	move2		25	25														0
 Steelrend	391	100	1		1	1	78	70	uhg	ogre gauntlets		3	5000								ac		170	210	str		15	20	dmg%		50	80	crush		10	20	thorns		250	250																									splash		100	1		0
@@ -401,7 +401,7 @@ Rainbow Facet	397	100	1		1	1	85	49	jew	jewel		3	5000								dmg-cold	3	24	38	pie
 Rainbow Facet	398	100	1		1	1	85	49	jew	jewel		3	5000								dmg-fire		17	45	pierce-fire		3	5	extra-fire		3	5																																						0
 Rainbow Facet	399	100	1		1	1	85	49	jew	jewel		3	5000								dmg-pois	50	187	187	pierce-pois		3	5	extra-pois		3	5																																						0
 Hellfire Torch	400	100	1		1	1	110	75	cm2	charm	1	3	5000			flptrch	invtrch	item_gem	12	item_gem	randclassskill		0	6	all-stats		10	20	res-all		10	20	light		8	8																																		0
-Nephalem's Admiration	401	100	1		1	1	1	0	cm4	charm	1	3	5000			flpmss	invmss	item_gem	12	item_gem																																																		0
+Nephalem's Admiration	401	100	1		1	1	1	40	cm4	charm	1	3	5000			flpmss	invmss	item_gem	12	item_gem																																																		0
 Amazon's Valor	402	100	1		1	1	1	0	cc1	charm	1	3	5000			flpmss	invmss	item_gem	12	item_gem																																																		0
 Assassin's Valor	403	100	1		1	1	1	0	cc2	charm	1	3	5000			flpmss	invmss	item_gem	12	item_gem																																																		0
 Barbarian's Valor	404	100	1		1	1	1	0	cc3	charm	1	3	5000			flpmss	invmss	item_gem	12	item_gem																																																		0
@@ -411,11 +411,12 @@ Paladin's Valor	407	100	1		1	1	1	0	cc6	charm	1	3	5000			flpmss	invmss	item_gem	1
 Sorceress's Valor	408	100	1		1	1	1	0	cc7	charm	1	3	5000			flpmss	invmss	item_gem	12	item_gem																																																		0
 Magefist	409	0	1		3	1	31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20	20	regen-mana		15	25	coldskill		1	1	dmg-cold		6	36	ac		10	10	ac%		20	30																										0
 Magefist	410	0	1		2	1	31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20	20	regen-mana		15	25	ltngskill		1	1	dmg-ltng		1	48	ac		10	10	ac%		20	30																										0
-Magefist	411	0	1		3	1	31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20	20	regen-mana		15	25	poisskill		1	1	dmg-pois	50	50	100	ac		10	10	ac%		20	30																										0
-Magefist	412	0	1		1	1	31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20	20	regen-mana		15	25	magskill		1	1	dmg-elem		20	50	ac		10	10	ac%		20	30																										0
-Cold Rupture	413	100	2	2	1		69	75	cm3	charm		3	5000	lblu	lblu						pierce-immunity-cold		300	300	res-cold		-90	-70																																										0
-Flame Rift	414	100	2	2	1		69	75	cm3	charm		3	5000	lred	lred						pierce-immunity-fire		300	300	res-fire		-90	-70																																										0
-Crack of the Heavens	415	100	2	2	1		69	75	cm3	charm		3	5000	lyel	lyel						pierce-immunity-light		300	300	res-ltng		-90	-70																																										0
-Rotting Fissure	416	100	2	2	1		69	75	cm3	charm		3	5000	lgrn	lgrn						pierce-immunity-poison		300	300	res-pois		-90	-70																																										0
-Bone Break	417	100	2	2	1		69	75	cm3	charm		3	5000	whit	whit						pierce-immunity-damage		300	300	red-dmg%		-20	-10																																										0
-Black Cleft	418	100	2	2	1		69	75	cm3	charm		3	5000	lgry	lgry						pierce-immunity-magic		300	300	res-mag		-65	-45																																										0
+Magefist	411	0	1		2	1	31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20	20	regen-mana		15	25	poisskill		1	1	dmg-pois	50	50	100	ac		10	10	ac%		20	30																										0
+Magefist	412	0	1		3	1	31	23	tgl	Light Gauntlets		5	5000	lgry	lgry						cast3		20	20	regen-mana		15	25	magskill		1	1	dmg-elem		20	50	ac		10	10	ac%		20	30																										0
+Cold Rupture	413	100	2	2	1		69	75	sn1	charm		3	5000	lblu	lblu						pierce-immunity-cold		300	300	res-cold		-90	-70																																										0
+Flame Rift	414	100	2	2	1		69	75	sn2	charm		3	5000	lred	lred						pierce-immunity-fire		300	300	res-fire		-90	-70																																										0
+Crack of the Heavens	415	100	2	2	1		69	75	sn3	charm		3	5000	lyel	lyel						pierce-immunity-light		300	300	res-ltng		-90	-70																																										0
+Rotting Fissure	416	100	2	2	1		69	75	sn4	charm		3	5000	lgrn	lgrn						pierce-immunity-poison		300	300	res-pois		-90	-70																																										0
+Bone Break	417	100	2	2	1		69	75	sn5	charm		3	5000	whit	whit						pierce-immunity-damage		300	300	red-dmg%		-20	-10																																										0
+Black Cleft	418	100	2	2	1		69	75	sn6	charm		3	5000	lgry	lgry						pierce-immunity-magic		300	300	res-mag		-65	-45																																										0
+Slab of Faith	618	100	1		1	1	70	62	cm5	charm	1	3	5000	lgld																																																								0
