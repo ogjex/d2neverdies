@@ -4414,8 +4414,15 @@ Nauseating Bidding	1			100	16	368	59		2	cc7	vb3						useitem				infusion	100		3	
 Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	levelreq			4	4	skilltab		8	1	1																																																																					0
 Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
 Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
+SUNDER CHARM CREATION	0																																																																																																							0
+Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg1	cc0	cc0	cc0	pod			sn1																																																																																							0
+Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg2	cc0	cc0	cc0	pod			sn2																																																																																							0
+Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg3	cc0	cc0	cc0	pod			sn3																																																																																							0
+Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg4	cc0	cc0	cc0	pod			sn4																																																																																							0
+Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg5	cc0	cc0	cc0	pod			sn5																																																																																							0
+Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg6	cc0	cc0	cc0	pod			sn6																																																																																							0
 SUNDER CHARM INFUSION	0																																																																																																							0
-	0																																																																																																							0
+Blood Scroll + Sunder Charm	0																																																																																																							0
 	0																																																																																																							0
 	0																																																																																																							0
 	0																																																																																																							0
