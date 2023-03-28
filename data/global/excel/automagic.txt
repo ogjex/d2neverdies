@@ -237,9 +237,9 @@ Curse Bidding	100	1	1							1	626	skilltab	6	1	1	infusion-cost		4	4	lvl-cost		4	
 Combat Bidding	100	1	1							1	627	skilltab	10	1	1	infusion-cost		4	4	lvl-cost		4	4		debi	bidd											0	0
 Defensive Bidding	100	1	1							1	628	skilltab	11	1	1	infusion-cost		4	4	lvl-cost		4	4		dsbi	bidd											0	0
 Offensive Bidding	100	1	1							1	629	skilltab	9	1	1	infusion-cost		4	4	lvl-cost		4	4		dhbi	bidd											0	0
-Fire Bidding	100	1	1							1	630	skilltab	3	1	1	infusion-cost		4	4	lvl-cost		4	4		ajbi	bidd											0	0
-Lightning Bidding	100	1	1							1	631	skilltab	4	1	1	infusion-cost		4	4	lvl-cost		4	4		abbi	bidd											0	0
-Cold Bidding	100	1	1							1	632	skilltab	5	1	1	infusion-cost		4	4	lvl-cost		4	4		apbi	bidd											0	0
+Fire Bidding	100	1	1							1	630	skilltab	3	1	1	infusion-cost		4	4	infusion		4	4		ajbi	bidd											0	0
+Lightning Bidding	100	1	1							1	631	skilltab	4	1	1	infusion-cost		4	4	infusion		4	4		abbi	bidd											0	0
+Cold Bidding	100	1	1							1	632	skilltab	5	1	1	infusion-cost		4	4	infusion		4	4		apbi	bidd											0	0
 Fence Apprentice	100	1	1							3	633	deadly		3	5	block2		2	4	splash	SplashDamage	100	1		armo	weap											0	0
 Fence Novice	100	1	1							2	633	deadly		5	8	block2		4	6	splash	SplashDamage	100	1		armo	weap											0	0
 Fence Master	100	1	1							1	633	deadly		8	12	block2		6	8	splash	SplashDamage	100	1		armo	weap											0	0
