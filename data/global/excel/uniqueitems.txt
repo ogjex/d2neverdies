@@ -321,7 +321,7 @@ Leviathan	317	100	1		1	1	73	65	uld	kraken shell		5	5000	cgrn	cgrn						ac%		170	
 Larzuk's Champion	318	100	0		1	1	63	63				5	5000	lgry		flphmr	invhfh																																																					0
 Wisp	319	100	1		1	1	84	65	rin	ring		5	5000	bwht	bwht						abs-ltng%		8	10	allskills		1	1	mag%		10	20	oskill	Heart of Wolverine	2	3	oskill	Spirit of Barbs	2	3																														0
 Gargoyle's Bite	320	100	1		1	1	78	70	7ts	winged harpoon		5	5000	cgrn	cgrn						dmg%		280	330	pierce-pois		20	25	poisskill		3	4	lifesteal		9	15																													splash		100	1		0
-Lacerator	321	100	1		1	1	76	65	7b8	winged axe		5	5000	blac	blac						dmg%		200	260	rep-quant	25			swing2		30	30	noheal		1	1	openwounds		33	33	dmg-min		20	20	hit-skill	573	20	31																	splash		100	1		0
+Lacerator	321	100	1		1	1	76	65	7b8	winged axe		5	5000	blac	blac						dmg%		200	260	rep-quant	25			swing2		30	30	noheal		1	1	openwounds		33	33	dmg-min		20	20	hit-skill	66	20	31																	splash		100	1		0
 Mang Song's Lesson	322	100	1		1	1	86	65	6ws	archon staff		5	5000	dgld	dgld		inv8wsu				allskills		6	6	pierce-fire		20	30	pierce-ltng		20	30	pierce-cold		20	30	regen-mana		20	30	cast2		85	85																					splash		100	1		0
 Viperfork	323	100	1		1	1	79	65	7br	war fork		5	5000	dgrn	dgrn						dmg%		240	290	dmg-pois	25	7168	7168	swing2		50	50	att		200	250	res-pois		30	50	extra-pois		10	20	poisskill		3	4																	splash		100	1		0
 Ethereal Edge	324	100	1		1	1	82	65	7ba	silver-edged axe		5	5000	whit	whit						dmg%		150	180	swing2		45	45	abs-fire		10	12	dmg-demon		150	200	demon-heal		5	10	att		270	350	ethereal		1	1	indestruct		1	1													splash		100	1		0
@@ -419,4 +419,4 @@ Crack of the Heavens	415	100	2	2	1		69	75	sn3	charm		3	5000	lyel	lyel						pierc
 Rotting Fissure	416	100	2	2	1		69	75	sn4	charm		3	5000	lgrn	lgrn						pierce-immunity-poison		300	300	res-pois		-90	-70																																										0
 Bone Break	417	100	2	2	1		69	75	sn5	charm		3	5000	whit	whit						pierce-immunity-damage		300	300	red-dmg%		-20	-10																																										0
 Black Cleft	418	100	2	2	1		69	75	sn6	charm		3	5000	lgry	lgry						pierce-immunity-magic		300	300	res-mag		-65	-45																																										0
-Slab of Faith	618	100	1		1	1	70	62	cm5	charm	1	3	5000	lgld																																																								0
+Slab of Faith	419	100	1		1	1	70	62	cm5	charm	1	3	5000	lgld																																																								0
