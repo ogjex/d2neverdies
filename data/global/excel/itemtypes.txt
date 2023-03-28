@@ -223,3 +223,4 @@ Offensive Bidding	ajbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							mi
 Fire Bidding	abbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Lightning Bidding	apbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Cold Bidding	cldb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Sunder Bidding	snbg	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
