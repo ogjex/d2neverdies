@@ -4061,9 +4061,9 @@ Electrical Bidding	1			100	16	368	59		2	cc2	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc2	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc2	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc2	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
-Traps Bidding	1			100	16	368	59		2	cc2	aa4						useitem				infusion	100		4	4	levelreq			4	4	skilltab		48	1	1																																																																					0
-Martial Arts Bidding	1			100	16	368	59		2	cc2	aa5						useitem				infusion	100		4	4	levelreq			4	4	skilltab		50	1	1																																																																					0
-Shadow Bidding	1			100	16	368	59		2	cc2	aa6						useitem				infusion	100		4	4	levelreq			4	4	skilltab		49	1	1																																																																					0
+Traps Bidding	1			100	16	368	59		2	cc2	aa4						useitem				infusion	100		4	4	levelreq			4	4	skilltab		18	1	1																																																																					0
+Martial Arts Bidding	1			100	16	368	59		2	cc2	aa5						useitem				infusion	100		4	4	levelreq			4	4	skilltab		20	1	1																																																																					0
+Shadow Bidding	1			100	16	368	59		2	cc2	aa6						useitem				infusion	100		4	4	levelreq			4	4	skilltab		19	1	1																																																																					0
 BARBARIAN VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc3	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc3	ab2						useitem				infusion	100		3	3	levelreq			4	4	str			4	4																																																																					0
@@ -4131,9 +4131,9 @@ Electrical Bidding	1			100	16	368	59		2	cc3	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc3	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc3	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc3	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
-Combat Bidding	1			100	16	368	59		2	cc3	aa7						useitem				infusion	100		4	4	levelreq			4	4	skilltab		32	1	1																																																																					0
-Mastery Bidding	1			100	16	368	59		2	cc3	aa8						useitem				infusion	100		4	4	levelreq			4	4	skilltab		33	1	1																																																																					0
-Warcry Bidding	1			100	16	368	59		2	cc3	aa9						useitem				infusion	100		4	4	levelreq			4	4	skilltab		34	1	1																																																																					0
+Combat Bidding	1			100	16	368	59		2	cc3	aa7						useitem				infusion	100		4	4	levelreq			4	4	skilltab		13	1	1																																																																					0
+Mastery Bidding	1			100	16	368	59		2	cc3	aa8						useitem				infusion	100		4	4	levelreq			4	4	skilltab		12	1	1																																																																					0
+Warcry Bidding	1			100	16	368	59		2	cc3	aa9						useitem				infusion	100		4	4	levelreq			4	4	skilltab		14	1	1																																																																					0
 DRUID VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc4	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc4	ab2						useitem				infusion	100		3	3	levelreq			4	4	str			4	4																																																																					0
@@ -4201,9 +4201,9 @@ Electrical Bidding	1			100	16	368	59		2	cc4	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc4	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc4	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc4	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
-Elemental Bidding	1			100	16	368	59		2	cc4	ac1						useitem				infusion	100		4	4	levelreq			4	4	skilltab		42	1	1																																																																					0
-Summon Bidding	1			100	16	368	59		2	cc4	ac2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		40	1	1																																																																					0
-Shapeshifter Bidding	1			100	16	368	59		2	cc4	ac3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		41	1	1																																																																					0
+Elemental Bidding	1			100	16	368	59		2	cc4	ac1						useitem				infusion	100		4	4	levelreq			4	4	skilltab		17	1	1																																																																					0
+Summon Bidding	1			100	16	368	59		2	cc4	ac2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		15	1	1																																																																					0
+Shapeshifter Bidding	1			100	16	368	59		2	cc4	ac3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		16	1	1																																																																					0
 NECRO VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc5	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc5	ab2						useitem				infusion	100		3	3	levelreq			4	4	str			4	4																																																																					0
@@ -4271,9 +4271,9 @@ Electrical Bidding	1			100	16	368	59		2	cc5	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc5	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc5	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc5	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
-Summon Bidding	1			100	16	368	59		2	cc5	ac4						useitem				infusion	100		4	4	levelreq			4	4	skilltab		18	1	1																																																																					0
-Bone Bidding	1			100	16	368	59		2	cc5	ac5						useitem				infusion	100		4	4	levelreq			4	4	skilltab		17	1	1																																																																					0
-Curse Bidding	1			100	16	368	59		2	cc5	ac6						useitem				infusion	100		4	4	levelreq			4	4	skilltab		16	1	1																																																																					0
+Summon Bidding	1			100	16	368	59		2	cc5	ac4						useitem				infusion	100		4	4	levelreq			4	4	skilltab		8	1	1																																																																					0
+Bone Bidding	1			100	16	368	59		2	cc5	ac5						useitem				infusion	100		4	4	levelreq			4	4	skilltab		7	1	1																																																																					0
+Curse Bidding	1			100	16	368	59		2	cc5	ac6						useitem				infusion	100		4	4	levelreq			4	4	skilltab		6	1	1																																																																					0
 PALA VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc6	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc6	ab2						useitem				infusion	100		3	3	levelreq			4	4	str			4	4																																																																					0
@@ -4341,9 +4341,9 @@ Electrical Bidding	1			100	16	368	59		2	cc6	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc6	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc6	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc6	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
-Combat Bidding	1			100	16	368	59		2	cc6	ac7						useitem				infusion	100		4	4	levelreq			4	4	skilltab		24	1	1																																																																					0
-Defensive Bidding	1			100	16	368	59		2	cc6	ac8						useitem				infusion	100		4	4	levelreq			4	4	skilltab		26	1	1																																																																					0
-Offensive Bidding	1			100	16	368	59		2	cc6	ac9						useitem				infusion	100		4	4	levelreq			4	4	skilltab		25	1	1																																																																					0
+Combat Bidding	1			100	16	368	59		2	cc6	ac7						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
+Defensive Bidding	1			100	16	368	59		2	cc6	ac8						useitem				infusion	100		4	4	levelreq			4	4	skilltab		11	1	1																																																																					0
+Offensive Bidding	1			100	16	368	59		2	cc6	ac9						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
 SORC VALOR BIDDINGS	0																																																																																																							0
 Strong Bidding	1			100	16	368	59		2	cc7	ab1						useitem				infusion	100		2	2	levelreq			1	1	str			2	2																																																																					0
 Sturdy Bidding	1			100	16	368	59		2	cc7	ab2						useitem				infusion	100		3	3	levelreq			4	4	str			4	4																																																																					0
@@ -4411,9 +4411,9 @@ Electrical Bidding	1			100	16	368	59		2	cc7	ub3						useitem				infusion	100		3	
 Uneasy Bidding	1			100	16	368	59		2	cc7	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
 Sick Bidding	1			100	16	368	59		2	cc7	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
 Nauseating Bidding	1			100	16	368	59		2	cc7	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
-Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	levelreq			4	4	skilltab		8	1	1																																																																					0
-Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		9	1	1																																																																					0
-Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		10	1	1																																																																					0
+Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	levelreq			4	4	skilltab		3	1	1																																																																					0
+Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		4	1	1																																																																					0
+Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		5	1	1																																																																					0
 SUNDER CHARM CREATION	0																																																																																																							0
 Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg1	cc0	cc0	cc0	pod			sn1																																																																																							0
 Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg2	cc0	cc0	cc0	pod			sn2																																																																																							0
