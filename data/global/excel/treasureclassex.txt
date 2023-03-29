@@ -577,7 +577,7 @@ Swarm 1 (N)	17	40	1					125	Potion 2	12	Misc 1	2	Act 2 (N) Good	4															
 Swarm 2 (N)	17	46	1					125	Potion 2	12	Misc 1	2	Act 3 (N) Good	4																			0
 Swarm 1 (H)	17	68	1					125	Potion 2	12	Misc 2	2	Act 2 (H) Good	4																			0
 Swarm 2 (H)	17	74	1					125	Potion 2	12	Misc 2	2	Act 3 (H) Good	4																			0
-Sunder Charms			1					23899	sg1	30	sg2	30	sg3	20	sg4	12	sg5	6	sg6	3												2	0
+Sunder Charms			1					23899	sg1	30	sg2	30	sg3	20	sg4	10	sg5	10	sg6	10												2	0
 Andariel			7	995	995	1024	1024	10	Act 2 Equip A	19	Act 2 Good	3																					0
 Andariel (N)			7	995	995	1024	1024	10	Act 2 (N) Equip A	19	Act 2 (N) Good	3																					0
 Andariel (H)			7	995	995	1024	1024	10	Act 2 (H) Equip A	19	Act 2 (H) Good	3	ses	1																			0
@@ -598,14 +598,14 @@ Andarielq Item (H) Desecrated E			7	995	995	1024	1024	19	Act 4 (H) Equip C	19	Ac
 Andarielq Item (H) Desecrated F			7	995	995	1024	1024	19	Act 5 (H) Equip A	19	Act 5 (H) Good	3	ses	1																			0
 Andarielq Item (H) Desecrated G			7	995	995	1024	1024	19	Act 5 (H) Equip B	19	Act 5 (H) Good	3	ses	1																			0
 Andarielq Item (H) Desecrated H			7	995	995	1024	1024	19	Act 5 (H) Equip C	19	Act 5 (H) Good	3	ses	1																			0
-Andarielq (H) Desecrated A	20	74	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated A	5																					0
-Andarielq (H) Desecrated B	20	78	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated B	5																					0
-Andarielq (H) Desecrated C	20	81	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated C	5																					0
-Andarielq (H) Desecrated D	20	84	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated D	5																					0
-Andarielq (H) Desecrated E	20	87	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated E	5																					0
-Andarielq (H) Desecrated F	20	90	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated F	5																					0
-Andarielq (H) Desecrated G	20	93	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated G	5																					0
-Andarielq (H) Desecrated H	20	96	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated H	5																					0
+Andarielq (H) Desecrated A	20	74	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated A	10																					0
+Andarielq (H) Desecrated B	20	78	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated B	10																					0
+Andarielq (H) Desecrated C	20	81	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated C	10																					0
+Andarielq (H) Desecrated D	20	84	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated D	10																					0
+Andarielq (H) Desecrated E	20	87	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated E	10																					0
+Andarielq (H) Desecrated F	20	90	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated F	10																					0
+Andarielq (H) Desecrated G	20	93	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated G	10																					0
+Andarielq (H) Desecrated H	20	96	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated H	10																					0
 Duriel - Base			7	993	993	1024	1024	10	Act 3 Equip A	19	Act 3 Good	3																					0
 Duriel - Base Desecrated A			7	993	993	1024	1024	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Good	3																			0
 Duriel - Base Desecrated B			7	993	993	1024	1024	19	"gld,mul=1280"	11	Act 5 Equip B	19	Act 5 Good	3																			0
@@ -648,10 +648,10 @@ Mephisto Item (H) Desecrated A			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 4 (
 Mephisto Item (H) Desecrated B			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip A	52	Act 5 (H) Good	3	seh	1																	0
 Mephisto Item (H) Desecrated C			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip B	52	Act 5 (H) Good	3	seh	1																	0
 Mephisto Item (H) Desecrated D			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	seh	1																	0
-Mephisto (H) Desecrated A	22	87	-2					0	Sunder Charms	1	Mephisto Item (H) Desecrated A	5																					0
-Mephisto (H) Desecrated B	22	90	-2					0	Sunder Charms	1	Mephisto Item (H) Desecrated A	5																					0
-Mephisto (H) Desecrated C	22	93	-2					0	Sunder Charms	1	Mephisto Item (H) Desecrated A	5																					0
-Mephisto (H) Desecrated D	22	96	-2					0	Sunder Charms	1	Mephisto Item (H) Desecrated A	5																					0
+Mephisto (H) Desecrated A	22	87	-2					0	Sunder Charms	1	Mephisto Item (H) Desecrated A	10																					0
+Mephisto (H) Desecrated B	22	90	-2					0	Sunder Charms	1	Mephisto Item (H) Desecrated A	10																					0
+Mephisto (H) Desecrated C	22	93	-2					0	Sunder Charms	1	Mephisto Item (H) Desecrated A	10																					0
+Mephisto (H) Desecrated D	22	96	-2					0	Sunder Charms	1	Mephisto Item (H) Desecrated A	10																					0
 Diablo			7	993	993	1024	1024	10	Act 5 Equip A	52	Act 5 Good	3																					0
 Diablo Desecrated A	23	40	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 1 (N) Equip A	52	Act 1 (N) Good	3																			0
 Diablo Desecrated B	23	48	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																			0
@@ -662,8 +662,8 @@ Diablo (N) Desecrated C	23	73	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 3 (H) 
 Diablo (H)			7	993	993	1024	1024	10	Act 5 (H) Equip A	52	Act 5 (H) Good	3	set	1																			0
 Diablo Item (H) Desecrated A			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip B	52	Act 5 (H) Good	3	set	1																	0
 Diablo Item (H) Desecrated B			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	set	1																	0
-Diablo (H) Desecrated A	23	94	-2					0	Sunder Charms	1	Diablo Item (H) Desecrated A	5																					0
-Diablo (H) Desecrated B	23	96	-2					0	Sunder Charms	1	Diablo Item (H) Desecrated B	5																					0
+Diablo (H) Desecrated A	23	94	-2					0	Sunder Charms	1	Diablo Item (H) Desecrated A	10																					0
+Diablo (H) Desecrated B	23	96	-2					0	Sunder Charms	1	Diablo Item (H) Desecrated B	10																					0
 Summoner			5	900	900	972	1024	10	gld,mul=1280	9	Act 2 Equip C	15	Act 2 Good	5																			0
 Summoner Desecrated A	24	18	5	900	900	972	1024	19	"gld,mul=1280"	9	Act 2 Equip C	15	Act 2 Good	3	Act 3 Magic A	4																	0
 Summoner Desecrated B	24	32	5	900	900	972	1024	19	"gld,mul=1280"	9	Act 4 Equip B	15	Act 4 Good	3	Act 5 Magic A	4																	0
@@ -679,12 +679,12 @@ Summoner Item (H) Desecrated C			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 4 (H
 Summoner Item (H) Desecrated D			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 5 (H) Equip A	15	Act 5 (H) Good	3	Act 5 (H) Magic C	4	p2s	1															0
 Summoner Item (H) Desecrated E			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 5 (H) Equip B	15	Act 5 (H) Good	3	Act 5 (H) Magic C	4	p2s	1															0
 Summoner Item (H) Desecrated F			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 5 (H) Equip C	15	Act 5 (H) Good	3	Act 5 (H) Magic C	4	p2s	1															0
-Summoner (H) Desecrated A	24	80	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated A	5																					0
-Summoner (H) Desecrated B	24	84	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated B	5																					0
-Summoner (H) Desecrated C	24	87	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated C	5																					0
-Summoner (H) Desecrated D	24	90	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated D	5																					0
-Summoner (H) Desecrated E	24	93	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated E	5																					0
-Summoner (H) Desecrated F	24	96	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated F	5																					0
+Summoner (H) Desecrated A	24	80	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated A	10																					0
+Summoner (H) Desecrated B	24	84	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated B	10																					0
+Summoner (H) Desecrated C	24	87	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated C	10																					0
+Summoner (H) Desecrated D	24	90	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated D	10																					0
+Summoner (H) Desecrated E	24	93	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated E	10																					0
+Summoner (H) Desecrated F	24	96	-2					0	Sunder Charms	1	Summoner Item (H) Desecrated F	10																					0
 Council			3	650	800	800	1024	10	gld,mul=1280	9	Act 4 Equip A	15	Act 4 Junk	2	Act 4 Good	5																	0
 Council Desecrated A	25	28	3	650	800	800	1024	19	"gld,mul=1280"	9	Act 4 Equip B	15	Act 4 Junk	2	Act 4 Good	3	Act 4 Magic B	4															0
 Council Desecrated B	25	38	3	650	800	800	1024	19	"gld,mul=1280"	9	Act 5 Equip C	15	Act 5 Junk	2	Act 5 Good	3	Act 5 Magic C	4															0
@@ -699,11 +699,11 @@ Council Item (H) Desecrated B			3	650	800	800	1024	19	"gld,mul=2048"	9	Act 4 (H)
 Council Item (H) Desecrated C			3	650	800	800	1024	19	"gld,mul=2048"	9	Act 5 (H) Equip A	15	Act 5 (H) Junk	2	Act 5 (H) Good	3	Act 5 (H) Magic A	4															0
 Council Item (H) Desecrated D			3	650	800	800	1024	19	"gld,mul=2048"	9	Act 5 (H) Equip B	15	Act 5 (H) Junk	2	Act 5 (H) Good	3	Act 5 (H) Magic B	4															0
 Council Item (H) Desecrated E			3	650	800	800	1024	19	"gld,mul=2048"	9	Act 5 (H) Equip C	15	Act 5 (H) Junk	2	Act 5 (H) Good	3	Act 5 (H) Magic C	4															0
-Council (H) Desecrated A	25	85	-2					0	Sunder Charms	1	Council Item (H) Desecrated A	5																					0
-Council (H) Desecrated B	25	87	-2					0	Sunder Charms	1	Council Item (H) Desecrated B	5																					0
-Council (H) Desecrated C	25	90	-2					0	Sunder Charms	1	Council Item (H) Desecrated C	5																					0
-Council (H) Desecrated D	25	93	-2					0	Sunder Charms	1	Council Item (H) Desecrated D	5																					0
-Council (H) Desecrated E	25	96	-2					0	Sunder Charms	1	Council Item (H) Desecrated E	5																					0
+Council (H) Desecrated A	25	85	-2					0	Sunder Charms	1	Council Item (H) Desecrated A	10																					0
+Council (H) Desecrated B	25	87	-2					0	Sunder Charms	1	Council Item (H) Desecrated B	10																					0
+Council (H) Desecrated C	25	90	-2					0	Sunder Charms	1	Council Item (H) Desecrated C	10																					0
+Council (H) Desecrated D	25	93	-2					0	Sunder Charms	1	Council Item (H) Desecrated D	10																					0
+Council (H) Desecrated E	25	96	-2					0	Sunder Charms	1	Council Item (H) Desecrated E	10																					0
 Griswold			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																					0
 Griswold Desecrated A	26	8	-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																					0
 Griswold Desecrated B	26	29	-3					0	Act 4 Uitem B	1	Act 4 Melee A	2																					0
@@ -713,10 +713,10 @@ Griswold (N) Desecrated A	26	42	-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2
 Griswold (N) Desecrated B	26	57	-3					0	Act 1 (H) Uitem C	1	Act 3 (N) Melee B	2																					0
 Griswold (N) Desecrated C	26	73	-3					0	Act 3 (H) Uitem C	1	Act 3 (H) Melee B	2																					0
 Griswold (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																					0
-Griswold (H) Desecrated A	26	87	-4					0	Sunder Charms	1	Act 4 (H) Uitem B	1	Act 4 (H) Melee A	2																			0
-Griswold (H) Desecrated B	26	90	-4					0	Sunder Charms	1	Act 5 (H) Uitem A	1	Act 4 (H) Melee B	2																			0
-Griswold (H) Desecrated C	26	93	-4					0	Sunder Charms	1	Act 5 (H) Uitem B	1	Act 5 (H) Melee A	2																			0
-Griswold (H) Desecrated D	26	96	-4					0	Sunder Charms	1	Act 5 (H) Uitem C	1	Act 5 (H) Melee B	2																			0
+Griswold (H) Desecrated A	26	87	-4					0	Sunder Charms	1	Act 4 (H) Uitem B	10	Act 4 (H) Melee A	20																			0
+Griswold (H) Desecrated B	26	90	-4					0	Sunder Charms	1	Act 5 (H) Uitem A	10	Act 4 (H) Melee B	20																			0
+Griswold (H) Desecrated C	26	93	-4					0	Sunder Charms	1	Act 5 (H) Uitem B	10	Act 5 (H) Melee A	20																			0
+Griswold (H) Desecrated D	26	96	-4					0	Sunder Charms	1	Act 5 (H) Uitem C	10	Act 5 (H) Melee B	20																			0
 Cow			1					95	gld	19	Act 5 Equip A	19	Act 5 Good	3																			0
 Cow (N)			1					95	gld	19	Act 5 (N) Equip A	19	Act 5 (N) Good	3																			0
 Cow (H)			1					95	gld	19	Act 5 (H) Equip B	19	Act 5 (H) Good	3																			0
@@ -735,23 +735,23 @@ Haphesto (H)			5	800	800	900	1024	10	gld,mul=2048	14	Act 5 (H) Equip A	19	Act 5 
 Haphesto Item (H) Desecrated A			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Good	3																			0
 Haphesto Item (H) Desecrated B			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip B	19	Act 5 (H) Good	3																			0
 Haphesto Item (H) Desecrated C			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip C	19	Act 5 (H) Good	3																			0
-Haphesto (H) Desecrated A	27	88	-2					0	Sunder Charms	1	Haphesto Item (H) Desecrated A	5																					0
-Haphesto (H) Desecrated B	27	93	-2					0	Sunder Charms	1	Haphesto Item (H) Desecrated B	5																					0
-Haphesto (H) Desecrated C	27	96	-2					0	Sunder Charms	1	Haphesto Item (H) Desecrated C	5																					0
+Haphesto (H) Desecrated A	27	88	-2					0	Sunder Charms	1	Haphesto Item (H) Desecrated A	10																					0
+Haphesto (H) Desecrated B	27	93	-2					0	Sunder Charms	1	Haphesto Item (H) Desecrated B	10																					0
+Haphesto (H) Desecrated C	27	96	-2					0	Sunder Charms	1	Haphesto Item (H) Desecrated C	10																					0
 Nihlathak			5	900	900	900	1024	10	gld,mul=1280	14	Act 5 Equip B	19	Act 5 Good	3																			0
 Nihlathak Desecrated	28	68	5	900	900	900	1024	19	"gld,mul=1280"	14	Act 3 (N) Equip A	19	Act 3 (N) Good	3																			0
 Nihlathak (N)			5	900	900	900	1024	10	gld,mul=1536	14	Act 5 (N) Equip B	19	Act 5 (N) Good	3																			0
 Nihlathak (N) Desecrated	28	73	5	900	900	900	1024	19	"gld,mul=1280"	14	Act 3 (H) Equip A	19	Act 3 (H) Good	3																			0
 Nihlathak (H)			5	900	900	900	1024	10	gld,mul=2048	14	Act 5 (H) Equip B	19	Act 5 (H) Good	3	p3s	15																	0
 Nihlathak Item (H) Desecrated			5	900	900	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip C	19	Act 5 (H) Good	3	p3s	1																	0
-Nihlathak (H) Desecrated	28	95	-2						Sunder Charms	1	Nihlathak Item (H) Desecrated	5																					0
+Nihlathak (H) Desecrated	28	95	-2						Sunder Charms	1	Nihlathak Item (H) Desecrated	10																					0
 Baal			7	993	993	1024	1024	10	Act 1 (N) Equip A	52	Act 1 (N) Good	3																					0
 Baal Desecrated	29	60	7	983	983	983	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																			0
 Baal (N)			7	993	993	1024	1024	10	Act 1 (H) Equip A	52	Act 1 (H) Good	3																					0
 Baal (N) Desecrated	29	75	7	983	983	983	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3																			0
 Baal (H)			7	993	993	1024	1024	10	Act 5 (H) Equip B	52	Act 5 (H) Good	3	sed	1																			0
 Baal Item (H) Desecrated			7	983	983	983	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	sed	1																	0
-Baal (H) Desecrated	29	99	-2					0	Sunder Charms	1	Baal Item (H) Desecrated	5																					0
+Baal (H) Desecrated	29	99	-2					0	Sunder Charms	1	Baal Item (H) Desecrated	10																					0
 Blood Raven			5	1010	1024	1024	1024	10	gld,mul=1280	14	Act 1 Equip B	19	Act 1 Good	5																			0
 Blood Raven Desecrated A	30	10	5	1010	1024	1024	1024	19	"gld,mul=1280"	14	Act 1 Equip C	19	Act 1 Good	3																			0
 Blood Raven Desecrated B	30	29	5	1010	1024	1024	1024	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Good	3																			0
@@ -765,10 +765,10 @@ Blood Raven Item (H) Desecrated A			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 
 Blood Raven Item (H) Desecrated B			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Good	3																			0
 Blood Raven Item (H) Desecrated C			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip B	19	Act 5 (H) Good	3																			0
 Blood Raven Item (H) Desecrated D			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip C	19	Act 5 (H) Good	3																			0
-Blood Raven (H) Desecrated A	30	88	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated A	5																					0
-Blood Raven (H) Desecrated B	30	90	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated B	5																					0
-Blood Raven (H) Desecrated C	30	93	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated C	5																					0
-Blood Raven (H) Desecrated D	30	96	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated D	5																					0
+Blood Raven (H) Desecrated A	30	88	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated A	10																					0
+Blood Raven (H) Desecrated B	30	90	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated B	10																					0
+Blood Raven (H) Desecrated C	30	93	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated C	10																					0
+Blood Raven (H) Desecrated D	30	96	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated D	10																					0
 Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																					0
 Smith Desecrated A	31	13	-3					0	Act 2 Uitem A	1	Act 2 Melee A	2																					0
 Smith Desecrated B	31	32	-3					0	Act 4 Uitem B	1	Act 4 Melee B	2																					0
@@ -800,10 +800,10 @@ Izual Item (H) Desecrated A			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 4 (H) 
 Izual Item (H) Desecrated B			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																	0
 Izual Item (H) Desecrated C			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip B	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																	0
 Izual Item (H) Desecrated D			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip C	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																	0
-Izual (H) Desecrated A	32	86	-2					0	Sunder Charms	1	Izual Item (H) Desecrated A	5																					0
-Izual (H) Desecrated B	32	90	-2					0	Sunder Charms	1	Izual Item (H) Desecrated B	5																					0
-Izual (H) Desecrated C	32	93	-2					0	Sunder Charms	1	Izual Item (H) Desecrated C	5																					0
-Izual (H) Desecrated D	32	96	-2					0	Sunder Charms	1	Izual Item (H) Desecrated D	5																					0
+Izual (H) Desecrated A	32	86	-2					0	Sunder Charms	1	Izual Item (H) Desecrated A	10																					0
+Izual (H) Desecrated B	32	90	-2					0	Sunder Charms	1	Izual Item (H) Desecrated B	10																					0
+Izual (H) Desecrated C	32	93	-2					0	Sunder Charms	1	Izual Item (H) Desecrated C	10																					0
+Izual (H) Desecrated D	32	96	-2					0	Sunder Charms	1	Izual Item (H) Desecrated D	10																					0
 Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Potion 2	2																					0
 Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Potion 2	2																					0
 Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Potion 2	2																					0
@@ -906,10 +906,10 @@ Cow King Item (H) Desecrated A			5	850	983	983	1024	0	Act 4 (H) Uitem B	1	Act 4 
 Cow King Item (H) Desecrated B			5	850	983	983	1024	0	Act 5 (H) Uitem A	1	Act 5 (H) Melee A	2																					0
 Cow King Item (H) Desecrated C			5	850	983	983	1024	0	Act 5 (H) Uitem B	1	Act 5 (H) Melee B	2																					0
 Cow King Item (H) Desecrated D			5	850	983	983	1024	0	Act 5 (H) Uitem C	1	Act 5 (H) Melee C	2																					0
-Cow King (H) Desecrated A	33	86	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated A	5																					0
-Cow King (H) Desecrated B	33	90	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated B	5																					0
-Cow King (H) Desecrated C	33	93	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated C	5																					0
-Cow King (H) Desecrated D	33	96	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated D	5																					0
+Cow King (H) Desecrated A	33	86	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated A	10																					0
+Cow King (H) Desecrated B	33	90	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated B	10																					0
+Cow King (H) Desecrated C	33	93	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated C	10																					0
+Cow King (H) Desecrated D	33	96	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated D	10																					0
 Duriel			5					0	Duriel - Base	2																							0
 Duriel Desecrated A	34	22	5					0	tsc	1	Duriel - Base Desecrated A	2																					0
 Duriel Desecrated B	34	36	5					0	tsc	1	Duriel - Base Desecrated B	2																					0
@@ -923,10 +923,10 @@ Duriel (H) Desecrated Five			5					0	tsc	1	Duriel (H) - Base Desecrated A	2					
 Duriel (H) Desecrated Town Portal			5					0	tsc	1	Duriel (H) - Base Desecrated B	2																					0
 Duriel (H) Desecrated Scrolls			5					0	tsc	1	Duriel (H) - Base Desecrated C	2																					0
 Duriel (H) Desecrated Incoming			5					0	tsc	1	Duriel (H) - Base Desecrated D	2																					0
-Duriel (H) Desecrated A	34	88	-2					0	Sunder Charms	1	Duriel (H) Desecrated Five	5																					0
-Duriel (H) Desecrated B	34	90	-2					0	Sunder Charms	1	Duriel (H) Desecrated Town Portal	5																					0
-Duriel (H) Desecrated C	34	93	-2					0	Sunder Charms	1	Duriel (H) Desecrated Scrolls	5																					0
-Duriel (H) Desecrated D	34	96	-2					0	Sunder Charms	1	Duriel (H) Desecrated Incoming	5																					0
+Duriel (H) Desecrated A	34	88	-2					0	Sunder Charms	1	Duriel (H) Desecrated Five	10																					0
+Duriel (H) Desecrated B	34	90	-2					0	Sunder Charms	1	Duriel (H) Desecrated Town Portal	10																					0
+Duriel (H) Desecrated C	34	93	-2					0	Sunder Charms	1	Duriel (H) Desecrated Scrolls	10																					0
+Duriel (H) Desecrated D	34	96	-2					0	Sunder Charms	1	Duriel (H) Desecrated Incoming	10																					0
 ROP			1	1024				0	Diablo	1																							0
 ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																					0
 ROP (H)			1	1024				0	Annihilus	1																							0
@@ -957,73 +957,73 @@ Countess (N) Desecrated A	35	45	-2	883	883	983	1024	0	Countess Item (N) Desecrat
 Countess (N) Desecrated B	35	59	-2	883	883	983	1024	0	Countess Item (N) Desecrated B	1	Countess Rune (N)	1																					0
 Countess (N) Desecrated C	35	73	-2	883	883	983	1024	0	Countess Item (N) Desecrated C	1	Countess Rune (N)	1																					0
 Countess (H)			-2	883	883	983	1024		Countess Rune (H)	1	Countess Item (H)	1																					0
-Countess (H) Desecrated A	35	82	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated A	5	Countess Rune (H)	5																			0
-Countess (H) Desecrated B	35	84	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated B	5	Countess Rune (H)	5																			0
-Countess (H) Desecrated C	35	87	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated C	5	Countess Rune (H)	5																			0
-Countess (H) Desecrated D	35	90	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated D	5	Countess Rune (H)	5																			0
-Countess (H) Desecrated E	35	93	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated E	5	Countess Rune (H)	5																			0
-Countess (H) Desecrated F	35	96	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated F	5	Countess Rune (H)	5																			0
+Countess (H) Desecrated A	35	82	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated A	10	Countess Rune (H)	10																			0
+Countess (H) Desecrated B	35	84	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated B	10	Countess Rune (H)	10																			0
+Countess (H) Desecrated C	35	87	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated C	10	Countess Rune (H)	10																			0
+Countess (H) Desecrated D	35	90	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated D	10	Countess Rune (H)	10																			0
+Countess (H) Desecrated E	35	93	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated E	10	Countess Rune (H)	10																			0
+Countess (H) Desecrated F	35	96	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated F	10	Countess Rune (H)	10																			0
 Uber Andariel			1	1024				0	shn	1																							0
 Uber Duriel			1	1024				0	sey	1																							0
 Uber Izual			1	1024				0	sms	1																							0
 Pandemonium Key A			1	1024				0	p1s	1																							0
 Pandemonium Key B			1	1024				0	p2s	1																							0
 Pandemonium Key C			1	1024				0	p3s	1																							0
-Act 1 (H) Champ A Desecrated	36	63	-2					0	Sunder Charms	1	Act 1 (H) Champ A	5																					0
-Act 1 (H) Champ B Desecrated	36	66	-2					0	Sunder Charms	1	Act 1 (H) Champ B	5																					0
-Act 1 (H) Champ C Desecrated	36	68	-2					0	Sunder Charms	1	Act 1 (H) Champ C	5																					0
-Act 2 (H) Champ A Desecrated	36	69	-2					0	Sunder Charms	1	Act 2 (H) Champ A	5																					0
-Act 2 (H) Champ B Desecrated	36	71	-2					0	Sunder Charms	1	Act 2 (H) Champ B	5																					0
-Act 2 (H) Champ C Desecrated	36	72	-2					0	Sunder Charms	1	Act 2 (H) Champ C	5																					0
-Act 3 (H) Champ A Desecrated	36	74	-2					0	Sunder Charms	1	Act 3 (H) Champ A	5																					0
-Act 3 (H) Champ B Desecrated	36	75	-2					0	Sunder Charms	1	Act 3 (H) Champ B	5																					0
-Act 3 (H) Champ C Desecrated	36	77	-2					0	Sunder Charms	1	Act 3 (H) Champ C	5																					0
-Act 4 (H) Champ A Desecrated	36	78	-2					0	Sunder Charms	1	Act 4 (H) Champ A	5																					0
-Act 4 (H) Champ B Desecrated	36	80	-2					0	Sunder Charms	1	Act 4 (H) Champ B	5																					0
-Act 5 (H) Champ A Desecrated	36	81	-2					0	Sunder Charms	1	Act 5 (H) Champ A	5																					0
-Act 5 (H) Champ B Desecrated	36	83	-2					0	Sunder Charms	1	Act 5 (H) Champ B	5																					0
-Act 5 (H) Champ C Desecrated	36	85	-2					0	Sunder Charms	1	Act 5 (H) Champ C	5																					0
-Act 1 (H) Unique A Desecrated	37	63	-2					0	Sunder Charms	1	Act 1 (H) Unique A	5																					0
-Act 1 (H) Unique B Desecrated	37	66	-2					0	Sunder Charms	1	Act 1 (H) Unique B	5																					0
-Act 1 (H) Unique C Desecrated	37	68	-2					0	Sunder Charms	1	Act 1 (H) Unique C	5																					0
-Act 2 (H) Unique A Desecrated	37	69	-2					0	Sunder Charms	1	Act 2 (H) Unique A	5																					0
-Act 2 (H) Unique B Desecrated	37	71	-2					0	Sunder Charms	1	Act 2 (H) Unique B	5																					0
-Act 2 (H) Unique C Desecrated	37	72	-2					0	Sunder Charms	1	Act 2 (H) Unique C	5																					0
-Act 3 (H) Unique A Desecrated	37	74	-2					0	Sunder Charms	1	Act 3 (H) Unique A	5																					0
-Act 3 (H) Unique B Desecrated	37	75	-2					0	Sunder Charms	1	Act 3 (H) Unique B	5																					0
-Act 3 (H) Unique C Desecrated	37	77	-2					0	Sunder Charms	1	Act 3 (H) Unique C	5																					0
-Act 4 (H) Unique A Desecrated	37	78	-2					0	Sunder Charms	1	Act 4 (H) Unique A	5																					0
-Act 4 (H) Unique B Desecrated	37	80	-2					0	Sunder Charms	1	Act 4 (H) Unique B	5																					0
-Act 5 (H) Unique A Desecrated	37	81	-2					0	Sunder Charms	1	Act 5 (H) Unique A	5																					0
-Act 5 (H) Unique B Desecrated	37	83	-2					0	Sunder Charms	1	Act 5 (H) Unique B	5																					0
-Act 5 (H) Unique C Desecrated	37	85	-2					0	Sunder Charms	1	Act 5 (H) Unique C	5																					0
-Act 1 (H) Super A Desecrated	38	67	-2					0	Sunder Charms	1	Act 1 (H) Super A	5																					0
-Act 1 (H) Super B Desecrated	38	67	-2					0	Sunder Charms	1	Act 1 (H) Super B	5																					0
-Act 1 (H) Super C Desecrated	38	68	-2					0	Sunder Charms	1	Act 1 (H) Super C	5																					0
-Act 2 (H) Super A Desecrated	38	68	-2					0	Sunder Charms	1	Act 2 (H) Super A	5																					0
-Act 2 (H) Super B Desecrated	38	69	-2					0	Sunder Charms	1	Act 2 (H) Super B	5																					0
-Act 2 (H) Super C Desecrated	38	72	-2					0	Sunder Charms	1	Act 2 (H) Super C	5																					0
-Act 3 (H) Super A Desecrated	38	73	-2					0	Sunder Charms	1	Act 3 (H) Super A	5																					0
-Act 3 (H) Super B Desecrated	38	75	-2					0	Sunder Charms	1	Act 3 (H) Super B	5																					0
-Act 3 (H) Super C Desecrated	38	78	-2					0	Sunder Charms	1	Act 3 (H) Super C	5																					0
-Act 4 (H) Super A Desecrated	38	81	-2					0	Sunder Charms	1	Act 4 (H) Super A	5																					0
-Act 4 (H) Super B Desecrated	38	84	-2					0	Sunder Charms	1	Act 4 (H) Super B	5																					0
-Act 4 (H) Super C Desecrated	38	87	-2					0	Sunder Charms	1	Act 4 (H) Super C	5																					0
-Act 5 (H) Super A Desecrated	38	90	-2					0	Sunder Charms	1	Act 5 (H) Super A	5																					0
-Act 5 (H) Super B Desecrated	38	93	-2					0	Sunder Charms	1	Act 5 (H) Super B	5																					0
-Act 5 (H) Super C Desecrated	38	96	-2					0	Sunder Charms	1	Act 5 (H) Super C	5																					0
-Act 1 (H) Super Ax Desecrated	39	67	-2					0	Sunder Charms	1	Act 1 (H) Super Ax	5																					0
-Act 1 (H) Super Bx Desecrated	39	67	-2					0	Sunder Charms	1	Act 1 (H) Super Bx	5																					0
-Act 1 (H) Super Cx Desecrated	39	68	-2					0	Sunder Charms	1	Act 1 (H) Super Cx	5																					0
-Act 2 (H) Super Ax Desecrated	39	68	-2					0	Sunder Charms	1	Act 2 (H) Super Ax	5																					0
-Act 2 (H) Super Bx Desecrated	39	69	-2					0	Sunder Charms	1	Act 2 (H) Super Bx	5																					0
-Act 2 (H) Super Cx Desecrated	39	72	-2					0	Sunder Charms	1	Act 2 (H) Super Cx	5																					0
-Act 3 (H) Super Ax Desecrated	39	73	-2					0	Sunder Charms	1	Act 3 (H) Super Ax	5																					0
-Act 3 (H) Super Bx Desecrated	39	75	-2					0	Sunder Charms	1	Act 3 (H) Super Bx	5																					0
-Act 3 (H) Super Cx Desecrated	39	78	-2					0	Sunder Charms	1	Act 3 (H) Super Cx	5																					0
-Act 4 (H) Super Ax Desecrated	39	81	-2					0	Sunder Charms	1	Act 4 (H) Super Ax	5																					0
-Act 4 (H) Super Bx Desecrated	39	84	-2					0	Sunder Charms	1	Act 4 (H) Super Bx	5																					0
-Act 4 (H) Super Cx Desecrated	39	87	-2					0	Sunder Charms	1	Act 4 (H) Super Cx	5																					0
-Act 5 (H) Super Ax Desecrated	39	90	-2					0	Sunder Charms	1	Act 5 (H) Super Ax	5																					0
-Act 5 (H) Super Bx Desecrated	39	93	-2					0	Sunder Charms	1	Act 5 (H) Super Bx	5																					0
-Act 5 (H) Super Cx Desecrated	39	96	-2					0	Sunder Charms	1	Act 5 (H) Super Cx	5																					0
+Act 1 (H) Champ A Desecrated	36	63	-2					0	Sunder Charms	1	Act 1 (H) Champ A	10																					0
+Act 1 (H) Champ B Desecrated	36	66	-2					0	Sunder Charms	1	Act 1 (H) Champ B	10																					0
+Act 1 (H) Champ C Desecrated	36	68	-2					0	Sunder Charms	1	Act 1 (H) Champ C	10																					0
+Act 2 (H) Champ A Desecrated	36	69	-2					0	Sunder Charms	1	Act 2 (H) Champ A	10																					0
+Act 2 (H) Champ B Desecrated	36	71	-2					0	Sunder Charms	1	Act 2 (H) Champ B	10																					0
+Act 2 (H) Champ C Desecrated	36	72	-2					0	Sunder Charms	1	Act 2 (H) Champ C	10																					0
+Act 3 (H) Champ A Desecrated	36	74	-2					0	Sunder Charms	1	Act 3 (H) Champ A	10																					0
+Act 3 (H) Champ B Desecrated	36	75	-2					0	Sunder Charms	1	Act 3 (H) Champ B	10																					0
+Act 3 (H) Champ C Desecrated	36	77	-2					0	Sunder Charms	1	Act 3 (H) Champ C	10																					0
+Act 4 (H) Champ A Desecrated	36	78	-2					0	Sunder Charms	1	Act 4 (H) Champ A	10																					0
+Act 4 (H) Champ B Desecrated	36	80	-2					0	Sunder Charms	1	Act 4 (H) Champ B	10																					0
+Act 5 (H) Champ A Desecrated	36	81	-2					0	Sunder Charms	1	Act 5 (H) Champ A	10																					0
+Act 5 (H) Champ B Desecrated	36	83	-2					0	Sunder Charms	1	Act 5 (H) Champ B	10																					0
+Act 5 (H) Champ C Desecrated	36	85	-2					0	Sunder Charms	1	Act 5 (H) Champ C	10																					0
+Act 1 (H) Unique A Desecrated	37	63	-2					0	Sunder Charms	1	Act 1 (H) Unique A	10																					0
+Act 1 (H) Unique B Desecrated	37	66	-2					0	Sunder Charms	1	Act 1 (H) Unique B	10																					0
+Act 1 (H) Unique C Desecrated	37	68	-2					0	Sunder Charms	1	Act 1 (H) Unique C	10																					0
+Act 2 (H) Unique A Desecrated	37	69	-2					0	Sunder Charms	1	Act 2 (H) Unique A	10																					0
+Act 2 (H) Unique B Desecrated	37	71	-2					0	Sunder Charms	1	Act 2 (H) Unique B	10																					0
+Act 2 (H) Unique C Desecrated	37	72	-2					0	Sunder Charms	1	Act 2 (H) Unique C	10																					0
+Act 3 (H) Unique A Desecrated	37	74	-2					0	Sunder Charms	1	Act 3 (H) Unique A	10																					0
+Act 3 (H) Unique B Desecrated	37	75	-2					0	Sunder Charms	1	Act 3 (H) Unique B	10																					0
+Act 3 (H) Unique C Desecrated	37	77	-2					0	Sunder Charms	1	Act 3 (H) Unique C	10																					0
+Act 4 (H) Unique A Desecrated	37	78	-2					0	Sunder Charms	1	Act 4 (H) Unique A	10																					0
+Act 4 (H) Unique B Desecrated	37	80	-2					0	Sunder Charms	1	Act 4 (H) Unique B	10																					0
+Act 5 (H) Unique A Desecrated	37	81	-2					0	Sunder Charms	1	Act 5 (H) Unique A	10																					0
+Act 5 (H) Unique B Desecrated	37	83	-2					0	Sunder Charms	1	Act 5 (H) Unique B	10																					0
+Act 5 (H) Unique C Desecrated	37	85	-2					0	Sunder Charms	1	Act 5 (H) Unique C	10																					0
+Act 1 (H) Super A Desecrated	38	67	-2					0	Sunder Charms	1	Act 1 (H) Super A	10																					0
+Act 1 (H) Super B Desecrated	38	67	-2					0	Sunder Charms	1	Act 1 (H) Super B	10																					0
+Act 1 (H) Super C Desecrated	38	68	-2					0	Sunder Charms	1	Act 1 (H) Super C	10																					0
+Act 2 (H) Super A Desecrated	38	68	-2					0	Sunder Charms	1	Act 2 (H) Super A	10																					0
+Act 2 (H) Super B Desecrated	38	69	-2					0	Sunder Charms	1	Act 2 (H) Super B	10																					0
+Act 2 (H) Super C Desecrated	38	72	-2					0	Sunder Charms	1	Act 2 (H) Super C	10																					0
+Act 3 (H) Super A Desecrated	38	73	-2					0	Sunder Charms	1	Act 3 (H) Super A	10																					0
+Act 3 (H) Super B Desecrated	38	75	-2					0	Sunder Charms	1	Act 3 (H) Super B	10																					0
+Act 3 (H) Super C Desecrated	38	78	-2					0	Sunder Charms	1	Act 3 (H) Super C	10																					0
+Act 4 (H) Super A Desecrated	38	81	-2					0	Sunder Charms	1	Act 4 (H) Super A	10																					0
+Act 4 (H) Super B Desecrated	38	84	-2					0	Sunder Charms	1	Act 4 (H) Super B	10																					0
+Act 4 (H) Super C Desecrated	38	87	-2					0	Sunder Charms	1	Act 4 (H) Super C	10																					0
+Act 5 (H) Super A Desecrated	38	90	-2					0	Sunder Charms	1	Act 5 (H) Super A	10																					0
+Act 5 (H) Super B Desecrated	38	93	-2					0	Sunder Charms	1	Act 5 (H) Super B	10																					0
+Act 5 (H) Super C Desecrated	38	96	-2					0	Sunder Charms	1	Act 5 (H) Super C	10																					0
+Act 1 (H) Super Ax Desecrated	39	67	-2					0	Sunder Charms	1	Act 1 (H) Super Ax	10																					0
+Act 1 (H) Super Bx Desecrated	39	67	-2					0	Sunder Charms	1	Act 1 (H) Super Bx	10																					0
+Act 1 (H) Super Cx Desecrated	39	68	-2					0	Sunder Charms	1	Act 1 (H) Super Cx	10																					0
+Act 2 (H) Super Ax Desecrated	39	68	-2					0	Sunder Charms	1	Act 2 (H) Super Ax	10																					0
+Act 2 (H) Super Bx Desecrated	39	69	-2					0	Sunder Charms	1	Act 2 (H) Super Bx	10																					0
+Act 2 (H) Super Cx Desecrated	39	72	-2					0	Sunder Charms	1	Act 2 (H) Super Cx	10																					0
+Act 3 (H) Super Ax Desecrated	39	73	-2					0	Sunder Charms	1	Act 3 (H) Super Ax	10																					0
+Act 3 (H) Super Bx Desecrated	39	75	-2					0	Sunder Charms	1	Act 3 (H) Super Bx	10																					0
+Act 3 (H) Super Cx Desecrated	39	78	-2					0	Sunder Charms	1	Act 3 (H) Super Cx	10																					0
+Act 4 (H) Super Ax Desecrated	39	81	-2					0	Sunder Charms	1	Act 4 (H) Super Ax	10																					0
+Act 4 (H) Super Bx Desecrated	39	84	-2					0	Sunder Charms	1	Act 4 (H) Super Bx	10																					0
+Act 4 (H) Super Cx Desecrated	39	87	-2					0	Sunder Charms	1	Act 4 (H) Super Cx	10																					0
+Act 5 (H) Super Ax Desecrated	39	90	-2					0	Sunder Charms	1	Act 5 (H) Super Ax	10																					0
+Act 5 (H) Super Bx Desecrated	39	93	-2					0	Sunder Charms	1	Act 5 (H) Super Bx	10																					0
+Act 5 (H) Super Cx Desecrated	39	96	-2					0	Sunder Charms	1	Act 5 (H) Super Cx	10																					0
