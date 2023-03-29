@@ -134,8 +134,93 @@ Essence Stack	escx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Crafting Stack	crfx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Core Stack	corx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Rejuvenation Stack	misc			0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
-Bidding Tier 1	nbd1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Bidding Tier 2	nbd2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Bidding Tier 3	nbd3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Bidding Tier 4	blbd	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-Bidding Sunder	snbg	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Strong Normal Bidding	snb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Strong Bidding	snb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Sturdy Bidding	snb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Burly Bidding	dxb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Agile Bidding	dxb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Nimble Bidding	dxb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Dexterous Bidding	vib1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Vital Bidding	vib2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Vibrous Bidding	vib3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Enduring Bidding	enb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Energetic Bidding	enb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Bright Bidding	enb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Spirited Bidding	lib1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Lively Bidding	lib2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Splendid Bidding	lib3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Vibrant Bidding	mab1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Spirited Bidding	mab2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Passionate Bidding	mab3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Vidid Bidding	mfb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Lucky Bidding	mfb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Fortunate Bidding	mfb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Blessed BIdding	gob1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Greedy Bidding	gob2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Gluttenous Bidding	gob3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Insatiable Bidding	arb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Accurate Bidding	arb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Precise BIdding	arb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Exact Bidding	dmb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Powerful Bidding	dmb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Harmful Bidding	dmb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Forceful Bidding	hrb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Dodgy Bidding	hrb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Avoiding Bidding	hrb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Evading Bidding	acb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Defending Bidding	acb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Guarding Bidding	acb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Shielding Bidding	rfb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Insulating Bidding	rfb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Enclosed Bidding	rfb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Heatproof Bidding	rcb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Chunky Bidding	rcb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Crystal Bidding	rcb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Diamond Bidding	rlb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Grounded Bidding	rlb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Conductive Bidding	rlb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Arrested Bidding	rpb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Neutralizing Bidding	rpb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Antitoxic Bidding	rpb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Remedying Bidding	rab1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Scintillating Bidding	rab2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Prismatic Bidding	rab3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Chromatic Bidding	rwb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Quick Bidding	rwb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Swift Bidding	rwb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Speedy Bidding	dfb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Warm Bidding	dfb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Hot Bidding	dfb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Scalding Bidding	dcb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Cold Bidding	dcb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Icy Bidding	dcb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Freezing Bidding	dlb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Noisy Bidding	dlb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Eerie Bidding	dlb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Electrical Bidding	dpb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Uneasy Bidding	dpb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Sick Bidding	dpb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Nauseating Bidding	skbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Skillful Bidding	nsbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Javelin Bidding	nbbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Bow Bidding	ncbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Passive Bidding	atbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Traps Bidding	ambi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Martial Arts Bidding	asbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Shadow Bidding	bcbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Combat Bidding	bmbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Mastery Bidding	bwbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Warcry Bidding	pcbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Elemental Bidding	pdbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Summon Bidding	pobi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Shapeshifter Bidding	sfbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Summon Bidding	slbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Bone Bidding	scbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Curse Bidding	debi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Combat Bidding	dsbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Defensive Bidding	dhbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Offensive Bidding	ajbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Fire Bidding	abbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Lightning Bidding	apbi	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Cold Bidding	cldb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Sunder Bidding	snbg	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
