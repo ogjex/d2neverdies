@@ -577,7 +577,7 @@ Swarm 1 (N)	17	40	1					125	Potion 2	12	Misc 1	2	Act 2 (N) Good	4															
 Swarm 2 (N)	17	46	1					125	Potion 2	12	Misc 1	2	Act 3 (N) Good	4																			0
 Swarm 1 (H)	17	68	1					125	Potion 2	12	Misc 2	2	Act 2 (H) Good	4																			0
 Swarm 2 (H)	17	74	1					125	Potion 2	12	Misc 2	2	Act 3 (H) Good	4																			0
-Sunder Charms			1					23899	sg1	15	sg2	15	sg3	5	sg4	5	sg5	5	sg6	5	Act 5 (H) Good	50										2	0
+Sunder Charms			1					23899	sg1	0	sg2	0	sg3	0	sg4	0	sg5	0	sg6	0	Act 5 (H) Good	50										2	0
 Andariel			7	995	995	1024	1024	10	Act 2 Equip A	19	Act 2 Good	3																					0
 Andariel (N)			7	995	995	1024	1024	10	Act 2 (N) Equip A	19	Act 2 (N) Good	3																					0
 Andariel (H)			7	995	995	1024	1024	10	Act 2 (H) Equip A	19	Act 2 (H) Good	3	ses	1																			0
