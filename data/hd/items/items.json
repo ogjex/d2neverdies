@@ -842,7 +842,7 @@
   { "ad1": { "asset": "cube/bidding_blood" } },
   { "ad2": { "asset": "cube/bidding_blood" } },
   { "ad3": { "asset": "cube/bidding_blood" } },
-  { "sq1": { "asset": "cube/bidding_sunder" } },
+  { "sg1": { "asset": "cube/bidding_sunder" } },
   { "sg2": { "asset": "cube/bidding_sunder" } },
   { "sg3": { "asset": "cube/bidding_sunder" } },
   { "sg4": { "asset": "cube/bidding_sunder" } },
