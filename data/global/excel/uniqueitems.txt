@@ -199,7 +199,7 @@ Godstrike Arch	195	100	1		1	1	54	46	8lw	Gothic Bow		5	5000	lgry	lgry						dmg%		
 Langer Briser	196	100	1		1	1	40	32	8lx	Arbalest		5	5000				inv8lxu				knock		1	1	dmg%		190	220	mag%		30	60	hp		30	30	dmg-max		10	30	openwounds		33	33	dmg-ltng		1	212	swing2		20	20																		0
 Pus Spiter	197	100	1		1	1	44	36	8mx	Siege Crossbow		5	5000	cgrn	cgrn		inv8mxu				dmg-pois	100	384	384	hit-skill	91	4	1	ease		-60	-60	gethit-skill	92	9	6	swing2		10	10	dmg%		150	220	att/lvl	10			allskills		2	3	heal-hit		20	25														0
 Buriza-Do Kyanon	198	100	1		1	1	59	41	8hx	Balista		5	5000				invhxbu				pierce		100	100	dex		35	35	ac		75	150	dmg/lvl	10			swing2		80	80	dmg%		250	300	freeze		3	3	dmg-cold	200	32	196																		0
-Demon Machine	199	100	1		1	1	57	49	8rx	Chu-Ko-Nu		5	5000	blac	blac		invrxbu				ac		666	666	mana		55	66	pierce		50	66	explosivearrow		6	6	dmg-max		55	66	dmg%		266	299	att		600	666					hit-skill	Multiple Shot	12	18														0
+Demon Machine	199	100	1		1	1	57	49	8rx	Chu-Ko-Nu		5	5000	blac	blac		invrxbu				ac		666	666	mana		55	66	pierce		50	66	explosivearrow		6	6	dmg-max		55	66	dmg%		266	299	att		600	666					hit-skill	51	12	18														0
 Armor																																																																						0
 Peasent Crown	201	100	1		1	1	36	28	xap	War Hat		3	5000	lgry							enr		20	20	vit		20	20	allskills		1	1	move2		20	20	regen		6	12	ac%		100	100																										0
 Rockstopper	202	100	1		1	1	39	31	xkp	Sallet		3	5000				invxkpu				res-ltng		20	40	red-dmg%		10	10	balance2		30	30	ac%		160	220	res-fire		20	50	res-cold		20	40	vit		15	15																						0
