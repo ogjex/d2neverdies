@@ -290,4 +290,5 @@ infusion-cost	1	1	item_infuse_cost																																0
 lvl-cost	1	1	item_lvl_cost																																0
 forged	1	1	item_isforged																																0
 gambles	1	1	item_gamble_cost																																0
-infusion-cost-hell	1	1	item_hell_infused																																0
+infusion-hell	1	1	item_hell_infused																																0
+infusion-cost-hell	1	1	item_infuse_cost_hell																																0

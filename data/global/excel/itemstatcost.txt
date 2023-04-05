@@ -373,3 +373,4 @@ item_lvl_cost	370			11			1	0	10			1	1					7	32	7	32																88	1	1	StrLvl
 item_isforged	371			11			1	0	10			1	1					7	32	7	32																255	3	0	StrForged	StrForged										0
 item_gamble_cost	372			11			1	0	10			1	1					7	32	7	32																255	3	1	StrGambleCost	StrGambleCost										0
 item_hell_infused	373			11			1	0	10			1	1					7	32	7	32																255	3	1	StrInfusedHell	StrInfusedHell										0
+item_infuse_cost_hell	374			11			1	0	10			1	1					7	32	7	32																157	1	1	StrInfCostHell	StrInfCostHell										0
