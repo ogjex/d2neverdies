@@ -31,7 +31,7 @@ Runeword29	Dream	1			Previously Ladder Only	helm	shld								IoJahPul	r16	r31	r2
 Runeword30	Duress	1			110	tors									ShaelUmThul	r13	r22	r10				dmg-cold	50	37	133	dmg%		40	80	ac%		150	200	balance2		20	20	openwounds		33	33	crush		15	15	stamdrain		-20	-20	0
 Runeword31	Edge	1			Previously Ladder Only	miss									TirTalAmn	r03	r07	r11				dmg%		150	175	swing2		35	35	noheal		1	1	aura	Thorns	15	15	all-stats		5	10	cheap		15	15					0
 Runeword32	Elation																																																	0
-Runeword33	Enigma	1			110	tors									JahIthBer	r31	r06	r30				ac		500	775	allskills		2	2	move2		25	25	str/lvl		4	6	mag%/lvl		4	6	oskill	Teleport	1	1					0
+Runeword33	Enigma	1			110	tors									JahIthBer	r31	r06	r30				ac		500	775	allskills		2	2	move2		25	25	str/lvl		4	6	mag%/lvl		4	6	oskill	Lesser Teleport	1	1					0
 Runeword34	Enlightenment	1			111	tors									PulRalSur	r21	r08	r12				hit-skill	Fire Ball	5	15	gethit-skill	Blaze	20	25	sor		2	2	oskill	Warmth	1	3	cast2		20	20									0
 Runeword35	Envy																																																	0
 Runeword36	Eternity	1			110	mele									AmnBerIstSolSur	r11	r30	r24	r12	r29		dmg%		260	310	indestruct		1	1	slow		33	33	oskill	Revive	4	4	reanimate	39	10	10	dmg-norm		61	71	nofreeze		1	1	0
