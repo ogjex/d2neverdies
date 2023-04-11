@@ -859,5 +859,8 @@
   { "lcc": { "asset": "cube/charge_compound_eli" } },
   { "nuc": { "asset": "cube/charge_unique_nor" } },
   { "euc": { "asset": "cube/charge_unique_exc" } },
-  { "luc": { "asset": "cube/charge_unique_eli" } }
+  { "fod": { "asset": "gem/fod" } },
+  { "pod": { "asset": "gem/pod" } },
+  { "8po": { "asset": "gem/8po" } },
+  { "8fo": { "asset": "gem/8fo" } }
 ]
