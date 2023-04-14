@@ -114,6 +114,9 @@ GEM UPTIER	0																																																																				
 3 Flawed Skulls -> Standard Skull	1			0					3	"skf,qty=3"							sku																																																																																							0
 3 Standard Skulls -> Flawless Skull	1			0					3	"sku,qty=3"							skl																																																																																							0
 3 Flawless Skulls -> Perfect Skull	1			0					3	"skl,qty=3"							skz																																																																																							0
+OBSIDIAN UPTIER	0																																																																																																							0
+All Standard Gems --> Flawless Obsidian	1			100					7	sku	gsw	gsg	gsy	gsb	gsr	gsv	fod																																																																																							0
+3 Flawless Obsidian --> Perfect Obsidian	1			100					3	"fod,qty=3"							pod																																																																																							0
 RUNE UPTIER	0																																																																																																							0
 3 El Runes -> Eld Rune	1			100					3	"r01,qty=3"							r02																																																																																							0
 3 Eld Runes -> Tir Rune	1			100					3	"r02,qty=3"							r03																																																																																							0
