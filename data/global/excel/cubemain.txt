@@ -3961,9 +3961,9 @@ Forceful Bidding	1			100	16	368	59		2	cc1	jb3						useitem				infusion	100		3	3	
 Dodgy Bidding	1			100	16	368	59		2	cc1	kb1						useitem				infusion	100		2	2	levelreq			1	1	balance2			4	4																																																																					0
 Avoiding Bidding	1			100	16	368	59		2	cc1	kb2						useitem				infusion	100		3	3	levelreq			4	4	balance2			8	8																																																																					0
 Evading Bidding	1			100	16	368	59		2	cc1	kb3						useitem				infusion	100		3	3	levelreq			6	6	balance2			12	12																																																																					0
-Defending Bidding	1			100	16	368	59		2	cc1	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			30	30																																																																					0
-Guarding Bidding	1			100	16	368	59		2	cc1	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			60	60																																																																					0
-Shielding Bidding	1			100	16	368	59		2	cc1	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			90	90																																																																					0
+Defending Bidding	1			100	16	368	59		2	cc1	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			20	20																																																																					0
+Guarding Bidding	1			100	16	368	59		2	cc1	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			40	40																																																																					0
+Shielding Bidding	1			100	16	368	59		2	cc1	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			60	60																																																																					0
 Insulating Bidding	1			100	16	368	59		2	cc1	mb1						useitem				infusion	100		4	4	levelreq			1	1	res-fire			3	3																																																																					0
 Enclosed Bidding	1			100	16	368	59		2	cc1	mb2						useitem				infusion	100		6	6	levelreq			4	4	res-fire			6	6																																																																					0
 Heatproof Bidding	1			100	16	368	59		2	cc1	mb3						useitem				infusion	100		6	6	levelreq			6	6	res-fire			9	9																																																																					0
@@ -4031,9 +4031,9 @@ Forceful Bidding	1			100	16	368	59		2	cc2	jb3						useitem				infusion	100		3	3	
 Dodgy Bidding	1			100	16	368	59		2	cc2	kb1						useitem				infusion	100		2	2	levelreq			1	1	balance2			4	4																																																																					0
 Avoiding Bidding	1			100	16	368	59		2	cc2	kb2						useitem				infusion	100		3	3	levelreq			4	4	balance2			8	8																																																																					0
 Evading Bidding	1			100	16	368	59		2	cc2	kb3						useitem				infusion	100		3	3	levelreq			6	6	balance2			12	12																																																																					0
-Defending Bidding	1			100	16	368	59		2	cc2	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			10	10																																																																					0
-Guarding Bidding	1			100	16	368	59		2	cc2	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			20	20																																																																					0
-Shielding Bidding	1			100	16	368	59		2	cc2	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			30	30																																																																					0
+Defending Bidding	1			100	16	368	59		2	cc2	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			20	20																																																																					0
+Guarding Bidding	1			100	16	368	59		2	cc2	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			40	40																																																																					0
+Shielding Bidding	1			100	16	368	59		2	cc2	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			60	60																																																																					0
 Insulating Bidding	1			100	16	368	59		2	cc2	mb1						useitem				infusion	100		4	4	levelreq			1	1	res-fire			3	3																																																																					0
 Enclosed Bidding	1			100	16	368	59		2	cc2	mb2						useitem				infusion	100		6	6	levelreq			4	4	res-fire			6	6																																																																					0
 Heatproof Bidding	1			100	16	368	59		2	cc2	mb3						useitem				infusion	100		6	6	levelreq			6	6	res-fire			9	9																																																																					0
@@ -4101,9 +4101,9 @@ Forceful Bidding	1			100	16	368	59		2	cc3	jb3						useitem				infusion	100		3	3	
 Dodgy Bidding	1			100	16	368	59		2	cc3	kb1						useitem				infusion	100		2	2	levelreq			1	1	balance2			4	4																																																																					0
 Avoiding Bidding	1			100	16	368	59		2	cc3	kb2						useitem				infusion	100		3	3	levelreq			4	4	balance2			8	8																																																																					0
 Evading Bidding	1			100	16	368	59		2	cc3	kb3						useitem				infusion	100		3	3	levelreq			6	6	balance2			12	12																																																																					0
-Defending Bidding	1			100	16	368	59		2	cc3	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			10	10																																																																					0
-Guarding Bidding	1			100	16	368	59		2	cc3	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			20	20																																																																					0
-Shielding Bidding	1			100	16	368	59		2	cc3	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			30	30																																																																					0
+Defending Bidding	1			100	16	368	59		2	cc3	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			20	20																																																																					0
+Guarding Bidding	1			100	16	368	59		2	cc3	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			40	40																																																																					0
+Shielding Bidding	1			100	16	368	59		2	cc3	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			60	60																																																																					0
 Insulating Bidding	1			100	16	368	59		2	cc3	mb1						useitem				infusion	100		4	4	levelreq			1	1	res-fire			3	3																																																																					0
 Enclosed Bidding	1			100	16	368	59		2	cc3	mb2						useitem				infusion	100		6	6	levelreq			4	4	res-fire			6	6																																																																					0
 Heatproof Bidding	1			100	16	368	59		2	cc3	mb3						useitem				infusion	100		6	6	levelreq			6	6	res-fire			9	9																																																																					0
@@ -4171,9 +4171,9 @@ Forceful Bidding	1			100	16	368	59		2	cc4	jb3						useitem				infusion	100		3	3	
 Dodgy Bidding	1			100	16	368	59		2	cc4	kb1						useitem				infusion	100		2	2	levelreq			1	1	balance2			4	4																																																																					0
 Avoiding Bidding	1			100	16	368	59		2	cc4	kb2						useitem				infusion	100		3	3	levelreq			4	4	balance2			8	8																																																																					0
 Evading Bidding	1			100	16	368	59		2	cc4	kb3						useitem				infusion	100		3	3	levelreq			6	6	balance2			12	12																																																																					0
-Defending Bidding	1			100	16	368	59		2	cc4	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			10	10																																																																					0
-Guarding Bidding	1			100	16	368	59		2	cc4	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			20	20																																																																					0
-Shielding Bidding	1			100	16	368	59		2	cc4	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			30	30																																																																					0
+Defending Bidding	1			100	16	368	59		2	cc4	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			20	20																																																																					0
+Guarding Bidding	1			100	16	368	59		2	cc4	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			40	40																																																																					0
+Shielding Bidding	1			100	16	368	59		2	cc4	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			60	60																																																																					0
 Insulating Bidding	1			100	16	368	59		2	cc4	mb1						useitem				infusion	100		4	4	levelreq			1	1	res-fire			3	3																																																																					0
 Enclosed Bidding	1			100	16	368	59		2	cc4	mb2						useitem				infusion	100		6	6	levelreq			4	4	res-fire			6	6																																																																					0
 Heatproof Bidding	1			100	16	368	59		2	cc4	mb3						useitem				infusion	100		6	6	levelreq			6	6	res-fire			9	9																																																																					0
@@ -4241,9 +4241,9 @@ Forceful Bidding	1			100	16	368	59		2	cc5	jb3						useitem				infusion	100		3	3	
 Dodgy Bidding	1			100	16	368	59		2	cc5	kb1						useitem				infusion	100		2	2	levelreq			1	1	balance2			4	4																																																																					0
 Avoiding Bidding	1			100	16	368	59		2	cc5	kb2						useitem				infusion	100		3	3	levelreq			4	4	balance2			8	8																																																																					0
 Evading Bidding	1			100	16	368	59		2	cc5	kb3						useitem				infusion	100		3	3	levelreq			6	6	balance2			12	12																																																																					0
-Defending Bidding	1			100	16	368	59		2	cc5	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			10	10																																																																					0
-Guarding Bidding	1			100	16	368	59		2	cc5	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			20	20																																																																					0
-Shielding Bidding	1			100	16	368	59		2	cc5	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			30	30																																																																					0
+Defending Bidding	1			100	16	368	59		2	cc5	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			20	20																																																																					0
+Guarding Bidding	1			100	16	368	59		2	cc5	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			40	40																																																																					0
+Shielding Bidding	1			100	16	368	59		2	cc5	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			60	60																																																																					0
 Insulating Bidding	1			100	16	368	59		2	cc5	mb1						useitem				infusion	100		4	4	levelreq			1	1	res-fire			3	3																																																																					0
 Enclosed Bidding	1			100	16	368	59		2	cc5	mb2						useitem				infusion	100		6	6	levelreq			4	4	res-fire			6	6																																																																					0
 Heatproof Bidding	1			100	16	368	59		2	cc5	mb3						useitem				infusion	100		6	6	levelreq			6	6	res-fire			9	9																																																																					0
@@ -4311,9 +4311,9 @@ Forceful Bidding	1			100	16	368	59		2	cc6	jb3						useitem				infusion	100		3	3	
 Dodgy Bidding	1			100	16	368	59		2	cc6	kb1						useitem				infusion	100		2	2	levelreq			1	1	balance2			4	4																																																																					0
 Avoiding Bidding	1			100	16	368	59		2	cc6	kb2						useitem				infusion	100		3	3	levelreq			4	4	balance2			8	8																																																																					0
 Evading Bidding	1			100	16	368	59		2	cc6	kb3						useitem				infusion	100		3	3	levelreq			6	6	balance2			12	12																																																																					0
-Defending Bidding	1			100	16	368	59		2	cc6	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			10	10																																																																					0
-Guarding Bidding	1			100	16	368	59		2	cc6	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			20	20																																																																					0
-Shielding Bidding	1			100	16	368	59		2	cc6	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			30	30																																																																					0
+Defending Bidding	1			100	16	368	59		2	cc6	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			20	20																																																																					0
+Guarding Bidding	1			100	16	368	59		2	cc6	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			40	40																																																																					0
+Shielding Bidding	1			100	16	368	59		2	cc6	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			60	60																																																																					0
 Insulating Bidding	1			100	16	368	59		2	cc6	mb1						useitem				infusion	100		4	4	levelreq			1	1	res-fire			3	3																																																																					0
 Enclosed Bidding	1			100	16	368	59		2	cc6	mb2						useitem				infusion	100		6	6	levelreq			4	4	res-fire			6	6																																																																					0
 Heatproof Bidding	1			100	16	368	59		2	cc6	mb3						useitem				infusion	100		6	6	levelreq			6	6	res-fire			9	9																																																																					0
@@ -4381,9 +4381,9 @@ Forceful Bidding	1			100	16	368	59		2	cc7	jb3						useitem				infusion	100		3	3	
 Dodgy Bidding	1			100	16	368	59		2	cc7	kb1						useitem				infusion	100		2	2	levelreq			1	1	balance2			4	4																																																																					0
 Avoiding Bidding	1			100	16	368	59		2	cc7	kb2						useitem				infusion	100		3	3	levelreq			4	4	balance2			8	8																																																																					0
 Evading Bidding	1			100	16	368	59		2	cc7	kb3						useitem				infusion	100		3	3	levelreq			6	6	balance2			12	12																																																																					0
-Defending Bidding	1			100	16	368	59		2	cc7	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			10	10																																																																					0
-Guarding Bidding	1			100	16	368	59		2	cc7	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			20	20																																																																					0
-Shielding Bidding	1			100	16	368	59		2	cc7	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			30	30																																																																					0
+Defending Bidding	1			100	16	368	59		2	cc7	lb1						useitem				infusion	100		2	2	levelreq			1	1	ac%			20	20																																																																					0
+Guarding Bidding	1			100	16	368	59		2	cc7	lb2						useitem				infusion	100		3	3	levelreq			4	4	ac%			40	40																																																																					0
+Shielding Bidding	1			100	16	368	59		2	cc7	lb3						useitem				infusion	100		3	3	levelreq			6	6	ac%			60	60																																																																					0
 Insulating Bidding	1			100	16	368	59		2	cc7	mb1						useitem				infusion	100		4	4	levelreq			1	1	res-fire			3	3																																																																					0
 Enclosed Bidding	1			100	16	368	59		2	cc7	mb2						useitem				infusion	100		6	6	levelreq			4	4	res-fire			6	6																																																																					0
 Heatproof Bidding	1			100	16	368	59		2	cc7	mb3						useitem				infusion	100		6	6	levelreq			6	6	res-fire			9	9																																																																					0
@@ -4439,7 +4439,7 @@ Blood Bidding DMG	0			100	16	373	9		2	snbg	bi1						useitem				infusion-hell	100
 Blood Bidding FHR	0			100	16	373	9		2	snbg	bi2						useitem				infusion-hell	100		1	1	levelreq			10	10	balance1			15	15	move1			15	15																																																																0
 Blood Bidding LIFE	0			100	16	373	9		2	snbg	bi3						useitem				infusion-hell	100		1	1	levelreq			10	10	hp			25	25	mana%			-5	-5																																																																0
 Blood Bidding MANA	0			100	16	373	9		2	snbg	bi4						useitem				infusion-hell	100		1	1	levelreq			10	10	mana			25	25	hp%			-5	-5																																																																0
-Blood Bidding DEF	0			100	16	373	9		2	snbg	bi5						useitem				infusion-hell	100		1	1	levelreq			10	10	ac%			20	20	res-all			-2	-2																																																																0
+Blood Bidding DEF	0			100	16	373	9		2	snbg	bi5						useitem				infusion-hell	100		1	1	levelreq			10	10	ac%			100	100	res-all			-2	-2																																																																0
 Blood Bidding RES-ALL	0			100	16	373	9		2	snbg	bi6						useitem				infusion-hell	100		1	1	levelreq			10	10	res-all			4	4	ac%			-15	-15																																																																0
 Blood Bidding AR	0			100	16	373	9		2	snbg	bi7						useitem				infusion-hell	100		1	1	levelreq			10	10	att			150	150	dmg%			-5	-5																																																																0
 Blood Bidding FIRE%	0			100	16	373	9		2	snbg	bi8						useitem				infusion-hell	100		1	1	levelreq			10	10	extra-fire			5	5	red-dmg%			-3	-3																																																																0
@@ -4451,8 +4451,8 @@ ITEM TESTING	0																																																																		
 hp1 -> test item 1	1			100					1	hp1							fod	200	200	200																										hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							sg1	200	200	200																										hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							sg2	200	200	200																										hp3																																																										0
-hp4 -> test item 4	1			100					1	hp4							vb3	200	200	200																										hp4																																																										0
-hp5-> test item 5	1			100					1	hp5							fod	200	200	200																										hp5																																																										0
+hp4 -> test item 4	1			100					1	hp4							lb2	200	200	200																										hp4																																																										0
+hp5-> test item 5	1			100					1	hp5							lb3	200	200	200																										hp5																																																										0
 mp1 -> test item 6	1			100					1	mp1							ad3	200	200	200																										mp1																																																										0
 mp2 -> test item 7	1			100					1	mp2							"oba,set"	200	200	200																										mp2																																																										0
 mp3 -> test item 8	1			100					1	mp3							useitem	200	200	200																										mp3																																																										0
