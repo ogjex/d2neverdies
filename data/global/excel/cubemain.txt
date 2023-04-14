@@ -4448,11 +4448,11 @@ Blood Bidding LTNG%	0			100	16	373	9		2	snbg	10b						useitem				infusion-hell	1
 Blood Bidding POIS%	0			100	16	373	9		2	snbg	11b						useitem				infusion-hell	100		1	1	levelreq			10	10	extra-pois			5	5	red-dmg%			-3	-3																																																																0
 Blood Bidding MAGI%	0			100	16	373	9		2	snbg	12b						useitem				infusion-hell	100		1	1	levelreq			10	10																																																																										0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							"7b8,uni"	200	200	200																										hp1																																																										0
+hp1 -> test item 1	1			100					1	hp1							fod	200	200	200																										hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							sg1	200	200	200																										hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							sg2	200	200	200																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							vb3	200	200	200																										hp4																																																										0
-hp5-> test item 5	1			100					1	hp5							ad2	200	200	200																										hp5																																																										0
+hp5-> test item 5	1			100					1	hp5							fod	200	200	200																										hp5																																																										0
 mp1 -> test item 6	1			100					1	mp1							ad3	200	200	200																										mp1																																																										0
 mp2 -> test item 7	1			100					1	mp2							"oba,set"	200	200	200																										mp2																																																										0
 mp3 -> test item 8	1			100					1	mp3							useitem	200	200	200																										mp3																																																										0
