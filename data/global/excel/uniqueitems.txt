@@ -286,7 +286,7 @@ Lycander's Aim	282	100	1		1	1	50	42	am7	Ceremonial Bow		5	5000								ama		2	2	s
 Lycander's Flank	283	100	1		1	1	50	42	am9	Ceremonial Pike		5	5000								ama		2	2	skilltab	2	2	2	dmg%		250	300	swing2		30	30	ac%		50	100	str		20	20	vit		20	20	lifesteal		5	9	dmg-norm		25	50									splash		100	1		0
 The Oculus	284	100	1		1	1	50	42	oba	Swirling Crystal		5	5000								allskills		2	3	gethit-skill	54	1	1	res-all		20	25	cast2		30	30	ac%		20	20	vit		20	20	enr		20	20	mana-kill		5	5	mag%		40	50														0
 Herald of Zakarum	285	100	1		1	1	50	42	pa9	Aerin Shield		5	5000								allskills		2	2	skilltab	9	2	2	ac%		150	200	block2		30	30	block		30	30	str		25	30	vit		25	30	att%		30	30	res-all		50	50														0
-Cutthroat1	286	100	1		1	1	50	42	9tw	Runic Talons		5	5000								ass		2	2	skilltab	20	1	2	dmg%		250	300	balance2		30	30	att%		20	20	str		20	20	dex		20	20	lifesteal		5	9	dmg-norm		25	50									splash		100	1		0
+Cutthroat1	286	100	1		1	1	50	42	9tw	Runic Talons		5	5000								ass		2	2	skilltab	20	1	2	dmg%		250	300	balance2		30	30	att%		20	20	str		20	20	dex		20	20	lifesteal		5	9	dmg-norm		25	50	charge-noconsume		30	40					splash		100	1		0
 Jalal's Mane	287	100	1		1	1	50	42	dra	Dream Spirit		5	5000								dru		2	2	skilltab	16	2	2	ac%		150	200	balance2		30	30	att%		20	20	str		15	20	enr		15	20	mana-kill		5	5	res-all		25	25														0
 The Scalper	288	100	1		1	1	65	57	9ta	Francisca		5	5000								dmg%		200	250	att%		25	25	swing2		20	20	openwounds		33	33	lifesteal		4	6	mana-kill		4	4																					splash		100	1		0
 Bloodmoon	289	100	1		1	1	69	61	7sb	elegant blade		5	5000	cred	cred		invsbru				dmg%		250	300	lifesteal		10	15	charged	Teleport	29	1	heal-kill		7	13	openwounds		50	50																									splash		100	1		0
@@ -308,8 +308,8 @@ Fleshripper	304	100	1		1	1	76	68	7kr	fanged knife		5	5000	dred	dred		invkrsu				
 Odium	305	100			1	1						5	5000	blac																																																								0
 Horizon's Tornado	306	100	1		5	1	72	64	7fl	scourge		5	5000	dpur	dpur						dmg%		250	300	swing2		50	50	cast2		30	30	hit-skill	Tornado	20	28	skill	240	3	5	skill	245	3	5																					splash		100	1		0
 Stone Crusher	307	100	1		4	1	76	68	7wh	legendary mallet		5	5000	whit							dmg%		280	320	str		20	30	crush		40	40	reduce-ac		25	25	dmg-ac		-50	-50	dmg		10	30	pierce-phys		10	15																	splash		100	1		0
-Jadetalon	308	100	1		1	1	74	66	7wb	wrist sword		5	5000	cgrn	cgrn						dmg%		270	320	manasteal		10	15	res-all		40	50	balance2		30	30	skilltab	19	1	2	skilltab	20	1	2																					splash		100	1		0
-Shadowdancer	309	100	1		1	1	79	71	uhb	myrmidon greaves		5	5000	blac	blac						ac%		70	100	move2		30	30	balance2		30	30	dex		15	25	skilltab	19	1	2	ease		-20	-20																										0
+Jadetalon	308	100	1		1	1	74	66	7wb	wrist sword		5	5000	cgrn	cgrn						dmg%		270	320	manasteal		10	15	res-all		40	50	balance2		30	30	skilltab	19	1	2	skilltab	20	1	2					charge-noconsume		30	40													splash		100	1		0
+Shadowdancer	309	100	1		1	1	79	71	uhb	myrmidon greaves		5	5000	blac	blac						ac%		70	100	move2		30	30	balance2		30	30	dex		15	25	skilltab	19	1	2	ease		-20	-20					charge-noconsume		30	40																		0
 Cerebus	310	100	1		1	1	71	63	drb	blood spirit		5	5000	bwht	bwht						ac%		130	140	skilltab	16	2	4	lifesteal		7	10	att%		60	120	openwounds		33	33	skill	232	1	2	deadly		33	33	skill	242	1	2																		0
 Tyrael's Might	311	100	1		1	1	87	84	uar	sacred armor		5	5000	dblu	dblu		invaaru				ease		-100	-100	rep-dur	20			ac%		120	150	dmg-undead		125	175	dmg-demon		125	175	nofreeze		1	1	move2		45	45	res-all		20	30	str		20	30														0
 Souldrain	312	100	1		1	1	82	70	umg	vambraces		5	5000	dred	dred						ac%		90	120	manasteal		2	4	lifesteal		2	4	regen		-300	-300	dmg-ac		-50	-50	pierce-phys		5	8																										0
@@ -334,7 +334,7 @@ Darkforge Spawn	330	100	1		1	1	72	64	nef	bloodlord skull		5	5000	cred	cred						
 Widowmaker	331	100	1		1	1	73	65	6sw	ward bow		5	5000	dred	dred		invswbu				dmg%		220	350	deadly		33	33	ignore-ac		1	1	magicarrow		11	11	oskill	22	3	5	oskill	12	3	5																										0
 Bloodraven's Charge	332	100	1		1	1	79	65	amb	matriarchal bow		5	5000	dgld	dgld		invswbu				dmg%		280	330	att%		200	300	explosivearrow		13	13	skilltab	0	2	4	charged	Revive	15	15	skill	7	3	4																										0
 Ghostflame	333	100	1		1	1	70	62	7bl	legend spike		5	5000	cblu	cblu						dmg%		240	340	ignore-ac		1	1	dmg-fire		215	300	manasteal		10	15	ethereal		1	1	indestruct		1	1	swing2		30	30	extra-fire		15	25									deadly		20	20	splash		100	1		0
-Shadowkiller	334	100	1		1	1	85	65	7cs	battle cestus		5	5000				invaxfu				dmg%		220	270	reduce-ac		25	25	freeze		2	2	mana-kill		6	12	hit-skill	Frost Nova	33	18	ethereal		1	1	indestruct		1	1	skilltab	19	3	4	cast1		20	20									splash		100	1		0
+Shadowkiller	334	100	1		1	1	85	65	7cs	battle cestus		5	5000				invaxfu				dmg%		220	270	reduce-ac		25	25	freeze		2	2	mana-kill		6	12	hit-skill	Frost Nova	33	18	ethereal		1	1	indestruct		1	1	skilltab	19	3	4	cast1		20	20	charge-noconsume		30	40					splash		100	1		0
 Gimmershred	335	100	1		1	1	78	65	7ta	flying axe		5	5000	lgrn							dmg%		190	240	dmg-fire		258	523	dmg-cold	100	216	437	dmg-ltng		29	581	swing2		30	30																									splash		100	1		0
 Griffon's Eye	336	100	1		1	1	84	65	ci3	diadem		5	5000								ac		100	200	cast2		25	25	allskills		1	1	extra-ltng		10	15	pierce-ltng		15	20																														0
 Windhammer	337	100	1		1	1	76	65	7m7	ogre maul		5	5000	cblu	cblu		invmau				dmg%		230	280	crush		50	50	swing2		60	60	hit-skill	Twister	33	28																													splash		100	1		0
@@ -368,7 +368,7 @@ Dracul's Grasp	364	100	1		1	1	84	70	uvg	vampirebone gloves		5	5000	dred	dred				
 Frostwind	365	100	1		1	1	78	70	7ls	cryptic sword		5	5000	cblu	cblu		invlsdu				dmg%		220	270	freeze		4	4	half-freeze		1	1	dmg-cold	150	237	486	swing2		25	25	abs-cold%		7	15	skill	230	7	12	coldskill		2	3													splash		100	1		0
 Templar's Might	366	100	1		8	1	82	70	uar	sacred armor		5	5000	cgrn	cgrn		invaaru				ac%		170	220	balance2		20	20	ac-miss		250	300	stam		40	50	str		25	30	vit		25	30	allskills		1	1	aura	98	4	8																		0
 Eschuta's temper	367	100	1		1	1	80	70	obc	eldritch orb		5	5000	cred							sor		2	3	cast2		40	40	extra-fire		15	20	extra-ltng		15	20	enr		20	30	pierce-fire		7	10	pierce-ltng		7	10																						0
-Firelizard's Talons	368	100	1		1	1	75	67	7lw	feral claws		5	5000								dmg%		200	270	swing2		15	15	skilltab	20	1	3	dmg-fire		236	480	res-fire		30	60	fireskill		2	3	pierce-fire		7	10																	splash		100	1		0
+Firelizard's Talons	368	100	1		1	1	75	67	7lw	feral claws		5	5000								dmg%		200	270	swing2		15	15	skilltab	20	1	3	dmg-fire		236	480	res-fire		30	60	fireskill		2	3	pierce-fire		7	10	charge-noconsume		30	40													splash		100	1		0
 Sandstorm Trek	369	100	1		1	1	72	64	uvb	scarabshell boots		5	5000								ac%		140	170	move2		30	30	balance2		20	20	stam/lvl	8			thorns		480	540	res-pois		40	70	rep-dur	10			str		10	15	vit		10	15	stamdrain		50	50										0
 Marrowwalk	370	100	1		1	1	74	66	umb	boneweave boots		5	5000	dgry							ac%		170	200	move2		20	20	regen-stam		10	10	regen-mana		10	20	nofreeze		1	1	str		10	20	dex		17	17	skill	Skeleton Mastery	1	2																		0
 Heaven's Light	371	100	1		1	1	69	61	7sc	mighty scepter		5	5000	cblu	cblu						dmg%		275	325	swing2		20	20	reduce-ac		33	33	light		3	3	demon-heal		15	20	crush		33	33	sock		1	3	pal		2	3													splash		100	1		0
@@ -419,4 +419,4 @@ Crack of the Heavens	415	100	2	2	1		69	75	sn3	charm		3	5000	lyel	lyel						pierc
 Rotting Fissure	416	100	2	2	1		69	75	sn4	charm		3	5000	lgrn	lgrn						pierce-immunity-poison		300	300	res-pois		-90	-70																																										0
 Bone Break	417	100	2	2	1		69	75	sn5	charm		3	5000	whit	whit						pierce-immunity-damage		300	300	red-dmg%		-20	-10																																										0
 Black Cleft	418	100	2	2	1		69	75	sn6	charm		3	5000	lgry	lgry						pierce-immunity-magic		300	300	res-mag		-65	-45																																										0
-Slab of Faith	419	100	1		1	1	70	62	cm5	charm	1	3	5000	lgld																																																								0
+Slab of Faith	419	100	1		1	1	70	62	cm5	charm	1	3	5000	lgld	lgld																																																							0
