@@ -4461,6 +4461,6 @@ mp5 -> test item 10	1			100					1	mp5							lb3	200	200	200																					
 id scroll -> test item	1			100					1	isc							p1s	200	200	200																										isc																																																										0
 tp scroll -> crf-wep	1			100					1	tsc							cc0	200	200	200																										tsc																																																										0
 nos wep -> test	1			100					2	"weap,uni"	isc						"usetype,uni"	200	200	200																										isc																																																										0
-nos armo -> sock	1			100					2	"rin,mag"	hp5						useitem	200	200	200	heal-kill	100		3	5																					isc																																																										0
+nos armo -> sock	1			100					2	weap	hp5						useitem	200	200	200	charge-noconsume			20	40																					isc																																																										0
 nos wep -> test	1			100					2	"amu,mag"	isc						useitem	200	200	200	corruption	100		9	9																					isc																																																										0
 nos armo -> sock	1			100					2	armo	isc						"msk,set"	200	200	200																										isc																																																										0
