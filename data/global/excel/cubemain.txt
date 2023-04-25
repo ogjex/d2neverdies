@@ -4463,4 +4463,4 @@ tp scroll -> crf-wep	1			100					1	tsc							cc0	200	200	200																				
 nos wep -> test	1			100					2	"weap,uni"	isc						"usetype,uni"	200	200	200																										isc																																																										0
 nos armo -> sock	1			100					2	weap	hp5						useitem	200	200	200	charge-noconsume			20	40																					isc																																																										0
 nos wep -> test	1			100					2	"amu,mag"	isc						useitem	200	200	200	corruption	100		9	9																					isc																																																										0
-nos armo -> sock	1			100					2	armo	isc						"msk,set"	200	200	200																										isc																																																										0
+nos armo -> sock	1			100					2	armo	isc						useitem	200	200	200	forged	100		1	1																					isc																																																										0
