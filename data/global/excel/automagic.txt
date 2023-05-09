@@ -83,11 +83,11 @@ Brawler's Boots 2	100	1	1	18	42	13				3	533	swing2		3	6										armo	weap						
 Brawler's Boots 3	100	1	1	30		23				2	533	swing2		4	7										armo	weap											0	0
 Brawler's Boots 4	100	1	1	42		34				2	533	swing2		5	8										armo	weap											0	0
 Brawler's Boots 5	100	1	1	50		42				1	533	swing2		6	9										armo	weap											0	0
-Acrobat's Gloves 1	100	1	1	10	30	5				4	534	att		10	15										armo	weap											0	0
-Acrobat's Gloves 2	100	1	1	18	42	13				3	534	att		20	25										armo	weap											0	0
-Acrobat's Gloves 3	100	1	1	30		23				2	534	att		30	35										armo	weap											0	0
-Acrobat's Gloves 4	100	1	1	42		34				2	534	att		40	45										armo	weap											0	0
-Acrobat's Gloves 5	100	1	1	50		42				1	534	att		50	55										armo	weap											0	0
+Acrobat's Gloves 1	100	1	1	10	30	5				4	534	att		10	15	charge-noconsume		10	15						armo	weap											0	0
+Acrobat's Gloves 2	100	1	1	18	42	13				3	534	att		20	25	charge-noconsume		20	25						armo	weap											0	0
+Acrobat's Gloves 3	100	1	1	30		23				2	534	att		30	35	charge-noconsume		30	35						armo	weap											0	0
+Acrobat's Gloves 4	100	1	1	42		34				2	534	att		40	45	charge-noconsume		40	45						armo	weap											0	0
+Acrobat's Gloves 5	100	1	1	50		42				1	534	att		50	55	charge-noconsume		50	55						armo	weap											0	0
 Caster's Gloves 1	100	1	1	10	30	5				4	534	regen-mana		2	5										armo	weap											0	0
 Caster's Gloves 2	100	1	1	18	42	13				3	534	regen-mana		3	6										armo	weap											0	0
 Caster's Gloves 3	100	1	1	30		23				2	534	regen-mana		4	7										armo	weap											0	0
