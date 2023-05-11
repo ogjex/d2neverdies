@@ -200,4 +200,9 @@ poisonpierce	294																																																																
 coldprotect	295																																																																							0
 fireprotect	296																																																																							0
 backstab	297																																																																							0
-royalstrikepenalty	298																																																																							0
+tigerstrikepenalty	298																																																																							0
+fistsoffirepenalty	299																																																																							0
+cobrastrikepenalty	300																																																																							0
+clawsofthunderpenalty	301																																																																							0
+bladesoficepenalty	302																																																																							0
+royalstrikepenalty	303																																																																							0
