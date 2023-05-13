@@ -4458,9 +4458,9 @@ mp2 -> test item 7	1			100					1	mp2							"oba,set"	200	200	200																
 mp3 -> test item 8	1			100					1	mp3							useitem	200	200	200																										mp3																																																										0
 mp4 -> test item 9	1			100					1	mp4							lb2	200	200	200																										mp4																																																										0
 mp5 -> test item 10	1			100					1	mp5							lb3	200	200	200																										mp5																																																										0
-id scroll -> test item	1			100					2	weap	isc						useitem	200	200	200																										isc																																																										0
+id scroll -> test item	1			100					1	isc							useitem	200	200	200																										isc																																																										0
 tp scroll -> crf-wep	1			100					1	tsc							cc0	200	200	200																										tsc																																																										0
-nos wep -> test	1			100					2	"weap,uni"	isc						"usetype,uni"	200	200	200																										isc																																																										0
-nos armo -> sock	1			100					2	weap	hp5						useitem	200	200	200	charge-noconsume			20	40																					isc																																																										0
+nos wep -> test	1			100					2	"any,uni"	isc						"usetype,uni"	200	200	200																										isc																																																										0
+nos armo -> sock	1			100					2	"any,set"	isc						"usetype,set"	200	200	200																										isc																																																										0
 nos wep -> test	1			100					2	"amu,mag"	isc						useitem	200	200	200	corruption	100		9	9																					isc																																																										0
 nos armo -> sock	1			100					2	armo	isc						useitem	200	200	200																										isc																																																										0
