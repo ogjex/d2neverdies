@@ -677,17 +677,14 @@ Channeling	100	1	1	14	27	14				3	201	extra-ltng		1	1										mcha													0
 Cold	100	1	1	14	27	14				3	201	extra-cold		1	1										mcha													0
 Cinder	100	1	1	14	27	14				3	201	extra-fire		1	1										mcha													0
 Morbid	100	1	1	14	27	14				3	201	extra-pois		1	1										mcha													0
-Sparkling	100	0	1	14	27	14				3	201	extra-magi		1	1										mcha													0
 Discharging	100	1	1	28	41	28				3	201	extra-ltng		1	2										mcha													0
 Frigid	100	1	1	28	41	28				3	201	extra-cold		1	2										mcha													0
 Wildfire	100	1	1	28	41	28				3	201	extra-fire		1	2										mcha													0
 Malicious	100	1	1	28	41	28				3	201	extra-pois		1	2										mcha													0
-Effervescent	100	0	1	28	41	28				3	201	extra-magi		1	2										mcha													0
 Conduit	100	1	1	42		42				2	201	extra-ltng		2	3										mcha													0
 Numbing	100	1	1	42		42				2	201	extra-cold		2	3										mcha													0
 Inferno	100	1	1	42		42				2	201	extra-fire		2	3										mcha													0
 Infectious	100	1	1	42		42				2	201	extra-pois		2	3										mcha													0
-Scintillating	100	0	1	42		42				2	201	extra-magi		2	3										mcha													0
 Visceral	100	1	1	75		69				1	105	dmg%		301	400									blac	miss	amaz	knif	club	mace	tkni	taxe	aspe						0
 Divine	100	1	1	45		37				1	142	att-undead		326	450	dmg-undead		276	350					lgld	miss													0
 Celestial	100	1	1	55		41				1	123	att-demon		301	400	dmg-demon		201	300					dgld	miss													0
