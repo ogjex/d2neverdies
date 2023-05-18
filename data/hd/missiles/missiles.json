@@ -705,5 +705,7 @@
 	"poisonwisp": "poison_nova",
     "bonespiritexplodestun": "bone_spirit_explode",
 	"concentratemissile": "expansion_shockwave",
-	"cleavestrike": "missile_hand_axe"
+	"cleavestrike": "missile_hand_axe",
+    "cobrastrikepoisonnova": "poison_nova",
+    "cobrastrikepoisoncloud": "poison_sparks"
 }
