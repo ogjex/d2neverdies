@@ -2,21 +2,66 @@
 
 <!--
 
-## 1.3.0 - Furs and Furries
-
 ## 1.2.1
 Fixes the following:
 
-- skill tree panels now reflect correct prereqs for skills
+- game now works with vanilla version 2.7
+- more than 600 minor bug fixes and performance improvements! (Thanks, D2RLint!)
+- fixed a nasty property duplicate bug that rendered wrong properties
+- skill tree panels now reflect correct prereqs for skills (dependencies simplified)
 - removed Might from Holy Fire requirement
 - removed Amplify Damage from Weaken requirement
 - skeletal mages now correctly spawns with fire and lightning mages exclusively
 - Essences (burning, festering, hatred, etc) now unstack into unstacked versions
-- reduced distance for Force Cleave missile 
-- removed nexthit delay from: Multiple shot, Strafe, Tornado, Twister, Fissure, Volcano
+- correct skill tabs are now infused from Blood Biddings
+*- reduced distance for Force Cleave missile 
+*- all poison-based attacks and properties now have a global 3 second duration
+- + elemental skills now properly give their bonuses
+- Decrepify now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
+
+Balances the following
+- renamed Skill Biddings to "Blood Biddings" and can only be infused into Sunder Charms
+- Enigma's Teleport are now "Lesser Teleport" with a long cooldown
+- Demon Machine now spawns with ctc Firewall
+- renamed all biddings to generic "biddings" so player is forced to pick up
+
 
 Adds the following:
-- 
+*- Slabs of Faith now drops from certain superuniques from Nightmare difficulty 
+*- Gheeds Gambles now drop from Terrorized uniques and Champions
+*- chipped, flawed and normal gems now drop from superuniques in Nightmare difficulty
+*- chipped, flawed and normal gems can now be used to build different Crafting Stones
+*- Crafting Stones can be partly built by transmuting 50 Jewels (stacked) and a Crafting Stone. To finish a Crafting Stone you have to transmute infuse 50 runes (stacked) and 50 P Gems (Stacked) that can be used to craft new items directly 
+*- edited Crafting recipes to only use runes 1-7 for all crafting types
+*- enabled a recipe to build Obsidian Stones (Flawless and Perfect) to use for Slabs of Faith and Sunder Charms
+- Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms
+- new automod "% to not consume charges" added to all claws, daggers, bucklers, small shield and large shields, and random automod for gloves
+
+Assassin:
+
+- elemental Charge Up skills now incur a linear resistance penalty (minus resistance and minus max resistance)
+- removed dependencies between Elemental Charge Up skills
+*- If more than one Elemental Charge skill has points in it, a global 10 second cooldown will be set to all Elemental Charge Up skills. Phoenix Strike is the exception and this will encourage the player to pick a single element to focus on (while still being able to use different PS charges for dual elements)
+- Shadow Master is now a physical finishing move called "Shadow Chaos Stab" that can be used only with a dagger 
+- Cobra Strike charge 1 now is a poison Cloud and charge 3 is an AoE poison-based attack
+- Cobra Strike now has progressive stack when charges are released
+- Phoenix Strike now has a flat "minus magic damage reduction" penalty
+- reduced PS charge 3 Chaos Ice freeze significantly 
+- Tiger Strike now has a flat "minus physical damage reduction" penalty 
+- Dragon Talon now has a maximum of 1 kick no matter the skill level (due to crazy unbalance when using Mosaic)
+- all Finishing moves (with the exception of Dragon Flight) now no longer always hits
+
+Druid:
+*- add teleport skill (Frost Wind) instead of "Frozen Inferno"
+*- add ctc firestorm to Fireclaw attack
+*- add bonuses to "Mark of Bear/Wolf" to Werebear and Werewolf skill
+*- Shockwave now splits into multiple waves when more skills are put into it and increases stun length
+*- Multiple Vines can now be spawned 
+*- Spirit of Barbs now does something else entirely to make it more useful
+*- Cooldowns removed from most elemental attacks
+*- Ravens now deal cold damage
+*- Bean and Wolf Summons now synergise with Werebear and Werewolf (pack leader, GO!)
+
 -->
 
 ## v1.2.0 - Pets and Peeves
