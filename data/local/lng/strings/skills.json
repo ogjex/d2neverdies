@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "id": 1296,
     "Key": "Eskillname0",
@@ -36637,7 +36637,7 @@
   {
     "id": 100050,
     "Key": "StrTigerStrikePenalty",
-    "enUS": "Increased Physical Damage Taken",
+    "enUS": "Charge-up Skill\n\nconsecutive hits add damage bonuses\nto finishing moves\nmust use a dragon finishing move or\nnormal attack to release charges\nIncreases physical damage dealt by enemies",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36653,8 +36653,8 @@
   },
   {
     "id": 100051,
-    "Key": "StrRoyalStrikePenalty",
-    "enUS": "Increased Magical Damage Taken",
+    "Key": "StrPhoenixStrikePenalty",
+    "enUS": "Charge-up Skill\n\nadds elemental novas to finishing moves\nmust use a dragon finishing move or\nnormal attack to release charges\nIncreases magical damage dealt by enemies",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36670,8 +36670,25 @@
   },
   {
     "id": 100052,
-    "Key": "StrElementalChargePenalty",
-    "enUS": "Only a Single Martial Arts Specialization",
+    "Key": "StrMartialArtsElemental",
+    "enUS": "Charge-up Skill\n\nconsecutive hits add elemental damage\nto finishing moves\ncan only be used with claw class weapons\nmust use a dragon finishing move or\nnormal attack to release charges\ninduces penalties to resistances of specialized element\npoints in other elemental or poison martial arts render this skill useless",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 100053,
+    "Key": "StrMartialArtsPoison",
+    "enUS": "Charge-up Skill\n\nconsecutive hits add poison damage\nto finishing moves\ncan be used with daggers and claw class weapons\nmust use a dragon finishing move or\nnormal attack to release charges\ninduces penalties to resistances of specialized element\npoints in other elemental or poison martial arts render this skill useless",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36685,5 +36702,7 @@
     "ruRU": "",
     "zhCN": ""
   }
+
+
 
 ]
