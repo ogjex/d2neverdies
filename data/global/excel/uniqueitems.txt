@@ -251,7 +251,7 @@ Elite Uniques																																																																			
 Harlequin Crest	248	100	1		1	1	69	62	uap	Shako		3	5000	cgrn	cgrn						allskills		2	2	hp/lvl	8			mana/lvl	8			mag%		35	50	enr		2	2	str		2	2	dex		2	2	vit		2	2	red-dmg%		4	5														0
 Veil of Steel	249	100	1		1	1	77	73	uhm	Spired Helm		3	5000	lgry	lgry						res-all		35	40	ac%		160	220	str		15	15	vit		15	15	dmg%		30	60	dur		20	20	ac		140	140	*mana		-30	-30	allskills		1	1														0
 The Gladiator's Bane	250	100	1		1	1	85	85	utu	Wire Fleece		3	5000	lgry	lgry						ac%		150	200	red-mag		20	25	red-dmg		20	25	thorns		320	640	res-pois-len		50	50	dur		103	103	balance2		30	30	oskill	Critical Strike	2	2	nofreeze		1	1														0
-Arkaine's Valor	251	100	1		1	1	85	85	upl	Balrog Skin		3	5000	lred	lred						ac%		150	180	balance2		30	30	allskills		1	2	red-dmg		10	15	vit/lvl	4																																0
+Arkaine's Valor	251	100	1		1	1	85	85	upl	Balrog Skin		3	5000	lred	lred						ac%		180	200	balance2		30	30	allskills		1	2	red-dmg		10	15	vit/lvl	4			hp/lvl	4			res-fire		45	50	rep-dur	10																				0
 Blackoak Shield	252	100	1		1	1	67	61	uml	Luna		3	5000				invsmlu				dex/lvl	4			ac%		160	200	abs-cold/lvl	1			gethit-skill	72	4	5	dur		45	45	hp/lvl	10			block2		50	50	nofreeze		1	1	pierce-cold		10	15														0
 Stormshield	253	100	1		1	1	77	73	uit	Monarch		3	5000				invkitu				ac/lvl	30			red-dmg%		25	30	str		25	30	rep-dur	20			block2		35	35	res-ltng		25	25	block		25	25	res-cold		40	50	light-thorns		150	250														0
 Hellslayer	254	100	1		1	1	71	66	7bt	Decapitator		5	5000	dred	dred		invbtxu				str/lvl	4			vit/lvl	4			dmg%/lvl	24			fire-min		250	300	fire-max		400	500	hp		25	25	dmg%		150	200	attack-skill	47	10	20	swing2		20	20									splash		100	1		0

@@ -2,7 +2,7 @@
 
 <!--
 
-## 1.2.1
+## 2.0.0
 Fixes the following:
 
 - game now works with vanilla version 2.7
@@ -24,6 +24,7 @@ Balances the following
 - Enigma's Teleport are now "Lesser Teleport" with a long cooldown
 - Demon Machine now spawns with ctc Firewall
 - renamed all biddings to generic "biddings" so player is forced to pick up
+- Arkaines Valor: increased defense range, added hp/lvl as in 1.10, added 50% Fire Resist, added repair durability
 
 
 Adds the following:
