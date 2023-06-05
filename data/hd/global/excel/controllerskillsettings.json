@@ -3084,17 +3084,17 @@
             "SkillSpecial1Rumble": {},
             "TriggerParams": {}
         }, {
-            "type": "ControllerSkillsData",
-            "name": "Arctic_Blast",
+			"type": "ControllerSkillsData",
+            "name": "Frost_Wind",
             "id": 230,
             "usageType": 0,
             "targetGroup": 0,
-            "defaultTargetDistance": 2.0,
+            "defaultTargetDistance": 23.0,
             "acceptableDistanceOffset": 6.0,
             "useSkillScaledValueAsDefaultDist": false,
             "skillLevelLimitsScaledValueAsDefault": -1,
             "usePredictiveTargeting": false,
-            "alwaysIgnoreTarget": false,
+            "alwaysIgnoreTarget": true,
             "ignoreTargetOnHold": false,
             "skillUsesDocking": false,
             "meleeRangeAdjustor": 0,
@@ -3107,17 +3107,7 @@
             "holdRumbleDelayMS": 600,
             "skillQueueDeadzoneMS": 160,
             "validationFlags": 0,
-            "SkillUseRumble": {
-                "type": "ControllerRumbleData",
-                "name": "Arctic_Blast_SkillUseRumble",
-                "hdVibrationFile": "",
-                "length": 0.1,
-                "decayLength": 0.1,
-                "lowFrequencyPriority": 1,
-                "lowFrequencyIntensity": 0.5,
-                "highFrequencyPriority": 1,
-                "highFrequencyIntensity": 0.2
-            },
+            "SkillUseRumble": {},
             "SkillSpecial1Rumble": {},
             "TriggerParams": {}
         }, {
@@ -4895,7 +4885,7 @@
             "SkillUseRumble": {},
             "SkillSpecial1Rumble": {},
             "TriggerParams": {}
-        }, {
+        },  {
 			"type": "ControllerSkillsData",
             "name": "Blood_Distort",
             "id": 89,
@@ -7024,6 +7014,33 @@
                 "highFrequencyPriority": 0,
                 "highFrequencyIntensity": 0.0
             },
+            "SkillSpecial1Rumble": {},
+            "TriggerParams": {}
+        }, {
+			"type": "ControllerSkillsData",
+            "name": "Lesser_Teleport",
+            "id": 371,
+            "usageType": 0,
+            "targetGroup": 0,
+            "defaultTargetDistance": 23.0,
+            "acceptableDistanceOffset": 6.0,
+            "useSkillScaledValueAsDefaultDist": false,
+            "skillLevelLimitsScaledValueAsDefault": -1,
+            "usePredictiveTargeting": false,
+            "alwaysIgnoreTarget": true,
+            "ignoreTargetOnHold": false,
+            "skillUsesDocking": false,
+            "meleeRangeAdjustor": 0,
+            "toggleSlotState": false,
+            "tapWindowMS": 200,
+            "maxTargetDistance": 0.0,
+            "maxTargetAngleOffset": 0.0,
+            "useSkillScaledValueAsMaxDist": false,
+            "useStickyFreeTarget": false,
+            "holdRumbleDelayMS": 600,
+            "skillQueueDeadzoneMS": 160,
+            "validationFlags": 0,
+            "SkillUseRumble": {},
             "SkillSpecial1Rumble": {},
             "TriggerParams": {}
         }
