@@ -293,3 +293,5 @@ infusion-hell	1	1	item_hell_infused																																0
 infusion-cost-hell	1	1	item_infuse_cost_hell																																0
 extra-vines	1	1	item_max_vines																																0
 extra-totems	1	1	item_max_totems																																0
+extra-skeletons	1	1	item_max_skeletons																																0
+extra-revives	1	1	item_max_revives																																0
