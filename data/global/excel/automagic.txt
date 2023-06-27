@@ -253,3 +253,7 @@ Necro Anthrax	100	1	1							1	635	pierce-pois		6	7										armo	weap											
 Missile quantity	100	1	1							1	636	rep-dur	100			noconsume		100	100						misl												0	0
 Charge cons 2	100	1	1							2	637	charge-noconsume		30	50	splash		100	1						armo	weap											0	0
 Charge cons 3	100	1	1							1	637	charge-noconsume		40	60	splash		100	1						armo	weap											0	0
+Max Vines 1	100	1	1							2	638	extra-vines		0	1										armo												0	0
+Max Vines 2	100	1	1							1	638	extra-vines		1	1										armo												0	0
+Max Totems 1	100	1	1							2	638	extra-totems		0	1										armo												0	0
+Max Totems 2	100	1	1							1	638	extra-totems		1	1										armo												0	0
