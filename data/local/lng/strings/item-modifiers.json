@@ -6734,7 +6734,41 @@
   {
     "id": 50050,
     "Key": "StrMaxTotems",
-    "enUS": "You may summon up to %d additional totems",
+    "enUS": "You may summon %d additional totem(s)",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 50051,
+    "Key": "StrMaxSkeletons",
+    "enUS": "You may summon %d additional skeleton(s)",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 50052,
+    "Key": "StrMaxRevives",
+    "enUS": "You may revive %d additional monster(s)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6748,4 +6782,5 @@
     "ruRU": "",
     "zhCN": ""
   }
+
 ]
