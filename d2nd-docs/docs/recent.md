@@ -42,7 +42,7 @@ Assassin:
 
 - elemental Charge Up skills now incur a linear resistance penalty (minus resistance and minus max resistance)
 - removed dependencies between Elemental Charge Up skills
-*- If more than one Elemental Charge skill has points in it, a global 10 second cooldown will be set to all Elemental Charge Up skills. Phoenix Strike is the exception and this will encourage the player to pick a single element to focus on (while still being able to use different PS charges for dual elements)
+- If more than one Elemental Charge skill has points in it, a global 10 second cooldown will be set to all Elemental Charge Up skills. Phoenix Strike is the exception and this will encourage the player to pick a single element to focus on (while still being able to use different PS charges for dual elements)
 - Shadow Master is now a physical finishing move called "Shadow Chaos Stab" that can be used only with a dagger 
 - Cobra Strike charge 1 now is a poison Cloud and charge 3 is an AoE poison-based attack
 - Cobra Strike now has progressive stack when charges are released
@@ -53,15 +53,18 @@ Assassin:
 - all Finishing moves (with the exception of Dragon Flight) now no longer always hits
 
 Druid:
-*- add teleport skill (Frost Wind) instead of "Frozen Inferno"
-*- add ctc firestorm to Fireclaw attack
-*- add bonuses to "Mark of Bear/Wolf" to Werebear and Werewolf skill
-*- Shockwave now splits into multiple waves when more skills are put into it and increases stun length
-*- Multiple Vines can now be spawned 
-*- Spirit of Barbs now does something else entirely to make it more useful
-*- Cooldowns removed from most elemental attacks
-*- Ravens now deal cold damage
-*- Bean and Wolf Summons now synergise with Werebear and Werewolf (pack leader, GO!)
+- add teleport skill (Frost Wind) instead of "Frozen Inferno"
+- add Firestorm cast to Fireclaw attack
+*- add ctc "Mark of Bear/Wolf" to more items and runewords
+- "Mark of the Bear/Wolf" now has base reduction of PDR and Life % and instead scales better with skill points to Lycanthropy and Werebear/Werewolf
+- Shockwave now splits into multiple waves when more skills are put into it and increases stun length
+- 1 Additional Vine can now be spawned per 10 base levels
+- Additional Vines stat can now be granted through Nature items (primarily Druid Pelts but also certain Unique Rings)
+- Spirit of Barbs now grant 100% defense aura and PDR (similar to Defiance Aura) to make it more useful
+- Additional Totems stat can now be granted through Spirit items (primarily Druid Pelts but also certain Unique Rings)
+- Cooldowns removed from most elemental attacks
+- Ravens now deal cold damage
+- Bear and Wolf Summons now synergise with Werebear and Werewolf (pack leader, GO!)
 
 -->
 
