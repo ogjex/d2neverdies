@@ -14,7 +14,7 @@ Fixes the following:
 - skeletal mages now correctly spawns with fire and lightning mages exclusively
 - Essences (burning, festering, hatred, etc) now unstack into unstacked versions
 - correct skill tabs are now infused from Blood Biddings
-*- reduced distance for Force Cleave missile 
+- reduced distance for Force Cleave missile 
 *- all poison-based attacks and properties now have a global 3 second duration
 - + elemental skills now properly give their bonuses
 - Decrepify now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
@@ -58,6 +58,7 @@ Druid:
 *- add ctc "Mark of Bear/Wolf" to more items and runewords
 - "Mark of the Bear/Wolf" now has base reduction of PDR and Life % and instead scales better with skill points to Lycanthropy and Werebear/Werewolf
 - Shockwave now splits into multiple waves when more skills are put into it and increases stun length
+- Vines and Totems are now granted 1000% enhanced defence to avoid losing them immediately in later difficulties
 - 1 Additional Vine can now be spawned per 10 base levels
 - Additional Vines stat can now be granted through Nature items (primarily Druid Pelts but also certain Unique Rings)
 - Spirit of Barbs now grant 100% defense aura and PDR (similar to Defiance Aura) to make it more useful
