@@ -36803,6 +36803,40 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": ""
+  },
+  {
+    "id": 100059,
+    "Key": "SkillMaxVines",
+    "enUS": "%d vines total",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 100060,
+    "Key": "SkillMaxTotems",
+    "enUS": "%d totems total",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
   }
 
 
