@@ -15,7 +15,7 @@ Fixes the following:
 - Essences (burning, festering, hatred, etc) now unstack into unstacked versions
 - correct skill tabs are now infused from Blood Biddings
 - reduced distance for Force Cleave missile 
-*- all poison-based attacks and properties now have a global 3 second duration
+- all poison-based attacks and properties now have a global 2 second duration
 - + elemental skills now properly give their bonuses
 - Decrepify now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
 
@@ -26,13 +26,14 @@ Balances the following
 - renamed all biddings to generic "biddings" so player is forced to pick up
 - Arkaines Valor: increased defense range, added hp/lvl as in 1.10, added 50% Fire Resist, added repair durability
 
-
 Adds the following:
-*- Slabs of Faith now drops from certain superuniques from Nightmare difficulty 
-*- Gheeds Gambles now drop from Terrorized uniques and Champions
-*- chipped, flawed and normal gems now drop from superuniques in Nightmare difficulty
-*- chipped, flawed and normal gems can now be used to build different Crafting Stones
-*- Crafting Stones can be partly built by transmuting 50 Jewels (stacked) and a Crafting Stone. To finish a Crafting Stone you have to transmute infuse 50 runes (stacked) and 50 P Gems (Stacked) that can be used to craft new items directly 
+*- Slabs of Faith now drop from Terrorized superuniques in Nightmare difficulty 
+*- Gheeds Gambles now drop from Terrorized uniques and Champions in Hell difficulty
+*- Baubles now drop from Terrorized superuniques in Hell difficulty
+*- chipped, flawed and normal gems now drop from superuniques in Nightmare and Hell difficulty
+*- 3 x normal gems and 50 P-gems can now be used to build different Crafting Stones
+*- Baubles can be upgraded to Crafting Baubles by transmuting 50 Jewels (stacked) and a Bauble
+*- Specific types of "X Crafting Baubles" can be activated by transmuting 50 runes (stacked) with a Crafting Bauble. This will activate the Bauble and provide 50 charges of crafting X to items. When the last charge is consumed the Crafting Bauble will become a Bauble again. 
 *- edited Crafting recipes to only use runes 1-7 for all crafting types
 *- enabled a recipe to build Obsidian Stones (Flawless and Perfect) to use for Slabs of Faith and Sunder Charms
 - Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms
@@ -61,6 +62,8 @@ Druid:
 - Vines and Totems are now granted 1000% enhanced defence to avoid losing them immediately in later difficulties
 - 1 Additional Vine can now be spawned per 10 base levels
 - Additional Vines stat can now be granted through Nature items (primarily Druid Pelts but also certain Unique Rings)
+- Carrion Vine now both recovers life and mana
+- Solar Creeper now deals fire damage instead of recovering mana
 - Spirit of Barbs now grant 100% defense aura and PDR (similar to Defiance Aura) to make it more useful
 - Additional Totems stat can now be granted through Spirit items (primarily Druid Pelts but also certain Unique Rings)
 - Cooldowns removed from most elemental attacks

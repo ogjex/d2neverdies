@@ -47,10 +47,10 @@ of Measure	0	1	1	6		4					14	dmg-min		2	2										weap													0
 of Excellence	0	1	1	12		9					14	dmg-min		3	3										weap	ring	amul											0
 of Performance	0	1	1	18		13					14	dmg-min		4	5									blac	weap													0
 of Measure	0	1	1	37		27					14	dmg-min		2	2										tors	helm	ring	amul										0
-of Blight	0	1	1	5	10	3					15	pois-min		8	8	pois-max		24	24	pois-len		75	75		weap							scep						0
-of Venom	0	1	1	15	17	11					15	pois-min		16	16	pois-max		48	48	pois-len		75	75		weap							scep						0
-of Pestilence	0	1	1	25		18					15	pois-min		32	32	pois-max		72	72	pois-len		100	100	dgrn	weap							scep						0
-of Blight	0	1	1	45		33					15	pois-min		8	8	pois-max		24	24	pois-len		75	75		ring	amul												0
+of Blight	0	1	1	5	10	3					15	pois-min		8	8	pois-max		24	24	pois-len		50	50		weap							scep						0
+of Venom	0	1	1	15	17	11					15	pois-min		16	16	pois-max		48	48	pois-len		50	50		weap							scep						0
+of Pestilence	0	1	1	25		18					15	pois-min		32	32	pois-max		72	72	pois-len		50	50	dgrn	weap							scep						0
+of Blight	0	1	1	45		33					15	pois-min		8	8	pois-max		24	24	pois-len		50	50		ring	amul												0
 of Dexterity	0	1	1	4		3					16	dex		1	1										ring	amul												0
 of Dexterity	0	1	1	5	6	3					16	dex		1	3										scep	miss	boot	glov	ring	amul								0
 of Skill	0	1	1	10		7					16	dex		4	6										scep	miss	boot	glov	ring	amul								0
@@ -233,11 +233,11 @@ of Excellence	1	1	1	59		51				4	15	dmg-min		6	9										ring	amul	circ	helm				
 of Performance	100	1		81		73				4	15	dmg-min		10	13										ring	amul	circ	helm										0
 of Joyfulness	100	1	1	5	36	3				4	15	dmg-min		1	4									whit	jewl													0
 of Bliss	100	1	1	43		37				4	15	dmg-min		5	10									whit	jewl													0
-of Blight	1	1	1	5	10	3				5	16	dmg-pois	75	24	24										weap	circ	misl					rod	orb					0
-of Venom	1	1	1	15	17	11				4	16	dmg-pois	100	54	54										weap	circ	misl					rod	orb					0
-of Pestilence	1	1	1	25		18				3	16	dmg-pois	125	103	103									dgrn	weap	circ	misl					rod	orb					0
-of Anthrax	100	1	1	33		25				2	16	dmg-pois	150	171	171									dgrn	weap	misl						rod	orb					0
-of Blight	100	1	1	45		33				2	16	dmg-pois	75	171	171										ring	amul												0
+of Blight	1	1	1	5	10	3				5	16	dmg-pois	50	24	24										weap	circ	misl					rod	orb					0
+of Venom	1	1	1	15	17	11				4	16	dmg-pois	50	54	54										weap	circ	misl					rod	orb					0
+of Pestilence	1	1	1	25		18				3	16	dmg-pois	50	103	103									dgrn	weap	circ	misl					rod	orb					0
+of Anthrax	100	1	1	33		25				2	16	dmg-pois	50	171	171									dgrn	weap	misl						rod	orb					0
+of Blight	100	1	1	45		33				2	16	dmg-pois	50	171	171										ring	amul												0
 of Envy	100	1	1	1		1				2	16	dmg-pois	50	103	103									dgrn	jewl													0
 of Dexterity	1	1	1	1	7	1				4	17	dex		1	2										amul	miss	circ											0
 of Skill	1	1	1	11	19	8				3	17	dex		3	5										amul	miss	circ	misl										0
@@ -681,18 +681,18 @@ of Maiming	100	1		71		63				4	14	dmg-max		3	4										lcha													0
 of Craftsmanship	100	1	1	26	47	19				4	14	dmg-max		1	1										mcha													0
 of Quality	100	1		56		48				4	14	dmg-max		2	2										mcha													0
 of Craftsmanship	100	1	1	85		77				4	14	dmg-max		1	1										scha													0
-of Blight	100	1	1	1	3	1				2	16	dmg-pois	75	21	21										lcha													0
-of Venom	100	1	1	6	9	4				1	16	dmg-pois	100	39	39										lcha													0
-of Pestilence	100	1	1	14	14	10				1	16	dmg-pois	125	52	52									dgrn	lcha													0
-of Anthrax	100	1		21		15				1	16	dmg-pois	150	86	86									dgrn	lcha													0
-of Blight	100	1	1	5	8	3				2	16	dmg-pois	75	21	21										mcha													0
-of Venom	100	1	1	13	16	9				1	16	dmg-pois	100	39	39										mcha													0
-of Pestilence	100	1	1	23	24	17				1	16	dmg-pois	125	52	52									dgrn	mcha													0
-of Anthrax	100	1		33		25				1	16	dmg-pois	150	86	86									dgrn	mcha													0
-of Blight	100	1	1	9	14	6				2	16	dmg-pois	75	21	21										scha													0
-of Venom	100	1	1	20	23	15				1	16	dmg-pois	100	39	39										scha													0
-of Pestilence	100	1	1	32	35	24				1	16	dmg-pois	125	52	52									dgrn	scha													0
-of Anthrax	100	1		44		36				1	16	dmg-pois	150	86	86									dgrn	scha													0
+of Blight	100	1	1	1	3	1				2	16	dmg-pois	50	21	21										lcha													0
+of Venom	100	1	1	6	9	4				1	16	dmg-pois	50	39	39										lcha													0
+of Pestilence	100	1	1	14	14	10				1	16	dmg-pois	50	52	52									dgrn	lcha													0
+of Anthrax	100	1		21		15				1	16	dmg-pois	50	86	86									dgrn	lcha													0
+of Blight	100	1	1	5	8	3				2	16	dmg-pois	50	21	21										mcha													0
+of Venom	100	1	1	13	16	9				1	16	dmg-pois	50	39	39										mcha													0
+of Pestilence	100	1	1	23	24	17				1	16	dmg-pois	50	52	52									dgrn	mcha													0
+of Anthrax	100	1		33		25				1	16	dmg-pois	50	86	86									dgrn	mcha													0
+of Blight	100	1	1	9	14	6				2	16	dmg-pois	50	21	21										scha													0
+of Venom	100	1	1	20	23	15				1	16	dmg-pois	50	39	39										scha													0
+of Pestilence	100	1	1	32	35	24				1	16	dmg-pois	50	52	52									dgrn	scha													0
+of Anthrax	100	1		44		36				1	16	dmg-pois	50	86	86									dgrn	scha													0
 of Frost	100	1	1	5	5	3				2	10	cold-min		1	1	cold-max		2	2	cold-len		25	25		lcha													0
 of the Icicle	100	1	1	8	10	6				1	10	cold-min		2	2	cold-max		3	4	cold-len		25	25		lcha													0
 of the Glacier	100	1	1	15	16	11				1	10	cold-min		3	3	cold-max		5	7	cold-len		25	25	dblu	lcha													0
