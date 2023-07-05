@@ -8,6 +8,7 @@ Flawed Gem			1						gfv	3	gfy	3	gfb	3	gfg	3	gfr	3	gfw	3	skf	3												0
 Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	3												0
 Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	3												0
 Perfect Gem			1						8pa	3	8pd	3	8pe	3	8pr	3	8ps	3	8pt	3	8pk	3												0
+Gheeds Gambles			1						Gold	5	gg1	1	gg2	1	gg3	1																		0
 Bidding A			1						ab1	10	bb1	10	cb1	10	db1	10	eb1	10	fb1	10														0
 Bidding B			1						gb1	10	hb1	10	ib1	10	jb1	10	kb1	10	lb1	10														0
 Bidding C			1						mb1	10	nb1	10	zb1	10	pb1	10	qb1	10																0
@@ -586,9 +587,9 @@ Andarielq Desecrated A	20	13	7	995	995	1024	1024	19	Act 2 Equip A	19	Act 2 Good	
 Andarielq Desecrated B	20	32	7	995	995	1024	1024	19	Act 4 Equip B	19	Act 4 Good	3																						0
 Andarielq Desecrated C	20	48	7	995	995	1024	1024	19	Act 3 (N) Equip A	19	Act 3 (N) Good	3																						0
 Andarielq (N)			7	995	995	1024	1024	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3																						0
-Andarielq (N) Desecrated A	20	43	7	995	995	1024	1024	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3																						0
-Andarielq (N) Desecrated B	20	57	7	995	995	1024	1024	19	Act 4 (N) Equip B	19	Act 4 (N) Good	3																						0
-Andarielq (N) Desecrated C	20	73	7	995	995	1024	1024	19	Act 3 (H) Equip A	19	Act 3 (H) Good	3																						0
+Andarielq (N) Desecrated A	20	43	7	995	995	1024	1024	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3	cm5	2																				0
+Andarielq (N) Desecrated B	20	57	7	995	995	1024	1024	19	Act 4 (N) Equip B	19	Act 4 (N) Good	3	cm5	2																				0
+Andarielq (N) Desecrated C	20	73	7	995	995	1024	1024	19	Act 3 (H) Equip A	19	Act 3 (H) Good	3	cm5	2																				0
 Andarielq (H)			7	995	995	1024	1024	19	Act 2 (H) Equip A	19	Act 2 (H) Good	3	ses	1																				0
 Andarielq Item (H) Desecrated A			7	995	995	1024	1024	19	Act 3 (H) Equip B	19	Act 3 (H) Good	3	ses	1																				0
 Andarielq Item (H) Desecrated B			7	995	995	1024	1024	19	Act 3 (H) Equip C	19	Act 3 (H) Good	3	ses	1																				0
@@ -611,9 +612,9 @@ Duriel - Base Desecrated A			7	993	993	1024	1024	19	"gld,mul=1280"	11	Act 3 Equi
 Duriel - Base Desecrated B			7	993	993	1024	1024	19	"gld,mul=1280"	11	Act 5 Equip B	19	Act 5 Good	3																				0
 Duriel - Base Desecrated C			7	993	993	1024	1024	19	"gld,mul=1280"	11	Act 3 (N) Equip A	19	Act 3 (N) Good	3																				0
 Duriel (N) - Base			7	993	993	1024	1024	10	Act 3 (N) Equip A	19	Act 3 (N) Good	3																						0
-Duriel (N) - Base Desecrated A			7	993	993	1024	1024	19	"gld,mul=1536"	11	Act 4 (N) Equip A	19	Act 4 (N) Good	3																				0
-Duriel (N) - Base Desecrated B			7	993	993	1024	1024	19	"gld,mul=1536"	11	Act 5 (N) Equip B	19	Act 5 (N) Good	3																				0
-Duriel (N) - Base Desecrated C			7	993	993	1024	1024	19	"gld,mul=1536"	11	Act 3 (H) Equip A	19	Act 3 (H) Good	3																				0
+Duriel (N) - Base Desecrated A			7	993	993	1024	1024	19	"gld,mul=1536"	11	Act 4 (N) Equip A	19	Act 4 (N) Good	3	cm5	2																		0
+Duriel (N) - Base Desecrated B			7	993	993	1024	1024	19	"gld,mul=1536"	11	Act 5 (N) Equip B	19	Act 5 (N) Good	3	cm5	2																		0
+Duriel (N) - Base Desecrated C			7	993	993	1024	1024	19	"gld,mul=1536"	11	Act 3 (H) Equip A	19	Act 3 (H) Good	3	cm5	2																		0
 Duriel (H) - Base			7	993	993	1024	1024	10	Act 3 (H) Equip A	19	Act 3 (H) Good	3	ses	2																				0
 Duriel (H) - Base Desecrated A			7	993	993	1024	1024	19	"gld,mul=2048"	11	Act 4 (H) Equip B	19	Act 4 (H) Good	3	ses	2																		0
 Duriel (H) - Base Desecrated B			7	993	993	1024	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip A	19	Act 5 (H) Good	3	ses	2																		0
@@ -644,9 +645,9 @@ Mephisto Desecrated A	22	26	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 4 Equip 
 Mephisto Desecrated B	22	38	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 5 Equip C	52	Act 5 Good	3																				0
 Mephisto Desecrated C	22	48	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																				0
 Mephisto (N)			7	993	993	1024	1024	10	"gld,mul=1536"		Act 4 (N) Equip A	52	Act 4 (N) Good	3																				0
-Mephisto (N) Desecrated A	22	59	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 4 (N) Equip B	52	Act 4 (N) Good	3																				0
-Mephisto (N) Desecrated B	22	66	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 5 (N) Equip C	52	Act 5 (N) Good	3																				0
-Mephisto (N) Desecrated C	22	73	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3																				0
+Mephisto (N) Desecrated A	22	59	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 4 (N) Equip B	52	Act 4 (N) Good	3	cm5	2																		0
+Mephisto (N) Desecrated B	22	66	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 5 (N) Equip C	52	Act 5 (N) Good	3	cm5	2																		0
+Mephisto (N) Desecrated C	22	73	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3	cm5	2																		0
 Mephisto (H)			7	993	993	1024	1024	10	"gld,mul=2048"	5	Act 4 (H) Equip A	52	Act 4 (H) Good	3	seh	1																		0
 Mephisto Item (H) Desecrated A			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 4 (H) Equip B	52	Act 4 (H) Good	3	seh	1																		0
 Mephisto Item (H) Desecrated B			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip A	52	Act 5 (H) Good	3	seh	1																		0
@@ -660,9 +661,9 @@ Diablo			7	993	993	1024	1024	10	Act 5 Equip A	52	Act 5 Good	3																			
 Diablo Desecrated A	23	40	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 1 (N) Equip A	52	Act 1 (N) Good	3																				0
 Diablo Desecrated B	23	48	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																				0
 Diablo (N)			7	993	993	1024	1024	10	Act 5 (N) Equip A	52	Act 5 (N) Good	3																						0
-Diablo (N) Desecrated A	23	62	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 5 (N) Equip A	52	Act 5 (N) Good	3																				0
-Diablo (N) Desecrated B	23	67	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 1 (H) Equip A	52	Act 1 (H) Good	3																				0
-Diablo (N) Desecrated C	23	73	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3																				0
+Diablo (N) Desecrated A	23	62	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 5 (N) Equip A	52	Act 5 (N) Good	3	cm5	5																		0
+Diablo (N) Desecrated B	23	67	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 1 (H) Equip A	52	Act 1 (H) Good	3	cm5	5																		0
+Diablo (N) Desecrated C	23	73	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3	cm5	5																		0
 Diablo (H)			7	993	993	1024	1024	10	Act 5 (H) Equip A	52	Act 5 (H) Good	3	set	1																				0
 Diablo Item (H) Desecrated A			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip B	52	Act 5 (H) Good	3	set	1																		0
 Diablo Item (H) Desecrated B			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	set	1																		0
@@ -752,7 +753,8 @@ Nihlathak (H) Desecrated	28	95	2						Sunder Charms	1	Nihlathak Item (H) Desecra
 Baal			7	993	993	1024	1024	10	Act 1 (N) Equip A	52	Act 1 (N) Good	3																						0
 Baal Desecrated	29	60	7	983	983	983	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																				0
 Baal (N)			7	993	993	1024	1024	10	Act 1 (H) Equip A	52	Act 1 (H) Good	3																						0
-Baal (N) Desecrated	29	75	7	983	983	983	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3																				0
+Baalq (N)			-2					0	Baal (N)	1	cm5	1																						0
+Baal (N) Desecrated	29	75	7	983	983	983	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3	cm5	5																		0
 Baal (H)			7	993	993	1024	1024	10	Act 5 (H) Equip B	52	Act 5 (H) Good	3	sed	1																				0
 Baal Item (H) Desecrated			7	983	983	983	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	sed	1																		0
 Baal (H) Desecrated	29	99	2					0	Sunder Charms	1	Baal Item (H) Desecrated	20																						0
@@ -838,21 +840,21 @@ Act 4 (N) Super C	18	60	-4	800	800	972	1024	0	Act 4 (N) Uitem B	2	Potion 2	2				
 Act 5 (N) Super A	18	62	-4	800	800	972	1024	0	Act 5 (N) Uitem A	2	Potion 2	2																						0
 Act 5 (N) Super B	18	63	-4	800	800	972	1024	0	Act 5 (N) Uitem B	2	Potion 2	2																						0
 Act 5 (N) Super C	18	66	-4	800	800	972	1024	0	Act 5 (N) Uitem C	2	Potion 2	2																						0
-Act 1 (H) Super A	18	67	-4	800	800	972	1024	0	Act 1 (H) Uitem A	2	Potion 2	2																						0
-Act 1 (H) Super B	18	67	-4	800	800	972	1024	0	Act 1 (H) Uitem B	2	Potion 2	2																						0
-Act 1 (H) Super C	18	68	-4	800	800	972	1024	0	Act 1 (H) Uitem C	2	Potion 2	2																						0
-Act 2 (H) Super A	18	68	-4	800	800	972	1024	0	Act 2 (H) Uitem A	2	Potion 2	2																						0
-Act 2 (H) Super B	18	69	-4	800	800	972	1024	0	Act 2 (H) Uitem B	2	Potion 2	2																						0
-Act 2 (H) Super C	18	72	-4	800	800	972	1024	0	Act 2 (H) Uitem C	2	Potion 2	2																						0
-Act 3 (H) Super A	18	73	-4	800	800	972	1024	0	Act 3 (H) Uitem A	2	Potion 2	2																						0
-Act 3 (H) Super B	18	75	-4	800	800	972	1024	0	Act 3 (H) Uitem B	2	Potion 2	2																						0
-Act 3 (H) Super C	18	78	-4	800	800	972	1024	0	Act 3 (H) Uitem C	2	Potion 2	2																						0
-Act 4 (H) Super A	18	81	-4	800	800	972	1024	0	Act 4 (H) Uitem A	2	Potion 2	2																						0
-Act 4 (H) Super B	18	84	-4	800	800	972	1024	0	Act 4 (H) Uitem B	2	Potion 2	2																					1	0
-Act 4 (H) Super C	18	87	-4	800	800	972	1024	0	Act 4 (H) Uitem B	2	Potion 2	2																						0
-Act 5 (H) Super A	18	90	-4	800	800	972	1024	0	Act 5 (H) Uitem A	2	Potion 2	2																						0
-Act 5 (H) Super B	18	93	-4	800	800	972	1024	0	Act 5 (H) Uitem B	2	Potion 2	2																						0
-Act 5 (H) Super C	18	96	-4	800	800	972	1024	0	Act 5 (H) Uitem C	2	Potion 2	2																						0
+Act 1 (H) Super A	18	67	-5	800	800	972	1024	0	Act 1 (H) Uitem A	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 1 (H) Super B	18	67	-5	800	800	972	1024	0	Act 1 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 1 (H) Super C	18	68	-5	800	800	972	1024	0	Act 1 (H) Uitem C	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 2 (H) Super A	18	68	-5	800	800	972	1024	0	Act 2 (H) Uitem A	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 2 (H) Super B	18	69	-5	800	800	972	1024	0	Act 2 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 2 (H) Super C	18	72	-5	800	800	972	1024	0	Act 2 (H) Uitem C	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 3 (H) Super A	18	73	-5	800	800	972	1024	0	Act 3 (H) Uitem A	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 3 (H) Super B	18	75	-5	800	800	972	1024	0	Act 3 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 3 (H) Super C	18	78	-5	800	800	972	1024	0	Act 3 (H) Uitem C	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 4 (H) Super A	18	81	-5	800	800	972	1024	0	Act 4 (H) Uitem A	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 4 (H) Super B	18	84	-5	800	800	972	1024	0	Act 4 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																			1	0
+Act 4 (H) Super C	18	87	-5	800	800	972	1024	0	Act 4 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 5 (H) Super A	18	90	-5	800	800	972	1024	0	Act 5 (H) Uitem A	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 5 (H) Super B	18	93	-5	800	800	972	1024	0	Act 5 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 5 (H) Super C	18	96	-5	800	800	972	1024	0	Act 5 (H) Uitem C	2	Potion 2	2	Gheeds Gambles	1																				0
 Act 1 Super Ax	18	0	-4	512	654	972	1024	0	Act 1 Uitem A	2	Potion 2	2																						0
 Act 1 Super Bx	18	5	-4	512	654	972	1024	0	Act 1 Uitem B	2	Potion 2	2																						0
 Act 1 Super Cx	18	9	-4	512	654	972	1024	0	Act 1 Uitem C	2	Potion 2	2																						0
@@ -883,21 +885,21 @@ Act 4 (N) Super Cx	18	60	-4	512	654	972	1024	0	Act 4 (N) Uitem B	2	Potion 2	2			
 Act 5 (N) Super Ax	18	62	-4	512	654	972	1024	0	Act 5 (N) Uitem A	2	Potion 2	2																						0
 Act 5 (N) Super Bx	18	63	-4	512	654	972	1024	0	Act 5 (N) Uitem B	2	Potion 2	2																						0
 Act 5 (N) Super Cx	18	66	-4	512	654	972	1024	0	Act 5 (N) Uitem C	2	Potion 2	2																						0
-Act 1 (H) Super Ax	18	67	-4	512	654	972	1024	0	Act 1 (H) Uitem A	2	Potion 2	2																						0
-Act 1 (H) Super Bx	18	67	-4	512	654	972	1024	0	Act 1 (H) Uitem B	2	Potion 2	2																						0
-Act 1 (H) Super Cx	18	68	-4	512	654	972	1024	0	Act 1 (H) Uitem C	2	Potion 2	2																						0
-Act 2 (H) Super Ax	18	68	-4	512	654	972	1024	0	Act 2 (H) Uitem A	2	Potion 2	2																						0
-Act 2 (H) Super Bx	18	69	-4	512	654	972	1024	0	Act 2 (H) Uitem B	2	Potion 2	2																						0
-Act 2 (H) Super Cx	18	72	-4	512	654	972	1024	0	Act 2 (H) Uitem C	2	Potion 2	2																						0
-Act 3 (H) Super Ax	18	73	-4	512	654	972	1024	0	Act 3 (H) Uitem A	2	Potion 2	2																						0
-Act 3 (H) Super Bx	18	75	-4	512	654	972	1024	0	Act 3 (H) Uitem B	2	Potion 2	2																						0
-Act 3 (H) Super Cx	18	78	-4	512	654	972	1024	0	Act 3 (H) Uitem C	2	Potion 2	2																						0
-Act 4 (H) Super Ax	18	81	-4	512	654	972	1024	0	Act 4 (H) Uitem A	2	Potion 2	2																						0
-Act 4 (H) Super Bx	18	84	-4	512	654	972	1024	0	Act 4 (H) Uitem B	2	Potion 2	2																						0
-Act 4 (H) Super Cx	18	87	-4	512	654	972	1024	0	Act 4 (H) Uitem B	2	Potion 2	2																						0
-Act 5 (H) Super Ax	18	90	-4	512	654	972	1024	0	Act 5 (H) Uitem A	2	Potion 2	2																						0
-Act 5 (H) Super Bx	18	93	-4	512	654	972	1024	0	Act 5 (H) Uitem B	2	Potion 2	2																						0
-Act 5 (H) Super Cx	18	96	-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Potion 2	2																						0
+Act 1 (H) Super Ax	18	67	-5	512	654	972	1024	0	Act 1 (H) Uitem A	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 1 (H) Super Bx	18	67	-5	512	654	972	1024	0	Act 1 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 1 (H) Super Cx	18	68	-5	512	654	972	1024	0	Act 1 (H) Uitem C	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 2 (H) Super Ax	18	68	-5	512	654	972	1024	0	Act 2 (H) Uitem A	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 2 (H) Super Bx	18	69	-5	512	654	972	1024	0	Act 2 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 2 (H) Super Cx	18	72	-5	512	654	972	1024	0	Act 2 (H) Uitem C	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 3 (H) Super Ax	18	73	-5	512	654	972	1024	0	Act 3 (H) Uitem A	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 3 (H) Super Bx	18	75	-5	512	654	972	1024	0	Act 3 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 3 (H) Super Cx	18	78	-5	512	654	972	1024	0	Act 3 (H) Uitem C	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 4 (H) Super Ax	18	81	-5	512	654	972	1024	0	Act 4 (H) Uitem A	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 4 (H) Super Bx	18	84	-5	512	654	972	1024	0	Act 4 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 4 (H) Super Cx	18	87	-5	512	654	972	1024	0	Act 4 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 5 (H) Super Ax	18	90	-5	512	654	972	1024	0	Act 5 (H) Uitem A	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 5 (H) Super Bx	18	93	-5	512	654	972	1024	0	Act 5 (H) Uitem B	2	Potion 2	2	Gheeds Gambles	1																				0
+Act 5 (H) Super Cx	18	96	-5	512	654	972	1024	0	Act 5 (H) Uitem C	2	Potion 2	2	Gheeds Gambles	1																				0
 Cow King			5	850	983	983	1024	0	Act 1 Uitem C	1	Act 1 Melee B	2																						0
 Cow King Desecrated A	33	31	5	850	983	983	1024	0	Act 4 Uitem B	1	Act 4 Melee B	2																						0
 Cow King Desecrated B	33	40	5	850	983	983	1024	0	Act 1 (N) Uitem A	1	Act 1 (N) Melee A	2																						0
@@ -1001,33 +1003,33 @@ Act 4 (H) Unique B Desecrated	37	80	2					0	Sunder Charms	1	Act 4 (H) Unique B	2
 Act 5 (H) Unique A Desecrated	37	81	2					0	Sunder Charms	1	Act 5 (H) Unique A	20																						0
 Act 5 (H) Unique B Desecrated	37	83	2					0	Sunder Charms	1	Act 5 (H) Unique B	20																						0
 Act 5 (H) Unique C Desecrated	37	85	2					0	Sunder Charms	1	Act 5 (H) Unique C	20																						0
-Act 1 (H) Super A Desecrated	38	67	2					0	Sunder Charms	1	Act 1 (H) Super A	20																						0
-Act 1 (H) Super B Desecrated	38	67	2					0	Sunder Charms	1	Act 1 (H) Super B	20																						0
-Act 1 (H) Super C Desecrated	38	68	2					0	Sunder Charms	1	Act 1 (H) Super C	20																						0
-Act 2 (H) Super A Desecrated	38	68	2					0	Sunder Charms	1	Act 2 (H) Super A	20																						0
-Act 2 (H) Super B Desecrated	38	69	2					0	Sunder Charms	1	Act 2 (H) Super B	20																						0
-Act 2 (H) Super C Desecrated	38	72	2					0	Sunder Charms	1	Act 2 (H) Super C	20																						0
-Act 3 (H) Super A Desecrated	38	73	2					0	Sunder Charms	1	Act 3 (H) Super A	20																						0
-Act 3 (H) Super B Desecrated	38	75	2					0	Sunder Charms	1	Act 3 (H) Super B	20																						0
-Act 3 (H) Super C Desecrated	38	78	2					0	Sunder Charms	1	Act 3 (H) Super C	20																						0
-Act 4 (H) Super A Desecrated	38	81	2					0	Sunder Charms	1	Act 4 (H) Super A	20																						0
-Act 4 (H) Super B Desecrated	38	84	2					0	Sunder Charms	1	Act 4 (H) Super B	20																						0
-Act 4 (H) Super C Desecrated	38	87	2					0	Sunder Charms	1	Act 4 (H) Super C	20																						0
-Act 5 (H) Super A Desecrated	38	90	2					0	Sunder Charms	1	Act 5 (H) Super A	20																						0
-Act 5 (H) Super B Desecrated	38	93	2					0	Sunder Charms	1	Act 5 (H) Super B	20																						0
-Act 5 (H) Super C Desecrated	38	96	2					0	Sunder Charms	1	Act 5 (H) Super C	20																						0
-Act 1 (H) Super Ax Desecrated	39	67	2					0	Sunder Charms	1	Act 1 (H) Super Ax	20																						0
-Act 1 (H) Super Bx Desecrated	39	67	2					0	Sunder Charms	1	Act 1 (H) Super Bx	20																						0
-Act 1 (H) Super Cx Desecrated	39	68	2					0	Sunder Charms	1	Act 1 (H) Super Cx	20																						0
-Act 2 (H) Super Ax Desecrated	39	68	2					0	Sunder Charms	1	Act 2 (H) Super Ax	20																						0
-Act 2 (H) Super Bx Desecrated	39	69	2					0	Sunder Charms	1	Act 2 (H) Super Bx	20																						0
-Act 2 (H) Super Cx Desecrated	39	72	2					0	Sunder Charms	1	Act 2 (H) Super Cx	20																						0
-Act 3 (H) Super Ax Desecrated	39	73	2					0	Sunder Charms	1	Act 3 (H) Super Ax	20																						0
-Act 3 (H) Super Bx Desecrated	39	75	2					0	Sunder Charms	1	Act 3 (H) Super Bx	20																						0
-Act 3 (H) Super Cx Desecrated	39	78	2					0	Sunder Charms	1	Act 3 (H) Super Cx	20																						0
-Act 4 (H) Super Ax Desecrated	39	81	2					0	Sunder Charms	1	Act 4 (H) Super Ax	20																						0
-Act 4 (H) Super Bx Desecrated	39	84	2					0	Sunder Charms	1	Act 4 (H) Super Bx	20																						0
-Act 4 (H) Super Cx Desecrated	39	87	2					0	Sunder Charms	1	Act 4 (H) Super Cx	20																						0
-Act 5 (H) Super Ax Desecrated	39	90	2					0	Sunder Charms	1	Act 5 (H) Super Ax	20																						0
-Act 5 (H) Super Bx Desecrated	39	93	2					0	Sunder Charms	1	Act 5 (H) Super Bx	20																						0
-Act 5 (H) Super Cx Desecrated	39	96	2					0	Sunder Charms	1	Act 5 (H) Super Cx	20																						0
+Act 1 (H) Super A Desecrated	38	67	2					0	Sunder Charms	1	Act 1 (H) Super A	20	bau	1																				0
+Act 1 (H) Super B Desecrated	38	67	2					0	Sunder Charms	1	Act 1 (H) Super B	20	bau	1																				0
+Act 1 (H) Super C Desecrated	38	68	2					0	Sunder Charms	1	Act 1 (H) Super C	20	bau	1																				0
+Act 2 (H) Super A Desecrated	38	68	2					0	Sunder Charms	1	Act 2 (H) Super A	20	bau	1																				0
+Act 2 (H) Super B Desecrated	38	69	2					0	Sunder Charms	1	Act 2 (H) Super B	20	bau	1																				0
+Act 2 (H) Super C Desecrated	38	72	2					0	Sunder Charms	1	Act 2 (H) Super C	20	bau	1																				0
+Act 3 (H) Super A Desecrated	38	73	2					0	Sunder Charms	1	Act 3 (H) Super A	20	bau	1																				0
+Act 3 (H) Super B Desecrated	38	75	2					0	Sunder Charms	1	Act 3 (H) Super B	20	bau	1																				0
+Act 3 (H) Super C Desecrated	38	78	2					0	Sunder Charms	1	Act 3 (H) Super C	20	bau	1																				0
+Act 4 (H) Super A Desecrated	38	81	2					0	Sunder Charms	1	Act 4 (H) Super A	20	bau	1																				0
+Act 4 (H) Super B Desecrated	38	84	2					0	Sunder Charms	1	Act 4 (H) Super B	20	bau	1																				0
+Act 4 (H) Super C Desecrated	38	87	2					0	Sunder Charms	1	Act 4 (H) Super C	20	bau	1																				0
+Act 5 (H) Super A Desecrated	38	90	2					0	Sunder Charms	1	Act 5 (H) Super A	20	bau	1																				0
+Act 5 (H) Super B Desecrated	38	93	2					0	Sunder Charms	1	Act 5 (H) Super B	20	bau	1																				0
+Act 5 (H) Super C Desecrated	38	96	2					0	Sunder Charms	1	Act 5 (H) Super C	20	bau	1																				0
+Act 1 (H) Super Ax Desecrated	39	67	2					0	Sunder Charms	1	Act 1 (H) Super Ax	20	bau	1																				0
+Act 1 (H) Super Bx Desecrated	39	67	2					0	Sunder Charms	1	Act 1 (H) Super Bx	20	bau	1																				0
+Act 1 (H) Super Cx Desecrated	39	68	2					0	Sunder Charms	1	Act 1 (H) Super Cx	20	bau	1																				0
+Act 2 (H) Super Ax Desecrated	39	68	2					0	Sunder Charms	1	Act 2 (H) Super Ax	20	bau	1																				0
+Act 2 (H) Super Bx Desecrated	39	69	2					0	Sunder Charms	1	Act 2 (H) Super Bx	20	bau	1																				0
+Act 2 (H) Super Cx Desecrated	39	72	2					0	Sunder Charms	1	Act 2 (H) Super Cx	20	bau	1																				0
+Act 3 (H) Super Ax Desecrated	39	73	2					0	Sunder Charms	1	Act 3 (H) Super Ax	20	bau	1																				0
+Act 3 (H) Super Bx Desecrated	39	75	2					0	Sunder Charms	1	Act 3 (H) Super Bx	20	bau	1																				0
+Act 3 (H) Super Cx Desecrated	39	78	2					0	Sunder Charms	1	Act 3 (H) Super Cx	20	bau	1																				0
+Act 4 (H) Super Ax Desecrated	39	81	2					0	Sunder Charms	1	Act 4 (H) Super Ax	20	bau	1																				0
+Act 4 (H) Super Bx Desecrated	39	84	2					0	Sunder Charms	1	Act 4 (H) Super Bx	20	bau	1																				0
+Act 4 (H) Super Cx Desecrated	39	87	2					0	Sunder Charms	1	Act 4 (H) Super Cx	20	bau	1																				0
+Act 5 (H) Super Ax Desecrated	39	90	2					0	Sunder Charms	1	Act 5 (H) Super Ax	20	bau	1																				0
+Act 5 (H) Super Bx Desecrated	39	93	2					0	Sunder Charms	1	Act 5 (H) Super Bx	20	bau	1																				0
+Act 5 (H) Super Cx Desecrated	39	96	2					0	Sunder Charms	1	Act 5 (H) Super Cx	20	bau	1																				0
