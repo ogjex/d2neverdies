@@ -15,7 +15,7 @@ Fixes the following:
 - Essences (burning, festering, hatred, etc) now unstack into unstacked versions
 - correct skill tabs are now infused from Blood Biddings
 - reduced distance for Force Cleave missile 
-- all poison-based attacks and properties now have a global 2 second duration
+ - all poison-based attacks and properties now have a global 2 second duration
 - + elemental skills now properly give their bonuses
 - Decrepify now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
 
@@ -27,16 +27,17 @@ Balances the following
 - Arkaines Valor: increased defense range, added hp/lvl as in 1.10, added 50% Fire Resist, added repair durability
 
 Adds the following:
-*- Slabs of Faith now drop from Terrorized superuniques in Nightmare difficulty 
-*- Gheeds Gambles now drop from Terrorized uniques and Champions in Hell difficulty
-*- Baubles now drop from Terrorized superuniques in Hell difficulty
+- Slabs of Faith now drop from Baal Quest Drop Nightmare difficulty, and from all Nightmare Boss Desecrated 
+- Gheeds Gambles now drop from Super Uniques in Hell difficulty
+- Baubles now drop from Terrorized superuniques in Hell difficulty
 *- chipped, flawed and normal gems now drop from superuniques in Nightmare and Hell difficulty
-*- 3 x normal gems and 50 P-gems can now be used to build different Crafting Stones
+    *- 3 x normal gems and 50 P-gems can now be used to build different Crafting Stones
 *- Baubles can be upgraded to Crafting Baubles by transmuting 50 Jewels (stacked) and a Bauble
-*- Specific types of "X Crafting Baubles" can be activated by transmuting 50 runes (stacked) with a Crafting Bauble. This will activate the Bauble and provide 50 charges of crafting X to items. When the last charge is consumed the Crafting Bauble will become a Bauble again. 
+*- Specific types of "X Crafting Baubles" can be activated by transmuting a designated Crafting Stone
+*- Specific Crafting Baubles can be transmuted with 50 stacked jewels. This will activate the Bauble and provide 50 charges of crafting X to items. When the last charge is consumed the Crafting Bauble will become a Bauble again. 
 *- edited Crafting recipes to only use runes 1-7 for all crafting types
 *- enabled a recipe to build Obsidian Stones (Flawless and Perfect) to use for Slabs of Faith and Sunder Charms
-- Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms
+- Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms using Slabs of Faith
 - new automod "% to not consume charges" added to all claws, daggers, bucklers, small shield and large shields, and random automod for gloves
 
 Assassin:
