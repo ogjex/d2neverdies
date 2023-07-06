@@ -33,9 +33,10 @@ Adds the following:
 *- chipped, flawed and normal gems now drop from superuniques in Nightmare and Hell difficulty
     *- 3 x normal gems and 50 P-gems can now be used to build different Crafting Stones
 *- Baubles can be upgraded to Crafting Baubles by transmuting 50 Jewels (stacked) and a Bauble
-*- Specific types of "X Crafting Baubles" can be activated by transmuting a designated Crafting Stone
-*- Specific Crafting Baubles can be transmuted with 50 stacked jewels. This will activate the Bauble and provide 50 charges of crafting X to items. When the last charge is consumed the Crafting Bauble will become a Bauble again. 
-*- edited Crafting recipes to only use runes 1-7 for all crafting types
+*- Crafting Baubles need to be transmuted with 50 stacks of runes, from runes 1 to 7, one at a time (first 50 Els, then 50 Elds and so on)
+*- When all 7 stacks of runes have been transmuted into the Bauble, a specific type of "X Crafting Bauble" can be activated by transmuting a designated Crafting Stone, holding 50 charges of crafting.
+*- The Crafting Bauble can now be recharged with a new set of 50 stacked P-Gems.  
+*- edited Crafting recipes to only use runes 1-7 for all crafting types (so all crafted helms will use El runes etc)
 *- enabled a recipe to build Obsidian Stones (Flawless and Perfect) to use for Slabs of Faith and Sunder Charms
 - Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms using Slabs of Faith
 - new automod "% to not consume charges" added to all claws, daggers, bucklers, small shield and large shields, and random automod for gloves
