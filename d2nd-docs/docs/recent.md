@@ -31,15 +31,26 @@ Adds the following:
 - Gheeds Gambles now drop from Super Uniques in Hell difficulty
 - Baubles now drop from Terrorized superuniques in Hell difficulty
 *- chipped, flawed and normal gems now drop from superuniques in Nightmare and Hell difficulty
-    *- 3 x normal gems and 50 P-gems can now be used to build different Crafting Stones
 *- Baubles can be upgraded to Crafting Baubles by transmuting 50 Jewels (stacked) and a Bauble
 *- Crafting Baubles need to be transmuted with 50 stacks of runes, from runes 1 to 7, one at a time (first 50 Els, then 50 Elds and so on)
-*- When all 7 stacks of runes have been transmuted into the Bauble, a specific type of "X Crafting Bauble" can be activated by transmuting a designated Crafting Stone, holding 50 charges of crafting.
-*- The Crafting Bauble can now be recharged with a new set of 50 stacked P-Gems.  
-*- edited Crafting recipes to only use runes 1-7 for all crafting types (so all crafted helms will use El runes etc)
+*- When all 7 stacks of runes have been transmuted into the Bauble, a specific type of "X Crafting Bauble" can be activated by transmuting a designated 50 P-Gems, holding 50 charges of crafting.
+*- Crafting Baubles can be transmuted to output 2 Bauble Charges that can be used to craft directly (each crafting recipe will now remove 1 charge from the cube, so you can craft two items in a row by just replacing the crafted item in the cube) 
+*- The Crafting Bauble can now be recharged with a new set of 50 stacked P-Gems  
+*- edited Crafting recipes to only use runes 2-7 for all crafting types (so one crafting type takes only 1 type of rune)
 *- enabled a recipe to build Obsidian Stones (Flawless and Perfect) to use for Slabs of Faith and Sunder Charms
 - Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms using Slabs of Faith
 - new automod "% to not consume charges" added to all claws, daggers, bucklers, small shield and large shields, and random automod for gloves
+
+[ advanced todo list for Baubles
+- add new stat to itemstatcost: crafting_charge_counter
+*- add string for crafting charges to item-modifiers.json
+- add new property "craft-charge" using crafting_charge_counter
+- add 6 new bauble charges as items
+    - in item-names
+    - in misc.txt as well
+- add Baubles, Crafting Baubles, +6 Crafting Baubles to JSON list of vfx 
+]
+
 
 Assassin:
 

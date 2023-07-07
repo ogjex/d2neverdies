@@ -295,3 +295,4 @@ extra-vines	1	1	item_max_vines																																0
 extra-totems	1	1	item_max_totems																																0
 extra-skeletons	1	1	item_max_skeletons																																0
 extra-revives	1	1	item_max_revives																																0
+craft-charge	1	1	crafting_charge_counter																																0
