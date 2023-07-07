@@ -41,13 +41,14 @@ Adds the following:
 - Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms using Slabs of Faith
 - new automod "% to not consume charges" added to all claws, daggers, bucklers, small shield and large shields, and random automod for gloves
 
-[ advanced todo list for Baubles
-- add new stat to itemstatcost: crafting_charge_counter
+[ 
+Advanced todo list for Baubles
+*- add new stat to itemstatcost: crafting_charge_counter
 *- add string for crafting charges to item-modifiers.json
-- add new property "craft-charge" using crafting_charge_counter
+*- add new property "craft-charge" using crafting_charge_counter
 - add 6 new bauble charges as items
     - in item-names
-    - in misc.txt as well
+*    - in misc.txt as well
 - add Baubles, Crafting Baubles, +6 Crafting Baubles to JSON list of vfx 
 ]
 
