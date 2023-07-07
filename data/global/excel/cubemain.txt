@@ -28,13 +28,13 @@ MAGIC JEWELRY CRAFTING	0																																																								
 4 Healing Potions (Any) + 1 Perfect Ruby + 1 Magic Sword -> Sword of the Leech	1			0					6	"swor,mag"	gpr	"hpot,qty=4"					"usetype,mag,suf=352"	30		60																																																																																				0
 1 Perfect Diamond + 1 Kris + 1 Staff + 1 Belt -> Savage Polearm	1			0					4	kri	gpw	staf	belt				"pole,mag,pre=191"	50		60																																																																																				0
 FLAWLESS SWITCH																																																																																																								0
-Flawless Amethyst --> topaz	1			100					1	gzv																																				gly																																																										0
-Flawless Topaz --> Sapphire	1			100					1	gly																																				glb																																																										0
-Flawless Sapphire --> Emerald	1			100					1	glb																																				glg																																																										0
-Flawless Emerald--> Ruby	1			100					1	glg																																				glr																																																										0
-Flawless Ruby --> Diamond	1			100					1	glr																																				glw																																																										0
-Flawless Diamond --> Skull	1			100					1	glw																																				skl																																																										0
-Flawless Skull --> Amethyst	1			100					1	skl																																				gzv																																																										0
+Flawless Amethyst --> F Topaz	1			100					1	gzv																																				gly																																																										0
+Flawless Topaz --> F Sapphire	1			100					1	gly																																				glb																																																										0
+Flawless Sapphire --> F Emerald	1			100					1	glb																																				glg																																																										0
+Flawless Emerald--> F Ruby	1			100					1	glg																																				glr																																																										0
+Flawless Ruby --> F Diamond	1			100					1	glr																																				glw																																																										0
+Flawless Diamond --> F Skull	1			100					1	glw																																				skl																																																										0
+Flawless Skull --> F Amethyst	1			100					1	skl																																				gzv																																																										0
 REROLL MAGIC	0																																																																																																							0
 3 Magic Rings -> Magic Amulet	1			0					3	"rin,mag,qty=3"							"amu,mag"		75																																																																																					0
 3 Magic Amulets -> Magic Ring	1			0					3	"amu,mag,qty=3"							"rin,mag"		75																																																																																					0
@@ -2820,7 +2820,7 @@ Stack of 47 (Any) -> Stack-1 + Target Output	1			0	18	70	47		1	misc							"usety
 Stack of 48 (Any) -> Stack-1 + Target Output	1			0	18	70	48		1	misc							"usetype,qty=47"																													"usetype,qty=1"																																																										0
 Stack of 49 (Any) -> Stack-1 + Target Output	1			0	18	70	49		1	misc							"usetype,qty=48"																													"usetype,qty=1"																																																										0
 Stack of 50 (Any) -> Stack-1 + Target Output	1			0	18	70	50		1	misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
-CRAFTING RECIPES	0																																																																																																							0
+CRAFTING RECIPES RAW	0																																																																																																							0
 FOMENTERS (HITPOWER)	0																																																																																																							0
 1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm	1			100					4	"helm,mag,noe"	jfg	"r04,qty=1"	"gpv,qty=1"				"usetype,crf"		50	50	slow			5	10	balance1			10	20	att			100	200																																																																					0
 1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm	1			100					4	"helm,mag,eth"	jfg	"r04,qty=1"	"gpv,qty=1"				"usetype,crf"		50	50	slow			5	10	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
@@ -2923,6 +2923,28 @@ CORNUCOPIAS (PLENTIFUL)	0																																																							
 1 Magic Ring + 1 Jewel Fragment + 1 Lum Rune + Perfect Topaz -> Plentiful Ring	1			100					4	"ring,mag"	jfg	"r07,qty=1"	"gpy,qty=1"				"usetype,crf"		50	50	mag%			10	15	gold%			30	60	vit			5	10																																																																					0
 1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon	1			100					4	"weap,mag,noe"	jfg	"r07,qty=1"	"gpy,qty=1"				"usetype,crf"		50	50	mag%			20	30	gold%			30	60	dmg%			55	80																																																																					0
 1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon	1			100					4	"weap,mag,eth"	jfg	"r07,qty=1"	"gpy,qty=1"				"usetype,crf"		50	50	mag%			20	30	gold%			30	60	dmg%			55	80	ethereal	100		1	1																																																																0
+CRAFTING RECIPES BAUBLE UPGRADES	0																																																																																																							0
+Bauble to Crafting Bauble	0																																																																																																							0
+Crafting Bauble to lvl 1	0																																																																																																							0
+Crafting Bauble to lvl 2	0																																																																																																							0
+Crafting Bauble to lvl 3	0																																																																																																							0
+Crafting Bauble to lvl 4	0																																																																																																							0
+Crafting Bauble to lvl 5	0																																																																																																							0
+Crafting Bauble to lvl 6	0																																																																																																							0
+Crafting Bauble to lvl 7	0																																																																																																							0
+Combatants Crafting Bauble	0																																																																																																							0
+Conjurers Crafting Bauble	0																																																																																																							0
+Cravens Crafting Bauble	0																																																																																																							0
+Fomenters Crafting Bauble	0																																																																																																							0
+Revenants Crafting Bauble	0																																																																																																							0
+Cornucopias Crafting Bauble	0																																																																																																							0
+CRAFTING RECIPES BAUBLE VALUES	0																																																																																																							0
+Subtract 2 Bauble Charges Combatants	0			100	19	369	0			1fb							1fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Conjurers	0			100	19	369	0			2fb							2fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Cravens	0			100	19	369	0			3fb							3fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Fomenters	0			100	19	369	0			4fb							4fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Revenants	0			100	19	369	0			5fb							5fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Cornucopias	0			100	19	369	0			6fb							6fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
 CHARM CRAFTING	0																																																																																																							0
 AMETHYST	0																																																																																																							0
 ANNIHILUS	0																																																																																																							0
