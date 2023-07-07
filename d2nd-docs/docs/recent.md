@@ -46,10 +46,16 @@ Advanced todo list for Baubles
 *- add new stat to itemstatcost: crafting_charge_counter
 *- add string for crafting charges to item-modifiers.json
 *- add new property "craft-charge" using crafting_charge_counter
-- add 6 new bauble charges as items
-    - in item-names
+*- add 6 new bauble charges as items
+*    - in item-names
 *    - in misc.txt as well
-- add Baubles, Crafting Baubles, +6 Crafting Baubles to JSON list of vfx 
+*- add Baubles, Crafting Baubles, +6 Crafting Baubles to JSON list of vfx 
+- add recipes for Baubles:
+    - baubles to crafting baubles
+    - crafting baubles to lvl 1-7
+*    - charged crafting baubles
+*    - depleted crafting baubles (if less or equal to 0)
+- add drop chances to monsters for Baubles
 ]
 
 

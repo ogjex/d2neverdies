@@ -2939,12 +2939,18 @@ Fomenters Crafting Bauble	0																																																					
 Revenants Crafting Bauble	0																																																																																																							0
 Cornucopias Crafting Bauble	0																																																																																																							0
 CRAFTING RECIPES BAUBLE VALUES	0																																																																																																							0
-Subtract 2 Bauble Charges Combatants	0			100	19	369	0			1fb							1fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
-Subtract 2 Bauble Charges Conjurers	0			100	19	369	0			2fb							2fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
-Subtract 2 Bauble Charges Cravens	0			100	19	369	0			3fb							3fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
-Subtract 2 Bauble Charges Fomenters	0			100	19	369	0			4fb							4fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
-Subtract 2 Bauble Charges Revenants	0			100	19	369	0			5fb							5fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
-Subtract 2 Bauble Charges Cornucopias	0			100	19	369	0			6fb							6fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Check if Bauble is empty and deplete	0			100	16	379	3			1fb							1ba				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Combatants	0			100	15	379	0			1fb							1fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Check if Bauble is empty and deplete	0			100	16	379	3			2fb							2ba				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Conjurers	0			100	15	379	0			2fb							2fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Check if Bauble is empty and deplete	0			100	16	379	3			3fb							3ba				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Cravens	0			100	15	379	0			3fb							3fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Check if Bauble is empty and deplete	0			100	16	379	3			4fb							4ba				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Fomenters	0			100	15	379	0			4fb							4fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Check if Bauble is empty and deplete	0			100	16	379	3			5fb							5ba				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Revenants	0			100	15	379	0			5fb							5fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Check if Bauble is empty and deplete	0			100	16	379	3			6fb							6ba				craft-charge	100		-2	-2																					bc1																													bc1																													0
+Subtract 2 Bauble Charges Cornucopias	0			100	15	379	0			6fb							6fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
 CHARM CRAFTING	0																																																																																																							0
 AMETHYST	0																																																																																																							0
 ANNIHILUS	0																																																																																																							0
