@@ -9,7 +9,7 @@
     "frFR": "Fléau de Khalim",
     "itIT": "Flagello di Khalim",
     "koKR": "칼림의 도리깨",
-    "plPL": "Korbacz Khalima",
+    "plPL": "Korbucz Khalima",
     "esMX": "Mangual de Khalim",
     "jaJP": "カリムのフレイル",
     "ptBR": "Mangual de Khalim",
@@ -29411,7 +29411,7 @@
   },
   {
     "id": 80194,
-    "Key": "cba",
+    "Key": "cbu",
     "enUS": "ÿc5Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29428,7 +29428,7 @@
   },
   {
     "id": 80195,
-    "Key": "ba1",
+    "Key": "bu1",
     "enUS": "ÿc5Enlightened Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29445,7 +29445,7 @@
   },
   {
     "id": 80196,
-    "Key": "ba2",
+    "Key": "bu2",
     "enUS": "ÿc5Inexhaustable Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29462,7 +29462,7 @@
   },
   {
     "id": 80197,
-    "Key": "ba3",
+    "Key": "bu3",
     "enUS": "ÿc5Sourceful Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29479,7 +29479,7 @@
   },
   {
     "id": 80198,
-    "Key": "ba4",
+    "Key": "bu4",
     "enUS": "ÿc5Forceful Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29496,7 +29496,7 @@
   },
   {
     "id": 80199,
-    "Key": "ba5",
+    "Key": "bu5",
     "enUS": "ÿc5Piercing Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29513,7 +29513,7 @@
   },
   {
     "id": 80200,
-    "Key": "ba6",
+    "Key": "bu6",
     "enUS": "ÿc5Ravaging Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29530,7 +29530,7 @@
   },
   {
     "id": 80201,
-    "Key": "ba7",
+    "Key": "bu7",
     "enUS": "ÿc5Mephitic Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29547,8 +29547,8 @@
   },
   {
     "id": 80202,
-    "Key": "1ba",
-    "enUS": "ÿc5Combatant's Crafting Bauble",
+    "Key": "1bu",
+    "enUS": "ÿc5Combutant's Crafting Bauble",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -29564,7 +29564,7 @@
   },
   {
     "id": 80203,
-    "Key": "2ba",
+    "Key": "2bu",
     "enUS": "ÿc5Conjurer's Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29581,7 +29581,7 @@
   },
   {
     "id": 80204,
-    "Key": "3ba",
+    "Key": "3bu",
     "enUS": "ÿc5Craven's Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29598,7 +29598,7 @@
   },
   {
     "id": 80205,
-    "Key": "4ba",
+    "Key": "4bu",
     "enUS": "ÿc5Fomenter's Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29615,7 +29615,7 @@
   },
   {
     "id": 80206,
-    "Key": "5ba",
+    "Key": "5bu",
     "enUS": "ÿc5Revenant's Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29632,7 +29632,7 @@
   },
   {
     "id": 80207,
-    "Key": "6ba",
+    "Key": "6bu",
     "enUS": "ÿc5Cornucopia's Crafting Bauble",
     "zhTW": "",
     "deDE": "",
@@ -29649,7 +29649,7 @@
   },
   {
     "id": 80208,
-    "Key": "cb1",
+    "Key": "cu1",
     "enUS": "ÿc5Combatant's Crafting Charge",
     "zhTW": "",
     "deDE": "",
@@ -29666,7 +29666,7 @@
   },
   {
     "id": 80209,
-    "Key": "cb2",
+    "Key": "cu2",
     "enUS": "ÿc5Conjurer's Crafting Charge",
     "zhTW": "",
     "deDE": "",
@@ -29683,7 +29683,7 @@
   },
   {
     "id": 80210,
-    "Key": "cb3",
+    "Key": "cu3",
     "enUS": "ÿc5Craven's Crafting Charge",
     "zhTW": "",
     "deDE": "",
@@ -29700,7 +29700,7 @@
   },
   {
     "id": 80211,
-    "Key": "cb4",
+    "Key": "cu4",
     "enUS": "ÿc5Fomenter's Crafting Charge",
     "zhTW": "",
     "deDE": "",
@@ -29717,7 +29717,7 @@
   },
   {
     "id": 80212,
-    "Key": "cb5",
+    "Key": "cu5",
     "enUS": "ÿc5Revenant's Crafting Charge",
     "zhTW": "",
     "deDE": "",
@@ -29734,7 +29734,7 @@
   },
   {
     "id": 80213,
-    "Key": "cb6",
+    "Key": "cu6",
     "enUS": "ÿc5Cornucopia's Crafting Charge",
     "zhTW": "",
     "deDE": "",
