@@ -206,3 +206,4 @@ cobrastrikepenalty	300																																																										
 clawsofthunderpenalty	301																																																																							0
 bladesoficepenalty	302																																																																							0
 royalstrikepenalty	303																																																																							0
+passive_runwalk	304																																																																							0
