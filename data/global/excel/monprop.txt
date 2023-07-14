@@ -11,6 +11,6 @@ bloodraven																																																													knock			1
 quillrat6																															thorns			15	20																										thorns			30	40																										0
 quillrat7																															thorns			15	20																										thorns			30	40																										0
 quillrat8																															thorns			15	20																										thorns			30	40																										0
-druidhawk	stupidity			-1	-1																										stupidity			-1	-1																										stupidity			-1	-1																										0
+druidhawk																																																																																											0
 hellbovine	state		187	1	1																										state		187	1	1																										state		187	1	1																										0
 hellbovine1	state		188	1	1																										state		188	1	1																										state		188	1	1																										0
