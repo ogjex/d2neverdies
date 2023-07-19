@@ -579,26 +579,26 @@ Swarm 2 (N)	17	46	1					125	Potion 2	12	Misc 1	2	Act 3 (N) Good	4															
 Swarm 1 (H)	17	68	1					125	Potion 2	12	Misc 2	2	Act 2 (H) Good	4																				0
 Swarm 2 (H)	17	74	1					125	Potion 2	12	Misc 2	2	Act 3 (H) Good	4																				0
 Sunder Charms			1					23899	sg1	15	sg2	15	sg3	5	sg4	5	sg5	5	sg6	5	Act 5 (H) Good	50											2	0
-Andariel			7	995	995	1024	1024	10	Act 2 Equip A	19	Act 2 Good	3																						0
-Andariel (N)			7	995	995	1024	1024	10	Act 2 (N) Equip A	19	Act 2 (N) Good	3																						0
-Andariel (H)			7	995	995	1024	1024	10	Act 2 (H) Equip A	19	Act 2 (H) Good	3	ses	1																				0
-Andarielq			7	995	995	1024	1024	19	Act 2 Equip A	19	Act 2 Good	3																						0
-Andarielq Desecrated A	20	13	7	995	995	1024	1024	19	Act 2 Equip A	19	Act 2 Good	3																						0
-Andarielq Desecrated B	20	32	7	995	995	1024	1024	19	Act 4 Equip B	19	Act 4 Good	3																						0
-Andarielq Desecrated C	20	48	7	995	995	1024	1024	19	Act 3 (N) Equip A	19	Act 3 (N) Good	3																						0
-Andarielq (N)			7	995	995	1024	1024	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3																						0
-Andarielq (N) Desecrated A	20	43	7	995	995	1024	1024	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3	cm5	2																				0
-Andarielq (N) Desecrated B	20	57	7	995	995	1024	1024	19	Act 4 (N) Equip B	19	Act 4 (N) Good	3	cm5	2																				0
-Andarielq (N) Desecrated C	20	73	7	995	995	1024	1024	19	Act 3 (H) Equip A	19	Act 3 (H) Good	3	cm5	2																				0
-Andarielq (H)			7	995	995	1024	1024	19	Act 2 (H) Equip A	19	Act 2 (H) Good	3	ses	1																				0
-Andarielq Item (H) Desecrated A			7	995	995	1024	1024	19	Act 3 (H) Equip B	19	Act 3 (H) Good	3	ses	1																				0
-Andarielq Item (H) Desecrated B			7	995	995	1024	1024	19	Act 3 (H) Equip C	19	Act 3 (H) Good	3	ses	1																				0
-Andarielq Item (H) Desecrated C			7	995	995	1024	1024	19	Act 4 (H) Equip A	19	Act 4 (H) Good	3	ses	1																				0
-Andarielq Item (H) Desecrated D			7	995	995	1024	1024	19	Act 4 (H) Equip B	19	Act 4 (H) Good	3	ses	1																				0
-Andarielq Item (H) Desecrated E			7	995	995	1024	1024	19	Act 4 (H) Equip C	19	Act 4 (H) Good	3	ses	1																				0
-Andarielq Item (H) Desecrated F			7	995	995	1024	1024	19	Act 5 (H) Equip A	19	Act 5 (H) Good	3	ses	1																				0
-Andarielq Item (H) Desecrated G			7	995	995	1024	1024	19	Act 5 (H) Equip B	19	Act 5 (H) Good	3	ses	1																				0
-Andarielq Item (H) Desecrated H			7	995	995	1024	1024	19	Act 5 (H) Equip C	19	Act 5 (H) Good	3	ses	1																				0
+Andariel			6	995	995	1024	1024	10	Act 2 Equip A	19	Act 2 Good	3																						0
+Andariel (N)			6	995	995	1024	1024	10	Act 2 (N) Equip A	19	Act 2 (N) Good	3																						0
+Andariel (H)			6	995	995	1024	1024	10	Act 2 (H) Equip A	19	Act 2 (H) Good	3	ses	1																				0
+Andarielq			6	995	995	1024	1024	19	Act 2 Equip A	19	Act 2 Good	3																						0
+Andarielq Desecrated A	20	13	6	995	995	1024	1024	19	Act 2 Equip A	19	Act 2 Good	3																						0
+Andarielq Desecrated B	20	32	6	995	995	1024	1024	19	Act 4 Equip B	19	Act 4 Good	3																						0
+Andarielq Desecrated C	20	48	6	995	995	1024	1024	19	Act 3 (N) Equip A	19	Act 3 (N) Good	3																						0
+Andarielq (N)			6	995	995	1024	1024	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3																						0
+Andarielq (N) Desecrated A	20	43	6	995	995	1024	1024	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3	cm5	2																				0
+Andarielq (N) Desecrated B	20	57	6	995	995	1024	1024	19	Act 4 (N) Equip B	19	Act 4 (N) Good	3	cm5	2																				0
+Andarielq (N) Desecrated C	20	73	6	995	995	1024	1024	19	Act 3 (H) Equip A	19	Act 3 (H) Good	3	cm5	2																				0
+Andarielq (H)			6	995	995	1024	1024	19	Act 2 (H) Equip A	19	Act 2 (H) Good	3	ses	1																				0
+Andarielq Item (H) Desecrated A			6	995	995	1024	1024	19	Act 3 (H) Equip B	19	Act 3 (H) Good	3	ses	1																				0
+Andarielq Item (H) Desecrated B			6	995	995	1024	1024	19	Act 3 (H) Equip C	19	Act 3 (H) Good	3	ses	1																				0
+Andarielq Item (H) Desecrated C			6	995	995	1024	1024	19	Act 4 (H) Equip A	19	Act 4 (H) Good	3	ses	1																				0
+Andarielq Item (H) Desecrated D			6	995	995	1024	1024	19	Act 4 (H) Equip B	19	Act 4 (H) Good	3	ses	1																				0
+Andarielq Item (H) Desecrated E			6	995	995	1024	1024	19	Act 4 (H) Equip C	19	Act 4 (H) Good	3	ses	1																				0
+Andarielq Item (H) Desecrated F			6	995	995	1024	1024	19	Act 5 (H) Equip A	19	Act 5 (H) Good	3	ses	1																				0
+Andarielq Item (H) Desecrated G			6	995	995	1024	1024	19	Act 5 (H) Equip B	19	Act 5 (H) Good	3	ses	1																				0
+Andarielq Item (H) Desecrated H			6	995	995	1024	1024	19	Act 5 (H) Equip C	19	Act 5 (H) Good	3	ses	1																				0
 Andarielq (H) Desecrated A	20	74	2					0	Sunder Charms	1	Andarielq Item (H) Desecrated A	20																						0
 Andarielq (H) Desecrated B	20	78	2					0	Sunder Charms	1	Andarielq Item (H) Desecrated B	20																						0
 Andarielq (H) Desecrated C	20	81	2					0	Sunder Charms	1	Andarielq Item (H) Desecrated C	20																						0
@@ -607,19 +607,19 @@ Andarielq (H) Desecrated E	20	87	2					0	Sunder Charms	1	Andarielq Item (H) Dese
 Andarielq (H) Desecrated F	20	90	2					0	Sunder Charms	1	Andarielq Item (H) Desecrated F	20																						0
 Andarielq (H) Desecrated G	20	93	2					0	Sunder Charms	1	Andarielq Item (H) Desecrated G	20																						0
 Andarielq (H) Desecrated H	20	96	2					0	Sunder Charms	1	Andarielq Item (H) Desecrated H	20																						0
-Duriel - Base			7	993	993	1024	1024	10	Act 3 Equip A	19	Act 3 Good	3																						0
-Duriel - Base Desecrated A			7	993	993	1024	1024	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Good	3																				0
-Duriel - Base Desecrated B			7	993	993	1024	1024	19	"gld,mul=1280"	11	Act 5 Equip B	19	Act 5 Good	3																				0
-Duriel - Base Desecrated C			7	993	993	1024	1024	19	"gld,mul=1280"	11	Act 3 (N) Equip A	19	Act 3 (N) Good	3																				0
-Duriel (N) - Base			7	993	993	1024	1024	10	Act 3 (N) Equip A	19	Act 3 (N) Good	3																						0
-Duriel (N) - Base Desecrated A			7	993	993	1024	1024	19	"gld,mul=1536"	11	Act 4 (N) Equip A	19	Act 4 (N) Good	3	cm5	2																		0
-Duriel (N) - Base Desecrated B			7	993	993	1024	1024	19	"gld,mul=1536"	11	Act 5 (N) Equip B	19	Act 5 (N) Good	3	cm5	2																		0
-Duriel (N) - Base Desecrated C			7	993	993	1024	1024	19	"gld,mul=1536"	11	Act 3 (H) Equip A	19	Act 3 (H) Good	3	cm5	2																		0
-Duriel (H) - Base			7	993	993	1024	1024	10	Act 3 (H) Equip A	19	Act 3 (H) Good	3	ses	2																				0
-Duriel (H) - Base Desecrated A			7	993	993	1024	1024	19	"gld,mul=2048"	11	Act 4 (H) Equip B	19	Act 4 (H) Good	3	ses	2																		0
-Duriel (H) - Base Desecrated B			7	993	993	1024	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip A	19	Act 5 (H) Good	3	ses	2																		0
-Duriel (H) - Base Desecrated C			7	993	993	1024	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip B	19	Act 5 (H) Good	3	ses	2																		0
-Duriel (H) - Base Desecrated D			7	993	993	1024	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip C	19	Act 5 (H) Good	3	ses	2																		0
+Duriel - Base			6	993	993	1024	1024	10	Act 3 Equip A	19	Act 3 Good	3																						0
+Duriel - Base Desecrated A			6	993	993	1024	1024	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Good	3																				0
+Duriel - Base Desecrated B			6	993	993	1024	1024	19	"gld,mul=1280"	11	Act 5 Equip B	19	Act 5 Good	3																				0
+Duriel - Base Desecrated C			6	993	993	1024	1024	19	"gld,mul=1280"	11	Act 3 (N) Equip A	19	Act 3 (N) Good	3																				0
+Duriel (N) - Base			6	993	993	1024	1024	10	Act 3 (N) Equip A	19	Act 3 (N) Good	3																						0
+Duriel (N) - Base Desecrated A			6	993	993	1024	1024	19	"gld,mul=1536"	11	Act 4 (N) Equip A	19	Act 4 (N) Good	3	cm5	2																		0
+Duriel (N) - Base Desecrated B			6	993	993	1024	1024	19	"gld,mul=1536"	11	Act 5 (N) Equip B	19	Act 5 (N) Good	3	cm5	2																		0
+Duriel (N) - Base Desecrated C			6	993	993	1024	1024	19	"gld,mul=1536"	11	Act 3 (H) Equip A	19	Act 3 (H) Good	3	cm5	2																		0
+Duriel (H) - Base			6	993	993	1024	1024	10	Act 3 (H) Equip A	19	Act 3 (H) Good	3	ses	2																				0
+Duriel (H) - Base Desecrated A			6	993	993	1024	1024	19	"gld,mul=2048"	11	Act 4 (H) Equip B	19	Act 4 (H) Good	3	ses	2																		0
+Duriel (H) - Base Desecrated B			6	993	993	1024	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip A	19	Act 5 (H) Good	3	ses	2																		0
+Duriel (H) - Base Desecrated C			6	993	993	1024	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip B	19	Act 5 (H) Good	3	ses	2																		0
+Duriel (H) - Base Desecrated D			6	993	993	1024	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip C	19	Act 5 (H) Good	3	ses	2																		0
 Radament			5	900	900	900	1024	10	gld,mul=1280	11	Act 3 Equip B	19	Act 3 Good	15																				0
 Radament Desecrated A	21	19	5	900	900	900	1024	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Good	3																				0
 Radament Desecrated B	21	33	5	900	900	900	1024	19	"gld,mul=1280"	11	Act 4 Equip B	19	Act 4 Good	3																				0
@@ -640,33 +640,33 @@ Radament (H) Desecrated D	21	96	2					0	Sunder Charms	1	Radament Item (H) Desecr
 Flying Scimitar			1					95	Act 2 Good	3	scm	57																						0
 Flying Scimitar (N)			1					95	Act 2 (N) Good	3	9sm	32																						0
 Flying Scimitar (H)			1					95	Act 2 (H) Good	3	7sm	32																						0
-Mephisto			7	993	993	1024	1024	10	Act 4 Equip A	52	Act 4 Good	3																						0
-Mephisto Desecrated A	22	26	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 4 Equip A	52	Act 4 Good	3																				0
-Mephisto Desecrated B	22	38	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 5 Equip C	52	Act 5 Good	3																				0
-Mephisto Desecrated C	22	48	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																				0
-Mephisto (N)			7	993	993	1024	1024	10	"gld,mul=1536"		Act 4 (N) Equip A	52	Act 4 (N) Good	3																				0
-Mephisto (N) Desecrated A	22	59	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 4 (N) Equip B	52	Act 4 (N) Good	3	cm5	2																		0
-Mephisto (N) Desecrated B	22	66	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 5 (N) Equip C	52	Act 5 (N) Good	3	cm5	2																		0
-Mephisto (N) Desecrated C	22	73	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3	cm5	2																		0
-Mephisto (H)			7	993	993	1024	1024	10	"gld,mul=2048"	5	Act 4 (H) Equip A	52	Act 4 (H) Good	3	seh	1																		0
-Mephisto Item (H) Desecrated A			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 4 (H) Equip B	52	Act 4 (H) Good	3	seh	1																		0
-Mephisto Item (H) Desecrated B			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip A	52	Act 5 (H) Good	3	seh	1																		0
-Mephisto Item (H) Desecrated C			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip B	52	Act 5 (H) Good	3	seh	1																		0
-Mephisto Item (H) Desecrated D			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	seh	1																		0
+Mephisto			6	993	993	1024	1024	10	Act 4 Equip A	52	Act 4 Good	3																						0
+Mephisto Desecrated A	22	26	6	993	993	1024	1024	15	"gld,mul=1280"	5	Act 4 Equip A	52	Act 4 Good	3																				0
+Mephisto Desecrated B	22	38	6	993	993	1024	1024	15	"gld,mul=1280"	5	Act 5 Equip C	52	Act 5 Good	3																				0
+Mephisto Desecrated C	22	48	6	993	993	1024	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																				0
+Mephisto (N)			6	993	993	1024	1024	10	"gld,mul=1536"		Act 4 (N) Equip A	52	Act 4 (N) Good	3																				0
+Mephisto (N) Desecrated A	22	59	6	993	993	1024	1024	15	"gld,mul=1536"	5	Act 4 (N) Equip B	52	Act 4 (N) Good	3	cm5	2																		0
+Mephisto (N) Desecrated B	22	66	6	993	993	1024	1024	15	"gld,mul=1536"	5	Act 5 (N) Equip C	52	Act 5 (N) Good	3	cm5	2																		0
+Mephisto (N) Desecrated C	22	73	6	993	993	1024	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3	cm5	2																		0
+Mephisto (H)			6	993	993	1024	1024	10	"gld,mul=2048"	5	Act 4 (H) Equip A	52	Act 4 (H) Good	3	seh	1																		0
+Mephisto Item (H) Desecrated A			6	993	993	1024	1024	15	"gld,mul=2048"	5	Act 4 (H) Equip B	52	Act 4 (H) Good	3	seh	1																		0
+Mephisto Item (H) Desecrated B			6	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip A	52	Act 5 (H) Good	3	seh	1																		0
+Mephisto Item (H) Desecrated C			6	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip B	52	Act 5 (H) Good	3	seh	1																		0
+Mephisto Item (H) Desecrated D			6	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	seh	1																		0
 Mephisto (H) Desecrated A	22	87	2					0	Sunder Charms	1	Mephisto Item (H) Desecrated A	20																						0
 Mephisto (H) Desecrated B	22	90	2					0	Sunder Charms	1	Mephisto Item (H) Desecrated B	20																						0
 Mephisto (H) Desecrated C	22	93	2					0	Sunder Charms	1	Mephisto Item (H) Desecrated C	20																						0
 Mephisto (H) Desecrated D	22	96	2					0	Sunder Charms	1	Mephisto Item (H) Desecrated D	20																						0
-Diablo			7	993	993	1024	1024	10	Act 5 Equip A	52	Act 5 Good	3																						0
-Diablo Desecrated A	23	40	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 1 (N) Equip A	52	Act 1 (N) Good	3																				0
-Diablo Desecrated B	23	48	7	993	993	1024	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																				0
-Diablo (N)			7	993	993	1024	1024	10	Act 5 (N) Equip A	52	Act 5 (N) Good	3																						0
-Diablo (N) Desecrated A	23	62	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 5 (N) Equip A	52	Act 5 (N) Good	3	cm5	5																		0
-Diablo (N) Desecrated B	23	67	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 1 (H) Equip A	52	Act 1 (H) Good	3	cm5	5																		0
-Diablo (N) Desecrated C	23	73	7	993	993	1024	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3	cm5	5																		0
-Diablo (H)			7	993	993	1024	1024	10	Act 5 (H) Equip A	52	Act 5 (H) Good	3	set	1																				0
-Diablo Item (H) Desecrated A			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip B	52	Act 5 (H) Good	3	set	1																		0
-Diablo Item (H) Desecrated B			7	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	set	1																		0
+Diablo			6	993	993	1024	1024	10	Act 5 Equip A	52	Act 5 Good	3																						0
+Diablo Desecrated A	23	40	6	993	993	1024	1024	15	"gld,mul=1280"	5	Act 1 (N) Equip A	52	Act 1 (N) Good	3																				0
+Diablo Desecrated B	23	48	6	993	993	1024	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																				0
+Diablo (N)			6	993	993	1024	1024	10	Act 5 (N) Equip A	52	Act 5 (N) Good	3																						0
+Diablo (N) Desecrated A	23	62	6	993	993	1024	1024	15	"gld,mul=1536"	5	Act 5 (N) Equip A	52	Act 5 (N) Good	3	cm5	5																		0
+Diablo (N) Desecrated B	23	67	6	993	993	1024	1024	15	"gld,mul=1536"	5	Act 1 (H) Equip A	52	Act 1 (H) Good	3	cm5	5																		0
+Diablo (N) Desecrated C	23	73	6	993	993	1024	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3	cm5	5																		0
+Diablo (H)			6	993	993	1024	1024	10	Act 5 (H) Equip A	52	Act 5 (H) Good	3	set	1																				0
+Diablo Item (H) Desecrated A			6	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip B	52	Act 5 (H) Good	3	set	1																		0
+Diablo Item (H) Desecrated B			6	993	993	1024	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	set	1																		0
 Diablo (H) Desecrated A	23	94	2					0	Sunder Charms	1	Diablo Item (H) Desecrated A	20																						0
 Diablo (H) Desecrated B	23	96	2					0	Sunder Charms	1	Diablo Item (H) Desecrated B	20																						0
 Summoner			5	900	900	972	1024	10	gld,mul=1280	9	Act 2 Equip C	15	Act 2 Good	5																				0
@@ -750,13 +750,13 @@ Nihlathak (N) Desecrated	28	73	5	900	900	900	1024	19	"gld,mul=1280"	14	Act 3 (H)
 Nihlathak (H)			5	900	900	900	1024	10	gld,mul=2048	14	Act 5 (H) Equip B	19	Act 5 (H) Good	3	p3s	15																		0
 Nihlathak Item (H) Desecrated			5	900	900	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip C	19	Act 5 (H) Good	3	p3s	1																		0
 Nihlathak (H) Desecrated	28	95	2						Sunder Charms	1	Nihlathak Item (H) Desecrated	20																						0
-Baal			7	993	993	1024	1024	10	Act 1 (N) Equip A	52	Act 1 (N) Good	3																						0
-Baal Desecrated	29	60	7	983	983	983	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																				0
-Baal (N)			7	993	993	1024	1024	10	Act 1 (H) Equip A	52	Act 1 (H) Good	3																						0
+Baal			6	993	993	1024	1024	10	Act 1 (N) Equip A	52	Act 1 (N) Good	3																						0
+Baal Desecrated	29	60	6	983	983	983	1024	15	"gld,mul=1280"	5	Act 3 (N) Equip A	52	Act 3 (N) Good	3																				0
+Baal (N)			6	993	993	1024	1024	10	Act 1 (H) Equip A	52	Act 1 (H) Good	3																						0
 Baalq (N)			-2					0	Baal (N)	1	cm5	1																						0
-Baal (N) Desecrated	29	75	7	983	983	983	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3	cm5	5																		0
-Baal (H)			7	993	993	1024	1024	10	Act 5 (H) Equip B	52	Act 5 (H) Good	3	sed	1																				0
-Baal Item (H) Desecrated			7	983	983	983	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	sed	1																		0
+Baal (N) Desecrated	29	75	6	983	983	983	1024	15	"gld,mul=1536"	5	Act 3 (H) Equip A	52	Act 3 (H) Good	3	cm5	5																		0
+Baal (H)			6	993	993	1024	1024	10	Act 5 (H) Equip B	52	Act 5 (H) Good	3	sed	1																				0
+Baal Item (H) Desecrated			6	983	983	983	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Good	3	sed	1																		0
 Baal (H) Desecrated	29	99	2					0	Sunder Charms	1	Baal Item (H) Desecrated	20																						0
 Blood Raven			5	1010	1024	1024	1024	10	gld,mul=1280	14	Act 1 Equip B	19	Act 1 Good	5																				0
 Blood Raven Desecrated A	30	10	5	1010	1024	1024	1024	19	"gld,mul=1280"	14	Act 1 Equip C	19	Act 1 Good	3																				0
