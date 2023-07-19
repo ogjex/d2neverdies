@@ -36841,7 +36841,7 @@
   {
     "id": 100061,
     "Key": "SkillNameStupefaction",
-    "enUS": "%d totems total",
+    "enUS": "Stupefaction",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36889,7 +36889,4 @@
     "ruRU": "",
     "zhCN": ""
   }
-
-
-
 ]
