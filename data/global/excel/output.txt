@@ -1,34 +1,6 @@
-Log started at Wed Jul 19 2023 08:52:46 GMT+0200 (Centraleuropæisk sommertid)
+Log started at Wed Jul 19 2023 10:23:50 GMT+0200 (Centraleuropæisk sommertid)
 WARN	Basic/LinkedExcel	missiles.txt, line 686: skill 'RecklessAttacksAOE' not found for 'recklessattacksmissile'
 WARN	Basic/LinkedExcel	skills.txt, line 382: skilldesc 'stupefaction' not found for 'Stupefaction'
 WARN	Basic/LinkedExcel	skills.txt, line 387: srvmissile 'splash' not found for 'TwoHandSplash'
 WARN	Basic/LinkedExcel	skills.txt, line 387: cltmissile 'splash' not found for 'TwoHandSplash'
 WARN	Basic/NumericBounds	levels.txt, line 105: 'intensity' is out of range for 'Act 4 - Town', expected number between 0 and 128 (inclusive), found 140
-WARN	Items/ValidStatParameters	uniqueitems.txt, line 139: 'min7': value (75) above save bits maximum (32) for 'Stormrider'
-WARN	Items/ValidStatParameters	uniqueitems.txt, line 139: 'max7': value (150) above save bits maximum (32) for 'Stormrider'
-WARN	Items/ValidStatParameters	uniqueitems.txt, line 156: 'min3': value (260) above save bits maximum (128) for 'The Gavel of Pain'
-WARN	Items/ValidStatParameters	uniqueitems.txt, line 156: 'max3': value (260) above save bits maximum (128) for 'The Gavel of Pain'
-WARN	Monsters/ValidChains	monstats.txt, line 245: broken baseId chain 'diablo', nextInClass for 'diablo' should point to 'diabloclone' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 244: broken baseId chain 'mephisto', nextInClass for 'mephisto' should point to 'ubermephisto' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 335: broken baseId chain 'diablo', nextInClass for 'diabloclone' should point to 'uberdiablo' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 258: broken baseId chain 'izual', nextInClass for 'izual' should point to 'uberizual' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 158: broken baseId chain 'andariel', nextInClass for 'andariel' should point to 'uberandariel' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 213: broken baseId chain 'duriel', nextInClass for 'duriel' should point to 'uberduriel' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 547: broken baseId chain 'baalcrab', nextInClass for 'baalcrab' should point to 'uberbaal' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 494: broken baseId chain 'minionspawner1', nextInClass for 'minionspawner8' should point to 'demonspawner' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 327: broken baseId chain 'evilhole1', nextInClass for 'evilhole5' should point to 'demonhole' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 705: broken baseId chain 'doomknight3', nextInClass for 'dkmag2' should point to 'dkmag3' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 682: broken baseId chain 'sandmaggot1', nextInClass for 'sandmaggot6' should point to 'sandmaggot7' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 688: broken baseId chain 'arach1', nextInClass for 'arach6' should point to 'arach7' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 658: broken baseId chain 'scarab1', nextInClass for 'scarab7' should point to 'scarab8' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 638: broken baseId chain 'succubus1', nextInClass for 'succubus7' should point to 'succubus8' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 641: broken baseId chain 'succubuswitch1', nextInClass for 'succubuswitch8' should point to 'succubuswitch9' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 49: broken baseId chain 'corruptrogue1', nextInClass for 'corruptrogue5' should point to 'corruptrogue6' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 617: broken baseId chain 'cr_archer1', nextInClass for 'cr_archer7' should point to 'cr_archer8' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 620: broken baseId chain 'cr_lancer1', nextInClass for 'cr_lancer8' should point to 'cr_lancer9' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 486: broken baseId chain 'overseer1', nextInClass for 'overseer5' should point to 'overseer6' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 652: broken baseId chain 'skeleton1', nextInClass for 'skeleton7' should point to 'skeleton8' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 582: broken baseId chain 'sk_archer1', nextInClass for 'sk_archer10' should point to 'sk_archer11' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 624: broken baseId chain 'skmage_fire1', nextInClass for 'skmage_fire6' should point to 'skmage_fire7' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 626: broken baseId chain 'skmage_ltng1', nextInClass for 'skmage_ltng6' should point to 'skmage_ltng7' but it points to '' instead
-WARN	Monsters/ValidChains	monstats.txt, line 627: broken baseId chain 'skmage_cold1', nextInClass for 'skmage_cold5' should point to 'skmage_cold6' but it points to '' instead
