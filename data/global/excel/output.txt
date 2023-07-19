@@ -1,6 +1,3 @@
-Log started at Wed Jul 19 2023 10:23:50 GMT+0200 (Centraleuropæisk sommertid)
+Log started at Wed Jul 19 2023 10:27:05 GMT+0200 (Centraleuropæisk sommertid)
 WARN	Basic/LinkedExcel	missiles.txt, line 686: skill 'RecklessAttacksAOE' not found for 'recklessattacksmissile'
 WARN	Basic/LinkedExcel	skills.txt, line 382: skilldesc 'stupefaction' not found for 'Stupefaction'
-WARN	Basic/LinkedExcel	skills.txt, line 387: srvmissile 'splash' not found for 'TwoHandSplash'
-WARN	Basic/LinkedExcel	skills.txt, line 387: cltmissile 'splash' not found for 'TwoHandSplash'
-WARN	Basic/NumericBounds	levels.txt, line 105: 'intensity' is out of range for 'Act 4 - Town', expected number between 0 and 128 (inclusive), found 140
