@@ -1,2 +1,1 @@
 Log started at Wed Jul 19 2023 12:08:00 GMT+0200 (Centraleuropæisk sommertid)
-WARN	Basic/LinkedExcel	skills.txt, line 382: skilldesc 'stupefaction' not found for 'Stupefaction'
