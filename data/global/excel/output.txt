@@ -1,3 +1,0 @@
-Log started at Wed Jul 19 2023 10:27:05 GMT+0200 (Centraleuropæisk sommertid)
-WARN	Basic/LinkedExcel	missiles.txt, line 686: skill 'RecklessAttacksAOE' not found for 'recklessattacksmissile'
-WARN	Basic/LinkedExcel	skills.txt, line 382: skilldesc 'stupefaction' not found for 'Stupefaction'
