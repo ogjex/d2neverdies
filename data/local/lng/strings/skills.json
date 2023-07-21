@@ -36722,7 +36722,7 @@
   {
     "id": 100055,
     "Key": "SkillDescFrostWind",
-    "enUS": "summons the power of the cold to displace \nand your summons to selected destination",
+    "enUS": "summons the power of the cold to displace you \nand your summons to selected destination",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36905,5 +36905,57 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": ""
+  },
+  {
+    "id": 100065,
+    "Key": "Skillld247a",
+    "enUS": "summon spirit pet that reflects damage taken\nback at your enemies,\nenhances defense and reduces damage\n for you and your party",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 100066,
+    "Key": "Skillld242a",
+    "enUS": "summon a vine that attacks\n your enemies with fire",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 100067,
+    "Key": "Skillld232a",
+    "enUS": "summon a vine that eats corpses\nand replenishes your life and mana",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
   }
+  
 ]
