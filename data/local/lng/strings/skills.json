@@ -36956,6 +36956,56 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": ""
+  },
+  {
+    "id": 100068,
+    "Key": "StrLifeHealPLevel",
+    "enUS": "%s: %+d%% Life per Level",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 100069,
+    "Key": "StrManaRecovPLevel",
+    "enUS": "%s: %+d%% Mana recovered per Level",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 100070,
+    "Key": "Skillld240a",
+    "enUS": "when in werewolf or werebear\nform, maul your enemies\nwith a fire storm claw attack",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
   }
-  
 ]
