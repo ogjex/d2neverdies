@@ -2,9 +2,9 @@
   "workspace": "",
   "legacy": false,
   "fallback": "",
-  "logAppend": false,
+  "logAppend": true,
   "log": "output.txt",
-  "iveConsideredDonating": true,
+  "iveConsideredDonating": false,
   "rules": {
     "Basic/NoDuplicateExcel": {
       "action": "warn"
