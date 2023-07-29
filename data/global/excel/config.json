@@ -2,7 +2,7 @@
   "workspace": "",
   "legacy": false,
   "fallback": "",
-  "logAppend": true,
+  "logAppend": false,
   "log": "output.txt",
   "iveConsideredDonating": false,
   "rules": {
@@ -61,7 +61,7 @@
       "action": "warn"
     }
   },
-  "generateDocs": false,
+  "generateDocs": true,
   "docOptions": {
     "title": "My Mod Documentation",
     "language": "enUS",
