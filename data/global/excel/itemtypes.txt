@@ -233,5 +233,5 @@ Rotting Fissure	rofi	lcha	gcha	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3
 Bone Break	bobr	lcha	gcha	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
 Black Cleft	bacl	lcha	gcha	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
 Slab of Faith	slof	lcha		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
-																																			0
+Furs	dfur	tors	drui	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
 																																			0
