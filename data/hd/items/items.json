@@ -889,5 +889,8 @@
   { "cu3": { "asset": "gem/cu3" } },
   { "cu4": { "asset": "gem/cu4" } },
   { "cu5": { "asset": "gem/cu5" } },
-  { "cu6": { "asset": "gem/cu6" } }    
+  { "cu6": { "asset": "gem/cu6" } },
+  { "dp1": { "asset": "armor/leather_armor" } },
+  { "dp2": { "asset": "armor/hard_leather_armor" } },
+  { "dp3": { "asset": "armor/studded_leather" } }    
 ]
