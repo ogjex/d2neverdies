@@ -2924,20 +2924,20 @@ CORNUCOPIAS (PLENTIFUL)	0																																																							
 1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon	1			100					4	"weap,mag,noe"	jfg	"r07,qty=1"	"gpy,qty=1"				"usetype,crf"		50	50	mag%			20	30	gold%			30	60	dmg%			55	80																																																																					0
 1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon	1			100					4	"weap,mag,eth"	jfg	"r07,qty=1"	"gpy,qty=1"				"usetype,crf"		50	50	mag%			20	30	gold%			30	60	dmg%			55	80	ethereal	100		1	1																																																																0
 CRAFTING RECIPES BAUBLE UPGRADES	0																																																																																																							0
-Bauble to Crafting Bauble	0																																																																																																							0
-Crafting Bauble to lvl 1	0																																																																																																							0
-Crafting Bauble to lvl 2	0																																																																																																							0
-Crafting Bauble to lvl 3	0																																																																																																							0
-Crafting Bauble to lvl 4	0																																																																																																							0
-Crafting Bauble to lvl 5	0																																																																																																							0
-Crafting Bauble to lvl 6	0																																																																																																							0
-Crafting Bauble to lvl 7	0																																																																																																							0
-Combatants Crafting Bauble	0																																																																																																							0
-Conjurers Crafting Bauble	0																																																																																																							0
-Cravens Crafting Bauble	0																																																																																																							0
-Fomenters Crafting Bauble	0																																																																																																							0
-Revenants Crafting Bauble	0																																																																																																							0
-Cornucopias Crafting Bauble	0																																																																																																							0
+Bauble to Crafting Bauble	1			100	18	70	50		2	8fg	bau						cbu		50	50																																																																																				0
+Crafting Bauble to lvl 1	1			100	18	70	50		2	s01	cbu						bu1		50	50																																																																																				0
+Crafting Bauble to lvl 2	1			100	18	70	50		2	s02	bu1						bu2		50	50																																																																																				0
+Crafting Bauble to lvl 3	1			100	18	70	50		2	s03	bu2						bu3		50	50																																																																																				0
+Crafting Bauble to lvl 4	1			100	18	70	50		2	s04	bu3						bu4		50	50																																																																																				0
+Crafting Bauble to lvl 5	1			100	18	70	50		2	s05	bu4						bu5		50	50																																																																																				0
+Crafting Bauble to lvl 6	1			100	18	70	50		2	s06	bu5						bu6		50	50																																																																																				0
+Crafting Bauble to lvl 7	1			100	18	70	50		2	s07	bu6						bu7		50	50																																																																																				0
+Combatants Crafting Bauble	1			100	18	70	50		2	8pr	bu7						1fb		50	50																																																																																				0
+Conjurers Crafting Bauble	1			100	18	70	50		2	8ps	bu7						2fb		50	50																																																																																				0
+Cravens Crafting Bauble	1			100	18	70	50		2	8pe	bu7						3fb		50	50																																																																																				0
+Fomenters Crafting Bauble	1			100	18	70	50		2	8pa	bu7						4fb		50	50																																																																																				0
+Revenants Crafting Bauble	1			100	18	70	50		2	8pk	bu7						5fb		50	50																																																																																				0
+Cornucopias Crafting Bauble	1			100	18	70	50		2	8pt	bu7						6fb		50	50																																																																																				0
 CRAFTING RECIPES BAUBLE VALUES	0																																																																																																							0
 Check if Bauble is empty and deplete	0			100	16	379	3			1fb							1ba				craft-charge	100		-2	-2																					bc1																													bc1																													0
 Subtract 2 Bauble Charges Combatants	0			100	15	379	0			1fb							1fb				craft-charge	100		-2	-2																					bc1																													bc1																													0
