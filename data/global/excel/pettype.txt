@@ -12,7 +12,7 @@ invis		0	1
 raven		0	1					strUI5		2	raven								
 spiritwolf		0	1		1	1	1	strUI6	1	2	wolf								
 fenris		0	1		1	1	1	UIFenirsui	1	2	wolf								
-totem		0	1		1	1	1	strUI14	1	2	oaksage								
+totem		0	1		1	1	1	strUI14	1	2	oaksage	423	heartofwolverine	422	spiritofbarbs				
 vine		0	1		1	1	1	strUI13	1	2	plaguepoppy								
 grizzly		0	1		1	1	1	strUI7	1	2	bear								
 shadowwarrior		0	1		1	1	1	UiShadowUI	1	1	shadowassassin								
@@ -22,5 +22,3 @@ hydra		0		1
 desecrate		0																	
 vine2		0	1		1	1	1	strUI13	1	2	cycleoflife								
 vine3		0	1		1	1	1	strUI13	1	2	vines								
-totem2		0	1		1	1	1	strUI14	1	2	heartofwolverine								
-totem3		0	1		1	1	1	strUI14	1	2	spiritofbarbs								
