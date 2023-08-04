@@ -31,33 +31,15 @@ Adds the following:
 - Gheeds Gambles now drop from Super Uniques in Hell difficulty
 - Baubles now drop from Terrorized superuniques in Hell difficulty
 *- chipped, flawed and normal gems now drop from superuniques in Nightmare and Hell difficulty
-*- Baubles can be upgraded to Crafting Baubles by transmuting 50 Jewels (stacked) and a Bauble
-*- Crafting Baubles need to be transmuted with 50 stacks of runes, from runes 1 to 7, one at a time (first 50 Els, then 50 Elds and so on)
-*- When all 7 stacks of runes have been transmuted into the Bauble, a specific type of "X Crafting Bauble" can be activated by transmuting a designated 50 P-Gems, holding 50 charges of crafting.
-*- Crafting Baubles can be transmuted to output 2 Bauble Charges that can be used to craft directly (each crafting recipe will now remove 1 charge from the cube, so you can craft two items in a row by just replacing the crafted item in the cube) 
-*- The Crafting Bauble can now be recharged with a new set of 50 stacked P-Gems  
-*- edited Crafting recipes to only use runes 2-7 for all crafting types (so one crafting type takes only 1 type of rune)
+- Baubles can be upgraded to Crafting Baubles by transmuting 50 Jewels (stacked) and a Bauble
+- Crafting Baubles need to be transmuted with 50 stacks of runes, from runes 1 to 7, one at a time (first 50 Els, then 50 Elds and so on)
+- When all 7 stacks of runes have been transmuted into the Bauble, a specific type of "X Crafting Bauble" can be activated by transmuting a designated 50 P-Gems, holding 50 charges of crafting.
+- Crafting Baubles can be transmuted to output 2 Bauble Charges that can be used to craft directly (each crafting recipe will now remove 1 charge from the cube, so you can craft two items in a row by just replacing the crafted item in the cube) 
+- The Crafting Bauble can now be recharged with a new set of 50 stacked P-Gems
+- edited Crafting recipes to only use runes 2-7 for all crafting types (so one crafting type takes only 1 type of rune)
 *- enabled a recipe to build Obsidian Stones (Flawless and Perfect) to use for Slabs of Faith and Sunder Charms
 - Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms using Slabs of Faith
 - new automod "% to not consume charges" added to all claws, daggers, bucklers, small shield and large shields, and random automod for gloves
-
-[ 
-Advanced todo list for Baubles
-*- add new stat to itemstatcost: crafting_charge_counter
-*- add string for crafting charges to item-modifiers.json
-*- add new property "craft-charge" using crafting_charge_counter
-*- add 6 new bauble charges as items
-*    - in item-names
-*    - in misc.txt as well
-*- add Baubles, Crafting Baubles, +6 Crafting Baubles to JSON list of vfx 
-- add recipes for Baubles:
-    - baubles to crafting baubles
-    - crafting baubles to lvl 1-7
-*    - charged crafting baubles
-*    - depleted crafting baubles (if less or equal to 0)
-- add drop chances to monsters for Baubles
-]
-
 
 Assassin:
 
@@ -74,21 +56,22 @@ Assassin:
 - all Finishing moves (with the exception of Dragon Flight) now no longer always hits
 
 Druid:
-- add teleport skill (Frost Wind) instead of "Frozen Inferno"
+- add teleport skill (Frost Wind) instead of "Arctic Blast"
 - add Firestorm cast to Fireclaw attack
-*- add ctc "Mark of Bear/Wolf" to more items and runewords
+- added three new armors that grant either ctc "Mark of Bear/Wolf"
 - "Mark of the Bear/Wolf" now has base reduction of PDR and Life % and instead scales better with skill points to Lycanthropy and Werebear/Werewolf
 - Shockwave now splits into multiple waves when more skills are put into it and increases stun length
 - Vines and Totems are now granted 1000% enhanced defence to avoid losing them immediately in later difficulties
 - 1 Additional Vine can now be spawned per 10 base levels
 - Additional Vines stat can now be granted through Nature items (primarily Druid Pelts but also certain Unique Rings)
 - Carrion Vine now both recovers life and mana
-- Solar Creeper now deals fire damage instead of recovering mana
+- Solar Creeper now deals fire damage on attack and as a fire aura pulse instead of recovering mana
 - Spirit of Barbs now grant 100% defense aura and PDR (similar to Defiance Aura) to make it more useful
 - Additional Totems stat can now be granted through Spirit items (primarily Druid Pelts but also certain Unique Rings)
 - Cooldowns removed from most elemental attacks
 - Ravens now deal cold damage
 - Bear and Wolf Summons now synergise with Werebear and Werewolf (pack leader, GO!)
+- 
 
 -->
 
