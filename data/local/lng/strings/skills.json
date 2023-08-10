@@ -36737,7 +36737,7 @@
     "zhCN": ""
   },
   {
-    "id": 100055,
+    "id": 100056,
     "Key": "SkillAnFrostWind",
     "enUS": "FrostWind",
     "zhTW": "",
@@ -36754,7 +36754,7 @@
     "zhCN": ""
   },
   {
-    "id": 100056,
+    "id": 100057,
     "Key": "SkillNameLesserTele",
     "enUS": "Blink",
     "zhTW": "",
@@ -36771,7 +36771,7 @@
     "zhCN": ""
   },
   {
-    "id": 100057,
+    "id": 100058,
     "Key": "SkillDescLesserTele",
     "enUS": "instantly moves to destination\nwith cooldown",
     "zhTW": "",
@@ -36788,7 +36788,7 @@
     "zhCN": ""
   },
   {
-    "id": 100058,
+    "id": 100059,
     "Key": "SkillanLesserTele",
     "enUS": "Blink",
     "zhTW": "",
@@ -36805,7 +36805,7 @@
     "zhCN": ""
   },
   {
-    "id": 100059,
+    "id": 100060,
     "Key": "SkillMaxVines",
     "enUS": "Max Vines: %d",
     "zhTW": "",
@@ -36822,7 +36822,7 @@
     "zhCN": ""
   },
   {
-    "id": 100060,
+    "id": 100061,
     "Key": "SkillMaxTotems",
     "enUS": "Max Totems: %d",
     "zhTW": "",
@@ -36839,7 +36839,7 @@
     "zhCN": ""
   },
   {
-    "id": 100061,
+    "id": 100062,
     "Key": "SkillNameStupefaction",
     "enUS": "Stupefaction",
     "zhTW": "",
@@ -36856,7 +36856,7 @@
     "zhCN": ""
   },
   {
-    "id": 100062,
+    "id": 100063,
     "Key": "SkillDescStupefaction",
     "enUS": "when active, aura knocks the undead back",
     "zhTW": "",
@@ -36873,7 +36873,7 @@
     "zhCN": ""
   },
   {
-    "id": 100063,
+    "id": 100064,
     "Key": "skillld119a",
     "enUS": "when active, aura damages demons\nand the undead",
     "zhTW": "",
@@ -36890,7 +36890,7 @@
     "zhCN": ""
   },
   {
-    "id": 100064,
+    "id": 100065,
     "Key": "SkillMaxBears",
     "enUS": "Max Bears: %d",
     "zhTW": "",
@@ -36907,7 +36907,7 @@
     "zhCN": ""
   },
   {
-    "id": 100065,
+    "id": 100066,
     "Key": "Skillld247a",
     "enUS": "summon spirit pet that reflects damage taken\nback at your enemies,\nenhances defense and reduces damage\n for you and your party",
     "zhTW": "",
@@ -36924,7 +36924,7 @@
     "zhCN": ""
   },
   {
-    "id": 100066,
+    "id": 100067,
     "Key": "Skillld242a",
     "enUS": "summon a vine that attacks\n your enemies with fire",
     "zhTW": "",
@@ -36941,7 +36941,7 @@
     "zhCN": ""
   },
   {
-    "id": 100067,
+    "id": 100068,
     "Key": "Skillld232a",
     "enUS": "summon a vine that eats corpses\nand replenishes your life and mana",
     "zhTW": "",
@@ -36958,7 +36958,7 @@
     "zhCN": ""
   },
   {
-    "id": 100068,
+    "id": 100069,
     "Key": "StrLifeHealPLevel",
     "enUS": "%s: %+d%% Life per Level",
     "zhTW": "",
@@ -36975,7 +36975,7 @@
     "zhCN": ""
   },
   {
-    "id": 100069,
+    "id": 100070,
     "Key": "StrManaRecovPLevel",
     "enUS": "%s: %+d%% Mana recovered per Level",
     "zhTW": "",
@@ -36992,7 +36992,7 @@
     "zhCN": ""
   },
   {
-    "id": 100070,
+    "id": 100071,
     "Key": "Skillld240a",
     "enUS": "when in werewolf or werebear\nform, maul your enemies\nwith a fire storm claw attack",
     "zhTW": "",
@@ -37009,7 +37009,7 @@
     "zhCN": ""
   },
   {
-    "id": 100071,
+    "id": 100072,
     "Key": "StrSkillFireAreaAttack",
     "enUS": "Fire Area Damage: %d-%d",
     "zhTW": "",
@@ -37026,7 +37026,7 @@
     "zhCN": ""
   },
   {
-    "id": 100072,
+    "id": 100073,
     "Key": "Firedplevranged",
     "enUS": "%s: %+d%% Fire Damage in area per Level",
     "zhTW": "",
