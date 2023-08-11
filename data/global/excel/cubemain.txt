@@ -3138,8 +3138,11 @@ Gheeds Gamble + Slab = MF	1			100					2	"cm5,uni"	gg1						useitem	99	99	99	mag%
 Gheeds Gamble + Slab = GF	1			100					2	"cm5,uni"	gg2						useitem	99	99	99	gold%			150	250																																																																															0
 Gheeds Gamble + Slab = Vendor	1			100					2	"cm5,uni"	gg3						useitem	99	99	99	cheap			15	25																																																																															0
 LARZUK'S GIMLET	0																																																																																																							0
+Larzuk's Gimlet + 2H weapon -> 2H Weapon with 1-4 Sockets	1			100					2	"sppl,nos"	"lzg,qty=1"						useitem			50	sock	100		1	4																																																																															0
+Larzuk's Gimlet + 2H weapon -> 2H Weapon with 1-4 Sockets	1			100					2	"bxbw,nos"	"lzg,qty=1"						useitem			50	sock	100		1	4																																																																															0
+Larzuk's Gimlet + 2H weapon -> 2H Weapon with 1-4 Sockets	1			100					2	"2ha,nos"	"lzg,qty=1"						useitem			50	sock	100		1	4																																																																															0
+Larzuk's Gimlet + 2H weapon -> 2H Weapon with 1-4 Sockets	1			100					2	"2hc,nos"	"lzg,qty=1"						useitem			50	sock	100		1	4																																																																															0
 Larzuk's Gimlet + 1H Weapon -> 1H Weapon with 1-2 Sockets	1			100					2	"weap,nos"	"lzg,qty=1"						useitem			50	sock	100		1	2																																																																															0
-Larzuk's Gimlet + 2H weapon -> 2H Weapon with 1-4 Sockets	1			100					2	"weap,nos"	"lzg,qty=1"						useitem			50	sock	100		1	4												25		1	1																																																																0
 Larzuk's Gimlet + Torso -> 1-2 Sockets	1			100					2	"tors,nos"	"lzg,qty=1"						useitem			50	sock	100		1	2																																																																															0
 ESSENCE RECIPES	0																																																																																																							0
 ESSENCE EXTRACTION RECIPES	0																																																																																																							0
