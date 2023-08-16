@@ -4076,7 +4076,7 @@
             "type": "ControllerSkillsData",
             "name": "Volcano",
             "id": 244,
-            "usageType": 3,
+            "usageType": 0,
             "targetGroup": 0,
             "defaultTargetDistance": 12.0,
             "acceptableDistanceOffset": 6.0,
