@@ -892,5 +892,8 @@
   { "cu6": { "asset": "gem/cu6" } },
   { "dp1": { "asset": "armor/leather_armor" } },
   { "dp2": { "asset": "armor/hard_leather_armor" } },
-  { "dp3": { "asset": "armor/studded_leather" } }    
+  { "dp3": { "asset": "armor/studded_leather" } },
+  { "cm4": { "asset": "charm/charm_large" } },
+  { "cm5": { "asset": "charm/charm_large" } },
+  { "cm6": { "asset": "charm/charm_medium" } }    
 ]
