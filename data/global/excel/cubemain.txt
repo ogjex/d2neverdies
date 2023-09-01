@@ -4455,7 +4455,7 @@ Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	leve
 Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		4	1	1																																																																					0
 Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		5	1	1																																																																					0
 SUNDER CHARM CREATION	0																																																																																																							0
-Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg1	cc0	cc0	cc0	pod			sn1				infusion-hell	100		0	0																																																																															0
+Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg1	cc0	cc0	cc0	pod			cm4				infusion-hell	100		0	0																																																																															0
 Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg2	cc0	cc0	cc0	pod			sn2				infusion-hell	100		0	0																																																																															0
 Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg3	cc0	cc0	cc0	pod			sn3				infusion-hell	100		0	0																																																																															0
 Sunder Bidding + Perfect Obsidian + 3 x charm cores	0			100					5	sg4	cc0	cc0	cc0	pod			sn4				infusion-hell	100		0	0																																																																															0
