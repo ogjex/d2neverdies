@@ -259,3 +259,10 @@ Max Totems 1	100	1	1							2	638	extra-totems		0	1										armo												0	0
 Max Totems 2	100	1	1							1	638	extra-totems		1	1										armo												0	0
 Mark of the Wolf	100	1	1							1	639	hit-skill	Mark of the Wolf	20	1										armo												0	0
 Mark of the Bear	100	1	1							1	639	hit-skill	Mark of the Bear	20	1										armo												0	0
+Cold Rupture	100	1	1							1	640	pierce-immunity-cold		300	300	res-cold		-90	-70					lblu	pich												0	0
+Flame Rift	100	1	1							1	640	pierce-immunity-fire		300	300	res-fire		-90	-70					lred	pich												0	0
+Crack of the Heavens	100	1	1							1	640	pierce-immunity-light		300	300	res-ltng		-90	-70					lyel	pich												0	0
+Rotting Fissure	100	1	1							1	640	pierce-immunity-poison		300	300	res-pois		-90	-70					lgrn	pich												0	0
+Bone Break	100	1	1							1	640	pierce-immunity-damage		300	300	red-dmg%		-20	-10					whit	pich												0	0
+Black Cleft	100	1	1							1	640	pierce-immunity-magic		300	300	res-mag		-65	-45					lgry	pich												0	0
+																																						
