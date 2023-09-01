@@ -1928,5 +1928,15 @@
   "normal": "valor/sorceresss_valor",
   "uber": "valor/sorceresss_valor",
   "ultra": "valor/sorceresss_valor"
+} },
+{ "blood_bound_hex": {
+"normal": "charm/charm_large",
+"uber": "charm/charm_large",
+"ultra": "charm/charm_large"
+} },
+{ "slab_of_faith": {
+"normal": "charm/charm_large",
+"uber": "charm/charm_large",
+"ultra": "charm/charm_large"
 } }
 ]
