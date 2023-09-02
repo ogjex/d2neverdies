@@ -29820,6 +29820,23 @@
   {
     "id": 80218,
     "Key": "cm5",
+    "enUS": "Grand Charm",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 80219,
+    "Key": "Slab of Faith",
     "enUS": "Slab of Faith",
     "zhTW": "",
     "deDE": "",
