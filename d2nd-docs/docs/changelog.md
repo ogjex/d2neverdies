@@ -2,6 +2,9 @@
 - Added corruption recipes
 - Added 2 new crafting types and updated old crafting recipes
 - Added set and unique rerolling and forging 
+- Added recipes for extracting charges from crafting baubles that can be used for faster crafting
+- Normal gems can now be cubed into Flawless Obsidian to be used as end-game crafting items
+
 
 # Areas
 
@@ -43,6 +46,9 @@
 - Added Glyphs of Xiansai
 - Added Larzuk's Gimlets
 - Added Orbs of Extraction, Divination and Combination for sale at Akara's
+- Added Baubles for crafting
+- Added Slabs of Faith that can be imbued with lucky biddings (similar to Gheed's Fortune charm)
+- Added Sunder Charms that can be crafted and infused with skills and other end game bonuses
 - Added new Valor charms for each new character
 - Added Unique and Compound (Set item) Essence Cubes
 - Added Unique and Compound Charges
@@ -56,12 +62,12 @@
 - Increased viability of sabres (faster block rate, faster base attack speed), scimitars (deadly strike, faster base attack speed), falchion (crushing blow), throwing knife class (deadly strike, pierce), staves (fcr, mana recovery, damage reduction) 
 - Added base properties to armors to provide better bases to craft from, or to create runewords. Armors e.g. will be either combat-oriented (damage reduction), caster-oriented (FCR) or agility-oriented (FRW)
 - Added minor base properties to helmets, gloves, boots and shields to be better viable for crafting and rares
-- Light armors now require dexterity in order to provide better trade-offs of stat allocation
+- Light armors now require dexterity in order to provide better trade-offs of stat allocation, especially for caster classes 
 - Edited low level sets and set items (Isenhart's Lightbrand now a javelin, Clegclaws Tooth and Claw now katars, Tancred's Weird now a Gothic Axe)
-- Bolts and Arrows can now be magic and rare
+- Bolts and Arrows now only spawn magic and rare
 
 # Drops
-- Removed Chipped, Flawed, Standard gems from dropping (they will be used for other things later)
+- Removed Chipped, Flawed, Standard gems from regular TC drops and they will now only drop from Andariel kills and from Terror Zones
 - Increased Rare, Set and Unique drops overall
 - All Act Bosses now drop Quest drops as their normal drops
 

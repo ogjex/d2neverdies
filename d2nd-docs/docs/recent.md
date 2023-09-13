@@ -1,7 +1,5 @@
 # Recent patch changes
 
-<!--
-
 ## 2.0.0
 Fixes the following:
 
@@ -15,9 +13,11 @@ Fixes the following:
 - Essences (burning, festering, hatred, etc) now unstack into unstacked versions
 - correct skill tabs are now infused from Blood Biddings
 - reduced distance for Force Cleave missile 
- - all poison-based attacks and properties now have a global 2 second duration
+- all poison-based attacks and properties now have a global 2 second duration
 - + elemental skills now properly give their bonuses
-- Decrepify now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
+- Decrepify cast by monsters now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
+- Nerfed Confuse amplify damage synergy to only provide Amp damage if Amplify Damage is 20 base skill points
+* - changed Conversion skill to "Sacred Swordsmanship" that provides Weapon Block (no animation), increased attack rating, increased attack speed and synergises with Charge and Sanctuary Aura for two-handed swords ONLY
 
 Balances the following
 - renamed Skill Biddings to "Blood Biddings" and can only be infused into Sunder Charms
@@ -28,18 +28,20 @@ Balances the following
 
 Adds the following:
 - Slabs of Faith now drop from Baal Quest Drop Nightmare difficulty, and from all Nightmare Boss Desecrated 
-- Gheeds Gambles now drop from Super Uniques in Hell difficulty
+- Gheeds Gambles now drop from superuniques in Hell difficulty
 - Baubles now drop from Terrorized superuniques in Hell difficulty
-*- chipped, flawed and normal gems now drop from superuniques in Nightmare and Hell difficulty
+*- chipped, flawed and normal gems now drop from superuniques in Terror Zones
 - Baubles can be upgraded to Crafting Baubles by transmuting 50 Jewels (stacked) and a Bauble
 - Crafting Baubles need to be transmuted with 50 stacks of runes, from runes 1 to 7, one at a time (first 50 Els, then 50 Elds and so on)
 - When all 7 stacks of runes have been transmuted into the Bauble, a specific type of "X Crafting Bauble" can be activated by transmuting a designated 50 P-Gems, holding 50 charges of crafting.
 - Crafting Baubles can be transmuted to output 2 Bauble Charges that can be used to craft directly (each crafting recipe will now remove 1 charge from the cube, so you can craft two items in a row by just replacing the crafted item in the cube) 
 - The Crafting Bauble can now be recharged with a new set of 50 stacked P-Gems
 - edited Crafting recipes to only use runes 2-7 for all crafting types (so one crafting type takes only 1 type of rune)
-*- enabled a recipe to build Obsidian Stones (Flawless and Perfect) to use for Slabs of Faith and Sunder Charms
+- enabled a recipe to build Obsidian Stones (Flawless and Perfect) to use for Slabs of Faith and Sunder Charms
 - Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms using Slabs of Faith
 - new automod "% to not consume charges" added to all claws, daggers, bucklers, small shield and large shields, and random automod for gloves
+- added three new armors that grant "Mark" of Bear and Wolf specifically to use for shapeshifter characters (not restricted to Druid)
+- added new Runewords
 
 Assassin:
 
@@ -66,14 +68,12 @@ Druid:
 - Additional Vines stat can now be granted through Nature items (primarily Druid Pelts but also certain Unique Rings)
 - Carrion Vine now both recovers life and mana
 - Solar Creeper now deals fire damage on attack and as a fire aura pulse instead of recovering mana
-- Spirit of Barbs now grant 100% defense aura and PDR (similar to Defiance Aura) to make it more useful
+- Spirit of Barbs now grant additional 100% defense aura to make it more useful
 - Additional Totems stat can now be granted through Spirit items (primarily Druid Pelts but also certain Unique Rings)
-- Cooldowns removed from most elemental attacks
+- Cooldowns removed from Volcano and Molten Boulder
 - Ravens now deal cold damage
 - Bear and Wolf Summons now synergise with Werebear and Werewolf (pack leader, GO!)
 - 
-
--->
 
 ## v1.2.0 - Pets and Peeves
 
