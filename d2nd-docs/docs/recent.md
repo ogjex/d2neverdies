@@ -25,6 +25,7 @@ Balances the following
 - Demon Machine now spawns with ctc Firewall
 - renamed all biddings to generic "biddings" so player is forced to pick up
 - Arkaines Valor: increased defense range, added hp/lvl as in 1.10, added 50% Fire Resist, added repair durability
+- Inreased Melee Damage with 25% on all Exceptional and Elite Weapons across the board
 
 Adds the following:
 - Slabs of Faith now drop from Baal Quest Drop Nightmare difficulty, and from all Nightmare Boss Desecrated 
