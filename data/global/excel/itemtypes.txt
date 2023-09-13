@@ -118,7 +118,7 @@ Spears and Polearms	sppl	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0							
 Bows and Xbows	bxbw	misl		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 2H Axes	2ha	2acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 2H Clubs	2hc	2acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-2H Swords	2hw	2acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+2H Swords	2hsw	2acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 1H Axes	1ha	1acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 1H Clubs	1hc	1acs		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 1H Swords	1hs	1acs	swob	0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
