@@ -3190,10 +3190,6 @@ Flawed Skull + Charm Core + Annihilus -> Annihilus + Life Stolen Per Hit	0			100
 Skull + Charm Core + Annihilus -> Annihilus + Regenerate Mana	0			100					3	"cm4,uni"	cco	"sku,qty=1"					useitem	99	99	99	levelreq			5	5	regen-mana			3	3																																																																										0
 Flawless Skull + Charm Core + Annihilus -> Annihilus + Replenish Life	0			100					3	"cm4,uni"	cco	"skl,qty=1"					useitem	99	99	99	levelreq			5	5	regen			3	3																																																																										0
 Perfect Skull + Charm Core + Annihilus -> Annihilus + Mana & LIfe Leach/ Mana & Life Regen	0			100					3	"cm4,uni"	cco	"skz,qty=1"					useitem	99	99	99	levelreq			5	5	manasteal			1	1	lifesteal			1	1	regen-mana			3	3	regen			3	3																																																											0
-GHEEDS GAMBLE	0																																																																																																							0
-Gheeds Gamble + Slab = MF	1			100					2	"cm5,uni"	gg1						useitem	99	99	99	mag%			25	50																																																																															0
-Gheeds Gamble + Slab = GF	1			100					2	"cm5,uni"	gg2						useitem	99	99	99	gold%			150	250																																																																															0
-Gheeds Gamble + Slab = Vendor	1			100					2	"cm5,uni"	gg3						useitem	99	99	99	cheap			15	25																																																																															0
 LARZUK'S GIMLET	0																																																																																																							0
 Larzuk's Gimlet + 2H weapon -> 2H Weapon with 1-4 Sockets	1			100					2	"sppl,nos"	"lzg,qty=1"						useitem			50	sock	100		1	4																																																																															0
 Larzuk's Gimlet + 2H weapon -> 2H Weapon with 1-4 Sockets	1			100					2	"bxbw,nos"	"lzg,qty=1"						useitem			50	sock	100		1	4																																																																															0
@@ -4536,10 +4532,10 @@ Gold Find %	1			100	16	372	3		3	cm5	gg1	fod					useitem				gambles	100		1	1	leve
 Magic Find %	1			100	16	372	3		3	cm5	gg2	fod					useitem				gambles	100		1	1	levelreq			20	20	mag%			25	35																																																																					0
 Lower Vendor Prices %	1			100	16	372	3		3	cm5	gg3	fod					useitem				gambles	100		1	1	levelreq			20	20	cheap			10	15																																																																					0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							8fo	200	200	200																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							8po	200	200	200																										hp2																																																										0
-hp3 -> test item 3	1			100					1	hp3							gg1	200	200	200																										hp3																																																										0
-hp4 -> test item 4	1			100					1	hp4							gg2	200	200	200																										hp4																																																										0
+hp1 -> test item 1	1			100					1	hp1							pod	200	200	200																										hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							fod	200	200	200																										hp2																																																										0
+hp3 -> test item 3	1			100					1	hp3							"8pr,qty=50"	200	200	200																										hp3																																																										0
+hp4 -> test item 4	1			100					1	hp4							cm5	200	200	200																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							gg3	200	200	200																										hp5																																																										0
 mp1 -> test item 6	1			100					1	mp1							sg1	200	200	200																										mp1																																																										0
 mp2 -> test item 7	1			100					1	mp2							sg2	200	200	200																										mp2																																																										0
