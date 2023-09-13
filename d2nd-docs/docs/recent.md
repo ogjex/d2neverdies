@@ -41,7 +41,7 @@ Adds the following:
 - Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms using Slabs of Faith
 - new automod "% to not consume charges" added to all claws, daggers, bucklers, small shield and large shields, and random automod for gloves
 - added three new armors that grant "Mark" of Bear and Wolf specifically to use for shapeshifter characters (not restricted to Druid)
-- added new Runewords
+- added new Runeword "Judgment" (GulChamHelJahDolUm) inspired by PD2 and added 2 handed sword to the item type
 
 Assassin:
 
