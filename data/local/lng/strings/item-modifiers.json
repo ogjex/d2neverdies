@@ -6968,6 +6968,40 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": ""
+  },
+  {
+    "id": 50064,
+    "Key": "StrCBaubDepDesc",
+    "enUS": "Bauble depleted \n Recharge with a full stack of Perfect Gems",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 50065,
+    "Key": "StrCBaubChargeDesc",
+    "enUS": "Cube with a magic item to expend charge",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
   }
   
   
