@@ -2770,6 +2770,76 @@ RUNE MASTER STACKS	0																																																												
 	1			0	18	70	48		1	s33							"usetype,qty=47"																													r33																																																										0
 	1			0	18	70	49		1	s33							"usetype,qty=48"																													r33																																																										0
 	1			0	18	70	50		1	s33							"usetype,qty=49"																													r33																																																										0
+CRAFTING BAUBLE CHARGE STACKS	0																																																																																																							0
+COMBATANT'S CRAFTING BAUBLE	0																																																																																																							0
+Check if Bauble is empty and deplete	1			0	18	70	1		1	1fb							1bu																																																																																							0
+Stack of 2 (Token) -> Stack-1 + Target Output	1			0	18	70	2		1	1fb							"usetype,qty=1"																													cu1																																																										0
+Stack of 3 (Token) -> Stack-1 + Target Output	1			0	18	70	3		1	1fb							"usetype,qty=2"																													cu1																																																										0
+Stack of 4 (Token) -> Stack-1 + Target Output	1			0	18	70	4		1	1fb							"usetype,qty=3"																													cu1																																																										0
+Stack of 5 (Token) -> Stack-1 + Target Output	1			0	18	70	5		1	1fb							"usetype,qty=4"																													cu1																																																										0
+Stack of 6 (Token) -> Stack-1 + Target Output	1			0	18	70	6		1	1fb							"usetype,qty=5"																													cu1																																																										0
+Stack of 7 (Token) -> Stack-1 + Target Output	1			0	18	70	7		1	1fb							"usetype,qty=6"																													cu1																																																										0
+Stack of 8 (Token) -> Stack-1 + Target Output	1			0	18	70	8		1	1fb							"usetype,qty=7"																													cu1																																																										0
+Stack of 9 (Token) -> Stack-1 + Target Output	1			0	18	70	9		1	1fb							"usetype,qty=8"																													cu1																																																										0
+Stack of 10 (Token) -> Stack-1 + Target Output	1			0	18	70	10		1	1fb							"usetype,qty=9"																													cu1																																																										0
+Stack of 11 (Token) -> Stack-1 + Target Output	1			0	18	70	11		1	1fb							"usetype,qty=10"																													cu1																																																										0
+Stack of 12 (Token) -> Stack-1 + Target Output	1			0	18	70	12		1	1fb							"usetype,qty=11"																													cu1																																																										0
+Stack of 13 (Token) -> Stack-1 + Target Output	1			0	18	70	13		1	1fb							"usetype,qty=12"																													cu1																																																										0
+Stack of 14 (Token) -> Stack-1 + Target Output	1			0	18	70	14		1	1fb							"usetype,qty=13"																													cu1																																																										0
+Stack of 15 (Token) -> Stack-1 + Target Output	1			0	18	70	15		1	1fb							"usetype,qty=14"																													cu1																																																										0
+Stack of 16 (Token) -> Stack-1 + Target Output	1			0	18	70	16		1	1fb							"usetype,qty=15"																													cu1																																																										0
+Stack of 17 (Token) -> Stack-1 + Target Output	1			0	18	70	17		1	1fb							"usetype,qty=16"																													cu1																																																										0
+Stack of 18 (Token) -> Stack-1 + Target Output	1			0	18	70	18		1	1fb							"usetype,qty=17"																													cu1																																																										0
+Stack of 19 (Token) -> Stack-1 + Target Output	1			0	18	70	19		1	1fb							"usetype,qty=18"																													cu1																																																										0
+Stack of 20 (Token) -> Stack-1 + Target Output	1			0	18	70	20		1	1fb							"usetype,qty=19"																													cu1																																																										0
+Stack of 21 (Token) -> Stack-1 + Target Output	1			0	18	70	21		1	1fb							"usetype,qty=20"																													cu1																																																										0
+Stack of 22 (Token) -> Stack-1 + Target Output	1			0	18	70	22		1	1fb							"usetype,qty=21"																													cu1																																																										0
+Stack of 23 (Token) -> Stack-1 + Target Output	1			0	18	70	23		1	1fb							"usetype,qty=22"																													cu1																																																										0
+Stack of 24 (Token) -> Stack-1 + Target Output	1			0	18	70	24		1	1fb							"usetype,qty=23"																													cu1																																																										0
+Stack of 25 (Token) -> Stack-1 + Target Output	1			0	18	70	25		1	1fb							"usetype,qty=24"																													cu1																																																										0
+Stack of 26 (Token) -> Stack-1 + Target Output	1			0	18	70	26		1	1fb							"usetype,qty=25"																													cu1																																																										0
+Stack of 27 (Token) -> Stack-1 + Target Output	1			0	18	70	27		1	1fb							"usetype,qty=26"																													cu1																																																										0
+Stack of 28 (Token) -> Stack-1 + Target Output	1			0	18	70	28		1	1fb							"usetype,qty=27"																													cu1																																																										0
+Stack of 29 (Token) -> Stack-1 + Target Output	1			0	18	70	29		1	1fb							"usetype,qty=28"																													cu1																																																										0
+Stack of 30 (Token) -> Stack-1 + Target Output	1			0	18	70	30		1	1fb							"usetype,qty=29"																													cu1																																																										0
+Stack of 31 (Token) -> Stack-1 + Target Output	1			0	18	70	31		1	1fb							"usetype,qty=30"																													cu1																																																										0
+Stack of 32 (Token) -> Stack-1 + Target Output	1			0	18	70	32		1	1fb							"usetype,qty=31"																													cu1																																																										0
+Stack of 33 (Token) -> Stack-1 + Target Output	1			0	18	70	33		1	1fb							"usetype,qty=32"																													cu1																																																										0
+Stack of 34 (Token) -> Stack-1 + Target Output	1			0	18	70	34		1	1fb							"usetype,qty=33"																													cu1																																																										0
+Stack of 35 (Token) -> Stack-1 + Target Output	1			0	18	70	35		1	1fb							"usetype,qty=34"																													cu1																																																										0
+Stack of 36 (Token) -> Stack-1 + Target Output	1			0	18	70	36		1	1fb							"usetype,qty=35"																													cu1																																																										0
+Stack of 37 (Token) -> Stack-1 + Target Output	1			0	18	70	37		1	1fb							"usetype,qty=36"																													cu1																																																										0
+Stack of 38 (Token) -> Stack-1 + Target Output	1			0	18	70	38		1	1fb							"usetype,qty=37"																													cu1																																																										0
+Stack of 39 (Token) -> Stack-1 + Target Output	1			0	18	70	39		1	1fb							"usetype,qty=38"																													cu1																																																										0
+Stack of 40 (Token) -> Stack-1 + Target Output	1			0	18	70	40		1	1fb							"usetype,qty=39"																													cu1																																																										0
+Stack of 41 (Token) -> Stack-1 + Target Output	1			0	18	70	41		1	1fb							"usetype,qty=40"																													cu1																																																										0
+Stack of 42 (Token) -> Stack-1 + Target Output	1			0	18	70	42		1	1fb							"usetype,qty=41"																													cu1																																																										0
+Stack of 43 (Token) -> Stack-1 + Target Output	1			0	18	70	43		1	1fb							"usetype,qty=42"																													cu1																																																										0
+Stack of 44 (Token) -> Stack-1 + Target Output	1			0	18	70	44		1	1fb							"usetype,qty=43"																													cu1																																																										0
+Stack of 45 (Token) -> Stack-1 + Target Output	1			0	18	70	45		1	1fb							"usetype,qty=44"																													cu1																																																										0
+Stack of 46 (Token) -> Stack-1 + Target Output	1			0	18	70	46		1	1fb							"usetype,qty=45"																													cu1																																																										0
+Stack of 47 (Token) -> Stack-1 + Target Output	1			0	18	70	47		1	1fb							"usetype,qty=46"																													cu1																																																										0
+Stack of 48 (Token) -> Stack-1 + Target Output	1			0	18	70	48		1	1fb							"usetype,qty=47"																													cu1																																																										0
+Stack of 49 (Token) -> Stack-1 + Target Output	1			0	18	70	49		1	1fb							"usetype,qty=48"																													cu1																																																										0
+Stack of 50 (Token) -> Stack-1 + Target Output	1			0	18	70	50		1	1fb							"usetype,qty=49"																													cu1																																																										0
+CONJURER'S CRAFTING BAUBLE	0																																																																																																							0
+Cravens Crafting Bauble	0																																																																																																							0
+Fomenters Crafting Bauble	0																																																																																																							0
+Revenants Crafting Bauble	0																																																																																																							0
+Cornucopias Crafting Bauble	0																																																																																																							0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
+																																																																																																								0
 QUANTITY MASTER	0																																																																																																							0
 Stack of 2 (Any) -> Stack-1 + Target Output	1			0	18	70	2		1	misc							"usetype,qty=1"																													"usetype,qty=1"																																																										0
 Stack of 3 (Any) -> Stack-1 + Target Output	1			0	18	70	3		1	misc							"usetype,qty=2"																													"usetype,qty=1"																																																										0
@@ -2944,63 +3014,6 @@ Cravens Crafting Bauble	1			100	18	70	50		2	8pe	bu7						3fb		50	50													
 Fomenters Crafting Bauble	1			100	18	70	50		2	8pa	bu7						4fb		50	50																																																																																				0
 Revenants Crafting Bauble	1			100	18	70	50		2	8pk	bu7						5fb		50	50																																																																																				0
 Cornucopias Crafting Bauble	1			100	18	70	50		2	8pt	bu7						6fb		50	50																																																																																				0
-CRAFTING BAUBLE CHARGE STACKS	0																																																																																																							0
-COMBATANT'S CRAFTING BAUBLE	0																																																																																																							0
-Check if Bauble is empty and deplete	1			0	18	70	1		1	1fb							1bu																																																																																							0
-Stack of 2 (Token) -> Stack-1 + Target Output	1			0	18	70	2		1	1fb							"usetype,qty=1"																													cu1																																																										0
-Stack of 3 (Token) -> Stack-1 + Target Output	1			0	18	70	3		1	1fb							"usetype,qty=2"																													cu1																																																										0
-Stack of 4 (Token) -> Stack-1 + Target Output	1			0	18	70	4		1	1fb							"usetype,qty=3"																													cu1																																																										0
-Stack of 5 (Token) -> Stack-1 + Target Output	1			0	18	70	5		1	1fb							"usetype,qty=4"																													cu1																																																										0
-Stack of 6 (Token) -> Stack-1 + Target Output	1			0	18	70	6		1	1fb							"usetype,qty=5"																													cu1																																																										0
-Stack of 7 (Token) -> Stack-1 + Target Output	1			0	18	70	7		1	1fb							"usetype,qty=6"																													cu1																																																										0
-Stack of 8 (Token) -> Stack-1 + Target Output	1			0	18	70	8		1	1fb							"usetype,qty=7"																													cu1																																																										0
-Stack of 9 (Token) -> Stack-1 + Target Output	1			0	18	70	9		1	1fb							"usetype,qty=8"																													cu1																																																										0
-Stack of 10 (Token) -> Stack-1 + Target Output	1			0	18	70	10		1	1fb							"usetype,qty=9"																													cu1																																																										0
-Stack of 11 (Token) -> Stack-1 + Target Output	1			0	18	70	11		1	1fb							"usetype,qty=10"																													cu1																																																										0
-Stack of 12 (Token) -> Stack-1 + Target Output	1			0	18	70	12		1	1fb							"usetype,qty=11"																													cu1																																																										0
-Stack of 13 (Token) -> Stack-1 + Target Output	1			0	18	70	13		1	1fb							"usetype,qty=12"																													cu1																																																										0
-Stack of 14 (Token) -> Stack-1 + Target Output	1			0	18	70	14		1	1fb							"usetype,qty=13"																													cu1																																																										0
-Stack of 15 (Token) -> Stack-1 + Target Output	1			0	18	70	15		1	1fb							"usetype,qty=14"																													cu1																																																										0
-Stack of 16 (Token) -> Stack-1 + Target Output	1			0	18	70	16		1	1fb							"usetype,qty=15"																													cu1																																																										0
-Stack of 17 (Token) -> Stack-1 + Target Output	1			0	18	70	17		1	1fb							"usetype,qty=16"																													cu1																																																										0
-Stack of 18 (Token) -> Stack-1 + Target Output	1			0	18	70	18		1	1fb							"usetype,qty=17"																													cu1																																																										0
-Stack of 19 (Token) -> Stack-1 + Target Output	1			0	18	70	19		1	1fb							"usetype,qty=18"																													cu1																																																										0
-Stack of 20 (Token) -> Stack-1 + Target Output	1			0	18	70	20		1	1fb							"usetype,qty=19"																													cu1																																																										0
-Stack of 21 (Token) -> Stack-1 + Target Output	1			0	18	70	21		1	1fb							"usetype,qty=20"																													cu1																																																										0
-Stack of 22 (Token) -> Stack-1 + Target Output	1			0	18	70	22		1	1fb							"usetype,qty=21"																													cu1																																																										0
-Stack of 23 (Token) -> Stack-1 + Target Output	1			0	18	70	23		1	1fb							"usetype,qty=22"																													cu1																																																										0
-Stack of 24 (Token) -> Stack-1 + Target Output	1			0	18	70	24		1	1fb							"usetype,qty=23"																													cu1																																																										0
-Stack of 25 (Token) -> Stack-1 + Target Output	1			0	18	70	25		1	1fb							"usetype,qty=24"																													cu1																																																										0
-Stack of 26 (Token) -> Stack-1 + Target Output	1			0	18	70	26		1	1fb							"usetype,qty=25"																													cu1																																																										0
-Stack of 27 (Token) -> Stack-1 + Target Output	1			0	18	70	27		1	1fb							"usetype,qty=26"																													cu1																																																										0
-Stack of 28 (Token) -> Stack-1 + Target Output	1			0	18	70	28		1	1fb							"usetype,qty=27"																													cu1																																																										0
-Stack of 29 (Token) -> Stack-1 + Target Output	1			0	18	70	29		1	1fb							"usetype,qty=28"																													cu1																																																										0
-Stack of 30 (Token) -> Stack-1 + Target Output	1			0	18	70	30		1	1fb							"usetype,qty=29"																													cu1																																																										0
-Stack of 31 (Token) -> Stack-1 + Target Output	1			0	18	70	31		1	1fb							"usetype,qty=30"																													cu1																																																										0
-Stack of 32 (Token) -> Stack-1 + Target Output	1			0	18	70	32		1	1fb							"usetype,qty=31"																													cu1																																																										0
-Stack of 33 (Token) -> Stack-1 + Target Output	1			0	18	70	33		1	1fb							"usetype,qty=32"																													cu1																																																										0
-Stack of 34 (Token) -> Stack-1 + Target Output	1			0	18	70	34		1	1fb							"usetype,qty=33"																													cu1																																																										0
-Stack of 35 (Token) -> Stack-1 + Target Output	1			0	18	70	35		1	1fb							"usetype,qty=34"																													cu1																																																										0
-Stack of 36 (Token) -> Stack-1 + Target Output	1			0	18	70	36		1	1fb							"usetype,qty=35"																													cu1																																																										0
-Stack of 37 (Token) -> Stack-1 + Target Output	1			0	18	70	37		1	1fb							"usetype,qty=36"																													cu1																																																										0
-Stack of 38 (Token) -> Stack-1 + Target Output	1			0	18	70	38		1	1fb							"usetype,qty=37"																													cu1																																																										0
-Stack of 39 (Token) -> Stack-1 + Target Output	1			0	18	70	39		1	1fb							"usetype,qty=38"																													cu1																																																										0
-Stack of 40 (Token) -> Stack-1 + Target Output	1			0	18	70	40		1	1fb							"usetype,qty=39"																													cu1																																																										0
-Stack of 41 (Token) -> Stack-1 + Target Output	1			0	18	70	41		1	1fb							"usetype,qty=40"																													cu1																																																										0
-Stack of 42 (Token) -> Stack-1 + Target Output	1			0	18	70	42		1	1fb							"usetype,qty=41"																													cu1																																																										0
-Stack of 43 (Token) -> Stack-1 + Target Output	1			0	18	70	43		1	1fb							"usetype,qty=42"																													cu1																																																										0
-Stack of 44 (Token) -> Stack-1 + Target Output	1			0	18	70	44		1	1fb							"usetype,qty=43"																													cu1																																																										0
-Stack of 45 (Token) -> Stack-1 + Target Output	1			0	18	70	45		1	1fb							"usetype,qty=44"																													cu1																																																										0
-Stack of 46 (Token) -> Stack-1 + Target Output	1			0	18	70	46		1	1fb							"usetype,qty=45"																													cu1																																																										0
-Stack of 47 (Token) -> Stack-1 + Target Output	1			0	18	70	47		1	1fb							"usetype,qty=46"																													cu1																																																										0
-Stack of 48 (Token) -> Stack-1 + Target Output	1			0	18	70	48		1	1fb							"usetype,qty=47"																													cu1																																																										0
-Stack of 49 (Token) -> Stack-1 + Target Output	1			0	18	70	49		1	1fb							"usetype,qty=48"																													cu1																																																										0
-Stack of 50 (Token) -> Stack-1 + Target Output	1			0	18	70	50		1	1fb							"usetype,qty=49"																													cu1																																																										0
-CONJURER'S CRAFTING BAUBLE	0																																																																																																							0
-Cravens Crafting Bauble	0																																																																																																							0
-Fomenters Crafting Bauble	0																																																																																																							0
-Revenants Crafting Bauble	0																																																																																																							0
-Cornucopias Crafting Bauble	0																																																																																																							0
 CHARM CRAFTING	0																																																																																																							0
 AMETHYST	0																																																																																																							0
 ANNIHILUS	0																																																																																																							0
