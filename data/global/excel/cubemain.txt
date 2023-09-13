@@ -4508,7 +4508,7 @@ Fire Bidding	1			100	16	368	59		2	cc7	ad1						useitem				infusion	100		4	4	leve
 Lightning Bidding	1			100	16	368	59		2	cc7	ad2						useitem				infusion	100		4	4	levelreq			4	4	skilltab		4	1	1																																																																					0
 Cold Bidding	1			100	16	368	59		2	cc7	ad3						useitem				infusion	100		4	4	levelreq			4	4	skilltab		5	1	1																																																																					0
 SUNDER CHARM CREATION	0																																																																																																							0
-Sunder Bidding + Perfect Obsidian + 3 x charm cores	1			100					5	sg1	cc0	cc0	cc0	pod			cm4				infusion-hell	100		0	0	pierce-immunity-cold			300	300	res-cold			-90	-70																																																																					0
+Sunder Bidding + Perfect Obsidian + 3 x charm cores	1			100					5	sg1	"cc0,qty=3"	pod					cm4				infusion-hell	100		0	0	pierce-immunity-cold			300	300	res-cold			-90	-70																																																																					0
 Sunder Bidding + Perfect Obsidian + 3 x charm cores	1			100					5	sg2	cc0	cc0	cc0	pod			cm4				infusion-hell	100		0	0	pierce-immunity-fire			300	300	res-fire			-90	-70																																																																					0
 Sunder Bidding + Perfect Obsidian + 3 x charm cores	1			100					5	sg3	cc0	cc0	cc0	pod			cm4				infusion-hell	100		0	0	pierce-immunity-light			300	300	res-ltng			-90	-70																																																																					0
 Sunder Bidding + Perfect Obsidian + 3 x charm cores	1			100					5	sg4	cc0	cc0	cc0	pod			cm4				infusion-hell	100		0	0	pierce-immunity-poison			300	300	res-pois			-90	-70																																																																					0
@@ -4528,14 +4528,14 @@ Blood Bidding LTNG%	1			100	16	373	9		2	cm4	10b						useitem				infusion-hell	10
 Blood Bidding POIS%	1			100	16	373	9		2	cm4	11b						useitem				infusion-hell	100		1	1	levelreq			10	10	extra-pois			5	5	red-dmg%			-3	-3																																																																0
 Blood Bidding MAGI%	0			100	16	373	9		2	cm4	12b						useitem				infusion-hell	100		1	1	levelreq			10	10																																																																										0
 SLABS OF FAITH INFUSIONS	0																																																																																																							0
-Gold Find %	1			100	16	372	3		3	cm5	gg1	fod					useitem				gambles	100		1	1	levelreq			20	20	gold%			25	40																																																																					0
-Magic Find %	1			100	16	372	3		3	cm5	gg2	fod					useitem				gambles	100		1	1	levelreq			20	20	mag%			25	35																																																																					0
-Lower Vendor Prices %	1			100	16	372	3		3	cm5	gg3	fod					useitem				gambles	100		1	1	levelreq			20	20	cheap			10	15																																																																					0
+Gold Find %	1			100	16	372	3		3	"cm5,uni"	gg1	fod					useitem				gambles	100		1	1	levelreq			20	20	gold%			25	40																																																																					0
+Magic Find %	1			100	16	372	3		3	"cm5,uni"	gg2	fod					useitem				gambles	100		1	1	levelreq			20	20	mag%			25	35																																																																					0
+Lower Vendor Prices %	1			100	16	372	3		3	"cm5,uni"	gg3	fod					useitem				gambles	100		1	1	levelreq			20	20	cheap			10	15																																																																					0
 ITEM TESTING	0																																																																																																							0
 hp1 -> test item 1	1			100					1	hp1							pod	200	200	200																										hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							fod	200	200	200																										hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							"8pr,qty=50"	200	200	200																										hp3																																																										0
-hp4 -> test item 4	1			100					1	hp4							cm5	200	200	200																										hp4																																																										0
+hp4 -> test item 4	1			100					1	hp4							gg1	200	200	200																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							gg3	200	200	200																										hp5																																																										0
 mp1 -> test item 6	1			100					1	mp1							sg1	200	200	200																										mp1																																																										0
 mp2 -> test item 7	1			100					1	mp2							sg2	200	200	200																										mp2																																																										0
