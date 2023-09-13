@@ -1154,6 +1154,7 @@ Stack of 49 (Token) -> Stack-1 + Target Output	1			0	18	70	49		1	sed							"uset
 Stack of 50 (Token) -> Stack-1 + Target Output	1			0	18	70	50		1	sed							"usetype,qty=49"																													fed																																																										0
 CRAFTING BAUBLE CHARGE STACKS	0																																																																																																							0
 COMBATANT'S CRAFTING BAUBLE	0																																																																																																							0
+Check if Bauble is empty and deplete	1			0	18	70	1		1	1fb							1ba				craft-charge	100		-2	-2																					cu1																													cu1																													0
 Stack of 2 (Token) -> Stack-1 + Target Output	1			0	18	70	2		1	1fb							"usetype,qty=1"																													cu1																																																										0
 Stack of 3 (Token) -> Stack-1 + Target Output	1			0	18	70	3		1	1fb							"usetype,qty=2"																													cu1																																																										0
 Stack of 4 (Token) -> Stack-1 + Target Output	1			0	18	70	4		1	1fb							"usetype,qty=3"																													cu1																																																										0
