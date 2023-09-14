@@ -17,7 +17,7 @@ Fixes the following:
 - + elemental skills now properly give their bonuses
 - Decrepify cast by monsters now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
 - Nerfed Confuse amplify damage synergy to only provide Amp damage if Amplify Damage is 20 base skill points
-* - changed Conversion skill to "Sacred Swordsmanship" that provides Weapon Block (no animation), increased attack rating, increased attack speed and synergises with Charge and Sanctuary Aura for two-handed swords ONLY
+- changed Conversion skill to "Sacred Swordsmanship" that provides Weapon Block (no animation), increased attack rating, and synergises with Charge and Sanctuary Aura for two-handed swords ONLY
 
 Balances the following
 - renamed Skill Biddings to "Blood Biddings" and can only be infused into Sunder Charms
