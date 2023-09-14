@@ -4349,7 +4349,7 @@
             "type": "ControllerSkillsData",
             "name": "Bone_Spirit",
             "id": 93,
-            "usageType": 3,
+            "usageType": 0,
             "targetGroup": 0,
             "defaultTargetDistance": 2.0,
             "acceptableDistanceOffset": 6.0,
