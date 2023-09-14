@@ -35939,8 +35939,8 @@
   },
   {
     "id": 100009,
-    "Key": "SkillNameDivBless",
-    "enUS": "Divine Blessing",
+    "Key": "SkillNameSacSword",
+    "enUS": "Sacred Swordsmanship",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -35956,8 +35956,8 @@
   },
   {
     "id": 100010,
-    "Key": "SkillDescDivBless",
-    "enUS": "converts monsters to your cause for a brief moment",
+    "Key": "SkillDescSacSword",
+    "enUS": "increase your damage with twohanded swords and parry",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36041,8 +36041,8 @@
   },
   {
     "id": 100015,
-    "Key": "SkillanDivBless",
-    "enUS": "Div Bless",
+    "Key": "SkillanSacSword",
+    "enUS": "Sac Sword",
     "zhTW": "",
     "deDE": "",
     "esES": "",
