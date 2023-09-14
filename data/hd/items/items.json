@@ -895,5 +895,8 @@
   { "dp3": { "asset": "armor/studded_leather" } },
   { "cm4": { "asset": "charm/charm_large" } },
   { "cm5": { "asset": "charm/charm_large" } },
-  { "cm6": { "asset": "charm/charm_medium" } }    
+  { "cm6": { "asset": "charm/charm_medium" } },
+  { "gg1": { "asset": "cube/bidding_sunder" } },
+  { "gg2": { "asset": "cube/bidding_sunder" } },
+  { "gg3": { "asset": "cube/bidding_sunder" } }    
 ]
