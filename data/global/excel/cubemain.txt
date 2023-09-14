@@ -4528,9 +4528,9 @@ Blood Bidding LTNG%	1			100	16	373	9		2	cm4	10b						useitem				infusion-hell	10
 Blood Bidding POIS%	1			100	16	373	9		2	cm4	11b						useitem				infusion-hell	100		1	1	levelreq			10	10	extra-pois			5	5	red-dmg%			-3	-3																																																																0
 Blood Bidding MAGI%	0			100	16	373	9		2	cm4	12b						useitem				infusion-hell	100		1	1	levelreq			10	10																																																																										0
 SLABS OF FAITH INFUSIONS	0																																																																																																							0
-Gold Find %	1			100	16	372	3		3	"cm5,uni"	gg1	fod					useitem				gambles	100		1	1	levelreq			20	20	gold%			25	40																																																																					0
-Magic Find %	1			100	16	372	3		3	"cm5,uni"	gg2	fod					useitem				gambles	100		1	1	levelreq			20	20	mag%			25	35																																																																					0
-Lower Vendor Prices %	1			100	16	372	3		3	"cm5,uni"	gg3	fod					useitem				gambles	100		1	1	levelreq			20	20	cheap			10	15																																																																					0
+Gold Find %	1			100	16	372	3		3	"cm5,uni"	gg1	fod					useitem				gambles	100		1	1	levelreq			15	20	gold%			50	75																																																																					0
+Magic Find %	1			100	16	372	3		3	"cm5,uni"	gg2	fod					useitem				gambles	100		1	1	levelreq			15	20	mag%			25	35																																																																					0
+Lower Vendor Prices %	1			100	16	372	3		3	"cm5,uni"	gg3	fod					useitem				gambles	100		1	1	levelreq			15	20	cheap			10	15																																																																					0
 ITEM TESTING	0																																																																																																							0
 hp1 -> test item 1	1			100					1	hp1							pod	200	200	200																										hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							fod	200	200	200																										hp2																																																										0
