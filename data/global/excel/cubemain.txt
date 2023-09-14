@@ -273,6 +273,8 @@ Flawless Skull Unstack	0			0	18	70	1		1	8lk							skl																											
 Flawless Skull Stack	0			0					1	skl							8lk																																																																																							0
 Flawless Topaz Unstack	0			0	18	70	1		1	8lt							gly																																																																																							0
 Flawless Topaz Stack	0			0					1	gly							8lt																																																																																							0
+Flawless Obsidian Unstack	1			0	18	70	1		1	8fo							fod																																																																																							0
+Flawless Obsidian Stack	1			0					1	fod							8fo																																																																																							0
 Perfect Amethyst Unstack	1			0	18	70	1		1	8pa							gpv																																																																																							0
 Perfect Amethyst Stack	1			0					1	gpv							8pa																																																																																							0
 Perfect Diamond Unstack	1			0	18	70	1		1	8pd							gpw																																																																																							0
@@ -287,6 +289,8 @@ Perfect Skull Unstack	1			0	18	70	1		1	8pk							skz																												
 Perfect Skull Stack	1			0					1	skz							8pk																																																																																							0
 Perfect Topaz Unstack	1			0	18	70	1		1	8pt							gpy																																																																																							0
 Perfect Topaz Stack	1			0					1	gpy							8pt																																																																																							0
+Perfect Obsidian Unstack	1			0	18	70	1		1	8p0							pod																																																																																							0
+Perfect Obsidian Stack	1			0					1	pod							8po																																																																																							0
 RUNES STACKING	0																																																																																																							0
 El Rune Unstack	1			100	18	70	1		1	s01							r01																																																																																							0
 El Rune Stack	1			100					1	r01							s01																																																																																							0
@@ -751,6 +755,106 @@ Stack of 47 (PTopaz) -> Stack-1 + Target Output	1			0	18	70	47		1	8pt							"use
 Stack of 48 (PTopaz) -> Stack-1 + Target Output	1			0	18	70	48		1	8pt							"usetype,qty=47"																													gpy																																																										0
 Stack of 49 (PTopaz) -> Stack-1 + Target Output	1			0	18	70	49		1	8pt							"usetype,qty=48"																													gpy																																																										0
 Stack of 50 (PTopaz) -> Stack-1 + Target Output	1			0	18	70	50		1	8pt							"usetype,qty=49"																													gpy																																																										0
+FLAWLESS OBSIDIAN																																																																																																								0
+Stack of 2 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	2		1	8fo							"usetype,qty=1"																													fod																																																										0
+Stack of 3 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	3		1	8fo							"usetype,qty=2"																													fod																																																										0
+Stack of 4 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	4		1	8fo							"usetype,qty=3"																													fod																																																										0
+Stack of 5 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	5		1	8fo							"usetype,qty=4"																													fod																																																										0
+Stack of 6 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	6		1	8fo							"usetype,qty=5"																													fod																																																										0
+Stack of 7 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	7		1	8fo							"usetype,qty=6"																													fod																																																										0
+Stack of 8 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	8		1	8fo							"usetype,qty=7"																													fod																																																										0
+Stack of 9 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	9		1	8fo							"usetype,qty=8"																													fod																																																										0
+Stack of 10 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	10		1	8fo							"usetype,qty=9"																													fod																																																										0
+Stack of 11 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	11		1	8fo							"usetype,qty=10"																													fod																																																										0
+Stack of 12 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	12		1	8fo							"usetype,qty=11"																													fod																																																										0
+Stack of 13 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	13		1	8fo							"usetype,qty=12"																													fod																																																										0
+Stack of 14 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	14		1	8fo							"usetype,qty=13"																													fod																																																										0
+Stack of 15 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	15		1	8fo							"usetype,qty=14"																													fod																																																										0
+Stack of 16 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	16		1	8fo							"usetype,qty=15"																													fod																																																										0
+Stack of 17 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	17		1	8fo							"usetype,qty=16"																													fod																																																										0
+Stack of 18 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	18		1	8fo							"usetype,qty=17"																													fod																																																										0
+Stack of 19 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	19		1	8fo							"usetype,qty=18"																													fod																																																										0
+Stack of 20 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	20		1	8fo							"usetype,qty=19"																													fod																																																										0
+Stack of 21 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	21		1	8fo							"usetype,qty=20"																													fod																																																										0
+Stack of 22 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	22		1	8fo							"usetype,qty=21"																													fod																																																										0
+Stack of 23 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	23		1	8fo							"usetype,qty=22"																													fod																																																										0
+Stack of 24 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	24		1	8fo							"usetype,qty=23"																													fod																																																										0
+Stack of 25 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	25		1	8fo							"usetype,qty=24"																													fod																																																										0
+Stack of 26 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	26		1	8fo							"usetype,qty=25"																													fod																																																										0
+Stack of 27 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	27		1	8fo							"usetype,qty=26"																													fod																																																										0
+Stack of 28 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	28		1	8fo							"usetype,qty=27"																													fod																																																										0
+Stack of 29 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	29		1	8fo							"usetype,qty=28"																													fod																																																										0
+Stack of 30 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	30		1	8fo							"usetype,qty=29"																													fod																																																										0
+Stack of 31 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	31		1	8fo							"usetype,qty=30"																													fod																																																										0
+Stack of 32 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	32		1	8fo							"usetype,qty=31"																													fod																																																										0
+Stack of 33 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	33		1	8fo							"usetype,qty=32"																													fod																																																										0
+Stack of 34 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	34		1	8fo							"usetype,qty=33"																													fod																																																										0
+Stack of 35 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	35		1	8fo							"usetype,qty=34"																													fod																																																										0
+Stack of 36 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	36		1	8fo							"usetype,qty=35"																													fod																																																										0
+Stack of 37 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	37		1	8fo							"usetype,qty=36"																													fod																																																										0
+Stack of 38 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	38		1	8fo							"usetype,qty=37"																													fod																																																										0
+Stack of 39 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	39		1	8fo							"usetype,qty=38"																													fod																																																										0
+Stack of 40 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	40		1	8fo							"usetype,qty=39"																													fod																																																										0
+Stack of 41 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	41		1	8fo							"usetype,qty=40"																													fod																																																										0
+Stack of 42 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	42		1	8fo							"usetype,qty=41"																													fod																																																										0
+Stack of 43 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	43		1	8fo							"usetype,qty=42"																													fod																																																										0
+Stack of 44 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	44		1	8fo							"usetype,qty=43"																													fod																																																										0
+Stack of 45 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	45		1	8fo							"usetype,qty=44"																													fod																																																										0
+Stack of 46 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	46		1	8fo							"usetype,qty=45"																													fod																																																										0
+Stack of 47 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	47		1	8fo							"usetype,qty=46"																													fod																																																										0
+Stack of 48 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	48		1	8fo							"usetype,qty=47"																													fod																																																										0
+Stack of 49 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	49		1	8fo							"usetype,qty=48"																													fod																																																										0
+Stack of 50 (FObsidian) -> Stack-1 + Target Output	1			0	18	70	50		1	8fo							"usetype,qty=49"																													fod																																																										0
+PERFECT OBSIDIAN	0																																																																																																							0
+Stack of 2 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	2		1	8po							"usetype,qty=1"																													pod																																																										0
+Stack of 3 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	3		1	8po							"usetype,qty=2"																													pod																																																										0
+Stack of 4 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	4		1	8po							"usetype,qty=3"																													pod																																																										0
+Stack of 5 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	5		1	8po							"usetype,qty=4"																													pod																																																										0
+Stack of 6 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	6		1	8po							"usetype,qty=5"																													pod																																																										0
+Stack of 7 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	7		1	8po							"usetype,qty=6"																													pod																																																										0
+Stack of 8 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	8		1	8po							"usetype,qty=7"																													pod																																																										0
+Stack of 9 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	9		1	8po							"usetype,qty=8"																													pod																																																										0
+Stack of 10 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	10		1	8po							"usetype,qty=9"																													pod																																																										0
+Stack of 11 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	11		1	8po							"usetype,qty=10"																													pod																																																										0
+Stack of 12 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	12		1	8po							"usetype,qty=11"																													pod																																																										0
+Stack of 13 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	13		1	8po							"usetype,qty=12"																													pod																																																										0
+Stack of 14 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	14		1	8po							"usetype,qty=13"																													pod																																																										0
+Stack of 15 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	15		1	8po							"usetype,qty=14"																													pod																																																										0
+Stack of 16 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	16		1	8po							"usetype,qty=15"																													pod																																																										0
+Stack of 17 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	17		1	8po							"usetype,qty=16"																													pod																																																										0
+Stack of 18 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	18		1	8po							"usetype,qty=17"																													pod																																																										0
+Stack of 19 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	19		1	8po							"usetype,qty=18"																													pod																																																										0
+Stack of 20 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	20		1	8po							"usetype,qty=19"																													pod																																																										0
+Stack of 21 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	21		1	8po							"usetype,qty=20"																													pod																																																										0
+Stack of 22 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	22		1	8po							"usetype,qty=21"																													pod																																																										0
+Stack of 23 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	23		1	8po							"usetype,qty=22"																													pod																																																										0
+Stack of 24 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	24		1	8po							"usetype,qty=23"																													pod																																																										0
+Stack of 25 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	25		1	8po							"usetype,qty=24"																													pod																																																										0
+Stack of 26 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	26		1	8po							"usetype,qty=25"																													pod																																																										0
+Stack of 27 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	27		1	8po							"usetype,qty=26"																													pod																																																										0
+Stack of 28 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	28		1	8po							"usetype,qty=27"																													pod																																																										0
+Stack of 29 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	29		1	8po							"usetype,qty=28"																													pod																																																										0
+Stack of 30 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	30		1	8po							"usetype,qty=29"																													pod																																																										0
+Stack of 31 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	31		1	8po							"usetype,qty=30"																													pod																																																										0
+Stack of 32 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	32		1	8po							"usetype,qty=31"																													pod																																																										0
+Stack of 33 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	33		1	8po							"usetype,qty=32"																													pod																																																										0
+Stack of 34 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	34		1	8po							"usetype,qty=33"																													pod																																																										0
+Stack of 35 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	35		1	8po							"usetype,qty=34"																													pod																																																										0
+Stack of 36 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	36		1	8po							"usetype,qty=35"																													pod																																																										0
+Stack of 37 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	37		1	8po							"usetype,qty=36"																													pod																																																										0
+Stack of 38 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	38		1	8po							"usetype,qty=37"																													pod																																																										0
+Stack of 39 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	39		1	8po							"usetype,qty=38"																													pod																																																										0
+Stack of 40 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	40		1	8po							"usetype,qty=39"																													pod																																																										0
+Stack of 41 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	41		1	8po							"usetype,qty=40"																													pod																																																										0
+Stack of 42 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	42		1	8po							"usetype,qty=41"																													pod																																																										0
+Stack of 43 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	43		1	8po							"usetype,qty=42"																													pod																																																										0
+Stack of 44 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	44		1	8po							"usetype,qty=43"																													pod																																																										0
+Stack of 45 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	45		1	8po							"usetype,qty=44"																													pod																																																										0
+Stack of 46 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	46		1	8po							"usetype,qty=45"																													pod																																																										0
+Stack of 47 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	47		1	8po							"usetype,qty=46"																													pod																																																										0
+Stack of 48 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	48		1	8po							"usetype,qty=47"																													pod																																																										0
+Stack of 49 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	49		1	8po							"usetype,qty=48"																													pod																																																										0
+Stack of 50 (PObsidian) -> Stack-1 + Target Output	1			0	18	70	50		1	8po							"usetype,qty=49"																													pod																																																										0
 "QUANTITY MASTER FRAGMENTS, GLYPHS, GIMLETS"	0																																																																																																							0
 FRAGMENTS	0																																																																																																							0
 Stack of 2 (JFragment) -> Stack-1 + Target Output	1			100	18	70	2		1	8fg							"usetype,qty=1"																													jfg																																																										0
