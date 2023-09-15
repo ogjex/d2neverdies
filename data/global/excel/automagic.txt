@@ -4,9 +4,9 @@ Bowyer's	100	1	1	40		30				2	300	skilltab	0	2	2										armo	weap											0	0
 Archer's	100	1		60		45				1	300	skilltab	0	3	3										armo	weap											0	0
 Acrobat's	100	1	1	1		15				3	301	skilltab	1	1	1										armo	weap											0	0
 Gymnast's	100	1	1	40		30				2	301	skilltab	1	2	2										armo	weap											0	0
-Athlete's	100	1		60		45				1	301	skilltab	1	3	3										armo	weap											0	0
-Harpoonist's	100	1	1	1		15				3	302	skilltab	2	1	1										armo	weap											0	0
-Spearmaiden's	100	1	1	40		30				2	302	skilltab	2	2	2										armo	weap											0	0
+Athlete's	100	1		60		45				1	301	skilltab	1	3	3	splash	TwoHandSplash	100	1						armo	weap											0	0
+Harpoonist's	100	1	1	1		15				3	302	skilltab	2	1	1	splash	TwoHandSplash	100	1						armo	weap											0	0
+Spearmaiden's	100	1	1	40		30				2	302	skilltab	2	2	2	splash	TwoHandSplash	100	1						armo	weap											0	0
 Lancer's	100	1		60		45				1	302	skilltab	2	3	3										armo	weap											0	0
 of the Jackal	100	1	1	1		3				6	303	hp		5	5										armo	weap											0	0
 of the Fox	100	1	1	11		8				5	303	hp		6	10										armo	weap											0	0
