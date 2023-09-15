@@ -4975,7 +4975,7 @@ mp4 -> test item 9	1			100					1	mp4							sg4	200	200	200																						
 mp5 -> test item 10	1			100					1	mp5							sg5	200	200	200																										mp5																																																										0
 id scroll -> test item	1			100					1	isc							sg6	200	200	200																										isc																																																										0
 tp scroll -> crf-wep	1			100					1	tsc							cc0	200	200	200																										tsc																																																										0
-nos wep -> test	1			100					2	"any,uni"	isc						"usetype,uni"	200	200	200																										isc																																																										0
-nos armo -> sock	1			100					2	"any,set"	isc						"usetype,set"	200	200	200																										isc																																																										0
+nos wep -> test	1			100					2	"any,uni"	ooc						"usetype,uni"	200	200	200																										isc																																																										0
+nos armo -> sock	1			100					2	"any,set"	ooc						"usetype,set"	200	200	200																										isc																																																										0
 nos wep -> test	1			100					2	"amu,mag"	isc						useitem	200	200	200	corruption	100		9	9																					isc																																																										0
 nos armo -> sock	1			100					2	armo	isc						useitem	200	200	200																										isc																																																										0
