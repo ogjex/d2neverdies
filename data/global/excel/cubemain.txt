@@ -4963,7 +4963,7 @@ Gold Find %	1			100	16	372	3		3	"cm5,uni"	gg1	fod					useitem				gambles	100		1	
 Magic Find %	1			100	16	372	3		3	"cm5,uni"	gg2	fod					useitem				gambles	100		1	1	levelreq			15	20	mag%			25	35																																																																					0
 Lower Vendor Prices %	1			100	16	372	3		3	"cm5,uni"	gg3	fod					useitem				gambles	100		1	1	levelreq			15	20	cheap			10	15																																																																					0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							7m7	200	200	200	sock		5	5																						hp1																																																										0
+hp1 -> test item 1	1			100					1	hp1							cu1	200	200	200	sock		5	5																						hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							r15	200	200	200																										hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							r18	200	200	200																										hp3																																																										0
 hp4 -> test item 4	1			100					1	hp4							r10	200	200	200																										hp4																																																										0
