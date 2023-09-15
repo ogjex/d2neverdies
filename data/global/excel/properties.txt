@@ -277,7 +277,7 @@ pierce-immunity-damage	1	1	item_pierce_damage_immunity																										
 pierce-immunity-magic	1	1	item_pierce_magic_immunity																											Monster Magic Immunity is Sundered		Min %	Max %		0
 charge-noconsume	1	1	item_charge_noconsume																											+#% chance for finishing moves to not consume charges		Min %	Max %		0
 curse-res	1	1	curse_resistance																																0
-splash	1	11	item_splashonhit	skill/chance/level																										splash	SplashDamage	100	1		0
+splash	1	11	item_splashonhit																											splash #% Chance to cast level # [Skill] on striking	SplashDamage skill	"% Chance (If 0, then default to 5)"	Skill Level		0
 corruption	1	1	item_iscorrupted																															none	0
 cube_quantity	1	17	quantity																																0
 coldskill	1	21	item_elemskill		3	3	item_elemskill_cold																							+# to Cold Skills		Min #	Max #		0
