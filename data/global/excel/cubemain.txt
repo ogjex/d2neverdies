@@ -289,8 +289,8 @@ Perfect Skull Unstack	1			0	18	70	1		1	8pk							skz																												
 Perfect Skull Stack	1			0					1	skz							8pk																																																																																							0
 Perfect Topaz Unstack	1			0	18	70	1		1	8pt							gpy																																																																																							0
 Perfect Topaz Stack	1			0					1	gpy							8pt																																																																																							0
-Perfect Obsidian Unstack	1			0	18	70	1		1	8p0							pod																																																																																							0
-Perfect Obsidian Stack	1			0					1	pod							8po																																																																																							0
+Perfect Obsidian Unstack	0			0	18	70	1		1	8p0							pod																																																																																							0
+Perfect Obsidian Stack	0			0					1	pod							8po																																																																																							0
 RUNES STACKING	0																																																																																																							0
 El Rune Unstack	1			100	18	70	1		1	s01							r01																																																																																							0
 El Rune Stack	1			100					1	r01							s01																																																																																							0
@@ -3182,55 +3182,55 @@ Stack of 48 (Bauble) -> Stack-1 + Target Output	1			0	18	70	48		1	6fb							"use
 Stack of 49 (Bauble) -> Stack-1 + Target Output	1			0	18	70	49		1	6fb							"usetype,qty=48"																													cu6																																																										0
 Stack of 50 (Bauble) -> Stack-1 + Target Output	1			0	18	70	50		1	6fb							"usetype,qty=49"																													cu6																																																										0
 QUANTITY MASTER	0																																																																																																							0
-Stack of 2 (Any) -> Stack-1 + Target Output	0			0	18	70	2		1	misc							"usetype,qty=1"																													"usetype,qty=1"																																																										0
-Stack of 3 (Any) -> Stack-1 + Target Output	0			0	18	70	3		1	misc							"usetype,qty=2"																													"usetype,qty=1"																																																										0
-Stack of 4 (Any) -> Stack-1 + Target Output	0			0	18	70	4		1	misc							"usetype,qty=3"																													"usetype,qty=1"																																																										0
-Stack of 5 (Any) -> Stack-1 + Target Output	0			0	18	70	5		1	misc							"usetype,qty=4"																													"usetype,qty=1"																																																										0
-Stack of 6 (Any) -> Stack-1 + Target Output	0			0	18	70	6		1	misc							"usetype,qty=5"																													"usetype,qty=1"																																																										0
-Stack of 7 (Any) -> Stack-1 + Target Output	0			0	18	70	7		1	misc							"usetype,qty=6"																													"usetype,qty=1"																																																										0
-Stack of 8 (Any) -> Stack-1 + Target Output	0			0	18	70	8		1	misc							"usetype,qty=7"																													"usetype,qty=1"																																																										0
-Stack of 9 (Any) -> Stack-1 + Target Output	0			0	18	70	9		1	misc							"usetype,qty=8"																													"usetype,qty=1"																																																										0
-Stack of 10 (Any) -> Stack-1 + Target Output	0			0	18	70	10		1	misc							"usetype,qty=9"																													"usetype,qty=1"																																																										0
-Stack of 11 (Any) -> Stack-1 + Target Output	0			0	18	70	11		1	misc							"usetype,qty=10"																													"usetype,qty=1"																																																										0
-Stack of 12 (Any) -> Stack-1 + Target Output	0			0	18	70	12		1	misc							"usetype,qty=11"																													"usetype,qty=1"																																																										0
-Stack of 13 (Any) -> Stack-1 + Target Output	0			0	18	70	13		1	misc							"usetype,qty=12"																													"usetype,qty=1"																																																										0
-Stack of 14 (Any) -> Stack-1 + Target Output	0			0	18	70	14		1	misc							"usetype,qty=13"																													"usetype,qty=1"																																																										0
-Stack of 15 (Any) -> Stack-1 + Target Output	0			0	18	70	15		1	misc							"usetype,qty=14"																													"usetype,qty=1"																																																										0
-Stack of 16 (Any) -> Stack-1 + Target Output	0			0	18	70	16		1	misc							"usetype,qty=15"																													"usetype,qty=1"																																																										0
-Stack of 17 (Any) -> Stack-1 + Target Output	0			0	18	70	17		1	misc							"usetype,qty=16"																													"usetype,qty=1"																																																										0
-Stack of 18 (Any) -> Stack-1 + Target Output	0			0	18	70	18		1	misc							"usetype,qty=17"																													"usetype,qty=1"																																																										0
-Stack of 19 (Any) -> Stack-1 + Target Output	0			0	18	70	19		1	misc							"usetype,qty=18"																													"usetype,qty=1"																																																										0
-Stack of 20 (Any) -> Stack-1 + Target Output	0			0	18	70	20		1	misc							"usetype,qty=19"																													"usetype,qty=1"																																																										0
-Stack of 21 (Any) -> Stack-1 + Target Output	0			0	18	70	21		1	misc							"usetype,qty=20"																													"usetype,qty=1"																																																										0
-Stack of 22 (Any) -> Stack-1 + Target Output	0			0	18	70	22		1	misc							"usetype,qty=21"																													"usetype,qty=1"																																																										0
-Stack of 23 (Any) -> Stack-1 + Target Output	0			0	18	70	23		1	misc							"usetype,qty=22"																													"usetype,qty=1"																																																										0
-Stack of 24 (Any) -> Stack-1 + Target Output	0			0	18	70	24		1	misc							"usetype,qty=23"																													"usetype,qty=1"																																																										0
-Stack of 25 (Any) -> Stack-1 + Target Output	0			0	18	70	25		1	misc							"usetype,qty=24"																													"usetype,qty=1"																																																										0
-Stack of 26 (Any) -> Stack-1 + Target Output	0			0	18	70	26		1	misc							"usetype,qty=25"																													"usetype,qty=1"																																																										0
-Stack of 27 (Any) -> Stack-1 + Target Output	0			0	18	70	27		1	misc							"usetype,qty=26"																													"usetype,qty=1"																																																										0
-Stack of 28 (Any) -> Stack-1 + Target Output	0			0	18	70	28		1	misc							"usetype,qty=27"																													"usetype,qty=1"																																																										0
-Stack of 29 (Any) -> Stack-1 + Target Output	0			0	18	70	29		1	misc							"usetype,qty=28"																													"usetype,qty=1"																																																										0
-Stack of 30 (Any) -> Stack-1 + Target Output	0			0	18	70	30		1	misc							"usetype,qty=29"																													"usetype,qty=1"																																																										0
-Stack of 31 (Any) -> Stack-1 + Target Output	0			0	18	70	31		1	misc							"usetype,qty=30"																													"usetype,qty=1"																																																										0
-Stack of 32 (Any) -> Stack-1 + Target Output	0			0	18	70	32		1	misc							"usetype,qty=31"																													"usetype,qty=1"																																																										0
-Stack of 33 (Any) -> Stack-1 + Target Output	0			0	18	70	33		1	misc							"usetype,qty=32"																													"usetype,qty=1"																																																										0
-Stack of 34 (Any) -> Stack-1 + Target Output	0			0	18	70	34		1	misc							"usetype,qty=33"																													"usetype,qty=1"																																																										0
-Stack of 35 (Any) -> Stack-1 + Target Output	0			0	18	70	35		1	misc							"usetype,qty=34"																													"usetype,qty=1"																																																										0
-Stack of 36 (Any) -> Stack-1 + Target Output	0			0	18	70	36		1	misc							"usetype,qty=35"																													"usetype,qty=1"																																																										0
-Stack of 37 (Any) -> Stack-1 + Target Output	0			0	18	70	37		1	misc							"usetype,qty=36"																													"usetype,qty=1"																																																										0
-Stack of 38 (Any) -> Stack-1 + Target Output	0			0	18	70	38		1	misc							"usetype,qty=37"																													"usetype,qty=1"																																																										0
-Stack of 39 (Any) -> Stack-1 + Target Output	0			0	18	70	39		1	misc							"usetype,qty=38"																													"usetype,qty=1"																																																										0
-Stack of 40 (Any) -> Stack-1 + Target Output	0			0	18	70	40		1	misc							"usetype,qty=39"																													"usetype,qty=1"																																																										0
-Stack of 41 (Any) -> Stack-1 + Target Output	0			0	18	70	41		1	misc							"usetype,qty=40"																													"usetype,qty=1"																																																										0
-Stack of 42 (Any) -> Stack-1 + Target Output	0			0	18	70	42		1	misc							"usetype,qty=41"																													"usetype,qty=1"																																																										0
-Stack of 43 (Any) -> Stack-1 + Target Output	0			0	18	70	43		1	misc							"usetype,qty=42"																													"usetype,qty=1"																																																										0
-Stack of 44 (Any) -> Stack-1 + Target Output	0			0	18	70	44		1	misc							"usetype,qty=43"																													"usetype,qty=1"																																																										0
-Stack of 45 (Any) -> Stack-1 + Target Output	0			0	18	70	45		1	misc							"usetype,qty=44"																													"usetype,qty=1"																																																										0
-Stack of 46 (Any) -> Stack-1 + Target Output	0			0	18	70	46		1	misc							"usetype,qty=45"																													"usetype,qty=1"																																																										0
-Stack of 47 (Any) -> Stack-1 + Target Output	0			0	18	70	47		1	misc							"usetype,qty=46"																													"usetype,qty=1"																																																										0
-Stack of 48 (Any) -> Stack-1 + Target Output	0			0	18	70	48		1	misc							"usetype,qty=47"																													"usetype,qty=1"																																																										0
-Stack of 49 (Any) -> Stack-1 + Target Output	0			0	18	70	49		1	misc							"usetype,qty=48"																													"usetype,qty=1"																																																										0
-Stack of 50 (Any) -> Stack-1 + Target Output	0			0	18	70	50		1	misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
+Stack of 2 (Any) -> Stack-1 + Target Output	1			0	18	70	2		1	misc							"usetype,qty=1"																													"usetype,qty=1"																																																										0
+Stack of 3 (Any) -> Stack-1 + Target Output	1			0	18	70	3		1	misc							"usetype,qty=2"																													"usetype,qty=1"																																																										0
+Stack of 4 (Any) -> Stack-1 + Target Output	1			0	18	70	4		1	misc							"usetype,qty=3"																													"usetype,qty=1"																																																										0
+Stack of 5 (Any) -> Stack-1 + Target Output	1			0	18	70	5		1	misc							"usetype,qty=4"																													"usetype,qty=1"																																																										0
+Stack of 6 (Any) -> Stack-1 + Target Output	1			0	18	70	6		1	misc							"usetype,qty=5"																													"usetype,qty=1"																																																										0
+Stack of 7 (Any) -> Stack-1 + Target Output	1			0	18	70	7		1	misc							"usetype,qty=6"																													"usetype,qty=1"																																																										0
+Stack of 8 (Any) -> Stack-1 + Target Output	1			0	18	70	8		1	misc							"usetype,qty=7"																													"usetype,qty=1"																																																										0
+Stack of 9 (Any) -> Stack-1 + Target Output	1			0	18	70	9		1	misc							"usetype,qty=8"																													"usetype,qty=1"																																																										0
+Stack of 10 (Any) -> Stack-1 + Target Output	1			0	18	70	10		1	misc							"usetype,qty=9"																													"usetype,qty=1"																																																										0
+Stack of 11 (Any) -> Stack-1 + Target Output	1			0	18	70	11		1	misc							"usetype,qty=10"																													"usetype,qty=1"																																																										0
+Stack of 12 (Any) -> Stack-1 + Target Output	1			0	18	70	12		1	misc							"usetype,qty=11"																													"usetype,qty=1"																																																										0
+Stack of 13 (Any) -> Stack-1 + Target Output	1			0	18	70	13		1	misc							"usetype,qty=12"																													"usetype,qty=1"																																																										0
+Stack of 14 (Any) -> Stack-1 + Target Output	1			0	18	70	14		1	misc							"usetype,qty=13"																													"usetype,qty=1"																																																										0
+Stack of 15 (Any) -> Stack-1 + Target Output	1			0	18	70	15		1	misc							"usetype,qty=14"																													"usetype,qty=1"																																																										0
+Stack of 16 (Any) -> Stack-1 + Target Output	1			0	18	70	16		1	misc							"usetype,qty=15"																													"usetype,qty=1"																																																										0
+Stack of 17 (Any) -> Stack-1 + Target Output	1			0	18	70	17		1	misc							"usetype,qty=16"																													"usetype,qty=1"																																																										0
+Stack of 18 (Any) -> Stack-1 + Target Output	1			0	18	70	18		1	misc							"usetype,qty=17"																													"usetype,qty=1"																																																										0
+Stack of 19 (Any) -> Stack-1 + Target Output	1			0	18	70	19		1	misc							"usetype,qty=18"																													"usetype,qty=1"																																																										0
+Stack of 20 (Any) -> Stack-1 + Target Output	1			0	18	70	20		1	misc							"usetype,qty=19"																													"usetype,qty=1"																																																										0
+Stack of 21 (Any) -> Stack-1 + Target Output	1			0	18	70	21		1	misc							"usetype,qty=20"																													"usetype,qty=1"																																																										0
+Stack of 22 (Any) -> Stack-1 + Target Output	1			0	18	70	22		1	misc							"usetype,qty=21"																													"usetype,qty=1"																																																										0
+Stack of 23 (Any) -> Stack-1 + Target Output	1			0	18	70	23		1	misc							"usetype,qty=22"																													"usetype,qty=1"																																																										0
+Stack of 24 (Any) -> Stack-1 + Target Output	1			0	18	70	24		1	misc							"usetype,qty=23"																													"usetype,qty=1"																																																										0
+Stack of 25 (Any) -> Stack-1 + Target Output	1			0	18	70	25		1	misc							"usetype,qty=24"																													"usetype,qty=1"																																																										0
+Stack of 26 (Any) -> Stack-1 + Target Output	1			0	18	70	26		1	misc							"usetype,qty=25"																													"usetype,qty=1"																																																										0
+Stack of 27 (Any) -> Stack-1 + Target Output	1			0	18	70	27		1	misc							"usetype,qty=26"																													"usetype,qty=1"																																																										0
+Stack of 28 (Any) -> Stack-1 + Target Output	1			0	18	70	28		1	misc							"usetype,qty=27"																													"usetype,qty=1"																																																										0
+Stack of 29 (Any) -> Stack-1 + Target Output	1			0	18	70	29		1	misc							"usetype,qty=28"																													"usetype,qty=1"																																																										0
+Stack of 30 (Any) -> Stack-1 + Target Output	1			0	18	70	30		1	misc							"usetype,qty=29"																													"usetype,qty=1"																																																										0
+Stack of 31 (Any) -> Stack-1 + Target Output	1			0	18	70	31		1	misc							"usetype,qty=30"																													"usetype,qty=1"																																																										0
+Stack of 32 (Any) -> Stack-1 + Target Output	1			0	18	70	32		1	misc							"usetype,qty=31"																													"usetype,qty=1"																																																										0
+Stack of 33 (Any) -> Stack-1 + Target Output	1			0	18	70	33		1	misc							"usetype,qty=32"																													"usetype,qty=1"																																																										0
+Stack of 34 (Any) -> Stack-1 + Target Output	1			0	18	70	34		1	misc							"usetype,qty=33"																													"usetype,qty=1"																																																										0
+Stack of 35 (Any) -> Stack-1 + Target Output	1			0	18	70	35		1	misc							"usetype,qty=34"																													"usetype,qty=1"																																																										0
+Stack of 36 (Any) -> Stack-1 + Target Output	1			0	18	70	36		1	misc							"usetype,qty=35"																													"usetype,qty=1"																																																										0
+Stack of 37 (Any) -> Stack-1 + Target Output	1			0	18	70	37		1	misc							"usetype,qty=36"																													"usetype,qty=1"																																																										0
+Stack of 38 (Any) -> Stack-1 + Target Output	1			0	18	70	38		1	misc							"usetype,qty=37"																													"usetype,qty=1"																																																										0
+Stack of 39 (Any) -> Stack-1 + Target Output	1			0	18	70	39		1	misc							"usetype,qty=38"																													"usetype,qty=1"																																																										0
+Stack of 40 (Any) -> Stack-1 + Target Output	1			0	18	70	40		1	misc							"usetype,qty=39"																													"usetype,qty=1"																																																										0
+Stack of 41 (Any) -> Stack-1 + Target Output	1			0	18	70	41		1	misc							"usetype,qty=40"																													"usetype,qty=1"																																																										0
+Stack of 42 (Any) -> Stack-1 + Target Output	1			0	18	70	42		1	misc							"usetype,qty=41"																													"usetype,qty=1"																																																										0
+Stack of 43 (Any) -> Stack-1 + Target Output	1			0	18	70	43		1	misc							"usetype,qty=42"																													"usetype,qty=1"																																																										0
+Stack of 44 (Any) -> Stack-1 + Target Output	1			0	18	70	44		1	misc							"usetype,qty=43"																													"usetype,qty=1"																																																										0
+Stack of 45 (Any) -> Stack-1 + Target Output	1			0	18	70	45		1	misc							"usetype,qty=44"																													"usetype,qty=1"																																																										0
+Stack of 46 (Any) -> Stack-1 + Target Output	1			0	18	70	46		1	misc							"usetype,qty=45"																													"usetype,qty=1"																																																										0
+Stack of 47 (Any) -> Stack-1 + Target Output	1			0	18	70	47		1	misc							"usetype,qty=46"																													"usetype,qty=1"																																																										0
+Stack of 48 (Any) -> Stack-1 + Target Output	1			0	18	70	48		1	misc							"usetype,qty=47"																													"usetype,qty=1"																																																										0
+Stack of 49 (Any) -> Stack-1 + Target Output	1			0	18	70	49		1	misc							"usetype,qty=48"																													"usetype,qty=1"																																																										0
+Stack of 50 (Any) -> Stack-1 + Target Output	1			0	18	70	50		1	misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
 CRAFTING RECIPES RAW	0																																																																																																							0
 COMBATANTS (former BLOOD)	0																																																																																																							0
 1 Magic Helm + 1 Jewel Fragment + 1 Ral Rune + Perfect Ruby -> Blood Helm	1			100					4	helm,mag,noe	jfg	r06,qty=1	gpr,qty=1				usetype,crf		50	50	lifesteal			2	4	str			5	10	crush			15	20																																																																					0
@@ -3286,8 +3286,8 @@ CONJURERS (former CASTER)	0																																																					
 1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield	1			100					2	shld,mag,noe	cu2						usetype,crf		50	50	cast1			5	10	mana			10	20	block			10	20						mana%			10	10																																																											0
 1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield	1			100					4	shld,mag,eth	jfg	r05,qty=1	gpb,qty=1				usetype,crf		50	50	cast1			5	10	mana			10	20	block			10	20	ethereal	100		1	1	mana%			10	10																																																											0
 1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield	1			100					2	shld,mag,eth	cu2						usetype,crf		50	50	cast1			5	10	mana			10	20	block			10	20	ethereal	100		1	1	mana%			10	10																																																											0
-1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso	0			100					4	tors,mag,eth	jfg	r05,qty=1	gpb,qty=1				usetype,crf		50	50	cast1			5	10	mana			10	20	allskills			1	1																																																																					0
-1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso	0			100					2	tors,mag,eth	cu2						usetype,crf		50	50	cast1			5	10	mana			10	20	allskills			1	1																																																																					0
+1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso	1			100					4	tors,mag,eth	jfg	r05,qty=1	gpb,qty=1				usetype,crf		50	50	cast1			5	10	mana			10	20	allskills			1	1																																																																					0
+1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso	1			100					2	tors,mag,eth	cu2						usetype,crf		50	50	cast1			5	10	mana			10	20	allskills			1	1																																																																					0
 1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso	1			100					4	tors,mag,eth	jfg	r05,qty=1	gpb,qty=1				usetype,crf		50	50	cast1			5	10	mana			10	20	allskills			0	1	ethereal	50		1	1																																																																0
 1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso	1			100					2	tors,mag,eth	cu2						usetype,crf		50	50	cast1			5	10	mana			10	20	allskills			0	1	ethereal	50		1	1																																																																0
 1 Magic Amulet + 1 Jewel Fragment + 1 Ral Rune + Perfect Amethyst -> Caster Amulet	1			100					4	amul,mag	jfg	r05,qty=1	gpb,qty=1				usetype,crf		50	50	regen-mana			4	10	mana			10	25	cast1			5	10																																																																					0
