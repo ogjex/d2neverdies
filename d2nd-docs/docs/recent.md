@@ -18,7 +18,7 @@
 - + elemental skills now properly give their bonuses
 - Decrepify cast by monsters now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
 - Nerfed Confuse amplify damage synergy to only provide Amp damage if Amplify Damage is 20 base skill points
-- changed Conversion skill to "Sacred Swordsmanship" that provides Weapon Block (no animation), increased attack rating, and synergises with Charge and Sanctuary Aura for two-handed swords ONLY
+- changed Conversion skill to "Sacred Swordsmanship" that provides passive Parrying (Strafe + Dodge with no animation), increased attack rating, and synergises with Charge and Sanctuary Aura for two-handed swords ONLY, also colors the two-handed sword golden in its duration
 
 ### Balances the following:
 - renamed Skill Biddings to "Blood Biddings" and can only be infused into Sunder Charms
@@ -48,7 +48,16 @@
 ### Changes the following:
 
 #### Mercenaries:
-- 
+
+- Act 2 Desert Mercs are now considered "pal" class
+- Act 3 Sorcerors are now considered "sor" class
+- Rogue fire merc now shoots Strafe
+- Rogue cold merc now shoots Multiple Shot
+- Act 3 Fire, Cold and Lightning Sorcerors now have Fire, Cold and Lightning Mastery, respectively 
+- Act 3 Lightning Sorcerors now have added Thunder Storm skill
+- Act 5 Mercs now all have Iron Skin and cast Shout
+- Act 5 Frenzy Mercs now have Cleave and cast Battle Cry
+- Act 5 2H Mercs now have Great Cleave instead of Bash and cast Howl
 
 #### Assassin:
 
