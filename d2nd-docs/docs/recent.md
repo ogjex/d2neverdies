@@ -1,7 +1,8 @@
 # Recent patch changes
 
 ## 2.0.0
-Fixes the following:
+
+### Fixes the following:
 
 - game now works with vanilla version 2.7
 - more than 600 minor bug fixes and performance improvements! (Thanks, D2RLint!)
@@ -19,7 +20,7 @@ Fixes the following:
 - Nerfed Confuse amplify damage synergy to only provide Amp damage if Amplify Damage is 20 base skill points
 - changed Conversion skill to "Sacred Swordsmanship" that provides Weapon Block (no animation), increased attack rating, and synergises with Charge and Sanctuary Aura for two-handed swords ONLY
 
-Balances the following
+### Balances the following:
 - renamed Skill Biddings to "Blood Biddings" and can only be infused into Sunder Charms
 - Enigma's Teleport are now "Lesser Teleport" with a long cooldown
 - Demon Machine now spawns with ctc Firewall
@@ -27,7 +28,7 @@ Balances the following
 - Arkaines Valor: increased defense range, added hp/lvl as in 1.10, added 50% Fire Resist, added repair durability
 - Inreased Melee Damage with 25% on all Exceptional and Elite Weapons across the board
 
-Adds the following:
+### Adds the following:
 - Slabs of Faith now drop from Baal Quest Drop Nightmare difficulty, and from all Nightmare Boss Desecrated 
 - Gheeds Gambles now drop from superuniques in Hell difficulty
 - Baubles now drop from Terrorized superuniques in Hell difficulty
@@ -44,7 +45,12 @@ Adds the following:
 - added three new armors that grant "Mark" of Bear and Wolf specifically to use for shapeshifter characters (not restricted to Druid)
 - added new Runeword "Judgment" (GulChamHelJahDolUm) inspired by PD2 and added 2 handed sword to the item type
 
-Assassin:
+### Changes the following:
+
+#### Mercenaries:
+- 
+
+#### Assassin:
 
 - elemental Charge Up skills now incur a linear resistance penalty (minus resistance and minus max resistance)
 - removed dependencies between Elemental Charge Up skills
@@ -58,7 +64,7 @@ Assassin:
 - Dragon Talon now has a maximum of 1 kick no matter the skill level (due to crazy unbalance when using Mosaic)
 - all Finishing moves (with the exception of Dragon Flight) now no longer always hits
 
-Druid:
+#### Druid:
 - add teleport skill (Frost Wind) instead of "Arctic Blast"
 - add Firestorm cast to Fireclaw attack
 - added three new armors that grant either ctc "Mark of Bear/Wolf"
@@ -74,7 +80,6 @@ Druid:
 - Cooldowns removed from Volcano and Molten Boulder
 - Ravens now deal cold damage
 - Bear and Wolf Summons now synergise with Werebear and Werewolf (pack leader, GO!)
-- 
 
 ## v1.2.0 - Pets and Peeves
 
