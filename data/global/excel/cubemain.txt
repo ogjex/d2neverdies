@@ -289,8 +289,8 @@ Perfect Skull Unstack	1			0	18	70	1		1	8pk							skz																												
 Perfect Skull Stack	1			0					1	skz							8pk																																																																																							0
 Perfect Topaz Unstack	1			0	18	70	1		1	8pt							gpy																																																																																							0
 Perfect Topaz Stack	1			0					1	gpy							8pt																																																																																							0
-Perfect Obsidian Unstack	1			0	18	70	1		1	8p0							pod																																																																																							0
-Perfect Obsidian Stack	1			0					1	pod							8po																																																																																							0
+Perfect Obsidian Unstack	0			0	18	70	1		1	8p0							pod																																																																																							0
+Perfect Obsidian Stack	0			0					1	pod							8po																																																																																							0
 RUNES STACKING	0																																																																																																							0
 El Rune Unstack	1			100	18	70	1		1	s01							r01																																																																																							0
 El Rune Stack	1			100					1	r01							s01																																																																																							0
