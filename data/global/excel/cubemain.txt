@@ -4963,19 +4963,19 @@ Gold Find %	1			100	16	372	3		3	"cm5,uni"	gg1	fod					useitem				gambles	100		1	
 Magic Find %	1			100	16	372	3		3	"cm5,uni"	gg2	fod					useitem				gambles	100		1	1	levelreq			15	20	mag%			25	35																																																																					0
 Lower Vendor Prices %	1			100	16	372	3		3	"cm5,uni"	gg3	fod					useitem				gambles	100		1	1	levelreq			15	20	cheap			10	15																																																																					0
 ITEM TESTING	0																																																																																																							0
-hp1 -> test item 1	1			100					1	hp1							bi8	200	200	200																										hp1																																																										0
-hp2 -> test item 2	1			100					1	hp2							bi6	200	200	200																										hp2																																																										0
-hp3 -> test item 3	1			100					1	hp3							bi1	200	200	200																										hp3																																																										0
-hp4 -> test item 4	1			100					1	hp4							cm4	200	200	200	infusion-hell	100		0	0	pierce-immunity-damage			300	300	red-dmg%			-20	-10											hp4																																																										0
-hp5-> test item 5	1			100					1	hp5							bu3	200	200	200																										hp5																																																										0
-mp1 -> test item 6	1			100					1	mp1							bu4	200	200	200																										mp1																																																										0
-mp2 -> test item 7	1			100					1	mp2							bu5	200	200	200																										mp2																																																										0
-mp3 -> test item 8	1			100					1	mp3							bu6	200	200	200																										mp3																																																										0
-mp4 -> test item 9	1			100					1	mp4							bu7	200	200	200																										mp4																																																										0
-mp5 -> test item 10	1			100					1	mp5							1bu	200	200	200																										mp5																																																										0
-id scroll -> test item	1			100					1	isc							sg6	200	200	200																										isc																																																										0
-tp scroll -> crf-wep	1			100					1	tsc							cc0	200	200	200																										tsc																																																										0
-nos wep -> test	1			100					2	"any,uni"	ooc						"usetype,uni"	200	200	200																										isc																																																										0
-nos armo -> sock	1			100					2	"any,set"	ooc						"usetype,set"	200	200	200																										isc																																																										0
+hp1 -> test item 1	1			100					1	hp1							bi1	200	200	200																										hp1																																																										0
+hp2 -> test item 2	1			100					1	hp2							bi2	200	200	200																										hp2																																																										0
+hp3 -> test item 3	1			100					1	hp3							bi3	200	200	200																										hp3																																																										0
+hp4 -> test item 4	1			100					1	hp4							bi4	200	200	200	infusion-hell	100		0	0	pierce-immunity-damage			300	300	red-dmg%			-20	-10											hp4																																																										0
+hp5-> test item 5	1			100					1	hp5							bi5	200	200	200																										hp5																																																										0
+mp1 -> test item 6	1			100					1	mp1							bi6	200	200	200																										mp1																																																										0
+mp2 -> test item 7	1			100					1	mp2							bi7	200	200	200																										mp2																																																										0
+mp3 -> test item 8	1			100					1	mp3							bi8	200	200	200																										mp3																																																										0
+mp4 -> test item 9	1			100					1	mp4							bi9	200	200	200																										mp4																																																										0
+mp5 -> test item 10	1			100					1	mp5							10b	200	200	200																										mp5																																																										0
+id scroll -> test item	1			100					1	isc							11b	200	200	200																										isc																																																										0
+tp scroll -> crf-wep	1			100					1	tsc							12b	200	200	200																										tsc																																																										0
+nos wep -> test	1			100					2	"any,uni"	ood						"usetype,uni"	200	200	200																										isc																																																										0
+nos armo -> sock	1			100					2	"any,set"	ood						"usetype,set"	200	200	200																										isc																																																										0
 nos wep -> test	1			100					2	"amu,mag"	isc						useitem	200	200	200	corruption	100		9	9																					isc																																																										0
 nos armo -> sock	1			100					2	armo	isc						useitem	200	200	200																										isc																																																										0
