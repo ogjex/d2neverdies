@@ -25,11 +25,14 @@ Bidding B (H)			1						gb3	10	hb3	10	ib3	10	jb3	10	kb3	10	lb3	10	Bidding B (N)	5
 Bidding C (H)			1						mb3	10	nb3	10	zb3	10	pb3	10	qb3	10			Bidding C (N)	50												0
 Bidding D (H)			1						rb3	10	sb3	10	tb3	10	ub3	10	vb3	10	aa0	10	Bidding D (N)	50												0
 Bidding E (H)			1						Bidding A (H)	35	Bidding B (H)	25	Bidding C (H)	25	Bidding D (H)	15																		0
+Blood Bidding (A)			1						Bidding E (H)	38	bi1	2	bi2	2	bi3	2	bi4	2	bi5	2	bi6	2												0
+Blood Bidding (B)			1						Bidding E (H)	38	bi7	2	bi8	2	bi9	2	10b	2	11b	2	12b	2												0
+Blood Bidding (C)			1						Blood Bidding (A)	1	Blood Bidding (B)	1																						0
 Ammo			1						aqv	1	cqv	1																						0
 Misc 0			1						key	3	tsc	3	isc	3																				0
 Misc 1			1						key	3	tsc	3	isc	3																				0
 Misc 2			1						key	3	tsc	3	isc	3																				0
-Potion 0			1						hp1	12	hp2	7	mp1	12	mp2	7																		0
+Potion 0			1						hp1	12	hp2	7	mp1	12	mp2	7					 													0
 Potion 1			1						hp3	12	hp4	7	mp3	12	mp4	7																		0
 Potion 2			1						hp5	24	mp5	12	rvs	8	rvl	2																		0
 Runes 1			1						s01	3	s02	3	s03	2	s04	2																		0
@@ -164,18 +167,18 @@ Act 5 (H) Bow C	3	85	1						bow75	1	bow78	2	bow81	5	bow84	7	bow87	8	bow87	1	bow8
 Act 1 Good	5	0	1						Jewelry A	60	Runes 1	50	8gx	5	Bidding E	48																		0
 Act 2 Good	5	12	1						Jewelry B	80	Runes 2	50	8gx	5	Bidding E	48																		0
 Act 3 Good	5	18	1						Jewelry C	80	Runes 2	50	8gx	5	Bidding E	48																		0
-Act 4 Good	5	26	1						Jewelry C	200	Flawless Gem	64	Runes 3	50	8gx	5	Bidding E	32																0
-Act 5 Good	5	32	1						Jewelry C	200	Flawless Gem	64	Runes 3	50	8gx	5	Bidding E	32																0
-Act 1 (N) Good	5	38	1						Jewelry C	240	Flawless Gem	64	Runes 4	50	8gx	5	Bidding E (N)	32																0
-Act 2 (N) Good	5	42	1						Jewelry C	240	Flawless Gem	64	Runes 4	50	8gx	5	Bidding E (N)	32																0
-Act 3 (N) Good	5	46	1						Jewelry C	240	Flawless Gem	64	Runes 5	50	8gx	5	Bidding E (N)	32																0
-Act 4 (N) Good	5	51	1						Jewelry C	240	Flawless Gem	64	Runes 5	50	8gx	5	Bidding E (N)	32																0
-Act 5 (N) Good	5	57	1						Jewelry C	240	Perfect Gem	64	Runes 6	50	8gx	5	Bidding E (N)	32																0
-Act 1 (H) Good	5	66	1						Jewelry C	240	Perfect Gem	96	Runes 6	50	8gx	5	Bidding E (H)	32																0
-Act 2 (H) Good	5	72	1						Jewelry C	240	Perfect Gem	96	Runes 7	50	8gx	5	Bidding E (H)	32																0
-Act 3 (H) Good	5	78	1						Jewelry C	240	Perfect Gem	96	Runes 7	50	8gx	5	Bidding E (H)	32																0
-Act 4 (H) Good	5	82	1						Jewelry C	240	Perfect Gem	96	Runes 8	50	8gx	5	Bidding E (H)	32																0
-Act 5 (H) Good	5	85	1						Jewelry C	240	Perfect Gem	96	Runes 9	50	8gx	5	Bidding E (H)	32																0
+Act 4 Good	5	26	1						Jewelry C	200	Flawless Gem	64	Runes 3	50	8gx	5	Bidding E	20																0
+Act 5 Good	5	32	1						Jewelry C	200	Flawless Gem	64	Runes 3	50	8gx	5	Bidding E	20																0
+Act 1 (N) Good	5	38	1						Jewelry C	240	Flawless Gem	64	Runes 4	50	8gx	5	Bidding E (N)	20																0
+Act 2 (N) Good	5	42	1						Jewelry C	240	Flawless Gem	64	Runes 4	50	8gx	5	Bidding E (N)	20																0
+Act 3 (N) Good	5	46	1						Jewelry C	240	Flawless Gem	64	Runes 5	50	8gx	5	Bidding E (N)	20																0
+Act 4 (N) Good	5	51	1						Jewelry C	240	Flawless Gem	64	Runes 5	50	8gx	5	Bidding E (N)	20																0
+Act 5 (N) Good	5	57	1						Jewelry C	240	Perfect Gem	64	Runes 6	50	8gx	5	Blood Bidding C	20																0
+Act 1 (H) Good	5	66	1						Jewelry C	240	Perfect Gem	96	Runes 6	50	8gx	5	Blood Bidding C	20																0
+Act 2 (H) Good	5	72	1						Jewelry C	240	Perfect Gem	96	Runes 7	50	8gx	5	Blood Bidding C	20																0
+Act 3 (H) Good	5	78	1						Jewelry C	240	Perfect Gem	96	Runes 7	50	8gx	5	Blood Bidding C	20																0
+Act 4 (H) Good	5	82	1						Jewelry C	240	Perfect Gem	96	Runes 8	50	8gx	5	Blood Bidding C	20																0
+Act 5 (H) Good	5	85	1						Jewelry C	240	Perfect Gem	96	Runes 9	50	8gx	5	Blood Bidding C	20																0
 Act 1 Chest A	6	0	4					173	gld	10	Junk	15	Act 1 Equip A	10	Act 1 Good	4																		0
 Act 1 Chest B	6	5	4					173	gld	10	Junk	15	Act 1 Equip B	10	Act 1 Good	4																		0
 Act 1 Chest C	6	9	4					173	gld	10	Junk	12	Act 1 Equip C	15	Act 1 Good	4																		0
