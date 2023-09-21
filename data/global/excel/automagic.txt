@@ -260,15 +260,15 @@ Max Totems 2	100	1	1							1	638	extra-totems		1	1										armo												0	0
 Mark of the Wolf	100	1	1							1	639	hit-skill	Mark of the Wolf	20	1										armo												0	0
 Mark of the Bear	100	1	1							1	639	hit-skill	Mark of the Bear	20	1										armo												0	0
 TwoHandedSplash	100	1	1							1	640	splash	TwoHandSplash	100	1										armo	weap											0	0
-Blood Bidding DMG	100	1	1							1	641	dmg-min		5	5	dmg-max		11	11	att%		-10	-10														0	0
-Blood Bidding FHR	100	1	1							1	642	balance1		15	15	move1		-10	-10																		0	0
-Blood Bidding LIFE	100	1	1							1	643	hp%		25	25	mana%		-5	-5																		0	0
-Blood Bidding MANA	100	1	1							1	644	mana%		25	25	hp%		-5	-5																		0	0
-Blood Bidding DEF	100	1	1							1	645	ac%		100	100	res-all		-2	-2																		0	0
-Blood Bidding RES-ALL	100	1	1							1	646	res-all		5	5	ac%		-15	-15																		0	0
-Blood Bidding AR	100	1	1							1	647	att%		50	50	dmg%		-5	-5																		0	0
-Blood Bidding FIRE%	100	1	1							1	648	extra-fire		5	5	red-dmg%		-3	-3																		0	0
-Blood Bidding COLD%	100	1	1							1	649	extra-ltng		5	5	red-dmg%		-3	-3																		0	0
-Blood Bidding LTNG%	100	1	1							1	650	extra-cold		5	5	red-dmg%		-3	-3																		0	0
-Blood Bidding POIS%	100	1	1							1	651	extra-pois		5	5	red-dmg%		-3	-3																		0	0
-Blood Bidding MAGI%	100	1	1							1	652					red-dmg%		-3	-3																		0	0
+Blood Bidding DMG	100	1	1							1	641	dmg-min		5	5	dmg-max		11	11	att%		-10	-10		dmgb	bidd											0	0
+Blood Bidding FHR	100	1	1							1	642	balance1		15	15	move1		-10	-10						fhrb	bidd											0	0
+Blood Bidding LIFE	100	1	1							1	643	hp%		25	25	mana%		-5	-5						lifb	bidd											0	0
+Blood Bidding MANA	100	1	1							1	644	mana%		25	25	hp%		-5	-5						manb	bidd											0	0
+Blood Bidding DEF	100	1	1							1	645	ac%		100	100	res-all		-2	-2						defb	bidd											0	0
+Blood Bidding RES-ALL	100	1	1							1	646	res-all		5	5	ac%		-15	-15						resb	bidd											0	0
+Blood Bidding AR	100	1	1							1	647	att%		50	50	dmg%		-5	-5						atrb	bidd											0	0
+Blood Bidding FIRE%	100	1	1							1	648	extra-fire		5	5	red-dmg%		-3	-3						firb	bidd											0	0
+Blood Bidding COLD%	100	1	1							1	649	extra-ltng		5	5	red-dmg%		-3	-3						colb	bidd											0	0
+Blood Bidding LTNG%	100	1	1							1	650	extra-cold		5	5	red-dmg%		-3	-3						ltnb	bidd											0	0
+Blood Bidding POIS%	100	1	1							1	651	extra-pois		5	5	red-dmg%		-3	-3						poib	bidd											0	0
+Blood Bidding MAGI%	100	1	1							1	652					red-dmg%		-3	-3						magb	bidd											0	0
