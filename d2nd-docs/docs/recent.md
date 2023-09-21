@@ -2,6 +2,12 @@
 
 ## 2.0.0
 
+### KNown bugs:
+
+- Perfect Obsidian can currently not be stacked
+- Evil force string error in act 5 merc description
+- Wrong merc skill icons for icons 3-5 in merc inventory
+
 ### Fixes the following:
 
 - game now works with vanilla version 2.7
@@ -13,12 +19,9 @@
 - skeletal mages now correctly spawns with fire and lightning mages exclusively
 - Essences (burning, festering, hatred, etc) now unstack into unstacked versions
 - correct skill tabs are now infused from Blood Biddings
-- reduced distance for Force Cleave missile 
-- all poison-based attacks and properties now have a global 2 second duration
-- + elemental skills now properly give their bonuses
-- Decrepify cast by monsters now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
-- Nerfed Confuse amplify damage synergy to only provide Amp damage if Amplify Damage is 20 base skill points
-- changed Conversion skill to "Sacred Swordsmanship" that provides passive Parrying (Strafe + Dodge with no animation), increased attack rating, and synergises with Charge and Sanctuary Aura for two-handed swords ONLY, also colors the two-handed sword golden in its duration
+- melee splash damage now works properly
+- corrected pixel lines and visuals for merc inventory screen for m/k and controller
+
 
 ### Balances the following:
 - renamed Skill Biddings to "Blood Biddings" and can only be infused into Sunder Charms
@@ -27,6 +30,13 @@
 - renamed all biddings to generic "biddings" so player is forced to pick up
 - Arkaines Valor: increased defense range, added hp/lvl as in 1.10, added 50% Fire Resist, added repair durability
 - Inreased Melee Damage with 25% on all Exceptional and Elite Weapons across the board
+- reduced distance for Force Cleave missile 
+- all poison-based attacks and properties now have a global 2 second duration
+- + elemental skills now properly give their bonuses
+- Decrepify cast by monsters now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
+- Nerfed Confuse amplify damage synergy to only provide Amp damage if Amplify Damage is 20 base skill points
+- changed Conversion skill to "Sacred Swordsmanship" that provides passive Parrying (Strafe + Dodge with no animation), increased attack rating, and synergises with Charge and Sanctuary Aura for two-handed swords ONLY, also colors the two-handed sword golden in its duration
+
 
 ### Adds the following:
 - Slabs of Faith now drop from Baal Quest Drop Nightmare difficulty, and from all Nightmare Boss Desecrated 
@@ -44,6 +54,7 @@
 - new automod "% to not consume charges" added to all claws, daggers, bucklers, small shield and large shields, and random automod for gloves
 - added three new armors that grant "Mark" of Bear and Wolf specifically to use for shapeshifter characters (not restricted to Druid)
 - added new Runeword "Judgment" (GulChamHelJahDolUm) inspired by PD2 and added 2 handed sword to the item type
+- added two types of melee splash to one and twohanded weapons (onehanded is an arc, twohanded is a radial damage)
 
 ### Changes the following:
 
@@ -51,8 +62,8 @@
 
 - Act 2 Desert Mercs are now considered "pal" class
 - Act 3 Sorcerors are now considered "sor" class
-- Rogue fire merc now shoots Strafe
-- Rogue cold merc now shoots Multiple Shot
+- Act 1 fire merc now shoots Strafe (also added passive multiple shot to add as synergy with fire arrow)
+- Act 1 cold merc now shoots Multiple Shot
 - Act 3 Fire, Cold and Lightning Sorcerors now have Fire, Cold and Lightning Mastery, respectively 
 - Act 3 Lightning Sorcerors now have added Thunder Storm skill
 - Act 5 Mercs now all have Iron Skin and cast Shout
