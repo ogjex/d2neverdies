@@ -7,6 +7,7 @@
 - Perfect Obsidian can currently not be stacked
 - Evil force string error in act 5 merc description
 - Wrong merc skill icons for icons 3-5 in merc inventory
+- Corruptions on Set Items have visual bugs due to the added attributes (colors become weird, or the item may only reveal the corruption when worn)
 
 ### Fixes the following:
 
@@ -14,17 +15,16 @@
 - more than 600 minor bug fixes and performance improvements! (Thanks, D2RLint!)
 - fixed a nasty property duplicate bug that rendered wrong properties
 - skill tree panels now reflect correct prereqs for skills (dependencies simplified)
-- removed Might from Holy Fire requirement
-- removed Amplify Damage from Weaken requirement
 - skeletal mages now correctly spawns with fire and lightning mages exclusively
 - Essences (burning, festering, hatred, etc) now unstack into unstacked versions
 - correct skill tabs are now infused from Blood Biddings
 - melee splash damage now works properly
 - corrected pixel lines and visuals for merc inventory screen for m/k and controller
 
-
 ### Balances the following:
 - renamed Skill Biddings to "Blood Biddings" and can only be infused into Sunder Charms
+- removed Might from Holy Fire requirement
+- removed Amplify Damage from Weaken requirement
 - Enigma's Teleport are now "Lesser Teleport" with a long cooldown
 - Demon Machine now spawns with ctc Firewall
 - renamed all biddings to generic "biddings" so player is forced to pick up
@@ -36,6 +36,7 @@
 - Decrepify cast by monsters now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)
 - Nerfed Confuse amplify damage synergy to only provide Amp damage if Amplify Damage is 20 base skill points
 - changed Conversion skill to "Sacred Swordsmanship" that provides passive Parrying (Strafe + Dodge with no animation), increased attack rating, and synergises with Charge and Sanctuary Aura for two-handed swords ONLY, also colors the two-handed sword golden in its duration
+- reduced max life of all Golems, especially Clay Golem
 
 
 ### Adds the following:
@@ -55,12 +56,15 @@
 - added three new armors that grant "Mark" of Bear and Wolf specifically to use for shapeshifter characters (not restricted to Druid)
 - added new Runeword "Judgment" (GulChamHelJahDolUm) inspired by PD2 and added 2 handed sword to the item type
 - added two types of melee splash to one and twohanded weapons (onehanded is an arc, twohanded is a radial damage)
+- added new affix to skills that allow for "additional Revives" for Necro
 
 ### Changes the following:
 
 #### Mercenaries:
 
 - Act 2 Desert Mercs are now considered "pal" class
+- Act 2 Desert Mercs Might replaced with Vigor aura
+- Act 2 Desert Mercs Holy Freeze replaced with Sanctuary aura
 - Act 3 Sorcerors are now considered "sor" class
 - Act 1 fire merc now shoots Strafe (also added passive multiple shot to add as synergy with fire arrow)
 - Act 1 cold merc now shoots Multiple Shot
