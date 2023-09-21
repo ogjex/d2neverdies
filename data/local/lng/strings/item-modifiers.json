@@ -6785,7 +6785,7 @@
   {
     "id": 50053,
     "Key": "StrBaubDesc",
-    "enUS": "Enhance with Crafting Powers by cubing \n a full Jewel stack",
+    "enUS": "a full Jewel stack \n Enhance with Crafting Powers by cubing ",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6802,7 +6802,7 @@
   {
     "id": 50054,
     "Key": "StrCBaubDesc",
-    "enUS": "Enhance with Crafting Powers by cubing \n with a full stack of El runes",
+    "enUS": "with a full stack of El runes \n Enhance with Crafting Powers by cubing ",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6819,7 +6819,7 @@
   {
     "id": 50055,
     "Key": "StrCBaub1Desc",
-    "enUS": "Enhance with Crafting Powers by cubing \n with a full stack of Eld runes",
+    "enUS": "with a full stack of Eld runes \n Enhance with Crafting Powers by cubing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6836,7 +6836,7 @@
   {
     "id": 50056,
     "Key": "StrCBaub2Desc",
-    "enUS": "Enhance with Crafting Powers by cubing \n with a full stack of Tir runes",
+    "enUS": "with a full stack of Tir runes \n Enhance with Crafting Powers by cubing ",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6853,7 +6853,7 @@
   {
     "id": 50057,
     "Key": "StrCBaub3Desc",
-    "enUS": "Enhance with Crafting Powers by cubing \n with a full stack of Nef runes",
+    "enUS": "with a full stack of Nef runes \n Enhance with Crafting Powers by cubing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6870,7 +6870,7 @@
   {
     "id": 50058,
     "Key": "StrCBaub4Desc",
-    "enUS": "Enhance with Crafting Powers by cubing \n with a full stack of Eth runes",
+    "enUS": "with a full stack of Eth runes \n Enhance with Crafting Powers by cubing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6904,7 +6904,7 @@
   {
     "id": 50060,
     "Key": "StrCBaub6Desc",
-    "enUS": "Enhance with Crafting Powers by cubing \n with a full stack of Tal runes",
+    "enUS": "with a full stack of Tal runes \n Enhance with Crafting Powers by cubing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6921,7 +6921,7 @@
   {
     "id": 50061,
     "Key": "StrCBaub7Desc",
-    "enUS": "Enhance with Crafting Powers by cubing \n with a full stack of Perfect Gems",
+    "enUS": "with a full stack of Perfect Gems \n Enhance with Crafting Powers by cubing",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7007,6 +7007,23 @@
     "id": 50066,
     "Key": "twohandsplash",
     "enUS": "ÿc8Large Area Attack",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  }, 
+  {
+    "id": 50067,
+    "Key": "StrBloodBidDesc",
+    "enUS": "Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
