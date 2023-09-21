@@ -898,5 +898,26 @@
   { "cm6": { "asset": "charm/charm_medium" } },
   { "gg1": { "asset": "cube/bidding_sunder" } },
   { "gg2": { "asset": "cube/bidding_sunder" } },
-  { "gg3": { "asset": "cube/bidding_sunder" } }    
+  { "gg3": { "asset": "cube/bidding_sunder" } },
+  { "bi1": { "asset": "cube/bidding_blood" } },
+  { "bi2": { "asset": "cube/bidding_blood" } },
+  { "bi3": { "asset": "cube/bidding_blood" } },
+  { "bi4": { "asset": "cube/bidding_blood" } },
+  { "bi5": { "asset": "cube/bidding_blood" } },
+  { "bi6": { "asset": "cube/bidding_blood" } },
+  { "bi7": { "asset": "cube/bidding_blood" } },
+  { "bi8": { "asset": "cube/bidding_blood" } },
+  { "bi9": { "asset": "cube/bidding_blood" } },
+  { "11b": { "asset": "cube/bidding_blood" } },
+  { "12b": { "asset": "cube/bidding_blood" } }
 ]
+
+
+
+
+
+
+
+
+
+
