@@ -134,7 +134,7 @@ Organ Stack	ubrx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Essence Stack	escx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Crafting Stack	crfx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Core Stack	corx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
-Biddings	bidd																																		0
+Biddings	bidd			0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Strong Bidding	snb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Sturdy Bidding	snb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Burly Bidding	snb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
