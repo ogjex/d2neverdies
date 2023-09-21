@@ -27,6 +27,13 @@
 
 ![Crafting Example Fomenter's Bow](assets/crafting-3.png)
 
+- Collect Baubles and charge them with jewels, runes and P gems.
+- Extract Bauble Charges for quicker and smarter crafting.
+
+![Crafting Bauble](assets/crafting-bauble.png)
+
+![Bauble Charge](assets/crafting-bauble.png)
+
 ## Rerolling items
 
 - Use Orbs of Extraction to extract essences from uniques and set items 
