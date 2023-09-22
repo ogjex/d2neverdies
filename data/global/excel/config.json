@@ -61,7 +61,7 @@
       "action": "warn"
     }
   },
-  "generateDocs": true,
+  "generateDocs": false,
   "docOptions": {
     "title": "My Mod Documentation",
     "language": "enUS",
