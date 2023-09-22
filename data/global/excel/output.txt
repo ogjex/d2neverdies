@@ -1,792 +1,390 @@
-Log started at Thu Sep 21 2023 22:17:32 GMT+0200 (Centraleuropæisk sommertid)
-WARN	Basic/NoDuplicateExcel	itemtypes.txt - duplicate detected on lines 93 and 238 for field 'code' (ncha)
-WARN	Basic/LinkedExcel	misc.txt, line 390: type 'snbg' not found for 'sg1'
-WARN	Basic/LinkedExcel	misc.txt, line 391: type 'snbg' not found for 'sg2'
-WARN	Basic/LinkedExcel	misc.txt, line 392: type 'snbg' not found for 'sg3'
-WARN	Basic/LinkedExcel	misc.txt, line 393: type 'snbg' not found for 'sg4'
-WARN	Basic/LinkedExcel	misc.txt, line 394: type 'snbg' not found for 'sg5'
-WARN	Basic/LinkedExcel	misc.txt, line 395: type 'snbg' not found for 'sg6'
+Log started at Fri Sep 22 2023 13:37:43 GMT+0200 (Centraleuropæisk sommertid)
 WARN	Basic/LinkedExcel	skills.txt, line 375: skilldesc 'splash' not found for 'SplashDamage'
 WARN	Basic/LinkedExcel	skills.txt, line 387: skilldesc 'twohandsplash' not found for 'TwoHandSplash'
-WARN	Basic/LinkedExcel	skills.txt, line 141: itypea2 '2hw' not found for 'Cleave'
-WARN	Basic/NumericBounds	cubemain.txt, line 4949: invalid 'version' () for 'Blood Bidding DMG'
-WARN	Basic/NumericBounds	cubemain.txt, line 4950: invalid 'version' () for 'Blood Bidding FHR'
-WARN	Basic/NumericBounds	cubemain.txt, line 4951: invalid 'version' () for 'Blood Bidding LIFE'
-WARN	Basic/NumericBounds	cubemain.txt, line 4952: invalid 'version' () for 'Blood Bidding MANA'
-WARN	Basic/NumericBounds	cubemain.txt, line 4953: invalid 'version' () for 'Blood Bidding DEF'
-WARN	Basic/NumericBounds	cubemain.txt, line 4954: invalid 'version' () for 'Blood Bidding RES-ALL'
-WARN	Basic/NumericBounds	cubemain.txt, line 4955: invalid 'version' () for 'Blood Bidding AR'
-WARN	Basic/NumericBounds	cubemain.txt, line 4956: invalid 'version' () for 'Blood Bidding FIRE%'
-WARN	Basic/NumericBounds	cubemain.txt, line 4957: invalid 'version' () for 'Blood Bidding COLD%'
-WARN	Basic/NumericBounds	cubemain.txt, line 4958: invalid 'version' () for 'Blood Bidding LTNG%'
-WARN	Basic/NumericBounds	cubemain.txt, line 4959: invalid 'version' () for 'Blood Bidding POIS%'
-WARN	Cube/ValidInputs	cubemain.txt, line 3236: couldn't find 'helm,mag,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ral Rune + Perfect Ruby -> Blood Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3236: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ral Rune + Perfect Ruby -> Blood Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3236: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ral Rune + Perfect Ruby -> Blood Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3237: couldn't find 'helm,mag,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ral Rune + Perfect Ruby -> Blood Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3238: couldn't find 'helm,mag,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ral Rune + Perfect Ruby -> Blood Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3238: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ral Rune + Perfect Ruby -> Blood Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3238: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ral Rune + Perfect Ruby -> Blood Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3239: couldn't find 'helm,mag,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ral Rune + Perfect Ruby -> Blood Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3240: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Eth Rune + Perfect Ruby -> Blood Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3240: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Eth Rune + Perfect Ruby -> Blood Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3240: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Eth Rune + Perfect Ruby -> Blood Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3241: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Eth Rune + Perfect Ruby -> Blood Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3242: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Eth Rune + Perfect Ruby -> Blood Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3242: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Eth Rune + Perfect Ruby -> Blood Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3242: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Eth Rune + Perfect Ruby -> Blood Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3243: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Eth Rune + Perfect Ruby -> Blood Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3244: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Nef Rune + Perfect Ruby -> Blood Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3244: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Nef Rune + Perfect Ruby -> Blood Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3244: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Nef Rune + Perfect Ruby -> Blood Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3245: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Nef Rune + Perfect Ruby -> Blood Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3246: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Nef Rune + Perfect Ruby -> Blood Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3246: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Nef Rune + Perfect Ruby -> Blood Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3246: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Nef Rune + Perfect Ruby -> Blood Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3247: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Nef Rune + Perfect Ruby -> Blood Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3248: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Ruby -> Blood Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3248: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Ruby -> Blood Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3248: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Ruby -> Blood Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3249: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Ruby -> Blood Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3250: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Ruby -> Blood Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3250: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Ruby -> Blood Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3250: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Ruby -> Blood Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3251: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Ruby -> Blood Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3252: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Ruby -> Blood Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3252: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Ruby -> Blood Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3252: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Ruby -> Blood Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3253: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Ruby -> Blood Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3254: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Ruby -> Blood Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3254: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Ruby -> Blood Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3254: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Ruby -> Blood Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3255: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Ruby -> Blood Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3256: couldn't find 'tors,mag,noe' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Thul Rune + Perfect Ruby -> Blood Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3256: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Thul Rune + Perfect Ruby -> Blood Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3256: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Thul Rune + Perfect Ruby -> Blood Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3257: couldn't find 'tors,mag,noe' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Thul Rune + Perfect Ruby -> Blood Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3258: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Thul Rune + Perfect Ruby -> Blood Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3258: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Thul Rune + Perfect Ruby -> Blood Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3258: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Thul Rune + Perfect Ruby -> Blood Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3259: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Thul Rune + Perfect Ruby -> Blood Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3260: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Amn Rune + Perfect Ruby -> Blood Amulet'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3260: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Amn Rune + Perfect Ruby -> Blood Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3260: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Amn Rune + Perfect Ruby -> Blood Amulet'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3261: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Amn Rune + Perfect Ruby -> Blood Amulet'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3262: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Sol Rune + Perfect Ruby -> Blood Ring'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3262: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Sol Rune + Perfect Ruby -> Blood Ring'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3262: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Sol Rune + Perfect Ruby -> Blood Ring'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3263: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Sol Rune + Perfect Ruby -> Blood Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3264: couldn't find 'weap,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Ort Rune + Perfect Ruby -> Blood Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3264: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Ort Rune + Perfect Ruby -> Blood Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3264: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Ort Rune + Perfect Ruby -> Blood Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3265: couldn't find 'weap,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Ort Rune + Perfect Ruby -> Blood Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3266: couldn't find 'weap,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Ort Rune + Perfect Ruby -> Blood Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3266: couldn't find 'r06,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Ort Rune + Perfect Ruby -> Blood Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3266: couldn't find 'gpr,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Ort Rune + Perfect Ruby -> Blood Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3267: couldn't find 'weap,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Ort Rune + Perfect Ruby -> Blood Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3269: couldn't find 'circ,rar,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Nef Rune + Perfect Amethyst -> Caster Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3269: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Nef Rune + Perfect Amethyst -> Caster Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3269: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Nef Rune + Perfect Amethyst -> Caster Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3270: couldn't find 'circ,rar,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Nef Rune + Perfect Amethyst -> Caster Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3271: couldn't find 'circ,rar,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Nef Rune + Perfect Amethyst -> Caster Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3271: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Nef Rune + Perfect Amethyst -> Caster Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3271: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Nef Rune + Perfect Amethyst -> Caster Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3272: couldn't find 'circ,rar,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Nef Rune + Perfect Amethyst -> Caster Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3273: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Thul Rune + Perfect Amethyst -> Caster Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3273: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Thul Rune + Perfect Amethyst -> Caster Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3273: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Thul Rune + Perfect Amethyst -> Caster Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3274: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Thul Rune + Perfect Amethyst -> Caster Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3275: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Thul Rune + Perfect Amethyst -> Caster Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
+WARN	Cube/ValidInputs	cubemain.txt, line 3273: wrong numinputs. expected 3, found 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Thul Rune + Perfect Amethyst -> Caster Boots'
 WARN	Cube/ValidInputs	cubemain.txt, line 3275: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Thul Rune + Perfect Amethyst -> Caster Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3275: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Thul Rune + Perfect Amethyst -> Caster Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3276: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Thul Rune + Perfect Amethyst -> Caster Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3277: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Amethyst -> Caster Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3277: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Amethyst -> Caster Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3277: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Amethyst -> Caster Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3278: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Amethyst -> Caster Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3279: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Amethyst -> Caster Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3279: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Amethyst -> Caster Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3279: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Amethyst -> Caster Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3280: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Amethyst -> Caster Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3281: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Ith Rune + Perfect Amethyst -> Caster Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3281: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Ith Rune + Perfect Amethyst -> Caster Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3281: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Ith Rune + Perfect Amethyst -> Caster Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3282: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Ith Rune + Perfect Amethyst -> Caster Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3283: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Ith Rune + Perfect Amethyst -> Caster Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3283: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Ith Rune + Perfect Amethyst -> Caster Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3283: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Ith Rune + Perfect Amethyst -> Caster Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3284: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Ith Rune + Perfect Amethyst -> Caster Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3285: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3285: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3285: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3286: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3287: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3287: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3287: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3288: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Amethyst -> Caster Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3289: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3289: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3289: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3290: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3291: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3291: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3291: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3292: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tal Rune + Perfect Amethyst -> Caster Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3293: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Ral Rune + Perfect Amethyst -> Caster Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3293: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Ral Rune + Perfect Amethyst -> Caster Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3293: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Ral Rune + Perfect Amethyst -> Caster Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3294: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Ral Rune + Perfect Amethyst -> Caster Amulet'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3295: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Amethyst -> Caster Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3295: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Amethyst -> Caster Ring'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3295: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Amethyst -> Caster Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3296: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Amethyst -> Caster Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3297: couldn't find 'weap,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Amethyst -> Caster Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3297: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Amethyst -> Caster Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3297: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Amethyst -> Caster Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3298: couldn't find 'weap,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Amethyst -> Caster Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3299: couldn't find 'weap,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Amethyst -> Caster Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3299: couldn't find 'r05,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Amethyst -> Caster Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3299: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Amethyst -> Caster Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3300: couldn't find 'weap,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Amethyst -> Caster Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3302: couldn't find 'helm,mag,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Emerald -> Safety Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3302: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Emerald -> Safety Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3302: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Emerald -> Safety Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3303: couldn't find 'helm,mag,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Emerald -> Safety Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3304: couldn't find 'helm,mag,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Emerald -> Safety Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3304: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Emerald -> Safety Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3304: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Emerald -> Safety Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3305: couldn't find 'helm,mag,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Emerald -> Safety Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3306: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ort Rune + Perfect Emerald -> Safety Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3306: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ort Rune + Perfect Emerald -> Safety Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3306: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ort Rune + Perfect Emerald -> Safety Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3307: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ort Rune + Perfect Emerald -> Safety Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3308: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ort Rune + Perfect Emerald -> Safety Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3308: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ort Rune + Perfect Emerald -> Safety Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3308: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ort Rune + Perfect Emerald -> Safety Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3309: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ort Rune + Perfect Emerald -> Safety Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3310: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ral Rune + Perfect Emerald -> Safety Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3310: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ral Rune + Perfect Emerald -> Safety Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3310: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ral Rune + Perfect Emerald -> Safety Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3311: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ral Rune + Perfect Emerald -> Safety Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3312: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ral Rune + Perfect Emerald -> Safety Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3312: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ral Rune + Perfect Emerald -> Safety Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3312: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ral Rune + Perfect Emerald -> Safety Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3313: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ral Rune + Perfect Emerald -> Safety Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3314: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Emerald -> Safety Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3314: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Emerald -> Safety Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3314: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Emerald -> Safety Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3315: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Emerald -> Safety Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3316: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Emerald -> Safety Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3316: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Emerald -> Safety Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3316: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Emerald -> Safety Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3317: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Emerald -> Safety Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3318: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Nef Rune + Perfect Emerald -> Safety Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3318: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Nef Rune + Perfect Emerald -> Safety Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3318: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Nef Rune + Perfect Emerald -> Safety Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3319: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Nef Rune + Perfect Emerald -> Safety Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3320: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Nef Rune + Perfect Emerald -> Safety Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3320: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Nef Rune + Perfect Emerald -> Safety Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3320: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Nef Rune + Perfect Emerald -> Safety Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3321: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Nef Rune + Perfect Emerald -> Safety Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3322: couldn't find 'tors,mag,noe' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eth Rune + Perfect Emerald -> Safety Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3322: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eth Rune + Perfect Emerald -> Safety Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3322: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eth Rune + Perfect Emerald -> Safety Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3323: couldn't find 'tors,mag,noe' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eth Rune + Perfect Emerald -> Safety Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3324: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eth Rune + Perfect Emerald -> Safety Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3324: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eth Rune + Perfect Emerald -> Safety Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3324: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eth Rune + Perfect Emerald -> Safety Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3325: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eth Rune + Perfect Emerald -> Safety Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3326: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Thul Rune + Perfect Emerald -> Safety Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3326: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Thul Rune + Perfect Emerald -> Safety Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3326: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Thul Rune + Perfect Emerald -> Safety Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3327: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Thul Rune + Perfect Emerald -> Safety Amulet'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3328: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Emerald -> Safety Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3328: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Emerald -> Safety Ring'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3328: couldn't find 'gpg,qty=1' for input 4 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Emerald -> Safety Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3329: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Emerald -> Safety Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3330: couldn't find 'weap,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Sol Rune + Perfect Emerald -> Safety Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3330: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Sol Rune + Perfect Emerald -> Safety Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3330: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Sol Rune + Perfect Emerald -> Safety Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3331: couldn't find 'weap,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Sol Rune + Perfect Emerald -> Safety Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3332: couldn't find 'weap,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Sol Rune + Perfect Emerald -> Safety Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3332: couldn't find 'r02,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Sol Rune + Perfect Emerald -> Safety Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3332: couldn't find 'gpb,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Sol Rune + Perfect Emerald -> Safety Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3333: couldn't find 'weap,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Sol Rune + Perfect Emerald -> Safety Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3335: couldn't find 'helm,mag,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3335: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3335: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3336: couldn't find 'helm,mag,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3337: couldn't find 'helm,mag,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3337: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3337: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3338: couldn't find 'helm,mag,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Ith Rune + Perfect Sapphire -> Hitpower Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3339: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ral Rune + Perfect Sapphire -> Hitpower Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3339: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ral Rune + Perfect Sapphire -> Hitpower Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3339: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ral Rune + Perfect Sapphire -> Hitpower Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3340: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ral Rune + Perfect Sapphire -> Hitpower Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3341: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ral Rune + Perfect Sapphire -> Hitpower Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3341: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ral Rune + Perfect Sapphire -> Hitpower Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3341: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ral Rune + Perfect Sapphire -> Hitpower Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3342: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Ral Rune + Perfect Sapphire -> Hitpower Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3343: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Sapphire -> Hitpower Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3343: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Sapphire -> Hitpower Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3343: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Sapphire -> Hitpower Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3344: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Sapphire -> Hitpower Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3345: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Sapphire -> Hitpower Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3345: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Sapphire -> Hitpower Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3345: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Sapphire -> Hitpower Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3346: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Ort Rune + Perfect Sapphire -> Hitpower Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3347: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Sapphire -> Hitpower Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3347: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Sapphire -> Hitpower Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3347: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Sapphire -> Hitpower Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3348: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Sapphire -> Hitpower Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3349: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Sapphire -> Hitpower Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3349: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Sapphire -> Hitpower Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3349: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Sapphire -> Hitpower Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3350: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Tal Rune + Perfect Sapphire -> Hitpower Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3351: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Sapphire -> Hitpower Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3351: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Sapphire -> Hitpower Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3351: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Sapphire -> Hitpower Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3352: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Sapphire -> Hitpower Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3353: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Sapphire -> Hitpower Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3353: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Sapphire -> Hitpower Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3353: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Sapphire -> Hitpower Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3354: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Eth Rune + Perfect Sapphire -> Hitpower Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3355: couldn't find 'tors,mag,noe' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Nef Rune + Perfect Sapphire -> Hitpower Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3355: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Nef Rune + Perfect Sapphire -> Hitpower Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3355: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Nef Rune + Perfect Sapphire -> Hitpower Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3356: couldn't find 'tors,mag,noe' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Nef Rune + Perfect Sapphire -> Hitpower Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3357: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Nef Rune + Perfect Sapphire -> Hitpower Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3357: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Nef Rune + Perfect Sapphire -> Hitpower Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3357: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Nef Rune + Perfect Sapphire -> Hitpower Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3358: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Nef Rune + Perfect Sapphire -> Hitpower Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3359: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Thul Rune + Perfect Sapphire -> Hitpower Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3359: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Thul Rune + Perfect Sapphire -> Hitpower Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3359: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Thul Rune + Perfect Sapphire -> Hitpower Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3360: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Thul Rune + Perfect Sapphire -> Hitpower Amulet'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3361: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Sapphire -> Hitpower Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3361: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Sapphire -> Hitpower Ring'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3361: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Sapphire -> Hitpower Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3362: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Amn Rune + Perfect Sapphire -> Hitpower Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3363: couldn't find 'miss,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Sapphire -> Hitpower Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3363: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Sapphire -> Hitpower Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3363: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Sapphire -> Hitpower Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3364: couldn't find 'miss,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Sapphire -> Hitpower Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3365: couldn't find 'miss,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Sapphire -> Hitpower Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3365: couldn't find 'r04,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Sapphire -> Hitpower Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3365: couldn't find 'gpv,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Sapphire -> Hitpower Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3366: couldn't find 'miss,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Tir Rune + Perfect Sapphire -> Hitpower Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3368: couldn't find 'helm,mag,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Lum Rune + Perfect Skull -> Spectral Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3368: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Lum Rune + Perfect Skull -> Spectral Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3368: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Lum Rune + Perfect Skull -> Spectral Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3369: couldn't find 'helm,mag,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Lum Rune + Perfect Skull -> Spectral Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3370: couldn't find 'helm,mag,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Lum Rune + Perfect Skull -> Spectral Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3370: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Lum Rune + Perfect Skull -> Spectral Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3370: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Lum Rune + Perfect Skull -> Spectral Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3371: couldn't find 'helm,mag,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Lum Rune + Perfect Skull -> Spectral Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3372: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 El Rune + Perfect Skull -> Spectral Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3372: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 El Rune + Perfect Skull -> Spectral Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3372: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 El Rune + Perfect Skull -> Spectral Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3373: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 El Rune + Perfect Skull -> Spectral Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3374: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 El Rune + Perfect Skull -> Spectral Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3374: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 El Rune + Perfect Skull -> Spectral Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3374: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 El Rune + Perfect Skull -> Spectral Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3375: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 El Rune + Perfect Skull -> Spectral Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3376: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Io Rune + Perfect Skull -> Spectral Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3376: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Io Rune + Perfect Skull -> Spectral Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3376: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Io Rune + Perfect Skull -> Spectral Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3377: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Io Rune + Perfect Skull -> Spectral Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3378: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Io Rune + Perfect Skull -> Spectral Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3378: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Io Rune + Perfect Skull -> Spectral Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3378: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Io Rune + Perfect Skull -> Spectral Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3379: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Io Rune + Perfect Skull -> Spectral Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3380: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Eld Rune + Perfect Skull -> Spectral Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3380: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Eld Rune + Perfect Skull -> Spectral Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3380: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Eld Rune + Perfect Skull -> Spectral Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3381: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Eld Rune + Perfect Skull -> Spectral Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3382: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Eld Rune + Perfect Skull -> Spectral Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3382: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Eld Rune + Perfect Skull -> Spectral Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3382: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Eld Rune + Perfect Skull -> Spectral Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3383: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 Eld Rune + Perfect Skull -> Spectral Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3384: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Skull -> Spectral Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3384: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Skull -> Spectral Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3384: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Skull -> Spectral Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3385: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Skull -> Spectral Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3386: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Skull -> Spectral Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3386: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Skull -> Spectral Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3386: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Skull -> Spectral Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3387: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Ith Rune + Perfect Skull -> Spectral Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3388: couldn't find 'tors,mag,noe' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tir Rune + Perfect Skull -> Spectral Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3388: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tir Rune + Perfect Skull -> Spectral Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3388: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tir Rune + Perfect Skull -> Spectral Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3389: couldn't find 'tors,mag,noe' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tir Rune + Perfect Skull -> Spectral Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3390: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tir Rune + Perfect Skull -> Spectral Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3390: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tir Rune + Perfect Skull -> Spectral Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3390: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tir Rune + Perfect Skull -> Spectral Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3391: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Tir Rune + Perfect Skull -> Spectral Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3392: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Dol Rune + Perfect Skull -> Spectral Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3392: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Dol Rune + Perfect Skull -> Spectral Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3392: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Dol Rune + Perfect Skull -> Spectral Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3393: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Dol Rune + Perfect Skull -> Spectral Amulet'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3394: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Hel Rune + Perfect Skull  -> Spectral Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3394: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Hel Rune + Perfect Skull  -> Spectral Ring'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3394: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Hel Rune + Perfect Skull  -> Spectral Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3395: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Hel Rune + Perfect Skull  -> Spectral Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3396: couldn't find 'weap,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Skull -> Spectral Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3396: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Skull -> Spectral Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3396: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Skull -> Spectral Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3397: couldn't find 'weap,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Skull -> Spectral Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3398: couldn't find 'weap,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Skull -> Spectral Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3398: couldn't find 'r03,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Skull -> Spectral Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3398: couldn't find 'skz,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Skull -> Spectral Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3399: couldn't find 'weap,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Skull -> Spectral Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3401: couldn't find 'helm,mag,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Tir Rune + Perfect Topaz -> Plentiful Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3401: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Tir Rune + Perfect Topaz -> Plentiful Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3401: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Tir Rune + Perfect Topaz -> Plentiful Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3402: couldn't find 'helm,mag,noe' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Tir Rune + Perfect Topaz -> Plentiful Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3403: couldn't find 'helm,mag,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Tir Rune + Perfect Topaz -> Plentiful Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3403: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Tir Rune + Perfect Topaz -> Plentiful Helm'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3403: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Tir Rune + Perfect Topaz -> Plentiful Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3404: couldn't find 'helm,mag,eth' for input 1 in recipe '1 Magic Helm + 1 Jewel Fragment + 1 Tir Rune + Perfect Topaz -> Plentiful Helm'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3405: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Io Rune + Perfect Topaz -> Plentiful Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3405: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Io Rune + Perfect Topaz -> Plentiful Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3405: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Io Rune + Perfect Topaz -> Plentiful Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3406: couldn't find 'boot,mag,noe' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Io Rune + Perfect Topaz -> Plentiful Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3407: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Io Rune + Perfect Topaz -> Plentiful Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3407: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Io Rune + Perfect Topaz -> Plentiful Boots'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3407: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Io Rune + Perfect Topaz -> Plentiful Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3408: couldn't find 'boot,mag,eth' for input 1 in recipe '1 Magic Boots + 1 Jewel Fragment + 1 Io Rune + Perfect Topaz -> Plentiful Boots'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3409: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Hel Rune + Perfect Topaz -> Plentiful Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3409: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Hel Rune + Perfect Topaz -> Plentiful Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3409: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Hel Rune + Perfect Topaz -> Plentiful Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3410: couldn't find 'glov,mag,noe' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Hel Rune + Perfect Topaz -> Plentiful Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3411: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Hel Rune + Perfect Topaz -> Plentiful Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3411: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Hel Rune + Perfect Topaz -> Plentiful Gloves'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3411: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Hel Rune + Perfect Topaz -> Plentiful Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3412: couldn't find 'glov,mag,eth' for input 1 in recipe '1 Magic Gloves + 1 Jewel Fragment + 1 Hel Rune + Perfect Topaz -> Plentiful Gloves'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3413: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 El Rune + Perfect Topaz -> Plentiful Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3413: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 El Rune + Perfect Topaz -> Plentiful Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3413: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 El Rune + Perfect Topaz -> Plentiful Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3414: couldn't find 'belt,mag,noe' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 El Rune + Perfect Topaz -> Plentiful Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3415: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 El Rune + Perfect Topaz -> Plentiful Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3415: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 El Rune + Perfect Topaz -> Plentiful Belt'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3415: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 El Rune + Perfect Topaz -> Plentiful Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3416: couldn't find 'belt,mag,eth' for input 1 in recipe '1 Magic Belt + 1 Jewel Fragment + 1 El Rune + Perfect Topaz -> Plentiful Belt'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3417: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Dol Rune + Perfect Topaz  -> Plentiful Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3417: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Dol Rune + Perfect Topaz  -> Plentiful Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3417: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Dol Rune + Perfect Topaz  -> Plentiful Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3418: couldn't find 'shld,mag,noe' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Dol Rune + Perfect Topaz  -> Plentiful Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3419: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Dol Rune + Perfect Topaz -> Plentiful Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3419: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Dol Rune + Perfect Topaz -> Plentiful Shield'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3419: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Dol Rune + Perfect Topaz -> Plentiful Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3420: couldn't find 'shld,mag,eth' for input 1 in recipe '1 Magic Shield + 1 Jewel Fragment + 1 Dol Rune + Perfect Topaz -> Plentiful Shield'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3421: couldn't find 'tors,mag,noe' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eld Rune + Perfect Topaz -> Plentiful Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3421: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eld Rune + Perfect Topaz -> Plentiful Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3421: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eld Rune + Perfect Topaz -> Plentiful Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3422: couldn't find 'tors,mag,noe' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eld Rune + Perfect Topaz -> Plentiful Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3423: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eld Rune + Perfect Topaz -> Plentiful Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3423: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eld Rune + Perfect Topaz -> Plentiful Torso'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3423: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eld Rune + Perfect Topaz -> Plentiful Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3424: couldn't find 'tors,mag,eth' for input 1 in recipe '1 Magic Torso + 1 Jewel Fragment + 1 Eld Rune + Perfect Topaz -> Plentiful Torso'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3425: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Ko Rune + Perfect Topaz -> Plentiful Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3425: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Ko Rune + Perfect Topaz -> Plentiful Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3425: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Ko Rune + Perfect Topaz -> Plentiful Amulet'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3426: couldn't find 'amul,mag' for input 1 in recipe '1 Magic Amulet + 1 Jewel Fragment + 1 Ko Rune + Perfect Topaz -> Plentiful Amulet'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3427: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Lum Rune + Perfect Topaz -> Plentiful Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3427: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Lum Rune + Perfect Topaz -> Plentiful Ring'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3427: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Lum Rune + Perfect Topaz -> Plentiful Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3428: couldn't find 'ring,mag' for input 1 in recipe '1 Magic Ring + 1 Jewel Fragment + 1 Lum Rune + Perfect Topaz -> Plentiful Ring'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3429: couldn't find 'weap,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3429: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3429: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3430: couldn't find 'weap,mag,noe' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3431: couldn't find 'weap,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3431: couldn't find 'r07,qty=1' for input 3 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Cube/ValidInputs	cubemain.txt, line 3431: couldn't find 'gpy,qty=1' for input 4 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon'
-MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
-WARN	Cube/ValidInputs	cubemain.txt, line 3432: couldn't find 'weap,mag,eth' for input 1 in recipe '1 Magic Weapon + 1 Jewel Fragment + 1 Shael Rune + Perfect Topaz -> Plentiful Weapon'
 MESSAGE	Cube/ValidInputs	(hint: try wrapping with quotation marks)
 WARN	Items/ValidStatParameters	automagic.txt, line 268: 'mod2min': value (-3) below save add minimum (0) for 'Blood Bidding RES-ALL'
 WARN	Items/ValidStatParameters	automagic.txt, line 268: 'mod2max': value (-3) below save add minimum (0) for 'Blood Bidding RES-ALL'
@@ -802,4 +400,3 @@ WARN	Items/ValidStatParameters	automagic.txt, line 273: 'mod3min': value (-2) be
 WARN	Items/ValidStatParameters	automagic.txt, line 273: 'mod3max': value (-2) below save add minimum (0) for 'Blood Bidding POIS%'
 WARN	Items/ValidStatParameters	automagic.txt, line 274: 'mod3min': value (-2) below save add minimum (0) for 'Blood Bidding MAGI%'
 WARN	Items/ValidStatParameters	automagic.txt, line 274: 'mod3max': value (-2) below save add minimum (0) for 'Blood Bidding MAGI%'
-WARN	Items/ValidStatParameters	runes.txt, line 65: skill with id 'Fist of Heavens' not found on 't1param2' for 'Runeword64'
