@@ -1,6 +1,4 @@
-Log started at Fri Sep 22 2023 13:45:27 GMT+0200 (Centraleuropæisk sommertid)
-WARN	Basic/LinkedExcel	skills.txt, line 375: skilldesc 'splash' not found for 'SplashDamage'
-WARN	Basic/LinkedExcel	skills.txt, line 387: skilldesc 'twohandsplash' not found for 'TwoHandSplash'
+Log started at Fri Sep 22 2023 13:46:07 GMT+0200 (Centraleuropæisk sommertid)
 WARN	Items/ValidStatParameters	automagic.txt, line 268: 'mod2min': value (-3) below save add minimum (0) for 'Blood Bidding RES-ALL'
 WARN	Items/ValidStatParameters	automagic.txt, line 268: 'mod2max': value (-3) below save add minimum (0) for 'Blood Bidding RES-ALL'
 WARN	Items/ValidStatParameters	automagic.txt, line 269: 'mod3min': value (-2) below save add minimum (0) for 'Blood Bidding AR'
