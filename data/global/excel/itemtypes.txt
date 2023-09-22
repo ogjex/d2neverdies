@@ -85,7 +85,7 @@ Thawing Potion	wpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
 Small Charm	scha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
 Medium Charm	mcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch2	invch5	invch8				misc	0
 Large Charm	lcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
-Player Charm	pcha			0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3							misc	0
+Player Charm	pcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3							misc	0
 Amazon's Valor	zcha	char	amaz	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3		ama	3	invch1	invch4	invch7				misc	0
 Assassin's Valor	acha	char	assn	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3		ass	3	invch1	invch4	invch7				misc	0
 Barbarian's Valor	bcha	char	barb	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3		bar	3	invch1	invch4	invch7				misc	0
@@ -111,7 +111,7 @@ Ruby	gemr	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Sapphire	gems	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Topaz	gemt	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Skull	gemz	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Obsidian	obsi			0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Obsidian	obsi	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Merc Equip	helm	armo	merc	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
 Swords and Knives	blde	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 Spears and Polearms	sppl	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
@@ -134,7 +134,7 @@ Organ Stack	ubrx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Essence Stack	escx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Crafting Stack	crfx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
 Core Stack	corx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	1			0							misc	0
-Biddings	bidd			0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
+Biddings	bidd	misc		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Strong Bidding	snb1	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Sturdy Bidding	snb2	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Burly Bidding	snb3	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
@@ -235,7 +235,7 @@ Blood Bidding COLD%	colb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							
 Blood Bidding LTNG%	ltnb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Blood Bidding POIS%	poib	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Blood Bidding MAGI%	magb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
-New charms	ncha			0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3							misc	0
+New charms	ncha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3							misc	0
 Nephalem's Admiration	nead	ncha		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch2	invch5	invch8				misc	0
 Pierce Grand Charms	pich	ncha		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
 Slab of Faith	slof	ncha		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
