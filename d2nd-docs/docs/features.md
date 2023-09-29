@@ -1,3 +1,21 @@
+## Skills
+
+- most skills have been reworked, rebalanced or replaced with more useful skills
+
+![Sacred Swordsmanship](assets/sacred-swordsmanship.png)
+
+![Claw Mastery](assets/claw-mastery.png)
+
+![Iron Maiden](assets/iron-maiden.png)
+
+![Boneflesh Golem](assets/boneflesh-golem.png)
+
+![Pyroshock Golem](assets/pyroshock-golem.png)
+
+![Frozen Guard](assets/frozen-guard.png)
+
+![Heat Stroke](assets/heat-stroke.png)
+
 ## Corruptions
 
 - Collect Glyphs to corrupt and imbue items with sockets, additional properties at the chance of ruining the item
@@ -30,9 +48,17 @@
 - Collect Baubles and charge them with jewels, runes and P gems.
 - Extract Bauble Charges for quicker and smarter crafting.
 
-![Crafting Bauble](assets/crafting-bauble.png)
+![Bauble](assets/crafting.png)
 
-![Bauble Charge](assets/crafting-bauble.png)
+![Crafting Bauble](assets/bauble-crafting.png)
+
+![Crafting Bauble El](assets/bauble-el.png)
+
+![Crafting Bauble Tal](assets/bauble-tal.png)
+
+![Crafting Bauble Combatants](assets/bauble-combatants.png)
+
+![Bauble Charge](assets/bauble-charge-combatants.png)
 
 ## Rerolling items
 
@@ -51,6 +77,11 @@
 
 ![Set Exceptional Charge](assets/charge-ex-com.png)
 
+## New items
+
+- New normal, exceptional and elite armors that help out shapeshifters
+
+![Shapeshifter armor](assets/armor-shapeshift.png)
 
 ## Forging set and unique items
 
@@ -62,7 +93,7 @@
 
 <!--- ![Forging Example 3](assets/forging-3.png) --->
 
-## New Valor Charm
+## New Charms
 
 - Each new character now starts with a personalized "Valor" charm; these can also be bought from vendors
 - With a single charm, your character now has more room for loot
@@ -79,6 +110,16 @@
 - Use the Valor charms to completely tailor-make your character build and use them as leveling devices
 
 ![Character Valor Full](assets/valor-2.png)
+
+- Sunder Charms now need to be crafted from Obsidian, and can be infused with strong attributes using Blood Biddings
+
+![Sunder Bidding](assets/bidding-sunder.png)
+
+![Sunder Charm](assets/sunder-charm.png)
+
+![Blood Bidding 1](assets/bidding-blood1.png)
+
+![Blood Bidding 2](assets/bidding-blood2.png)
 
 ## Updated automagic attributes to lesser used items
 - Armors are now divided into light, caster, and heavy armors.
@@ -102,6 +143,12 @@
 - Staves contain more defensive and offensive attributes
 
 ![Automagic Staff](assets/staff.png)
+
+- Claws and small shields now contain "Chance to not consume charges" for Assassin
+
+![Claw No Consume](assets/claw_chance_consume.png)
+
+![Small Shield No Consume](assets/small-shield-consume.png)
 
 ## New inventory, stash and Horadric Cube
 
@@ -135,14 +182,21 @@
 
 ## Item updates and QoL
 
-- Melee items now deal Area Attack (splash) based on base item damage (for easier melee leveling)
+- Melee items now deal Area Attack (splash) based on base item damage (for easier melee leveling). Onehanded melee weapons deal damage in an arc, while twohanded weapons deal damage in a radius.
+
+- Melee damage has been buffed by 125% on exceptional and elite weapons across the board
+
+![Melee Damage](assets/melee-damage.png)
 
 - Jewels can be be cubed into minor Jewel Fragments, and they stack!
+
 ![Jewel Fragment Stack](assets/jewel-fragment.png)
 
 - Rare items increase number of affixes
+
 ![Rare Tomahawk](assets/rare-tomahawk.png)
 
 - Descriptions on gems, runes and other stackables for ease of access
+
 ![Gem Descriptions](assets/gem-desc.png)
 
