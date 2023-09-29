@@ -289,10 +289,10 @@ infusion-cost	1	1	item_infuse_cost																																0
 lvl-cost	1	1	item_lvl_cost																																0
 forged	1	1	item_isforged																																0
 gambles	1	1	item_gamble_cost																																0
-infusion-hell	1	1	item_hell_infused																																0
-infusion-cost-hell	1	1	item_infuse_cost_hell																																0
+infusion-hell	1	1	item_hell_infused																											not currently used					0
+infusion-cost-hell	1	1	item_infuse_cost_hell																											not currently used					0
 extra-vines	1	1	item_max_vines																																0
 extra-totems	1	1	item_max_totems																																0
 extra-skeletons	1	1	item_max_skeletons																																0
 extra-revives	1	1	item_max_revives																																0
-craft-charge	1	1	crafting_charge_counter																																0
+craft-charge	1	1	crafting_charge_counter																											not currently used					0
