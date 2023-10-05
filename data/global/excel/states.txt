@@ -22,7 +22,7 @@ weaken	19						1	1													1																						curseweaken					curse_hit	
 chillingarmor	20	1												1																													chillarmor							skill_armor_percent																hitbymissile	1					0
 stunned	21																																										stun																													0
 spiderlay	22																																																																							0
-dimvision	23						1	1																																			cursedimvision					curse_hit														necromancer_dimvision										0
+dimvision	23						1																																				cursedimvision					curse_hit														necromancer_dimvision										0
 slowed	24																																																																							0
 fetishaura	25																																										fetish_aura							attackrate																						0
 shout	26					1								1																													shout					shoutstart		skill_armor_percent																						0
@@ -58,7 +58,7 @@ ironmaiden	55						1																																				curseironmaiden					curs
 terror	56						1																																				curseterror					curse_hit														necromancer_taint										0
 attract	57						1	1																			1																curseattract					curse_hit														necromancer_attract										0
 lifetap	58						1	1																																			cursereversevampire					curse_hit														necromancer_reversevampire										0
-confuse	59						1																				1																curseconfuse					curse_hit														necromancer_confuse										0
+confuse	59						1	1																			1																curseconfuse					curse_hit														necromancer_confuse										0
 decrepify	60						1														1																						cursedecrepify					curse_hit		skill_decrepify												necromancer_decrepify										0
 lowerresist	61						1	1															1	1	1	1																	curselowerresist					curse_hit		lightresist																						0
 openwounds	62								1																										1																																	85				0
