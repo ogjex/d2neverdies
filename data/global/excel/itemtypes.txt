@@ -237,7 +237,7 @@ Blood Bidding LTNG%	ltnb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							
 Blood Bidding POIS%	poib	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 Blood Bidding MAGI%	magb	bidd		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			0							misc	0
 New charms	newc	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3							misc	0
-Nephalem's Admiration	nead	ncha		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch2	invch5	invch8				misc	0
-Pierce Grand Charms	pich	ncha		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
-Slab of Faith	slof	ncha		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
+Nephalem's Admiration	nead	newc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch2	invch5	invch8				misc	0
+Pierce Grand Charms	pich	newc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
+Slab of Faith	slof	newc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
 Furs	dfur	tors	drui	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
