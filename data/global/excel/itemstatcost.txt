@@ -376,6 +376,6 @@ item_hell_infused	373			11			1	0	10			1	1					7	32	7	32																255	3	1	S
 item_infuse_cost_hell	374			11			1	0	10			1	1					7	32	7	32																157	1	1	StrInfCostHell	StrInfCostHell										0
 item_max_vines	375			11			1	0	10			1	1					7	32	7	32																67	19		StrMaxVines	StrMaxVines										0
 item_max_totems	376			11			1	0	10			1	1					7	32	7	32																67	19		StrMaxTotems	StrMaxTotems										0
-item_max_skeletons	377			11			1	0	10			1	1					7	32	7	32																67	19		StrMaxSkel	StrMaxSkel										0
+item_max_skeletons	377			11			1	0	10			1	1					7	32	7	32																67	19		StrMaxSkeletons	StrMaxSkeletons										0
 item_max_revives	378			11			1	0	10			1	1					7	32	7	32																67	19		StrMaxRevives	StrMaxRevives										0
 crafting_charge_counter	379			11			1	0	10			1	1					7	32	7	32																157	1	1	StrCraftCharges	StrCraftCharges										0
