@@ -7023,7 +7023,7 @@
   {
     "id": 50067,
     "Key": "StrBloodBidDesc",
-    "enUS": "ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
+    "enUS": "\n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7040,7 +7040,7 @@
   {
     "id": 50068,
     "Key": "StrBloodBidDMG",
-    "enUS": "Adds damage at the expense of precision",
+    "enUS": "Adds damage at the expense of precision \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7057,7 +7057,7 @@
   {
     "id": 50069,
     "Key": "StrBloodBidFHR",
-    "enUS": "Adds faster hit recovery at the expense of move speed",
+    "enUS": "Adds faster hit recovery at the expense of move speed \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7074,7 +7074,7 @@
   {
     "id": 50070,
     "Key": "StrBloodBidLIFE",
-    "enUS": "Increases life at the expense of mana",
+    "enUS": "Increases life at the expense of mana \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7091,7 +7091,7 @@
   {
     "id": 50071,
     "Key": "StrBloodBidMANA",
-    "enUS": "Increases mana at the expense of life",
+    "enUS": "Increases mana at the expense of life \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7108,7 +7108,7 @@
   {
     "id": 50072,
     "Key": "StrBloodBidDEF",
-    "enUS": "Increases defense at the expense of resistances",
+    "enUS": "Increases defense at the expense of resistances \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7125,7 +7125,7 @@
   {
     "id": 50073,
     "Key": "StrBloodBidRES-ALL",
-    "enUS": "Increases resistances at the expense of damage reduction",
+    "enUS": "Increases resistances at the expense of damage reduction \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7142,7 +7142,7 @@
   {
     "id": 50074,
     "Key": "StrBloodBidAR",
-    "enUS": "of damage and magic damage reduction \n Increases attack rating at the expense ",
+    "enUS": "of damage and magic damage reduction \n Increases attack rating at the expense \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits ",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7159,7 +7159,7 @@
   {
     "id": 50075,
     "Key": "StrBloodBidFIRE",
-    "enUS": "of damage and magic damage reduction \n Increases fire damage at the expense",
+    "enUS": "of damage and magic damage reduction \n Increases fire damage at the expense \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7176,7 +7176,7 @@
   {
     "id": 50076,
     "Key": "StrBloodBidCOLD",
-    "enUS": "of damage and magic damage reduction \n Increases cold damage at the expense",
+    "enUS": "of damage and magic damage reduction \n Increases cold damage at the expense \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7193,7 +7193,7 @@
   {
     "id": 50077,
     "Key": "StrBloodBidLTNG",
-    "enUS": "of damage and magic damage reduction \n Increases lightning damage at the expense",
+    "enUS": "of damage and magic damage reduction \n Increases lightning damage at the expense \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7210,7 +7210,7 @@
   {
     "id": 50078,
     "Key": "StrBloodBidPOIS",
-    "enUS": "of damage and magic damage reduction \n Increases poison damage at the expense",
+    "enUS": "of damage and magic damage reduction \n Increases poison damage at the expense \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -7227,7 +7227,7 @@
   {
     "id": 50079,
     "Key": "StrBloodBidMAG",
-    "enUS": "of damage and magic damage reduction \n Increases magic weapon damage at the expense",
+    "enUS": "of damage and magic damage reduction \n Increases magic weapon damage at the expense \n ÿc3Level requirement +2 per infusionÿc0 \n Cube with ÿc4Sunder Charm ÿc0to infuse with Blood Spirits",
     "zhTW": "",
     "deDE": "",
     "esES": "",
