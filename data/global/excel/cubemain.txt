@@ -4948,8 +4948,8 @@ Sunder Bidding + Perfect Obsidian + 3 x charm cores	1			100					5	sg6	"cc0,qty=3
 BLOOD BIDDING INFUSION	0																																																																																																							0
 Blood Bidding DMG	1			100					2	cm4	bi1						useitem				infusion-hell	100		1	1	levelreq			2	2	dmg-min			5	5	dmg-max			11	11	att%			-10	-10																																																											0
 Blood Bidding FHR	1			100					2	cm4	bi2						useitem				infusion-hell	100		1	1	levelreq			2	2	balance1			15	15	move1			-10	-10																																																																0
-Blood Bidding LIFE	1			100					2	cm4	bi3						useitem				infusion-hell	100		1	1	levelreq			2	2	hp%			15	15	mana%			-5	-5																																																																0
-Blood Bidding MANA	1			100					2	cm4	bi4						useitem				infusion-hell	100		1	1	levelreq			2	2	mana%			15	15	hp%			-5	-5																																																																0
+Blood Bidding LIFE	1			100					2	cm4	bi3						useitem				infusion-hell	100		1	1	levelreq			2	2	hp%			15	15	mana%			-10	-10																																																																0
+Blood Bidding MANA	1			100					2	cm4	bi4						useitem				infusion-hell	100		1	1	levelreq			2	2	mana%			15	15	hp%			-10	-10																																																																0
 Blood Bidding DEF	1			100					2	cm4	bi5						useitem				infusion-hell	100		1	1	levelreq			2	2	ac%			75	75	res-all			-2	-2																																																																0
 Blood Bidding RES-ALL	1			100					2	cm4	bi6						useitem				infusion-hell	100		1	1	levelreq			2	2	res-all			5	5	red-dmg			-3	-3	red-dmg%			-10	-10																																																											0
 Blood Bidding AR	1			100					2	cm4	bi7						useitem				infusion-hell	100		1	1	levelreq			2	2	att%			25	25	dmg%			-5	-5																																																																0
