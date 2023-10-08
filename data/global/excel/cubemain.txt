@@ -4951,13 +4951,13 @@ Blood Bidding FHR	1			100					2	cm4	bi2						useitem				infusion-hell	100		1	1	l
 Blood Bidding LIFE	1			100					2	cm4	bi3						useitem				infusion-hell	100		1	1	levelreq			2	2	hp%			15	15	mana%			-10	-10																																																																0
 Blood Bidding MANA	1			100					2	cm4	bi4						useitem				infusion-hell	100		1	1	levelreq			2	2	mana%			15	15	hp%			-10	-10																																																																0
 Blood Bidding DEF	1			100					2	cm4	bi5						useitem				infusion-hell	100		1	1	levelreq			2	2	ac%			75	75	res-all			-2	-2																																																																0
-Blood Bidding RES-ALL	1			100					2	cm4	bi6						useitem				infusion-hell	100		1	1	levelreq			2	2	res-all			5	5	red-dmg			-3	-3	red-dmg%			-10	-10																																																											0
+Blood Bidding RES-ALL	1			100					2	cm4	bi6						useitem				infusion-hell	100		1	1	levelreq			2	2	res-all			5	5	red-dmg%			-10	-10																																																																0
 Blood Bidding AR	1			100					2	cm4	bi7						useitem				infusion-hell	100		1	1	levelreq			2	2	att%			25	25	dmg%			-5	-5																																																																0
-Blood Bidding FIRE%	1			100					2	cm4	bi8						useitem				infusion-hell	100		1	1	levelreq			2	2	extra-fire			5	5	red-dmg%			-3	-3	red-mag			-2	-2																																																											0
-Blood Bidding COLD%	1			100					2	cm4	bi9						useitem				infusion-hell	100		1	1	levelreq			2	2	extra-ltng			5	5	red-dmg%			-3	-3	red-mag			-2	-2																																																											0
-Blood Bidding LTNG%	1			100					2	cm4	10b						useitem				infusion-hell	100		1	1	levelreq			2	2	extra-cold			5	5	red-dmg%			-3	-3	red-mag			-2	-2																																																											0
-Blood Bidding POIS%	1			100					2	cm4	11b						useitem				infusion-hell	100		1	1	levelreq			2	2	extra-pois			5	5	red-dmg%			-3	-3	red-mag			-2	-2																																																											0
-Blood Bidding MAGI%	0			100					2	cm4	12b						useitem				infusion-hell	100		1	1	levelreq			2	2	dmg-mag			5	11	red-dmg%			-3	-3	red-mag			-2	-2																																																											0
+Blood Bidding FIRE%	1			100					2	cm4	bi8						useitem				infusion-hell	100		1	1	levelreq			2	2	extra-fire			5	5	red-dmg%			-3	-3																																																																0
+Blood Bidding COLD%	1			100					2	cm4	bi9						useitem				infusion-hell	100		1	1	levelreq			2	2	extra-ltng			5	5	red-dmg%			-3	-3																																																																0
+Blood Bidding LTNG%	1			100					2	cm4	10b						useitem				infusion-hell	100		1	1	levelreq			2	2	extra-cold			5	5	red-dmg%			-3	-3																																																																0
+Blood Bidding POIS%	1			100					2	cm4	11b						useitem				infusion-hell	100		1	1	levelreq			2	2	extra-pois			5	5	red-dmg%			-3	-3																																																																0
+Blood Bidding MAGI%	0			100					2	cm4	12b						useitem				infusion-hell	100		1	1	levelreq			2	2	dmg-mag			5	11	red-dmg%			-3	-3																																																																0
 SLABS OF FAITH INFUSIONS	0																																																																																																							0
 Gold Find %	1			100	16	372	3		3	"cm5,uni"	gg1	fod					useitem				gambles	100		1	1	levelreq			15	20	gold%			50	75																																																																					0
 Magic Find %	1			100	16	372	3		3	"cm5,uni"	gg2	fod					useitem				gambles	100		1	1	levelreq			15	20	mag%			25	35																																																																					0
@@ -4966,7 +4966,7 @@ ITEM TESTING	0																																																																		
 hp1 -> test item 1	1			100					1	hp1							cm4	200	200	200	infusion-hell	100		0	0	pierce-immunity-cold			300	300	res-cold			-90	-70											hp1																																																										0
 hp2 -> test item 2	1			100					1	hp2							bi2	200	200	200																										hp2																																																										0
 hp3 -> test item 3	1			100					1	hp3							bi3	200	200	200																										hp3																																																										0
-hp4 -> test item 4	1			100					1	hp4							bi4	200	200	200														-20	-10											hp4																																																										0
+hp4 -> test item 4	1			100					1	hp4							bi4	200	200	200																										hp4																																																										0
 hp5-> test item 5	1			100					1	hp5							bi5	200	200	200																										hp5																																																										0
 mp1 -> test item 6	1			100					1	mp1							bi6	200	200	200																										mp1																																																										0
 mp2 -> test item 7	1			100					1	mp2							bi7	200	200	200																										mp2																																																										0
