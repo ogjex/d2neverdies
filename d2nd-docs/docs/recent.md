@@ -2,20 +2,23 @@
 
 ## 2.0.0
 
-### KNown bugs:
+### Known issues:
 
 - Perfect Obsidian can currently not be stacked
 - Evil force string error in act 5 merc description
+- Some Evil force or Missing Strings in affix names
 - Wrong merc skill icons for icons 3-5 in merc inventory
 - Corruptions on Set Items have visual bugs due to the added attributes (colors become weird, or the item may only reveal the corruption when worn)
+- Act 1 Rogue Merc with Strafe has no attack animation
+- Some inconsistencies with colours in descriptions of Charges
 
 ### Fixes the following:
 
-- game now works with vanilla version 2.7
+- game now works with D2R vanilla version 2.8
 - more than 600 minor bug fixes and performance improvements! (Thanks, D2RLint!)
 - fixed a nasty property duplicate bug that rendered wrong properties
 - skill tree panels now reflect correct prereqs for skills (dependencies simplified)
-- skeletal mages now correctly spawns with fire and lightning mages exclusively
+- skeletal mages now correctly spawn with fire and lightning mages exclusively
 - Essences (burning, festering, hatred, etc) now unstack into unstacked versions
 - correct skill tabs are now infused from Blood Biddings
 - melee splash damage now works properly
@@ -37,7 +40,6 @@
 - Nerfed Confuse amplify damage synergy to only provide Amp damage if Amplify Damage is 20 base skill points
 - changed Conversion skill to "Sacred Swordsmanship" that provides passive Parrying (Strafe + Dodge with no animation), increased attack rating, and synergises with Charge and Sanctuary Aura for two-handed swords ONLY, also colors the two-handed sword golden in its duration
 - reduced max life of all Golems, especially Clay Golem
-
 
 ### Adds the following:
 - Slabs of Faith now drop from Baal Quest Drop Nightmare difficulty, and from all Nightmare Boss Desecrated 
@@ -78,8 +80,7 @@
 
 - elemental Charge Up skills now incur a linear resistance penalty (minus resistance and minus max resistance)
 - removed dependencies between Elemental Charge Up skills
-- If more than one Elemental Charge skill has points in it, a global 10 second cooldown will be set to all Elemental Charge Up skills. Phoenix Strike is the exception and this will encourage the player to pick a single element to focus on (while still being able to use different PS charges for dual elements)
-- Shadow Master is now a physical finishing move called "Shadow Chaos Stab" that can be used only with a dagger 
+- If more than one Elemental Charge skill has points in it, a global 10 second cooldown will be set to all Elemental Charge Up skills. Phoenix Strike is the exception and this will encourage the player to pick a single element to focus on (while still being able to use different PS charges for dual elements) 
 - Cobra Strike charge 1 now is a poison Cloud and charge 3 is an AoE poison-based attack
 - Cobra Strike now has progressive stack when charges are released
 - Phoenix Strike now has a flat "minus magic damage reduction" penalty

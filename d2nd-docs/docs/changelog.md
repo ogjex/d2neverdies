@@ -144,12 +144,12 @@
 - Tiger Strike: unchanged 
 - Dragon Talon: unchanged 
 - Dragon Claw: unchanged 
-- Fists of Fire: increased fire damage, added synergy to Wake of Inferno  and Fire Blast
-- Cobra Strike: now deals poison damange, synergy to Venom
-- Claws of Thunder: increased lightning damage, synergy to Charged Bolt Sentry and Shock Web
+- Fists of Fire: increased fire damage, removed dependencies, added synergy to Wake of Inferno and Fire Blast, incurs 10 second cooldown if more than 0 points are located to other elemental charge-up skills
+- Cobra Strike: now deals poison damange, synergy to Venom, incurs 10 second cooldown if more than 0 points are located to other elemental charge-up skills
+- Claws of Thunder: increased lightning damage, removed dependencies, synergy to Charged Bolt Sentry and Shock Web, incurs 10 second cooldown if more than 0 points are located to other elemental charge-up skills
 - Dragon Tail: unchanged
 - Dragon Flight: reduce frame animation for Dragon Flight to 6 (from 16)
-- Blades of Ice: increased damage
+- Blades of Ice: increased damage, removed dependencies, incurs 10 second cooldown if more than 0 points are located to other elemental charge-up skills
 - Phoenix Strike: removed dependency to Cobra Strike
 
 ## Shadow Disciplines
@@ -211,15 +211,15 @@
 - Bash: Added crushing blow
 - Double Swing: added damage multiplier
 - Frenzy: changed duration calculation to last longer, synergy from Double Swing
-- Stun: unchanged
-- Concentrate: Added chance of deadly strike
+- Stun: replaced with "Cleave"; an AoE attack that adds bouncing of hits to adjacent monsters. Can only be used with a Shield and one-handed weapon
+- Concentrate: replaced with "Great Cleave"; an AoE attack that creates a physical missile that pierces straight through enemies and increases defence during attacking. Can only be used with a two-handed weapon
 - Double Throw: set chance to not use quantity to 100%
 - Leap: decrease mana cost 
 - Leap Attack: decrease mana cost, increased leap speed, reduced minimum frames to 8 on short leaps, doubled AoE damage, added synergy to AoE damage (Leap and Bash)
 - Berserk: unchanged 
 - Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames
 
-# Paladin
+# Paladin Skill Changes
 ## Defensive auras
 
 - Prayer: unchanged
@@ -251,15 +251,15 @@
 - Sacrifice: unchanged
 - Holy Bolt: add multishot per baselevels
 - Smite: unchanged
-- Zeal: reduced number of strikes to 4
+- Zeal: reduced maximum number of strikes to 4
 - Charge: unchanged
 - Vengeance: unchanged
 - Blessed Hammer: unchanged
-- Conversion: renamed to Divine Blessing, is now a ranged casting skill with aoe, similar to Mind Blast
+- Conversion: replaced with "Sacred Swordsmanship"; buff cast similar to Holy Shield but only applicable to two-handed swords that will increase attack rating and passively "parry" hits, synergizes with Charge and Sanctuary
 - Fist of the Heavens: removed local delay
 - Holy Shield: unchanged
 
-# Sorceress
+# Sorceress Skill Changes
 
 ## Cold skills
 
@@ -300,20 +300,14 @@
 - Hydra: add fire pierce
 - Fire Mastery: add fire pierce
 
-# Druid, Necro
-
-The Druid and Necro have not yet been playtested and will come in later releases.
-
-
-
-# Necromancer
+# Necromancer Skill Changes
 
 ## Summoning
 
-- Raise Skeleton Warrior: increased life, damage, reduced max number of warriors
-- Skeleton Mastery: renamed to Undead Mastery, all summons have auto buffed resistances
+- Raise Skeleton Warrior: increased life, damage, defense and now synergizes with Bone Armor (damage reduction)
+- Skeleton Mastery: renamed to Undead Mastery, all undead summons have auto buffed resistances
 - Clay Golem: unchanged
-- Raise Skeletal Mage: removed cold and poison mages, increased life, damage, reduced max number of mages
+- Raise Skeletal Mage: removed cold and poison mages, increased life, damage, reduced max number of mages, now synergizes with Bone Armor (damage reduction)
 - Golem Mastery: added additional golem summons per 5 base levels
 - Summon Resist: replaced with Blood Distort, now a Teleport skill with a casting delay
 - Blood Golem: renamed to BoneFlesh Golem, added Prayer aura
@@ -326,7 +320,7 @@ The Druid and Necro have not yet been playtested and will come in later releases
 - Teeth: removed synergy from bone prison, increased synergy damage to 20, increased damaged, added piercing to all teeth
 - Poison Dagger: renamed to Poison Wisp, now a casting skill that casts a poison bolt with a poison trail that pierces through its path, increased poison damage to be stronger than Poison Nova against single targets
 - Bone Armor: now synergises with Energy attribute, synergises with Bone Wall (+) and Bone Prison (-) for damage reduction, synergises with Bone Prison (+) and Bone Wall (-) for magic damage reduction
-- Corpse Explosion: unchanged
+- Corpse Explosion: added synergy with Pyroshock Golem that converts more physical damage to fire damage
 - Bone Wall: now synergises with Energy attribute, removed bone armor synergy
 - Poison Explosion: renamed to Poison Ward, works like Grim Ward that decreases Enemy Poison Resistances, synergises with Poison Wisp to decrease enemy poison resistance
 - Bone Spear: removed synergy from bone wall, increased synergy damage by 4
@@ -336,22 +330,54 @@ The Druid and Necro have not yet been playtested and will come in later releases
 
 ## Curses
 
-- Amplify Damage: added increment of 5% amplify damage per level
-- Dim Vision: further reduced attack rating
-- Iron Maiden: can now be cast as an additional curse
+- Amplify Damage: added increment of 1% amplify damage per level
+- Dim Vision: further reduced attack rating, can now be cast as an additional curse
+- Iron Maiden: now adds open wounds, can now be cast as an additional curse
 - Life Tap: unchanged
 - Terror: can now be cast as an additional curse
 - Weaken: monsters now have their base AC reduced 
-- Confuse: can now be cast as an additional curse, synergises with Amp Damage to increase Monster Damage
+- Confuse: synergises with Amp Damage to increase Monster Damage, only when Amp Damage is at max base level
 - Attract: synergises with Iron Maiden that adds flat attacker takes damage
-- Decrepify: can now be cast as an additional curse, removed amplify damage, added slower cast rate
+- Decrepify: can now be cast as an additional curse, removed amplify damage, added slower cast rate for monsters casting Decrepify
 - Lower Resist: unchanged
 
-# Druid
-Druid changes are currently being worked on and balanced.
+# Druid Skill Changes
 
-<!--
-# Druid
+# Elemental Skills
 
+- Firestorm: removed cast delay and next hit delay
+- Molten Boulder: removed cast delay and next hit delay
+- Arctic Blast: replaced with "Frost Wind": a lesser teleport with a local cast delay
+- Fissure: unchanged
+- Cyclone Armor: unchanged
+- Twister: unchanged
+- Volcano: removed cast delay and next hit delay
+- Tornado: unchanged
+- Hurricane: unchanged
+- Armageddon: increased radius and removed next hit delay, removed dependency to Hurricane
 
--->
+## Shape Shifting Skills
+
+- Werewolf: unchanged
+- Lycanthropy: removed dependency
+- Werebear: unchanged
+- Maul: unchanged
+- Feral Rage: unchanged
+- Fire Claws: removed dependencies, added CtC Fire Storm 100% when reaching 10 base levels, increased fire damage
+- Rabies: unchanged
+- Shock Wave: added multiple missiles in an arc with increased base levels
+- Hunger: unchanged
+- Fury: unchanged
+
+## Summoning Skills
+
+- Raven: added more Ravens, increased number of attacks, added cold damage
+- Poison Creeper: increased defense with 1000%, increased poison damage
+- Oak Sage: increased defense with 1000%
+- Summon Spirit Wolf: unchanged
+- Carrion Vine: now both heals and regenerates mana
+- Heart of Wolverine: increased defense with 1000%
+- Summon Dire Wolf: removed dependency to Oak Sage
+- Solar Creeper: increased defense with 1000%, now deals Fire Damage on attack and as a continuous pulse similar to Holy Fire
+- Spirit of Barbs: added % increased defence
+- Summon Grizzly: can now summon an additional Bear per 10 base levels
