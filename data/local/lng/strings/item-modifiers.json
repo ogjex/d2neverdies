@@ -6088,7 +6088,7 @@
   {
     "id": 50013,
     "Key": "StrAmeCraft",
-    "enUS": "ÿc3Bow/X-bowÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc;Fomenter'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "ÿc3Bow/X-bowÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Magic Itemÿc0 (no melee weapons)+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc;Fomenter's: ÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6105,7 +6105,7 @@
   {
     "id": 50014,
     "Key": "StrTopCraft",
-    "enUS": "ÿc3Weaponÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc9Cornucopia'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "ÿc3Magic Itemÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc;Cornucopia's: ÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6122,7 +6122,7 @@
   {
     "id": 50014,
     "Key": "StrSapCraft",
-    "enUS": "ÿc3Weaponÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Conjurer'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "ÿc9Rare circletÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Magic Item ÿc0(not helmets)+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc;Conjurer's: ÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6139,7 +6139,7 @@
   {
     "id": 50015,
     "Key": "StrEmeCraft",
-    "enUS": "ÿc3Weaponÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Rare Circletÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Amn Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc2Craven'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "ÿc3Magic Itemÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc;Craven's: ÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6156,7 +6156,7 @@
   {
     "id": 50016,
     "Key": "StrRubCraft",
-    "enUS": "ÿc3Weaponÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Ort Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ral Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc1Combatant'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "ÿc3Magic Itemÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\n ÿc;Combatant's: ÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -6190,7 +6190,7 @@
   {
     "id": 50018,
     "Key": "StrSkulCraft",
-    "enUS": "ÿc3Weaponÿc0+ÿc5Eth Runeÿc0+ÿc0Jewel Fragment\n ÿc3Shieldÿc0+ÿc5Nef Runeÿc0+ÿc0Jewel Fragment\n ÿc3Chestÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc3Beltÿc0+ÿc5Eld Runeÿc0+ÿc0Jewel Fragment\n ÿc3Bootsÿc0+ÿc5El Runeÿc0+ÿc0Jewel Fragment\n ÿc3Glovesÿc0+ÿc5Thul Runeÿc0+ÿc0Jewel Fragment\n ÿc3Helmÿc0+ÿc5Lum Runeÿc0+ÿc0Jewel Fragment\n ÿc3Ringÿc0+ÿc5Ith Runeÿc0+ÿc0Jewel Fragment\nÿc3Amuletÿc0+ÿc5Tal Runeÿc0+ÿc0Jewel Fragment\n ÿc5Revenant'sÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
+    "enUS": "ÿc3Magic Itemÿc0+ÿc5Tir Runeÿc0+ÿc0Jewel Fragment\n ÿc;Revenant's: ÿc0\n Crafting Recipes:\n Transmute in Cube to Stack and Unstack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
