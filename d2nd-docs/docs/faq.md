@@ -19,11 +19,10 @@ A: As soon as Blizzard enables it in Single Player.
 
 A: Yes. We have to. You will probably experience that the mod will be in a need of a patch everytime Blizzard updates the game, as they have a tendency to add new features that require integration. We continuously keep a look out for new balance changes introduced and listen to the community in terms of how to take advantage of them in D2ND as well.
 
-### Q: How many of you are developing this mod?
-
-A: It is a joint project between JeX, Swoosh, and Thrugg_aka_Trogg. Thrugg_aka_Trogg has provided a lot of developer support, troubleshooting and laid the infrastructure foundation. Swoosh has laid out and pitched a lot of the features of corruptions, treasureclass drops, and the Valor charm concept. JeX has produced the artwork, discord and webserver, tied most of the features together, finetuned and balanced them through playthroughs over the past year. So many nights have been spent discussing and outlining automagic attributes, bidding functionality, new crafting mechanics and QoL updates. And we are far from done!
-
-
 ### Q: Can you add X feature?
 
 A: Maybe. If it is possible within the limitations of soft modding, and if it makes sense
+
+### Q: How many of you are developing this mod?
+
+A: The mod was originally envisioned as a joint project between JeX, Swoosh, and Thrugg_aka_Trogg. Thrugg_aka_Trogg provided a lot of developer support, troubleshooting and laid the infrastructure foundation. Swoosh has laid out and pitched a lot of the features of corruptions, treasureclass drops, and the Valor charm concept. JeX has produced the artwork, discord and webserver, tied most of the features together, finetuned and balanced gameplay through playthroughs over the past two years. So many nights have been spent discussing and outlining automagic attributes, bidding functionality, new crafting mechanics and QoL updates. Since 2022, JeX has been working solo and is far from done! As the title of the project goes: Diablo 2 Never Dies.
