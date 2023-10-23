@@ -209,5 +209,5 @@ royalstrikepenalty	303																																																										
 passive_runwalk	304																																																																							0
 holyfirevine	305					1																																																																		0
 swordsmanship	306																																															cast_resistall							2hsw	lgld																0
-poisondmgvine	307																																																																							0
+poisondmgvine	307					1																																																																		0
 poisonresred	308					1																																																																		0
