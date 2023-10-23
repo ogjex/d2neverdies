@@ -4512,9 +4512,9 @@ Freezing Bidding	1			100	16	368	59		2	cc1	tb3						useitem				infusion	100		3	3	
 Noisy Bidding	1			100	16	368	59		2	cc1	ub1						useitem				infusion	100		2	2	levelreq			1	1	dmg-ltng			1	9																																																																					0
 Eerie Bidding	1			100	16	368	59		2	cc1	ub2						useitem				infusion	100		3	3	levelreq			4	4	dmg-ltng			1	18																																																																					0
 Electrical Bidding	1			100	16	368	59		2	cc1	ub3						useitem				infusion	100		3	3	levelreq			6	6	dmg-ltng			1	36																																																																					0
-Uneasy Bidding	1			100	16	368	59		2	cc1	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
-Sick Bidding	1			100	16	368	59		2	cc1	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
-Nauseating Bidding	1			100	16	368	59		2	cc1	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
+Uneasy Bidding	1			100	16	368	59		2	cc1	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		50	16	16																																																																					0
+Sick Bidding	1			100	16	368	59		2	cc1	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		50	32	32																																																																					0
+Nauseating Bidding	1			100	16	368	59		2	cc1	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		50	64	64																																																																					0
 Javelin Bidding	1			100	16	373	9		2	cm4	aa1						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		2	1	1																																																																					0
 Bow Bidding	1			100	16	373	9		2	cm4	aa2						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		0	1	1																																																																					0
 Passive Bidding	1			100	16	373	9		2	cm4	aa3						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		1	1	1																																																																					0
@@ -4582,9 +4582,9 @@ Freezing Bidding	1			100	16	368	59		2	cc2	tb3						useitem				infusion	100		3	3	
 Noisy Bidding	1			100	16	368	59		2	cc2	ub1						useitem				infusion	100		2	2	levelreq			1	1	dmg-ltng			1	9																																																																					0
 Eerie Bidding	1			100	16	368	59		2	cc2	ub2						useitem				infusion	100		3	3	levelreq			4	4	dmg-ltng			1	18																																																																					0
 Electrical Bidding	1			100	16	368	59		2	cc2	ub3						useitem				infusion	100		3	3	levelreq			6	6	dmg-ltng			1	36																																																																					0
-Uneasy Bidding	1			100	16	368	59		2	cc2	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
-Sick Bidding	1			100	16	368	59		2	cc2	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
-Nauseating Bidding	1			100	16	368	59		2	cc2	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
+Uneasy Bidding	1			100	16	368	59		2	cc2	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		50	16	16																																																																					0
+Sick Bidding	1			100	16	368	59		2	cc2	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		50	32	32																																																																					0
+Nauseating Bidding	1			100	16	368	59		2	cc2	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		50	64	64																																																																					0
 Traps Bidding	1			100	16	373	9		2	cm4	aa4						useitem				infusion-hell	100		4	4	levelreq			3	3	skilltab		18	1	1																																																																					0
 Martial Arts Bidding	1			100	16	373	9		2	cm4	aa5						useitem				infusion-hell	100		4	4	levelreq			3	3	skilltab		20	1	1																																																																					0
 Shadow Bidding	1			100	16	373	9		2	cm4	aa6						useitem				infusion-hell	100		4	4	levelreq			3	3	skilltab		19	1	1																																																																					0
@@ -4652,9 +4652,9 @@ Freezing Bidding	1			100	16	368	59		2	cc3	tb3						useitem				infusion	100		3	3	
 Noisy Bidding	1			100	16	368	59		2	cc3	ub1						useitem				infusion	100		2	2	levelreq			1	1	dmg-ltng			1	9																																																																					0
 Eerie Bidding	1			100	16	368	59		2	cc3	ub2						useitem				infusion	100		3	3	levelreq			4	4	dmg-ltng			1	18																																																																					0
 Electrical Bidding	1			100	16	368	59		2	cc3	ub3						useitem				infusion	100		3	3	levelreq			6	6	dmg-ltng			1	36																																																																					0
-Uneasy Bidding	1			100	16	368	59		2	cc3	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
-Sick Bidding	1			100	16	368	59		2	cc3	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
-Nauseating Bidding	1			100	16	368	59		2	cc3	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
+Uneasy Bidding	1			100	16	368	59		2	cc3	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		50	16	16																																																																					0
+Sick Bidding	1			100	16	368	59		2	cc3	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		50	32	32																																																																					0
+Nauseating Bidding	1			100	16	368	59		2	cc3	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		50	64	64																																																																					0
 Combat Bidding	1			100	16	373	9		2	cm4	aa7						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		13	1	1																																																																					0
 Mastery Bidding	1			100	16	373	9		2	cm4	aa8						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		12	1	1																																																																					0
 Warcry Bidding	1			100	16	373	9		2	cm4	aa9						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		14	1	1																																																																					0
@@ -4722,9 +4722,9 @@ Freezing Bidding	1			100	16	368	59		2	cc4	tb3						useitem				infusion	100		3	3	
 Noisy Bidding	1			100	16	368	59		2	cc4	ub1						useitem				infusion	100		2	2	levelreq			1	1	dmg-ltng			1	9																																																																					0
 Eerie Bidding	1			100	16	368	59		2	cc4	ub2						useitem				infusion	100		3	3	levelreq			4	4	dmg-ltng			1	18																																																																					0
 Electrical Bidding	1			100	16	368	59		2	cc4	ub3						useitem				infusion	100		3	3	levelreq			6	6	dmg-ltng			1	36																																																																					0
-Uneasy Bidding	1			100	16	368	59		2	cc4	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
-Sick Bidding	1			100	16	368	59		2	cc4	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
-Nauseating Bidding	1			100	16	368	59		2	cc4	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
+Uneasy Bidding	1			100	16	368	59		2	cc4	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		50	16	16																																																																					0
+Sick Bidding	1			100	16	368	59		2	cc4	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		50	32	32																																																																					0
+Nauseating Bidding	1			100	16	368	59		2	cc4	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		50	64	64																																																																					0
 Elemental Bidding	1			100	16	373	9		2	cm4	ac1						useitem				infusion-hell	100		4	4	levelreq			3	3	skilltab		17	1	1																																																																					0
 Summon Bidding	1			100	16	373	9		2	cm4	ac2						useitem				infusion-hell	100		4	4	levelreq			3	3	skilltab		15	1	1																																																																					0
 Shapeshifter Bidding	1			100	16	373	9		2	cm4	ac3						useitem				infusion-hell	100		4	4	levelreq			3	3	skilltab		16	1	1																																																																					0
@@ -4792,9 +4792,9 @@ Freezing Bidding	1			100	16	368	59		2	cc5	tb3						useitem				infusion	100		3	3	
 Noisy Bidding	1			100	16	368	59		2	cc5	ub1						useitem				infusion	100		2	2	levelreq			1	1	dmg-ltng			1	9																																																																					0
 Eerie Bidding	1			100	16	368	59		2	cc5	ub2						useitem				infusion	100		3	3	levelreq			4	4	dmg-ltng			1	18																																																																					0
 Electrical Bidding	1			100	16	368	59		2	cc5	ub3						useitem				infusion	100		3	3	levelreq			6	6	dmg-ltng			1	36																																																																					0
-Uneasy Bidding	1			100	16	368	59		2	cc5	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
-Sick Bidding	1			100	16	368	59		2	cc5	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
-Nauseating Bidding	1			100	16	368	59		2	cc5	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
+Uneasy Bidding	1			100	16	368	59		2	cc5	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		50	16	16																																																																					0
+Sick Bidding	1			100	16	368	59		2	cc5	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		50	32	32																																																																					0
+Nauseating Bidding	1			100	16	368	59		2	cc5	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		50	64	64																																																																					0
 Summon Bidding	1			100	16	373	9		2	cm4	ac4						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		8	1	1																																																																					0
 Bone Bidding	1			100	16	373	9		2	cm4	ac5						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		7	1	1																																																																					0
 Curse Bidding	1			100	16	373	9		2	cm4	ac6						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		6	1	1																																																																					0
@@ -4862,9 +4862,9 @@ Freezing Bidding	1			100	16	368	59		2	cc6	tb3						useitem				infusion	100		3	3	
 Noisy Bidding	1			100	16	368	59		2	cc6	ub1						useitem				infusion	100		2	2	levelreq			1	1	dmg-ltng			1	9																																																																					0
 Eerie Bidding	1			100	16	368	59		2	cc6	ub2						useitem				infusion	100		3	3	levelreq			4	4	dmg-ltng			1	18																																																																					0
 Electrical Bidding	1			100	16	368	59		2	cc6	ub3						useitem				infusion	100		3	3	levelreq			6	6	dmg-ltng			1	36																																																																					0
-Uneasy Bidding	1			100	16	368	59		2	cc6	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
-Sick Bidding	1			100	16	368	59		2	cc6	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
-Nauseating Bidding	1			100	16	368	59		2	cc6	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
+Uneasy Bidding	1			100	16	368	59		2	cc6	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		50	16	16																																																																					0
+Sick Bidding	1			100	16	368	59		2	cc6	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		50	32	32																																																																					0
+Nauseating Bidding	1			100	16	368	59		2	cc6	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		50	64	64																																																																					0
 Combat Bidding	1			100	16	373	9		2	cm4	ac7						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		10	1	1																																																																					0
 Defensive Bidding	1			100	16	373	9		2	cm4	ac8						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		11	1	1																																																																					0
 Offensive Bidding	1			100	16	373	9		2	cm4	ac9						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		9	1	1																																																																					0
@@ -4932,9 +4932,9 @@ Freezing Bidding	1			100	16	368	59		2	cc7	tb3						useitem				infusion	100		3	3	
 Noisy Bidding	1			100	16	368	59		2	cc7	ub1						useitem				infusion	100		2	2	levelreq			1	1	dmg-ltng			1	9																																																																					0
 Eerie Bidding	1			100	16	368	59		2	cc7	ub2						useitem				infusion	100		3	3	levelreq			4	4	dmg-ltng			1	18																																																																					0
 Electrical Bidding	1			100	16	368	59		2	cc7	ub3						useitem				infusion	100		3	3	levelreq			6	6	dmg-ltng			1	36																																																																					0
-Uneasy Bidding	1			100	16	368	59		2	cc7	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		75	16	16																																																																					0
-Sick Bidding	1			100	16	368	59		2	cc7	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		75	32	32																																																																					0
-Nauseating Bidding	1			100	16	368	59		2	cc7	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		75	64	64																																																																					0
+Uneasy Bidding	1			100	16	368	59		2	cc7	vb1						useitem				infusion	100		2	2	levelreq			1	1	dmg-pois		50	16	16																																																																					0
+Sick Bidding	1			100	16	368	59		2	cc7	vb2						useitem				infusion	100		3	3	levelreq			4	4	dmg-pois		50	32	32																																																																					0
+Nauseating Bidding	1			100	16	368	59		2	cc7	vb3						useitem				infusion	100		3	3	levelreq			6	6	dmg-pois		50	64	64																																																																					0
 Fire Bidding	1			100	16	373	9		2	cm4	ad1						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		3	1	1																																																																					0
 Lightning Bidding	1			100	16	373	9		2	cm4	ad2						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		4	1	1																																																																					0
 Cold Bidding	1			100	16	373	9		2	cm4	ad3						useitem				infusion-hell	100		4	4	levelreq			2	2	skilltab		5	1	1																																																																					0

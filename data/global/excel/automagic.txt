@@ -215,9 +215,9 @@ Freezing Bidding	100	1	1							1	604	dmg-cold		18	36	infusion-cost		3	3	lvl-cost
 Noisy Bidding	100	1	1							1	605	dmg-ltng		1	9	infusion-cost		2	2	lvl-cost		1	1		dlb1	bidd											0	0
 Eerie Bidding	100	1	1							1	606	dmg-ltng		1	18	infusion-cost		3	3	lvl-cost		4	4		dlb2	bidd											0	0
 Electrical Bidding	100	1	1							1	607	dmg-ltng		1	36	infusion-cost		3	3	lvl-cost		6	6		dlb3	bidd											0	0
-Uneasy Bidding	100	1	1							1	608	dmg-pois	75	16	16	infusion-cost		2	2	lvl-cost		1	1		dpb1	bidd											0	0
-Sick Bidding	100	1	1							1	609	dmg-pois	75	32	32	infusion-cost		3	3	lvl-cost		4	4		dpb2	bidd											0	0
-Nauseating Bidding	100	1	1							1	610	dmg-pois	75	64	64	infusion-cost		3	3	lvl-cost		6	6		dpb3	bidd											0	0
+Uneasy Bidding	100	1	1							1	608	dmg-pois	50	16	16	infusion-cost		2	2	lvl-cost		1	1		dpb1	bidd											0	0
+Sick Bidding	100	1	1							1	609	dmg-pois	50	32	32	infusion-cost		3	3	lvl-cost		4	4		dpb2	bidd											0	0
+Nauseating Bidding	100	1	1							1	610	dmg-pois	50	64	64	infusion-cost		3	3	lvl-cost		6	6		dpb3	bidd											0	0
 Skillful Bidding	100	1	1							1	611														skbi	bidd											0	0
 Javelin Bidding	100	1	1							1	612	skilltab	2	1	1	infusion-cost		4	4	lvl-cost		4	4		nsbi	bidd											0	0
 Bow Bidding	100	1	1							1	613	skilltab	0	1	1	infusion-cost		4	4	lvl-cost		4	4		nbbi	bidd											0	0
