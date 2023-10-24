@@ -233,11 +233,11 @@ of Excellence	1	1	1	59		51				4	15	dmg-min		6	9										ring	amul	circ	helm				
 of Performance	100	1	1	81		63				2	15	dmg-min		10	13										ring	amul	circ	helm										0
 of Joyfulness	100	1	1	5		3				4	15	dmg-min		1	4									whit	jewl													0
 of Bliss	100	1	1	43		37				4	15	dmg-min		5	10									whit	jewl													0
-of Blight	1	1	1	5	45	3				5	16	dmg-pois	75	24	24										weap	circ	misl					rod	orb					0
-of Venom	1	1	1	15	55	11				4	16	dmg-pois	100	54	54										weap	circ	misl					rod	orb					0
-of Pestilence	1	1	1	25		18				3	16	dmg-pois	125	103	103									dgrn	weap	circ	misl					rod	orb					0
-of Anthrax	100	1	1	33		25				2	16	dmg-pois	150	171	171									dgrn	weap	misl						rod	orb					0
-of Blight	100	1	1	45	85	33				2	16	dmg-pois	75	171	171										ring	amul												0
+of Blight	1	1	1	5	45	3				5	16	dmg-pois	50	24	24										weap	circ	misl					rod	orb					0
+of Venom	1	1	1	15	55	11				4	16	dmg-pois	50	54	54										weap	circ	misl					rod	orb					0
+of Pestilence	1	1	1	25		18				3	16	dmg-pois	50	103	103									dgrn	weap	circ	misl					rod	orb					0
+of Anthrax	100	1	1	33		25				2	16	dmg-pois	50	171	171									dgrn	weap	misl						rod	orb					0
+of Blight	100	1	1	45	85	33				2	16	dmg-pois	50	171	171										ring	amul												0
 of Envy	100	1	1	1		1				2	16	dmg-pois	50	103	103									dgrn	jewl													0
 of Dexterity	1	1	1	1	41	1				4	17	dex		1	2										amul	miss	circ											0
 of Skill	1	1	1	11	51	8				3	17	dex		3	5										amul	miss	circ	misl										0
