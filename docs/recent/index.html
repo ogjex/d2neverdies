@@ -33,6 +33,7 @@
         
         var pageToc = [
           {title: "Recent patch changes", url: "#_top", children: [
+              {title: "2.0.0", url: "#200" },
               {title: "v1.2.0 - Pets and Peeves", url: "#v120-pets-and-peeves" },
               {title: "v1.1.0 - A Song of Ice and Fire: Electric Buggaloo", url: "#v110-a-song-of-ice-and-fire-electric-buggaloo" },
               {title: "v1.0.3", url: "#v103" },
@@ -86,11 +87,117 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
     
 
     <h1 id="recent-patch-changes">Recent patch changes</h1>
-<!--
-1.3
-
--->
-
+<h2 id="200">2.0.0</h2>
+<h3 id="known-issues">Known issues:</h3>
+<ul>
+<li>Perfect Obsidian can currently not be stacked</li>
+<li>Evil force string error in act 5 merc description</li>
+<li>Some Evil force or Missing Strings in affix names</li>
+<li>Wrong merc skill icons for icons 3-5 in merc inventory</li>
+<li>Corruptions on Set Items have visual bugs due to the added attributes (colors become weird, or the item may only reveal the corruption when worn)</li>
+<li>Act 1 Rogue Merc with Strafe has no attack animation</li>
+<li>Some inconsistencies with colours in descriptions of Charges</li>
+</ul>
+<h3 id="fixes-the-following">Fixes the following:</h3>
+<ul>
+<li>game now works with D2R vanilla version 2.8</li>
+<li>more than 600 minor bug fixes and performance improvements! (Thanks, D2RLint!)</li>
+<li>fixed a nasty property duplicate bug that rendered wrong properties</li>
+<li>skill tree panels now reflect correct prereqs for skills (dependencies simplified)</li>
+<li>skeletal mages now correctly spawn with fire and lightning mages exclusively</li>
+<li>Essences (burning, festering, hatred, etc) now unstack into unstacked versions</li>
+<li>correct skill tabs are now infused from Blood Biddings</li>
+<li>melee splash damage now works properly</li>
+<li>corrected pixel lines and visuals for merc inventory screen for m/k and controller</li>
+</ul>
+<h3 id="balances-the-following">Balances the following:</h3>
+<ul>
+<li>renamed Skill Biddings to "Blood Biddings" and can only be infused into Sunder Charms</li>
+<li>removed Might from Holy Fire requirement</li>
+<li>removed Amplify Damage from Weaken requirement</li>
+<li>Enigma's Teleport are now "Lesser Teleport" with a long cooldown</li>
+<li>Demon Machine now spawns with ctc Firewall</li>
+<li>renamed all biddings to generic "biddings" so player is forced to pick up</li>
+<li>Arkaines Valor: increased defense range, added hp/lvl as in 1.10, added 50% Fire Resist, added repair durability</li>
+<li>Inreased Melee Damage with 25% on all Exceptional and Elite Weapons across the board</li>
+<li>reduced distance for Force Cleave missile </li>
+<li>all poison-based attacks and properties now have a global 2 second duration</li>
+<li>
+<ul>
+<li>elemental skills now properly give their bonuses</li>
+</ul>
+</li>
+<li>Decrepify cast by monsters now properly reduces speed, attack rate AND cast rate (casters beware in Chaos Sanctuary)</li>
+<li>Nerfed Confuse amplify damage synergy to only provide Amp damage if Amplify Damage is 20 base skill points</li>
+<li>changed Conversion skill to "Sacred Swordsmanship" that provides passive Parrying (Strafe + Dodge with no animation), increased attack rating, and synergises with Charge and Sanctuary Aura for two-handed swords ONLY, also colors the two-handed sword golden in its duration</li>
+<li>reduced max life of all Golems, especially Clay Golem</li>
+</ul>
+<h3 id="adds-the-following">Adds the following:</h3>
+<ul>
+<li>Slabs of Faith now drop from Baal Quest Drop Nightmare difficulty, and from all Nightmare Boss Desecrated </li>
+<li>Gheeds Gambles now drop from superuniques in Hell difficulty</li>
+<li>Baubles now drop from Terrorized superuniques in Hell difficulty
+*- chipped, flawed and normal gems now drop from superuniques in Terror Zones</li>
+<li>Baubles can be upgraded to Crafting Baubles by transmuting 50 Jewels (stacked) and a Bauble</li>
+<li>Crafting Baubles need to be transmuted with 50 stacks of runes, from runes 1 to 7, one at a time (first 50 Els, then 50 Elds and so on)</li>
+<li>When all 7 stacks of runes have been transmuted into the Bauble, a specific type of "X Crafting Bauble" can be activated by transmuting a designated 50 P-Gems, holding 50 charges of crafting.</li>
+<li>Crafting Baubles can be transmuted to output 2 Bauble Charges that can be used to craft directly (each crafting recipe will now remove 1 charge from the cube, so you can craft two items in a row by just replacing the crafted item in the cube) </li>
+<li>The Crafting Bauble can now be recharged with a new set of 50 stacked P-Gems</li>
+<li>edited Crafting recipes to only use runes 2-7 for all crafting types (so one crafting type takes only 1 type of rune)</li>
+<li>enabled a recipe to build Obsidian Stones (Flawless and Perfect) to use for Slabs of Faith and Sunder Charms</li>
+<li>Sunder charm biddings now drop from Hell Terrorized zones and can be used to craft Sunder Charms using Slabs of Faith</li>
+<li>new automod "% to not consume charges" added to all claws, daggers, bucklers, small shield and large shields, and random automod for gloves</li>
+<li>added three new armors that grant "Mark" of Bear and Wolf specifically to use for shapeshifter characters (not restricted to Druid)</li>
+<li>added new Runeword "Judgment" (GulChamHelJahDolUm) inspired by PD2 and added 2 handed sword to the item type</li>
+<li>added two types of melee splash to one and twohanded weapons (onehanded is an arc, twohanded is a radial damage)</li>
+<li>added new affix to skills that allow for "additional Revives" for Necro</li>
+</ul>
+<h3 id="changes-the-following">Changes the following:</h3>
+<h4 id="mercenaries">Mercenaries:</h4>
+<ul>
+<li>Act 2 Desert Mercs are now considered "pal" class</li>
+<li>Act 2 Desert Mercs Might replaced with Vigor aura</li>
+<li>Act 2 Desert Mercs Holy Freeze replaced with Sanctuary aura</li>
+<li>Act 3 Sorcerors are now considered "sor" class</li>
+<li>Act 1 fire merc now shoots Strafe (also added passive multiple shot to add as synergy with fire arrow)</li>
+<li>Act 1 cold merc now shoots Multiple Shot</li>
+<li>Act 3 Fire, Cold and Lightning Sorcerors now have Fire, Cold and Lightning Mastery, respectively </li>
+<li>Act 3 Lightning Sorcerors now have added Thunder Storm skill</li>
+<li>Act 5 Mercs now all have Iron Skin and cast Shout</li>
+<li>Act 5 Frenzy Mercs now have Cleave and cast Battle Cry</li>
+<li>Act 5 2H Mercs now have Great Cleave instead of Bash and cast Howl</li>
+</ul>
+<h4 id="assassin">Assassin:</h4>
+<ul>
+<li>elemental Charge Up skills now incur a linear resistance penalty (minus resistance and minus max resistance)</li>
+<li>removed dependencies between Elemental Charge Up skills</li>
+<li>If more than one Elemental Charge skill has points in it, a global 10 second cooldown will be set to all Elemental Charge Up skills. Phoenix Strike is the exception and this will encourage the player to pick a single element to focus on (while still being able to use different PS charges for dual elements) </li>
+<li>Cobra Strike charge 1 now is a poison Cloud and charge 3 is an AoE poison-based attack</li>
+<li>Cobra Strike now has progressive stack when charges are released</li>
+<li>Phoenix Strike now has a flat "minus magic damage reduction" penalty</li>
+<li>reduced PS charge 3 Chaos Ice freeze significantly </li>
+<li>Tiger Strike now has a flat "minus physical damage reduction" penalty </li>
+<li>Dragon Talon now has a maximum of 1 kick no matter the skill level (due to crazy unbalance when using Mosaic)</li>
+<li>all Finishing moves (with the exception of Dragon Flight) now no longer always hits</li>
+</ul>
+<h4 id="druid">Druid:</h4>
+<ul>
+<li>add teleport skill (Frost Wind) instead of "Arctic Blast"</li>
+<li>add Firestorm cast to Fireclaw attack</li>
+<li>added three new armors that grant either ctc "Mark of Bear/Wolf"</li>
+<li>"Mark of the Bear/Wolf" now has base reduction of PDR and Life % and instead scales better with skill points to Lycanthropy and Werebear/Werewolf</li>
+<li>Shockwave now splits into multiple waves when more skills are put into it and increases stun length</li>
+<li>Vines and Totems are now granted 1000% enhanced defence to avoid losing them immediately in later difficulties</li>
+<li>1 Additional Vine can now be spawned per 10 base levels</li>
+<li>Additional Vines stat can now be granted through Nature items (primarily Druid Pelts but also certain Unique Rings)</li>
+<li>Carrion Vine now both recovers life and mana</li>
+<li>Solar Creeper now deals fire damage on attack and as a fire aura pulse instead of recovering mana</li>
+<li>Spirit of Barbs now grant additional 100% defense aura to make it more useful</li>
+<li>Additional Totems stat can now be granted through Spirit items (primarily Druid Pelts but also certain Unique Rings)</li>
+<li>Cooldowns removed from Volcano and Molten Boulder</li>
+<li>Ravens now deal cold damage</li>
+<li>Bear and Wolf Summons now synergise with Werebear and Werewolf (pack leader, GO!)</li>
+</ul>
 <h2 id="v120-pets-and-peeves">v1.2.0 - Pets and Peeves</h2>
 <p>Fixes the following:</p>
 <ul>
