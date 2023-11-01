@@ -61,24 +61,26 @@
               {title: "Masteries", url: "#masteries" },
               {title: "Combat skills", url: "#combat-skills" },
           ]},
-          {title: "Paladin", url: "#paladin", children: [
+          {title: "Paladin Skill Changes", url: "#paladin-skill-changes", children: [
               {title: "Defensive auras", url: "#defensive-auras" },
               {title: "Offensive auras", url: "#offensive-auras" },
               {title: "Combat skills", url: "#combat-skills_1" },
           ]},
-          {title: "Sorceress", url: "#sorceress", children: [
+          {title: "Sorceress Skill Changes", url: "#sorceress-skill-changes", children: [
               {title: "Cold skills", url: "#cold-skills" },
               {title: "Lightning skills", url: "#lightning-skills" },
               {title: "Fire skills", url: "#fire-skills" },
           ]},
-          {title: "Druid, Necro", url: "#druid-necro", children: [
-          ]},
-          {title: "Necromancer", url: "#necromancer", children: [
+          {title: "Necromancer Skill Changes", url: "#necromancer-skill-changes", children: [
               {title: "Summoning", url: "#summoning" },
               {title: "Poison and bone spells", url: "#poison-and-bone-spells" },
               {title: "Curses", url: "#curses" },
           ]},
-          {title: "Druid", url: "#druid", children: [
+          {title: "Druid Skill Changes", url: "#druid-skill-changes", children: [
+          ]},
+          {title: "Elemental Skills", url: "#elemental-skills", children: [
+              {title: "Shape Shifting Skills", url: "#shape-shifting-skills" },
+              {title: "Summoning Skills", url: "#summoning-skills" },
           ]},
         ];
 
@@ -131,6 +133,8 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Added corruption recipes</li>
 <li>Added 2 new crafting types and updated old crafting recipes</li>
 <li>Added set and unique rerolling and forging </li>
+<li>Added recipes for extracting charges from crafting baubles that can be used for faster crafting</li>
+<li>Normal gems can now be cubed into Flawless Obsidian to be used as end-game crafting items</li>
 </ul>
 <h1 id="areas">Areas</h1>
 <ul>
@@ -178,6 +182,9 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Added Glyphs of Xiansai</li>
 <li>Added Larzuk's Gimlets</li>
 <li>Added Orbs of Extraction, Divination and Combination for sale at Akara's</li>
+<li>Added Baubles for crafting</li>
+<li>Added Slabs of Faith that can be imbued with lucky biddings (similar to Gheed's Fortune charm)</li>
+<li>Added Sunder Charms that can be crafted and infused with skills and other end game bonuses</li>
 <li>Added new Valor charms for each new character</li>
 <li>Added Unique and Compound (Set item) Essence Cubes</li>
 <li>Added Unique and Compound Charges</li>
@@ -191,13 +198,13 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Increased viability of sabres (faster block rate, faster base attack speed), scimitars (deadly strike, faster base attack speed), falchion (crushing blow), throwing knife class (deadly strike, pierce), staves (fcr, mana recovery, damage reduction) </li>
 <li>Added base properties to armors to provide better bases to craft from, or to create runewords. Armors e.g. will be either combat-oriented (damage reduction), caster-oriented (FCR) or agility-oriented (FRW)</li>
 <li>Added minor base properties to helmets, gloves, boots and shields to be better viable for crafting and rares</li>
-<li>Light armors now require dexterity in order to provide better trade-offs of stat allocation</li>
+<li>Light armors now require dexterity in order to provide better trade-offs of stat allocation, especially for caster classes </li>
 <li>Edited low level sets and set items (Isenhart's Lightbrand now a javelin, Clegclaws Tooth and Claw now katars, Tancred's Weird now a Gothic Axe)</li>
-<li>Bolts and Arrows can now be magic and rare</li>
+<li>Bolts and Arrows now only spawn magic and rare</li>
 </ul>
 <h1 id="drops">Drops</h1>
 <ul>
-<li>Removed Chipped, Flawed, Standard gems from dropping (they will be used for other things later)</li>
+<li>Removed Chipped, Flawed, Standard gems from regular TC drops and they will now only drop from Andariel kills and from Terror Zones</li>
 <li>Increased Rare, Set and Unique drops overall</li>
 <li>All Act Bosses now drop Quest drops as their normal drops</li>
 </ul>
@@ -277,12 +284,12 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Tiger Strike: unchanged </li>
 <li>Dragon Talon: unchanged </li>
 <li>Dragon Claw: unchanged </li>
-<li>Fists of Fire: increased fire damage, added synergy to Wake of Inferno  and Fire Blast</li>
-<li>Cobra Strike: now deals poison damange, synergy to Venom</li>
-<li>Claws of Thunder: increased lightning damage, synergy to Charged Bolt Sentry and Shock Web</li>
+<li>Fists of Fire: increased fire damage, removed dependencies, added synergy to Wake of Inferno and Fire Blast, incurs 10 second cooldown if more than 0 points are located to other elemental charge-up skills</li>
+<li>Cobra Strike: now deals poison damange, synergy to Venom, incurs 10 second cooldown if more than 0 points are located to other elemental charge-up skills</li>
+<li>Claws of Thunder: increased lightning damage, removed dependencies, synergy to Charged Bolt Sentry and Shock Web, incurs 10 second cooldown if more than 0 points are located to other elemental charge-up skills</li>
 <li>Dragon Tail: unchanged</li>
 <li>Dragon Flight: reduce frame animation for Dragon Flight to 6 (from 16)</li>
-<li>Blades of Ice: increased damage</li>
+<li>Blades of Ice: increased damage, removed dependencies, incurs 10 second cooldown if more than 0 points are located to other elemental charge-up skills</li>
 <li>Phoenix Strike: removed dependency to Cobra Strike</li>
 </ul>
 <h2 id="shadow-disciplines">Shadow Disciplines</h2>
@@ -343,15 +350,15 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Bash: Added crushing blow</li>
 <li>Double Swing: added damage multiplier</li>
 <li>Frenzy: changed duration calculation to last longer, synergy from Double Swing</li>
-<li>Stun: unchanged</li>
-<li>Concentrate: Added chance of deadly strike</li>
+<li>Stun: replaced with "Cleave"; an AoE attack that adds bouncing of hits to adjacent monsters. Can only be used with a Shield and one-handed weapon</li>
+<li>Concentrate: replaced with "Great Cleave"; an AoE attack that creates a physical missile that pierces straight through enemies and increases defence during attacking. Can only be used with a two-handed weapon</li>
 <li>Double Throw: set chance to not use quantity to 100%</li>
 <li>Leap: decrease mana cost </li>
 <li>Leap Attack: decrease mana cost, increased leap speed, reduced minimum frames to 8 on short leaps, doubled AoE damage, added synergy to AoE damage (Leap and Bash)</li>
 <li>Berserk: unchanged </li>
 <li>Whirlwind: removed dependency to Concentrate, buffed damage and added attack speed to gain max frames</li>
 </ul>
-<h1 id="paladin">Paladin</h1>
+<h1 id="paladin-skill-changes">Paladin Skill Changes</h1>
 <h2 id="defensive-auras">Defensive auras</h2>
 <ul>
 <li>Prayer: unchanged</li>
@@ -383,15 +390,15 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Sacrifice: unchanged</li>
 <li>Holy Bolt: add multishot per baselevels</li>
 <li>Smite: unchanged</li>
-<li>Zeal: reduced number of strikes to 4</li>
+<li>Zeal: reduced maximum number of strikes to 4</li>
 <li>Charge: unchanged</li>
 <li>Vengeance: unchanged</li>
 <li>Blessed Hammer: unchanged</li>
-<li>Conversion: renamed to Divine Blessing, is now a ranged casting skill with aoe, similar to Mind Blast</li>
+<li>Conversion: replaced with "Sacred Swordsmanship"; buff cast similar to Holy Shield but only applicable to two-handed swords that will increase attack rating and passively "parry" hits, synergizes with Charge and Sanctuary</li>
 <li>Fist of the Heavens: removed local delay</li>
 <li>Holy Shield: unchanged</li>
 </ul>
-<h1 id="sorceress">Sorceress</h1>
+<h1 id="sorceress-skill-changes">Sorceress Skill Changes</h1>
 <h2 id="cold-skills">Cold skills</h2>
 <ul>
 <li>Ice Bolt: unchanged</li>
@@ -431,15 +438,13 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Hydra: add fire pierce</li>
 <li>Fire Mastery: add fire pierce</li>
 </ul>
-<h1 id="druid-necro">Druid, Necro</h1>
-<p>The Druid and Necro have not yet been playtested and will come in later releases.</p>
-<h1 id="necromancer">Necromancer</h1>
+<h1 id="necromancer-skill-changes">Necromancer Skill Changes</h1>
 <h2 id="summoning">Summoning</h2>
 <ul>
-<li>Raise Skeleton Warrior: increased life, damage, reduced max number of warriors</li>
-<li>Skeleton Mastery: renamed to Undead Mastery, all summons have auto buffed resistances</li>
+<li>Raise Skeleton Warrior: increased life, damage, defense and now synergizes with Bone Armor (damage reduction)</li>
+<li>Skeleton Mastery: renamed to Undead Mastery, all undead summons have auto buffed resistances</li>
 <li>Clay Golem: unchanged</li>
-<li>Raise Skeletal Mage: removed cold and poison mages, increased life, damage, reduced max number of mages</li>
+<li>Raise Skeletal Mage: removed cold and poison mages, increased life, damage, reduced max number of mages, now synergizes with Bone Armor (damage reduction)</li>
 <li>Golem Mastery: added additional golem summons per 5 base levels</li>
 <li>Summon Resist: replaced with Blood Distort, now a Teleport skill with a casting delay</li>
 <li>Blood Golem: renamed to BoneFlesh Golem, added Prayer aura</li>
@@ -452,7 +457,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Teeth: removed synergy from bone prison, increased synergy damage to 20, increased damaged, added piercing to all teeth</li>
 <li>Poison Dagger: renamed to Poison Wisp, now a casting skill that casts a poison bolt with a poison trail that pierces through its path, increased poison damage to be stronger than Poison Nova against single targets</li>
 <li>Bone Armor: now synergises with Energy attribute, synergises with Bone Wall (+) and Bone Prison (-) for damage reduction, synergises with Bone Prison (+) and Bone Wall (-) for magic damage reduction</li>
-<li>Corpse Explosion: unchanged</li>
+<li>Corpse Explosion: added synergy with Pyroshock Golem that converts more physical damage to fire damage</li>
 <li>Bone Wall: now synergises with Energy attribute, removed bone armor synergy</li>
 <li>Poison Explosion: renamed to Poison Ward, works like Grim Ward that decreases Enemy Poison Resistances, synergises with Poison Wisp to decrease enemy poison resistance</li>
 <li>Bone Spear: removed synergy from bone wall, increased synergy damage by 4</li>
@@ -462,24 +467,57 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 </ul>
 <h2 id="curses">Curses</h2>
 <ul>
-<li>Amplify Damage: added increment of 5% amplify damage per level</li>
-<li>Dim Vision: further reduced attack rating</li>
-<li>Iron Maiden: can now be cast as an additional curse</li>
+<li>Amplify Damage: added increment of 1% amplify damage per level</li>
+<li>Dim Vision: further reduced attack rating, can now be cast as an additional curse</li>
+<li>Iron Maiden: now adds open wounds, can now be cast as an additional curse</li>
 <li>Life Tap: unchanged</li>
 <li>Terror: can now be cast as an additional curse</li>
 <li>Weaken: monsters now have their base AC reduced </li>
-<li>Confuse: can now be cast as an additional curse, synergises with Amp Damage to increase Monster Damage</li>
+<li>Confuse: synergises with Amp Damage to increase Monster Damage, only when Amp Damage is at max base level</li>
 <li>Attract: synergises with Iron Maiden that adds flat attacker takes damage</li>
-<li>Decrepify: can now be cast as an additional curse, removed amplify damage, added slower cast rate</li>
+<li>Decrepify: can now be cast as an additional curse, removed amplify damage, added slower cast rate for monsters casting Decrepify</li>
 <li>Lower Resist: unchanged</li>
 </ul>
-<h1 id="druid">Druid</h1>
-<p>Druid changes are currently being worked on and balanced.</p>
-<!--
-# Druid
-
-
--->
+<h1 id="druid-skill-changes">Druid Skill Changes</h1>
+<h1 id="elemental-skills">Elemental Skills</h1>
+<ul>
+<li>Firestorm: removed cast delay and next hit delay</li>
+<li>Molten Boulder: removed cast delay and next hit delay</li>
+<li>Arctic Blast: replaced with "Frost Wind": a lesser teleport with a local cast delay</li>
+<li>Fissure: unchanged</li>
+<li>Cyclone Armor: unchanged</li>
+<li>Twister: unchanged</li>
+<li>Volcano: removed cast delay and next hit delay</li>
+<li>Tornado: unchanged</li>
+<li>Hurricane: unchanged</li>
+<li>Armageddon: increased radius and removed next hit delay, removed dependency to Hurricane</li>
+</ul>
+<h2 id="shape-shifting-skills">Shape Shifting Skills</h2>
+<ul>
+<li>Werewolf: unchanged</li>
+<li>Lycanthropy: removed dependency</li>
+<li>Werebear: unchanged</li>
+<li>Maul: unchanged</li>
+<li>Feral Rage: unchanged</li>
+<li>Fire Claws: removed dependencies, added CtC Fire Storm 100% when reaching 10 base levels, increased fire damage</li>
+<li>Rabies: unchanged</li>
+<li>Shock Wave: added multiple missiles in an arc with increased base levels</li>
+<li>Hunger: unchanged</li>
+<li>Fury: unchanged</li>
+</ul>
+<h2 id="summoning-skills">Summoning Skills</h2>
+<ul>
+<li>Raven: added more Ravens, increased number of attacks, added cold damage</li>
+<li>Poison Creeper: increased defense with 1000%, increased poison damage</li>
+<li>Oak Sage: increased defense with 1000%</li>
+<li>Summon Spirit Wolf: unchanged</li>
+<li>Carrion Vine: now both heals and regenerates mana</li>
+<li>Heart of Wolverine: increased defense with 1000%</li>
+<li>Summon Dire Wolf: removed dependency to Oak Sage</li>
+<li>Solar Creeper: increased defense with 1000%, now deals Fire Damage on attack and as a continuous pulse similar to Holy Fire</li>
+<li>Spirit of Barbs: added % increased defence</li>
+<li>Summon Grizzly: can now summon an additional Bear per 10 base levels</li>
+</ul>
 
   <br>
     
