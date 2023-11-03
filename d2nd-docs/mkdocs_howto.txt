@@ -1,0 +1,12 @@
+to review the docs in a local server:
+navigate to docs folder
+
+
+
+to build the documentation:
+open cmd prompt
+navigate to docs folder
+run 'mkdocs build -d ../docs'
+push the changes to github
+
+make sure that the CNAME file with the main domain is located in docs
