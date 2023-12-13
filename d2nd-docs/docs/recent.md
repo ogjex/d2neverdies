@@ -1,5 +1,18 @@
 # Recent patch changes
 
+## v2.0.1: Baubles of Balance
+
+- Updated dataversion build file
+- Baubles can now be recharged with Full stacks of PGems
+!- A1 Mercs now all use multishot
+- Gheeds Gambles now properly use scroll drop sounds and animation frames
+- Double Throw for barb now splashes similar to Lightning Fury
+- Melee Splash now uses Attack Rating for attacks
+- Melee Splash source damage now halved
+- Increased drop chances for baubles, gimlets, slabs, and gambles
+- Decreased Charge synergy and src damage
+
+
 ## v2.0.0: Blood and Baubles
 
 ### Known issues:
