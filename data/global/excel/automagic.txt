@@ -268,7 +268,7 @@ Blood Bidding DEF	100	0	1							1	645	ac%		75	75	res-all		-2	-2						bidd							
 Blood Bidding RES-ALL	100	0	1							1	646	res-all		5	5	red-dmg%		-10	-10						bidd												0	0
 Blood Bidding AR	100	0	1							1	647	att%		25	25	res-all		-2	-2						bidd												0	0
 Blood Bidding FIRE%	100	0	1							1	648	extra-fire		5	5	red-dmg%		-3	-3						bidd												0	0
-Blood Bidding COLD%	100	0	1							1	649	extra-ltng		5	5	red-dmg%		-3	-3						bidd												0	0
-Blood Bidding LTNG%	100	0	1							1	650	extra-cold		5	5	red-dmg%		-3	-3						bidd												0	0
+Blood Bidding COLD%	100	0	1							1	649	extra-cold		5	5	red-dmg%		-3	-3						bidd												0	0
+Blood Bidding LTNG%	100	0	1							1	650	extra-ltng		5	5	red-dmg%		-3	-3						bidd												0	0
 Blood Bidding POIS%	100	0	1							1	651	extra-pois		5	5	red-dmg%		-3	-3						bidd												0	0
 Blood Bidding MAGI%	100	0	1							1	652	dmg-mag		5	11	red-dmg%		-3	-3						bidd												0	0

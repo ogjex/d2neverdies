@@ -908,6 +908,7 @@
   { "bi7": { "asset": "cube/bidding_blood" } },
   { "bi8": { "asset": "cube/bidding_blood" } },
   { "bi9": { "asset": "cube/bidding_blood" } },
+  { "10b": { "asset": "cube/bidding_blood" } },
   { "11b": { "asset": "cube/bidding_blood" } },
   { "12b": { "asset": "cube/bidding_blood" } }
 ]
