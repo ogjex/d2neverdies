@@ -2876,7 +2876,7 @@ RUNE MASTER STACKS	0																																																												
 	1			0	18	70	50		1	s33							"usetype,qty=49"																													r33																																																										0
 CRAFTING BAUBLE CHARGE STACKS	0																																																																																																							0
 COMBATANT'S CRAFTING BAUBLE	0																																																																																																							0
-Check if Bauble is empty and deplete	1			0	18	70	1		1	1fb							1bu																																																																																							0
+Check if Bauble is empty and deplete	1			0	18	70	1		1	1fb							1bu																													cu1																																																										0
 Stack of 2 (Bauble) -> Stack-1 + Target Output	1			0	18	70	2		1	1fb							"usetype,qty=1"																													cu1																																																										0
 Stack of 3 (Bauble) -> Stack-1 + Target Output	1			0	18	70	3		1	1fb							"usetype,qty=2"																													cu1																																																										0
 Stack of 4 (Bauble) -> Stack-1 + Target Output	1			0	18	70	4		1	1fb							"usetype,qty=3"																													cu1																																																										0
@@ -2927,7 +2927,7 @@ Stack of 48 (Bauble) -> Stack-1 + Target Output	1			0	18	70	48		1	1fb							"use
 Stack of 49 (Bauble) -> Stack-1 + Target Output	1			0	18	70	49		1	1fb							"usetype,qty=48"																													cu1																																																										0
 Stack of 50 (Bauble) -> Stack-1 + Target Output	1			0	18	70	50		1	1fb							"usetype,qty=49"																													cu1																																																										0
 CONJURER'S CRAFTING BAUBLE	0																																																																																																							0
-Check if Bauble is empty and deplete	1			0	18	70	1		1	2fb							2bu																																																																																							0
+Check if Bauble is empty and deplete	1			0	18	70	1		1	2fb							2bu																													cu2																																																										0
 Stack of 2 (Bauble) -> Stack-1 + Target Output	1			0	18	70	2		1	2fb							"usetype,qty=1"																													cu2																																																										0
 Stack of 3 (Bauble) -> Stack-1 + Target Output	1			0	18	70	3		1	2fb							"usetype,qty=2"																													cu2																																																										0
 Stack of 4 (Bauble) -> Stack-1 + Target Output	1			0	18	70	4		1	2fb							"usetype,qty=3"																													cu2																																																										0
@@ -2978,7 +2978,7 @@ Stack of 48 (Bauble) -> Stack-1 + Target Output	1			0	18	70	48		1	2fb							"use
 Stack of 49 (Bauble) -> Stack-1 + Target Output	1			0	18	70	49		1	2fb							"usetype,qty=48"																													cu2																																																										0
 Stack of 50 (Bauble) -> Stack-1 + Target Output	1			0	18	70	50		1	2fb							"usetype,qty=49"																													cu2																																																										0
 CRAVEN'S CRAFTING BAUBLE	0																																																																																																							0
-Check if Bauble is empty and deplete	1			0	18	70	1		1	3fb							3bu																																																																																							0
+Check if Bauble is empty and deplete	1			0	18	70	1		1	3fb							3bu																													cu3																																																										0
 Stack of 2 (Bauble) -> Stack-1 + Target Output	1			0	18	70	2		1	3fb							"usetype,qty=1"																													cu3																																																										0
 Stack of 3 (Bauble) -> Stack-1 + Target Output	1			0	18	70	3		1	3fb							"usetype,qty=2"																													cu3																																																										0
 Stack of 4 (Bauble) -> Stack-1 + Target Output	1			0	18	70	4		1	3fb							"usetype,qty=3"																													cu3																																																										0
@@ -3029,7 +3029,7 @@ Stack of 48 (Bauble) -> Stack-1 + Target Output	1			0	18	70	48		1	3fb							"use
 Stack of 49 (Bauble) -> Stack-1 + Target Output	1			0	18	70	49		1	3fb							"usetype,qty=48"																													cu3																																																										0
 Stack of 50 (Bauble) -> Stack-1 + Target Output	1			0	18	70	50		1	3fb							"usetype,qty=49"																													cu3																																																										0
 FOMENTERS CRAFTING BAUBLE	0																																																																																																							0
-Check if Bauble is empty and deplete	1			0	18	70	1		1	4fb							4bu																																																																																							0
+Check if Bauble is empty and deplete	1			0	18	70	1		1	4fb							4bu																													cu4																																																										0
 Stack of 2 (Bauble) -> Stack-1 + Target Output	1			0	18	70	2		1	4fb							"usetype,qty=1"																													cu4																																																										0
 Stack of 3 (Bauble) -> Stack-1 + Target Output	1			0	18	70	3		1	4fb							"usetype,qty=2"																													cu4																																																										0
 Stack of 4 (Bauble) -> Stack-1 + Target Output	1			0	18	70	4		1	4fb							"usetype,qty=3"																													cu4																																																										0
@@ -3080,7 +3080,7 @@ Stack of 48 (Bauble) -> Stack-1 + Target Output	1			0	18	70	48		1	4fb							"use
 Stack of 49 (Bauble) -> Stack-1 + Target Output	1			0	18	70	49		1	4fb							"usetype,qty=48"																													cu4																																																										0
 Stack of 50 (Bauble) -> Stack-1 + Target Output	1			0	18	70	50		1	4fb							"usetype,qty=49"																													cu4																																																										0
 REVENANTS CRAFTING BAUBLE	0																																																																																																							0
-Check if Bauble is empty and deplete	1			0	18	70	1		1	5fb							5bu																																																																																							0
+Check if Bauble is empty and deplete	1			0	18	70	1		1	5fb							5bu																													cu5																																																										0
 Stack of 2 (Bauble) -> Stack-1 + Target Output	1			0	18	70	2		1	5fb							"usetype,qty=1"																													cu5																																																										0
 Stack of 3 (Bauble) -> Stack-1 + Target Output	1			0	18	70	3		1	5fb							"usetype,qty=2"																													cu5																																																										0
 Stack of 4 (Bauble) -> Stack-1 + Target Output	1			0	18	70	4		1	5fb							"usetype,qty=3"																													cu5																																																										0
@@ -3131,7 +3131,7 @@ Stack of 48 (Bauble) -> Stack-1 + Target Output	1			0	18	70	48		1	5fb							"use
 Stack of 49 (Bauble) -> Stack-1 + Target Output	1			0	18	70	49		1	5fb							"usetype,qty=48"																													cu5																																																										0
 Stack of 50 (Bauble) -> Stack-1 + Target Output	1			0	18	70	50		1	5fb							"usetype,qty=49"																													cu5																																																										0
 CORNUCOPIAS CRAFTING BAUBLE	0																																																																																																							0
-Check if Bauble is empty and deplete	1			0	18	70	1		1	6fb							5bu																																																																																							0
+Check if Bauble is empty and deplete	1			0	18	70	1		1	6fb							5bu																													cu6																																																										0
 Stack of 2 (Bauble) -> Stack-1 + Target Output	1			0	18	70	2		1	6fb							"usetype,qty=1"																													cu6																																																										0
 Stack of 3 (Bauble) -> Stack-1 + Target Output	1			0	18	70	3		1	6fb							"usetype,qty=2"																													cu6																																																										0
 Stack of 4 (Bauble) -> Stack-1 + Target Output	1			0	18	70	4		1	6fb							"usetype,qty=3"																													cu6																																																										0
