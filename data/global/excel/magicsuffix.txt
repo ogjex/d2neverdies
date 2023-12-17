@@ -337,9 +337,9 @@ of Life	100	1	1	19		14				4	26	hp		16	20										lcha													0
 of Substinence	100	1	1	31		23				4	26	hp		21	25										lcha													0
 of Substinence	100	1	1	45		37				4	26	hp		26	30										lcha													0
 of Substinence	100	1	1	61		53				4	26	hp		31	35										lcha													0
-of Vita	100	1		77		69				4	26	hp		36	40										lcha													0
-of Vita	100	1		91		83				4	26	hp		41	45										lcha													0
-of Vita	100	1		110		97				4	26	hp		46	50										lcha													0
+of Vita	100	1		77		67				4	26	hp		36	40										lcha													0
+of Vita	100	1		91		67				4	26	hp		41	45										lcha													0
+of Vita	100	1		110		67				4	26	hp		46	50										lcha													0
 of Life	100	1	1	1		9				4	26	hp		6	10										mcha													0
 of Life	100	1	1	12		9				4	26	hp		11	15										mcha													0
 of Substinence	100	1	1	26		19				4	26	hp		16	20										mcha													0
@@ -490,15 +490,15 @@ of Charged Strike	100	0	1	68		60		ama	21	1	44	charged	24	-20	-3										glov			
 of Plague Jab	100			35		27		ama	18	1	44	charged	25	-60	-5										amul	circ												0
 of Plague Jab	100			71		63		ama	22	1	44	charged	25	-20	-3										glov													0
 of Immolating Arrows	100			42		36		ama	24	1	44	charged	27	-30	-4										miss	abow												0
-of Immolating Arrows	100			85		77		ama	27	1	44	charged	27	-20	-2										glov													0
+of Immolating Arrows	100			85		67		ama	27	1	44	charged	27	-20	-2										glov													0
 of Fending	100			41		35		ama	24	1	44	charged	30	-60	-5										spea	aspe												0
-of Fending	100			83		75		ama	26	1	44	charged	30	-20	-3										glov													0
+of Fending	100			83		67		ama	26	1	44	charged	30	-20	-3										glov													0
 of Freezing Arrows	100	0	1	50		42		ama	30	1	44	charged	31	-30	-4										miss	abow												0
-of Freezing Arrows	100	0	1	94		86		ama	33	1	44	charged	31	-20	-2										glov													0
+of Freezing Arrows	100	0	1	94		67		ama	33	1	44	charged	31	-20	-2										glov													0
 of Lightning Strike	100	0	1	47		39		ama	30	1	44	charged	34	-60	-4										spea	aspe												0
-of Lightning Strike	100	0	1	90		82		ama	32	1	44	charged	34	-20	-2										glov													0
+of Lightning Strike	100	0	1	90		67		ama	32	1	44	charged	34	-20	-2										glov													0
 of Lightning Fury	100			49		41		ama	30	1	44	charged	35	-60	-4										amul	circ												0
-of Lightning Fury	100			92		84		ama	33	1	44	charged	35	-20	-2										glov													0
+of Lightning Fury	100			92		67		ama	33	1	44	charged	35	-20	-2										glov													0
 of Fire Bolts	100	0	1	7		7		sor	1	1	44	charged	36	-30	-10										staf	orb												0
 of Fire Bolts	100	0	1	14		14		sor	1	1	44	charged	36	-20	-6										swor	ring	circ											0
 of Charged Bolts	100	0	1	7		7		sor	1	1	44	charged	38	-30	-10										staf	orb												0
@@ -546,9 +546,9 @@ of Blizzards	100	0	1	60		60		sor	24	1	44	charged	59	-20	-2										knif								
 of Chilling Armor	100			30		30		sor	24	1	44	charged	60	-30	-5										staf	orb												0
 of Chilling Armor	100			60		60		sor	24	1	44	charged	60	-20	-2										tors													0
 of Hydras	100			36		36		sor	30	1	44	charged	62	-30	-3										staf	orb												0
-of Hydras	100			72		72		sor	30	1	44	charged	62	-20	-1										club													0
+of Hydras	100			72		67		sor	30	1	44	charged	62	-20	-1										club													0
 of Frozen Orbs	100	0	1	36		36		sor	30	1	44	charged	64	-30	-3										staf	orb												0
-of Frozen Orbs	100	0	1	72		72		sor	30	1	44	charged	64	-20	-1										knif													0
+of Frozen Orbs	100	0	1	72		67		sor	30	1	44	charged	64	-20	-1										knif													0
 of Amplify Damage	100			7		7		nec	1	1	44	charged	66	-60	-10										wand	knif	head											0
 of Amplify Damage	100			14		14		nec	1	1	44	charged	66	-20	-6										blun													0
 of Teeth	100	0	1	7		7		nec	1	1	44	charged	67	-60	-10										wand	knif	head											0
@@ -594,15 +594,15 @@ of Bone Imprisonment	100			60		60		nec	24	1	44	charged	88	-20	-2										mace	s
 of Iron Golem Creation	100			30		30		nec	24	1	44	charged	90	-60	-5										wand	knif	head											0
 of Iron Golem Creation	100			60		60		nec	24	1	44	charged	90	-20	-2										swor													0
 of Lower Resistance	100	1	1	36		36		nec	30	1	44	charged	91	-28	15										wand	knif	head											0
-of Lower Resistance	100	1	1	72		72		nec	30	1	44	charged	91	-28	15										staf													0
+of Lower Resistance	100	1	1	72		67		nec	30	1	44	charged	91	-28	15										staf													0
 of Poison Novas	100	0	1	36		36		nec	30	1	44	charged	92	-60	-3										wand	knif	head											0
-of Poison Novas	100	0	1	72		72		nec	30	1	44	charged	92	-20	-1										glov													0
+of Poison Novas	100	0	1	72		67		nec	30	1	44	charged	92	-20	-1										glov													0
 of Bone Spirits	100	0	1	36		36		nec	30	1	44	charged	93	-60	-3										wand	knif	head											0
-of Bone Spirits	100	0	1	72		72		nec	30	1	44	charged	93	-20	-1										amul	circ												0
+of Bone Spirits	100	0	1	72		67		nec	30	1	44	charged	93	-20	-1										amul	circ												0
 of Fire Golem Summoning	100			36		36		nec	30	1	44	charged	94	-60	-3										wand	knif	head											0
-of Fire Golem Summoning	100			72		72		nec	30	1	44	charged	94	-20	-1										hamm													0
+of Fire Golem Summoning	100			72		67		nec	30	1	44	charged	94	-20	-1										hamm													0
 of Revivification	100			36		36		nec	30	1	44	charged	95	-60	-3										wand	knif	head											0
-of Revivification	100			72		72		nec	30	1	44	charged	95	-20	-1										pole													0
+of Revivification	100			72		67		nec	30	1	44	charged	95	-20	-1										pole													0
 of Sacrifice	100	0	1	7		7		pal	1	1	44	charged	96	-30	-10										scep	ashd												0
 of Sacrifice	100	0	1	14		14		pal	1	1	44	charged	96	-20	-6										mele							scep						0
 of Holy Bolts	100	0	1	12		12		pal	6	1	44	charged	101	-30	-8										scep	ashd												0
@@ -616,7 +616,7 @@ of Blessed Hammers	100	0	1	48		48		pal	18	1	44	charged	112	-20	-3										hamm	
 of Swordsmanship	100			30		30		pal	24	1	44	charged	116	-30	-5										scep	ashd												0
 of Swordsmanship	100			60		60		pal	24	1	44	charged	116	-20	-2										blun							scep						0
 of Fist of the Heavens	100			36		36		pal	30	1	44	charged	121	-30	-3										scep	ashd												0
-of Fist of the Heavens	100			72		72		pal	30	1	44	charged	121	-20	-1										glov													0
+of Fist of the Heavens	100			72		67		pal	30	1	44	charged	121	-20	-1										glov													0
 of Bashing	100	0	1	7		7		bar	1	1	44	charged	126	-60	-10										phlm													0
 of Bashing	100	0	1	14		14		bar	1	1	44	charged	126	-20	-6										mele							staf	wand	orb				0
 of Howling	100			7		7		bar	1	1	44	charged	130	-60	-10										phlm													0
@@ -640,9 +640,9 @@ of Battle Orders	100			60		60		bar	24	1	44	charged	149	-20	-2																			
 of Grim Ward	100	0	1	30		30		bar	24	1	44	charged	150	-60	-5										phlm													0
 of Grim Ward	100	0	1	60		60		bar	24	1	44	charged	150	-20	-2										amul													0
 of War Cry	100			36		36		bar	30	1	44	charged	154	-60	-3										phlm													0
-of War Cry	100			72		72		bar	30	1	44	charged	154	-20	-1																							0
+of War Cry	100			72		67		bar	30	1	44	charged	154	-20	-1																							0
 of Battle Command	100			36		36		bar	30	1	44	charged	155	-60	-3										phlm													0
-of Battle Command	100			72		72		bar	30	1	44	charged	155	-20	-1																							0
+of Battle Command	100			72		67		bar	30	1	44	charged	155	-20	-1																							0
 of Firestorms	100	0	1	7		7		dru	1	1	44	charged	225	-30	-10										club													0
 of Firestorms	100	0	1	14		14		dru	1	1	44	charged	225	-20	-6										staf													0
 of Molten Boulders	100			12		12		dru	6	1	44	charged	229	-30	-8										club													0
@@ -658,9 +658,9 @@ of Volcano	100	0	1	60		60		dru	24	1	44	charged	244	-20	-3										hamm									
 of Tornado	100	0	1	30		30		dru	24	1	44	charged	245	-30	-5										club													0
 of Tornado	100	0	1	60		60		dru	24	1	44	charged	245	-20	-2										amul	circ												0
 of Armageddon	100			36		36		dru	30	1	44	charged	249	-30	-3										club													0
-of Armageddon	100			72		72		dru	30	1	44	charged	249	-20	-1										staf													0
+of Armageddon	100			72		67		dru	30	1	44	charged	249	-20	-1										staf													0
 of Hurricane	100			36		36		dru	30	1	44	charged	250	-30	-3										club													0
-of Hurricane	100			72		72		dru	30	1	44	charged	250	-20	-1										amul	circ												0
+of Hurricane	100			72		67		dru	30	1	44	charged	250	-20	-1										amul	circ												0
 of Damage Amplification	100	1	1	15	55	15				1	44	hit-skill	66	8	15										weap							orb						0
 of the Icicle	100	1	1	37		29				2	10	cold-min		2	3	cold-max		6	10	cold-len		50	50	dblu	jewl													0
 of the Glacier	100	1		58		50				2	10	cold-min		4	5	cold-max		11	15	cold-len		50	50	dblu	jewl													0
@@ -680,7 +680,7 @@ of Quality	100	1	1	41		33				4	14	dmg-max		2	2										lcha													0
 of Maiming	100	1		71		63				4	14	dmg-max		3	4										lcha													0
 of Craftsmanship	100	1	1	26		19				4	14	dmg-max		1	1										mcha													0
 of Quality	100	1		56		48				4	14	dmg-max		2	2										mcha													0
-of Craftsmanship	100	1	1	85		77				4	14	dmg-max		1	1										scha													0
+of Craftsmanship	100	1	1	85		67				4	14	dmg-max		1	1										scha													0
 of Blight	100	1	1	9		6				2	16	dmg-pois	50	55	55										lcha													0
 of Venom	100	1	1	20		15				1	16	dmg-pois	50	95	95										lcha													0
 of Pestilence	100	1	1	32		24				1	16	dmg-pois	50	165	165									dgrn	lcha													0
