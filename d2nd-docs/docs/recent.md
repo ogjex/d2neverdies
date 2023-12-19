@@ -4,14 +4,14 @@
 
 - Updated dataversion build file
 - Baubles can now be recharged with Full stacks of PGems
-!- A1 Mercs now all use multishot
+- A1 Mercs now all use multishot (removed Strafe from Fire Mercs)
 - Gheeds Gambles now properly use scroll drop sounds and animation frames
 - Double Throw for barb now splashes similar to Lightning Fury
 - Melee Splash now uses Attack Rating for attacks
 - Melee Splash source damage now halved
 - Increased drop chances for baubles, gimlets, slabs, and gambles
 - Decreased Charge synergy and src damage
-
+- Reduced all max lvl reqs for set items, uniques, and attributes to lvl 67 to ensure that they can actually be used for leveling
 
 ## v2.0.0: Blood and Baubles
 
