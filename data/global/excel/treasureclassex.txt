@@ -27,7 +27,7 @@ Bidding D (H)			1						rb3	10	sb3	10	tb3	10	ub3	10	vb3	10	aa0	10	Bidding D (N)	5
 Bidding E (H)			1						Bidding A (H)	35	Bidding B (H)	25	Bidding C (H)	25	Bidding D (H)	15																		0
 Blood Bidding A			1						Bidding E (H)	38	bi1	2	bi2	2	bi3	2	bi4	2	bi5	2	bi6	2												0
 Blood Bidding B			1						Bidding E (H)	38	bi7	2	bi8	2	bi9	2	10b	2	11b	2	12b	2												0
-Blood Bidding C			1						Blood Bidding A	1	Blood Bidding B	1																						0
+Blood Bidding C			1					1	Blood Bidding A	1	Blood Bidding B	1																						0
 Ammo			1						aqv	1	cqv	1																						0
 Misc 0			1						key	3	tsc	3	isc	3																				0
 Misc 1			1						key	3	tsc	3	isc	3																				0
@@ -582,7 +582,7 @@ Swarm 1 (N)	17	40	1					125	Potion 2	12	Misc 1	2	Act 2 (N) Good	4															
 Swarm 2 (N)	17	46	1					125	Potion 2	12	Misc 1	2	Act 3 (N) Good	4																				0
 Swarm 1 (H)	17	68	1					125	Potion 2	12	Misc 2	2	Act 2 (H) Good	4																				0
 Swarm 2 (H)	17	74	1					125	Potion 2	12	Misc 2	2	Act 3 (H) Good	4																				0
-Sunder Charms			1					5	sg1	15	sg2	15	sg3	5	sg4	5	sg5	5	sg6	5													2	0
+Sunder Charms			1					400	sg1	15	sg2	15	sg3	5	sg4	5	sg5	5	sg6	5													2	0
 Andariel			6	995	995	1024	1024	10	Act 2 Equip A	19	Act 2 Good	3																						0
 Andariel (N)			6	995	995	1024	1024	10	Act 2 (N) Equip A	19	Act 2 (N) Good	3																						0
 Andariel (H)			6	995	995	1024	1024	10	Act 2 (H) Equip A	19	Act 2 (H) Good	3	ses	1																				0
@@ -979,20 +979,20 @@ Uber Izual			1	1024				0	sms	1																								0
 Pandemonium Key A			1	1024				0	p1s	1																								0
 Pandemonium Key B			1	1024				0	p2s	1																								0
 Pandemonium Key C			1	1024				0	p3s	1																								0
-Act 1 (H) Champ A Desecrated	36	63	2					0	Sunder Charms	5	Act 1 (H) Champ A	20																						0
-Act 1 (H) Champ B Desecrated	36	66	2					0	Sunder Charms	5	Act 1 (H) Champ B	20																						0
-Act 1 (H) Champ C Desecrated	36	68	2					0	Sunder Charms	5	Act 1 (H) Champ C	20																						0
-Act 2 (H) Champ A Desecrated	36	69	2					0	Sunder Charms	5	Act 2 (H) Champ A	20																						0
-Act 2 (H) Champ B Desecrated	36	71	2					0	Sunder Charms	5	Act 2 (H) Champ B	20																						0
-Act 2 (H) Champ C Desecrated	36	72	2					0	Sunder Charms	5	Act 2 (H) Champ C	20																						0
-Act 3 (H) Champ A Desecrated	36	74	2					0	Sunder Charms	5	Act 3 (H) Champ A	20																						0
-Act 3 (H) Champ B Desecrated	36	75	2					0	Sunder Charms	5	Act 3 (H) Champ B	20																						0
-Act 3 (H) Champ C Desecrated	36	77	2					0	Sunder Charms	5	Act 3 (H) Champ C	20																						0
-Act 4 (H) Champ A Desecrated	36	78	2					0	Sunder Charms	5	Act 4 (H) Champ A	20																						0
-Act 4 (H) Champ B Desecrated	36	80	2					0	Sunder Charms	5	Act 4 (H) Champ B	20																						0
-Act 5 (H) Champ A Desecrated	36	81	2					0	Sunder Charms	5	Act 5 (H) Champ A	20																						0
-Act 5 (H) Champ B Desecrated	36	83	2					0	Sunder Charms	5	Act 5 (H) Champ B	20																						0
-Act 5 (H) Champ C Desecrated	36	85	2					0	Sunder Charms	5	Act 5 (H) Champ C	20																						0
+Act 1 (H) Champ A Desecrated	36	63	2					0	Sunder Charms	3	Act 1 (H) Champ A	20																						0
+Act 1 (H) Champ B Desecrated	36	66	2					0	Sunder Charms	3	Act 1 (H) Champ B	20																						0
+Act 1 (H) Champ C Desecrated	36	68	2					0	Sunder Charms	3	Act 1 (H) Champ C	20																						0
+Act 2 (H) Champ A Desecrated	36	69	2					0	Sunder Charms	3	Act 2 (H) Champ A	20																						0
+Act 2 (H) Champ B Desecrated	36	71	2					0	Sunder Charms	3	Act 2 (H) Champ B	20																						0
+Act 2 (H) Champ C Desecrated	36	72	2					0	Sunder Charms	3	Act 2 (H) Champ C	20																						0
+Act 3 (H) Champ A Desecrated	36	74	2					0	Sunder Charms	3	Act 3 (H) Champ A	20																						0
+Act 3 (H) Champ B Desecrated	36	75	2					0	Sunder Charms	3	Act 3 (H) Champ B	20																						0
+Act 3 (H) Champ C Desecrated	36	77	2					0	Sunder Charms	3	Act 3 (H) Champ C	20																						0
+Act 4 (H) Champ A Desecrated	36	78	2					0	Sunder Charms	3	Act 4 (H) Champ A	20																						0
+Act 4 (H) Champ B Desecrated	36	80	2					0	Sunder Charms	3	Act 4 (H) Champ B	20																						0
+Act 5 (H) Champ A Desecrated	36	81	2					0	Sunder Charms	3	Act 5 (H) Champ A	20																						0
+Act 5 (H) Champ B Desecrated	36	83	2					0	Sunder Charms	3	Act 5 (H) Champ B	20																						0
+Act 5 (H) Champ C Desecrated	36	85	2					0	Sunder Charms	3	Act 5 (H) Champ C	20																						0
 Act 1 (H) Unique A Desecrated	37	63	2					0	Gheeds Gambles	4	Act 1 (H) Unique A	20																						0
 Act 1 (H) Unique B Desecrated	37	66	2					0	Gheeds Gambles	4	Act 1 (H) Unique B	20																						0
 Act 1 (H) Unique C Desecrated	37	68	2					0	Gheeds Gambles	4	Act 1 (H) Unique C	20																						0
