@@ -2,6 +2,45 @@
 
 The recipe section only covers those recipes that are not inscribed into descriptions in game.
 
+## Essence charges
+
+asd
+
+## Obsidian
+
+Flawless Obsidian: 7 x different, single normal gems
+
+Perfect Obsidian: 3 x Flawless Obsidian
+
+## Baubles
+
+Crafting Bauble: Bauble + full stack of Jewel Fragments
+
+Recharge depleted Crafting Bauble: depleted Crafting Bauble + Specific full stack of P Gems (see below)
+
+Crafting Bauble tier 1-7: Crafting Bauble + full stack of El --> Tal runes
+
+Combatants Crafting Bauble (charged): Crafting Bauble + full stack of P Rubies
+
+Conjurers Crafting Bauble: Crafting Bauble + full stack of P Sapphires
+
+Cravens Crafting Bauble: Crafting Bauble + full stack of P Emeralds
+
+Fomenters Crafting Bauble: Crafting Bauble + full stack of P Amethysts
+
+Revenants Crafting Bauble: Crafting Bauble + full stack of P Skulls
+
+Cornucopias Crafting Bauble: Crafting Bauble + full stack of P Topazes
+
+## Sunder Charms
+
+Sunder Charm: Sunder Charm bidding + 1 Perfect Obsidian + 3 x Rough Charm Cores 
+
+## Slab of Faith
+
+Slab of Faith + Gheed's Gambler --> random attribute of gold find, magic find or reduced vendor prices 
+
+
 ## Repairing and recharging
 
 Fully Repaired and Recharged Weapon: 1 Ort Rune + 1 Weapon
