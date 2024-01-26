@@ -3439,18 +3439,18 @@ Crafting Bauble to lvl 4	1			100	18	70	50		2	s04	bu3						bu4																			
 Crafting Bauble to lvl 5	1			100	18	70	50		2	s05	bu4						bu5																																																																																							0
 Crafting Bauble to lvl 6	1			100	18	70	50		2	s06	bu5						bu6																																																																																							0
 Crafting Bauble to lvl 7	1			100	18	70	50		2	s07	bu6						bu7																																																																																							0
-Combatants Crafting Bauble	1			100	18	70	50		2	8pr	bu7						1fb																																																																																							0
-Conjurers Crafting Bauble	1			100	18	70	50		2	8ps	bu7						2fb																																																																																							0
-Cravens Crafting Bauble	1			100	18	70	50		2	8pe	bu7						3fb																																																																																							0
-Fomenters Crafting Bauble	1			100	18	70	50		2	8pa	bu7						4fb																																																																																							0
-Revenants Crafting Bauble	1			100	18	70	50		2	8pk	bu7						5fb																																																																																							0
-Cornucopias Crafting Bauble	1			100	18	70	50		2	8pt	bu7						6fb																																																																																							0
-Recharge Combatants Crafting Bauble	1			100	18	70	50		2	8pr	1bu						1fb																																																																																							0
-Recharge Conjurers Crafting Bauble	1			100	18	70	50		2	8ps	2bu						2fb																																																																																							0
-Recharge Cravens Crafting Bauble	1			100	18	70	50		2	8pe	3bu						3fb																																																																																							0
-Recharge Fomenters Crafting Bauble	1			100	18	70	50		2	8pa	4bu						4fb																																																																																							0
-Recharge Revenants Crafting Bauble	1			100	18	70	50		2	8pk	5bu						5fb																																																																																							0
-Recharge Cornucopias Crafting Bauble	1			100	18	70	50		2	8pt	6bu						6fb																																																																																							0
+Combatants Crafting Bauble	1			100	18	70	50		2	8pr	bu7						"1fb,qty=50"																																																																																							0
+Conjurers Crafting Bauble	1			100	18	70	50		2	8ps	bu7						"2fb,qty=50"																																																																																							0
+Cravens Crafting Bauble	1			100	18	70	50		2	8pe	bu7						"3fb,qty=50"																																																																																							0
+Fomenters Crafting Bauble	1			100	18	70	50		2	8pa	bu7						"4fb,qty=50"																																																																																							0
+Revenants Crafting Bauble	1			100	18	70	50		2	8pk	bu7						"5fb,qty=50"																																																																																							0
+Cornucopias Crafting Bauble	1			100	18	70	50		2	8pt	bu7						"6fb,qty=50"																																																																																							0
+Recharge Combatants Crafting Bauble	1			100	18	70	50		2	8pr	1bu						"1fb,qty=50"																																																																																							0
+Recharge Conjurers Crafting Bauble	1			100	18	70	50		2	8ps	2bu						"2fb,qty=50"																																																																																							0
+Recharge Cravens Crafting Bauble	1			100	18	70	50		2	8pe	3bu						"3fb,qty=50"																																																																																							0
+Recharge Fomenters Crafting Bauble	1			100	18	70	50		2	8pa	4bu						"4fb,qty=50"																																																																																							0
+Recharge Revenants Crafting Bauble	1			100	18	70	50		2	8pk	5bu						"5fb,qty=50"																																																																																							0
+Recharge Cornucopias Crafting Bauble	1			100	18	70	50		2	8pt	6bu						"6fb,qty=50"																																																																																							0
 CHARM CRAFTING	0																																																																																																							0
 AMETHYST	0																																																																																																							0
 ANNIHILUS	0																																																																																																							0
