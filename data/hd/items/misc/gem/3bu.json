@@ -3,7 +3,7 @@
         "particles": [],
         "models": [
             {
-                "path": "data/hd/items/misc/gem/chipped_diamond/chipped_diamond.model"
+                "path": "data/hd/items/misc/gem/perfect_emerald/perfect_emerald.model"
             }
         ],
         "skeletons": [
@@ -14,19 +14,19 @@
         "animations": [],
         "textures": [
             {
-                "path": "data/hd/items/misc/gem/chipped_diamond/misc_chipped_diamond_ALB.texture"
+                "path": "data/hd/items/misc/gem/perfect_emerald/misc_perfect_emerald_ALB.texture"
             },
             {
-                "path": "data/hd/items/misc/gem/chipped_diamond/misc_chipped_diamond_NRM.texture"
+                "path": "data/hd/items/misc/gem/perfect_emerald/misc_perfect_emerald_NRM.texture"
             },
             {
-                "path": "data/hd/items/misc/gem/chipped_diamond/misc_chipped_diamond_ORM.texture"
+                "path": "data/hd/items/misc/gem/perfect_emerald/misc_perfect_emerald_ORM.texture"
             }
         ],
         "physics": [],
         "json": [
             {
-                "path": "data/hd/items/dropped_items/dropped_items_helms_flip_ne.json"
+                "path": "data/hd/items/dropped_items/dropped_items_helms_flip_sw.json"
             }
         ],
         "variantdata": [],
@@ -34,17 +34,17 @@
         "other": []
     },
     "type": "UnitDefinition",
-    "name": "chipped_diamond",
+    "name": "perfect_emerald",
     "entities": [
         {
             "type": "Entity",
             "name": "entity_root",
-            "id": 82511480,
+            "id": 4131382401,
             "components": [
                 {
                     "type": "UnitRootComponent",
                     "name": "component_root",
-                    "state_machine_filename": "data/hd/items/dropped_items/dropped_items_helms_flip_ne.json",
+                    "state_machine_filename": "data/hd/items/dropped_items/dropped_items_helms_flip_sw.json",
                     "doNotInheritRotation": false,
                     "rotationOverride": {
                         "x": 0.0,
@@ -67,12 +67,12 @@
         {
             "type": "Entity",
             "name": "entity_model",
-            "id": 2401235760,
+            "id": 1462810849,
             "components": [
                 {
                     "type": "ModelDefinitionComponent",
-                    "name": "component_model_chipped_diamond",
-                    "filename": "data/hd/items/misc/gem/chipped_diamond/chipped_diamond.model",
+                    "name": "component_model_perfect_emerald",
+                    "filename": "data/hd/items/misc/gem/perfect_emerald/perfect_emerald.model",
                     "visibleLayers": 1,
                     "lightMask": 19,
                     "shadowMask": 3,
