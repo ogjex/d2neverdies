@@ -3,15 +3,21 @@
 ## v2.0.1: Baubles of Balance
 
 - Updated dataversion build file
-- Baubles can now be recharged with Full stacks of PGems
+- Baubles can now be properly recharged with Full stacks of PGems
 - A1 Mercs now all use multishot (removed Strafe from Fire Mercs)
-- Gheeds Gambles now properly use scroll drop sounds and animation frames
-- Double Throw for barb now splashes similar to Lightning Fury
+- Rebalance cast chances for Act 3 mercs
+- Gheeds Gambles now properly use scroll drop sounds, animation frames and with updated graphics
+- Double Throw for barb now splashes similar to Lightning Fury but with half damage dealt and with only 2 missiles that use attack rating
 - Melee Splash now uses Attack Rating for attacks
 - Melee Splash source damage now halved
 - Increased drop chances for baubles, gimlets, slabs, and gambles
 - Decreased Charge synergy and src damage
 - Reduced all max lvl reqs for set items, uniques, and attributes to lvl 67 to ensure that they can actually be used for leveling
+- Cobra Strike now properly leeches life on charge 2
+- Cobra Strike now properly launches Poison Nova on charge 3
+- Cobra Strike now only dispenses its current charge on finishing move
+- Decreased level of amplify damage for Lacerator
+- Added negative life gain on Iron Maiden (requires target to take damage)
 
 ## v2.0.0: Blood and Baubles
 
