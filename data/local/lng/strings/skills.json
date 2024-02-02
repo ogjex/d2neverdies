@@ -37062,7 +37062,7 @@
   {
     "id": 100075,
     "Key": "StrSkillAssassinCobraStrikeCharge1New",
-    "enUS": "Charge 1 - Poison Cloud Attack: %+d%%",
+    "enUS": "Charge 1 - Poison Cloud Attack Damage: ",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -37096,7 +37096,7 @@
   {
     "id": 100077,
     "Key": "StrSkillAssassinCobraStrikeCharge3New",
-    "enUS": "Charge 3 - Poison Nova Attack: %+d%%",
+    "enUS": "Charge 3 - Poison Nova Attack Damage: ",
     "zhTW": "",
     "deDE": "",
     "esES": "",
