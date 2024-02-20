@@ -264,7 +264,7 @@ levelup-skill	1	11	item_skillonlevelup																											#% Chance to ca
 skill-rand	1	12	item_singleskill																											+# to [Skill] ([Class] only)	Skill Level	Min Skill ID	Max Skill ID		0
 fade	1	17	fade																													Min #	Max #	Visuals Only	0
 levelreq	1	1	item_levelreq																											Required Level: #		Min #	Max #		0
-ethereal	1	23																												Ethereal		1	1		0
+ethereal	1	23	item_eth_counter																											Ethereal		1	1		0
 oskill	1	22	item_nonclassskill																											+# to [Skill]	Skill	Min #	Max #		0
 state	1	24	state																												State	1	1	Applies a State on the unit	0
 randclassskill	1	36	item_addclassskills		3																									+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
