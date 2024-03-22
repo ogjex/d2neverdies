@@ -39,7 +39,7 @@ Splashing	100	1	1	1		1				1	506	splash	SplashDamage	100	1										armo	weap				
 Base Staff	100	1	1	1		1				1	507	cast2		10	10	regen-mana		0	10	red-dmg		0	6		armo	weap											0	0
 Exceptional Staff	100	1	1	1		1				1	508	cast2		30	30	regen-mana		15	20	red-dmg		10	16		armo	weap											0	0
 Elite Staff	100	1	1	1		1				1	509	cast2		50	50	regen-mana		25	30	red-dmg		20	30		armo	weap											0	0
-Sharp Knife	100	1	1	1		1				1	510	deadly		20	20	splash	373	100	1	charge-noconsume		30	60		armo	weap											0	0
+Sharp Knife	100	1	1	1		1				1	510	deadly		20	20	splash	SplashDamage	100	1	charge-noconsume		30	60		armo	weap											0	0
 Crushing Crossbow	100	1	1	1		1				1	511	crush		10	10	dmg%		50	50						armo	weap											0	0
 Shinobi Throwing Knife	100	1	1	1		1				1	512	deadly		20	20	rep-quant	60			pierce		20	20		armo	weap											0	0
 Replenish Quantity	100	1	1	1		1				1	513	rep-quant	60												weap	misl											0	0
