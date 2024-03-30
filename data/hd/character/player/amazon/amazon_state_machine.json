@@ -1279,72 +1279,72 @@
         {
             "type": "AnimationItem",
             "name": "hth_run",
-            "filename": "data/hd/character/player/amazon/animation/hth_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/hth_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "bow_run",
-            "filename": "data/hd/character/player/amazon/animation/bow_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/bow_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "1hs_run",
-            "filename": "data/hd/character/player/amazon/animation/1hs_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/1hs_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "1ht_run",
-            "filename": "data/hd/character/player/amazon/animation/1ht_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/1ht_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "stf_run",
-            "filename": "data/hd/character/player/amazon/animation/stf_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/stf_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "2hs_run",
-            "filename": "data/hd/character/player/amazon/animation/2hs_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/2hs_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "2ht_run",
-            "filename": "data/hd/character/player/amazon/animation/2ht_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/2ht_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "xbw_run",
-            "filename": "data/hd/character/player/amazon/animation/xbw_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/xbw_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "1js_run",
-            "filename": "data/hd/character/player/amazon/animation/1js_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/1js_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "1jt_run",
-            "filename": "data/hd/character/player/amazon/animation/1jt_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/1jt_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "1ss_run",
-            "filename": "data/hd/character/player/amazon/animation/1ss_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/1ss_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "1st_run",
-            "filename": "data/hd/character/player/amazon/animation/1st_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/1st_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "ht1_run",
-            "filename": "data/hd/character/player/amazon/animation/ht1_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/ht1_walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "ht2_run",
-            "filename": "data/hd/character/player/amazon/animation/ht2_run.animation"
+            "filename": "data/hd/character/player/amazon/animation/ht2_walk.animation"
         },
         {
             "type": "AnimationItem",
