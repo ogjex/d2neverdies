@@ -1,6 +1,6 @@
 # Recent patch changes
 
-## v2.0.1: Baubles of Balance
+## v2.1.0: Baubles of Balance
 
 - Updated dataversion build file
 - Baubles can now be properly recharged with Full stacks of PGems
@@ -18,6 +18,15 @@
 - Cobra Strike now only dispenses its current charge on finishing move
 - Decreased level of amplify damage for Lacerator
 - Added negative life gain on Iron Maiden (requires target to take damage)
+- Run/walk now properly reversed so walking actually runs
+- Mind Blast is replaced with Mind Blast Strike, a charge up skill that inflicts ailments
+- Psychic Hammer replaced with Shadow Strike, a finishing move that attacks twice and converts a portion of physical damage to magic damage
+- Shadow Master replaced with Shadow Mastery, a passive that grants various synergies, and also decreases light radius
+- Added new armors as Cloaks for Assassin (and also for leveling melee)
+- Shadow Warrior buffed and can now have multiple summons
+- Shock web now casts static field
+- Inferno Sentry replaced with Fire Ball Sentry
+- Fire bomb now cascades explosions in higher base skill points when landing 
 
 ## v2.0.0: Blood and Baubles
 
