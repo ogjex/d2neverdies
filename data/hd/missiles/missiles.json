@@ -710,5 +710,5 @@
     "cobrastrikepoisoncloud": "poison_sparks",
     "shadowstun": "null",
     "shadowknockback": "expansion_shockwave",
-    "shadowslow": "null"
+    "shadowslow": "mindblast_hit"
 }
