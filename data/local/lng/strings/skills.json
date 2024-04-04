@@ -7941,7 +7941,7 @@
   {
     "id": 4471,
     "Key": "skillld24",
-    "enUS": "adds lightning damage to javelin and spear class weapons\nand releases charged bolts upon impact",
+    "enUS": "adds lightning damage to spear class weapons\nand releases charged bolts upon impact",
     "zhTW": "在標槍與長矛武器上附加電擊傷害並在擊中時釋放電能彈",
     "deDE": "Verstärkt Angriffe mit Wurfspießen und Speeren mit\nBlitzschaden und entfesselt bei Treffern Comboblitze.",
     "esES": "Añade daño de rayos a las armas de tipo jabalina y lanza\ny libera descargas de energía al impactar.",
@@ -8621,7 +8621,7 @@
   {
     "id": 4511,
     "Key": "skillld34",
-    "enUS": "adds lightning damage to javelin and spear class weapons\nand releases chain lightning upon impact",
+    "enUS": "adds lightning damage to spear class weapons\nand releases chain lightning upon impact",
     "zhTW": "在標槍與長矛武器上附加電擊傷害並在擊中時釋放連鎖閃電",
     "deDE": "Verstärkt Angriffe mit Wurfspießen und Speeren mit\nBlitzschaden und entfesselt bei Treffern Kettenblitze.",
     "esES": "Añade daño de rayos a las armas de tipo jabalina y lanza\ny libera una cadena de rayos al impactar.",
