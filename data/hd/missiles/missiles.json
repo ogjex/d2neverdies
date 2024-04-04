@@ -710,5 +710,6 @@
     "cobrastrikepoisoncloud": "poison_sparks",
     "shadowstun": "null",
     "shadowknockback": "expansion_shockwave",
-    "shadowslow": "mindblast_hit"
+    "shadowslow": "expansion_shockwave",
+    "shadowslowstop": "null"
 }
