@@ -27,6 +27,7 @@
 - Shock web now casts static field
 - Inferno Sentry replaced with Fire Ball Sentry
 - Fire bomb now cascades explosions in higher base skill points when landing 
+- Charged Strike and Lightning Strike are now restricted to spear class weapons
 - Updated magic affixes for magic items so they can spawn with double values (rares are still "limited" to old affixes)
 
 ## v2.0.0: Blood and Baubles
