@@ -241,3 +241,4 @@ Nephalem's Admiration	nead	newc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch
 Pierce Grand Charms	pich	newc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
 Slab of Faith	slof	newc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
 Furs	dfur	tors	drui	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
+Merc Armor	mors	armo		1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
