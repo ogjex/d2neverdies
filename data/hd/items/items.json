@@ -912,8 +912,8 @@
   { "11b": { "asset": "cube/bidding_blood" } },
   { "12b": { "asset": "cube/bidding_blood" } },
   { "cl1": { "asset": "armor/cloak" } },
-  { "cl2": { "asset": "armor/cloak" } },
-  { "cl2": { "asset": "armor/cloak" } },
+  { "cl2": { "asset": "armor/cloak_exc" } },
+  { "cl2": { "asset": "armor/cloak_eli" } },
   { "ma1": { "asset": "armor/leather_armor" } },
   { "ma2": { "asset": "armor/hard_leather_armor" } },
   { "ma3": { "asset": "armor/studded_leather" } }
