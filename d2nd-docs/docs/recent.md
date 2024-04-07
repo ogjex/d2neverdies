@@ -22,7 +22,7 @@
 *- Mind Blast is replaced with Mind Blast Strike, a charge up skill that inflicts ailments
 *- Psychic Hammer replaced with Shadow Strike, a finishing move that attacks twice and converts a portion of physical damage to magic damage
 - Shadow Master replaced with Shadow Mastery, a passive that grants various synergies, and also decreases light radius
-*- Added new armors as Cloaks for Assassin (and also for leveling melee)
+- Added new armors as Cloaks for Assassin (and also for leveling melee)
 - Shadow Warrior buffed and can now have multiple summons
 *- Shock web now casts static field and slows enemies     
 *- Inferno Sentry replaced with Fire Ball Sentry
