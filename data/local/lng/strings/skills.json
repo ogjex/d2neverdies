@@ -37147,7 +37147,7 @@
   {
     "id": 100080,
     "Key": "StrSkillAssassinMindblastStrikeCharge1",
-    "enUS": "Charge 1 - Chains and stuns up to three targets in melee range",
+    "enUS": "Charge 1 - Chain stuns up to three targets in melee range",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -37164,7 +37164,7 @@
   {
     "id": 100081,
     "Key": "StrSkillAssassinMindblastStrikeCharge2",
-    "enUS": "Charge 2 - Slows all enemies in close vicinity",
+    "enUS": "Charge 2 - Knockback blow in a radial discharge",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -37181,7 +37181,7 @@
   {
     "id": 100082,
     "Key": "StrSkillAssassinMindblastStrikeCharge3",
-    "enUS": "Charge 3 - Encourages other monsters to attack melee target",
+    "enUS": "Charge 3 - Slows enemies in close vicinity",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -37313,5 +37313,22 @@
     "ptBR": "",
     "ruRU": "",
     "zhCN": ""
+  },
+  {
+    "id": 100089,
+    "Key": "StrExtraShadow",
+    "enUS": "summons an additional shadow warrior per %d base levels",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": "" 
   }
 ]
