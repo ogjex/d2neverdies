@@ -950,8 +950,8 @@ Ferocious	100	1	1	41		33				6	105	dmg%		202	400									blac	weap							staf	wan
 Cruel	100	1		51		43				5	105	dmg%		402	600									blac	weap							staf	wand	orb				
 Cinnabar	100	1	1	1		1				4	105	dmg%		10	20									dred	jewl													
 Rusty	100	1	1	13		9				4	105	dmg%		22	40									dred	jewl													
-Realgar	100	1	1	45		37				4	105	dmg%		42	60									dred	jewl													
-Ruby	100	1	1	66		58				4	105	dmg%		62	80									dred	jewl													
+Realgar	100	0	1	45		37				4	105	dmg%		42	60									dred	jewl													
+Ruby	100	0	1	66		58				4	105	dmg%		62	80									dred	jewl													
 Vulpine	1	1	1	9		6				3	107	dmg-to-mana		14	24									cblu	shld	amul	orb	staf										
 Dun	100	1	1	7		5				3	107	dmg-to-mana		14	24																							
 Tireless	1	1	1	6		4				4	108	regen-stam		50	50										boot													
