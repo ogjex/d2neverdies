@@ -125,9 +125,9 @@
   "ultra": "armor/victors_silk"
 } },
   { "cathans_rule": {
-  "normal": "wand/wand",
-  "uber": "wand/wand",
-  "ultra": "wand/wand"
+  "normal": "dagger/dagger",
+  "uber": "dagger/dagger",
+  "ultra": "dagger/dagger"
 } },
   { "cathans_mesh": {
   "normal": "armor/chain_mail",

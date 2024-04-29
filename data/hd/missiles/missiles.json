@@ -707,5 +707,9 @@
 	"concentratemissile": "expansion_shockwave",
 	"cleavestrike": "missile_hand_axe",
     "cobrastrikepoisonnova": "poison_nova",
-    "cobrastrikepoisoncloud": "poison_sparks"
+    "cobrastrikepoisoncloud": "poison_sparks",
+    "shadowstun": "null",
+    "shadowknockback": "expansion_shockwave",
+    "shadowslow": "expansion_shockwave",
+    "shadowslowstop": "null"
 }

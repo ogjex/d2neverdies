@@ -211,4 +211,5 @@ holyfirevine	305					1																																																										
 swordsmanship	306																																															cast_resistall							2hsw	lgld																0
 poisondmgvine	307					1																																																																		0
 poisonresred	308					1																																																																		0
-progressive_shadow	309																																				1										progressive_lightning_1			progressive_shadow	1	1																				0
+shadow	309																																																																							0
+shadowslowed	310																																																	velocitypercent							100	74	169	169	169											0
