@@ -37298,7 +37298,7 @@
     "zhCN": ""
   },
   {
-    "id": 100088,
+    "id": 100089,
     "Key": "StrSkillAnShadowSlash",
     "enUS": "Shdw Slsh",
     "zhTW": "",
@@ -37315,9 +37315,43 @@
     "zhCN": ""
   },
   {
-    "id": 100089,
+    "id": 100090,
     "Key": "StrExtraShadow",
     "enUS": "summons an additional shadow warrior per %d base levels",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": "" 
+  },
+  {
+    "id": 100091,
+    "Key": "StrSkillSpearmaiden",
+    "enUS": "Spearmaiden's Serenity",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": "" 
+  },
+  {
+    "id": 100092,
+    "Key": "StrSkillDescSpearmaiden",
+    "enUS": "chance to cast Slow Missiles and Decoy on attack",
     "zhTW": "",
     "deDE": "",
     "esES": "",
