@@ -73,7 +73,7 @@ Voodoo Heads	head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	1	nec	n
 Auric Shields	ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	4	0	1		pal	0							armo	0
 Primal Helm	phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	3	0	1	bar	bar	0							armo	0
 Pelt	pelt	helm	drui	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	3	0	1	dru	dru	0							armo	0
-Cloak	cloa	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	0	25	0	40	0	0	1	ass	ass	0							armo	0
+Cloak	cloa	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	1	ass	ass	0							armo	0
 Rune	rune	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Circlet	circ	helm		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	3			0							armo	0
 Healing Potion	hpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0

@@ -213,3 +213,4 @@ poisondmgvine	307					1																																																									
 poisonresred	308					1																																																																		0
 shadow	309																																																																							0
 shadowslowed	310																																																	velocitypercent							100	74	169	169	169											0
+shadowmastery	311																																																																							0
