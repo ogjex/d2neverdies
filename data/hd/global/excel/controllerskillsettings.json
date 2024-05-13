@@ -3578,17 +3578,7 @@
             "holdRumbleDelayMS": 600,
             "skillQueueDeadzoneMS": 160,
             "validationFlags": 0,
-            "SkillUseRumble": {
-                "type": "ControllerRumbleData",
-                "name": "Molten_Boulder_SkillUseRumble",
-                "hdVibrationFile": "",
-                "length": 0.1,
-                "decayLength": 0.1,
-                "lowFrequencyPriority": 1,
-                "lowFrequencyIntensity": 0.5,
-                "highFrequencyPriority": 1,
-                "highFrequencyIntensity": 0.2
-            },
+            "SkillUseRumble": {},
             "SkillSpecial1Rumble": {},
             "TriggerParams": {}
         }, {
