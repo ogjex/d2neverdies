@@ -2,9 +2,11 @@
 
 ## v3.0.0: Baubles of Balance
 
+- Updated Terror Zones: decrease xp for hell and increase xp for normal, increase difficulty (player settings), add new terror zones, reduce terror zones to 30 minutes and bunch together lower tiered terror zones
 - Updated dataversion build file
 - Baubles can now be properly recharged with Full stacks of PGems
 - A1 Mercs now all use multishot (removed Strafe from Fire Mercs)
+- Reduce ctc shout for act 5 2 mercs
 - Rebalance cast chances for Act 3 mercs
 - Gheeds Gambles now properly use scroll drop sounds, animation frames and with updated graphics
 - Double Throw for barb now splashes similar to Lightning Fury but with half damage dealt and with only 2 missiles that use attack rating
